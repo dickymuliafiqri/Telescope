@@ -8,7 +8,7 @@ class Initiator {
   private _host = "id-herza.sshws.net";
   private _path = process.cwd();
   private _domain = "";
-  private _maxFetch = 32;
+  private _maxFetch = 16;
   private _cFlare = 0;
   private _cFront = 0;
   private _files = {

@@ -21,14 +21,12 @@ ${initiator.host ? logger.wrap(logLevel.success, "Host") : logger.wrap(logLevel.
 ${logger.wrap(logLevel.success, "Fetch")} : ${initiator.maxFetch}
 ${logger.wrap(logLevel.cloudflare, "CFlare")} : ${initiator.cdn.cflare}
 ${logger.wrap(logLevel.cloudfront, "CFront")} : ${initiator.cdn.cfront}
-
-
-${this.menu()}`;
+`;
 
     console.log(banner);
   }
 
-  private menu(): string {
+  menu(): Array<string> {
     const _menu = [
       {
         name: "Domain",
@@ -66,6 +64,11 @@ ${this.menu()}`;
         show: initiator.files.subdomain,
       },
       {
+        name: "Show CDN",
+        value: "Show cdn-ssl result",
+        show: initiator.files.cdn,
+      },
+      {
         name: "Exit",
         value: "Exit",
         show: true,
@@ -78,11 +81,11 @@ ${this.menu()}`;
         continue;
       }
 
-      menu.push(`${parseInt(i) + 1}. ${_menu[i].value}`);
+      menu.push(_menu[i].value);
     }
 
-    this.numberOfMenu = _menu.length;
-    return menu.join("\n");
+    this.numberOfMenu = menu.length;
+    return menu;
   }
 }
 

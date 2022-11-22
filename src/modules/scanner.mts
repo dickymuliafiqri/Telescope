@@ -22,13 +22,9 @@ class Scanner {
     let result: Array<DomainResult> = [];
     let subDomains: Array<string> = [];
 
-    try {
-      subDomains = JSON.parse(
-        readFileSync(`${initiator.path}/result/${initiator.domain}/${initiator.domain}.json`).toString()
-      );
-    } catch (e: any) {
-      return logger.log(logLevel.error, e.message);
-    }
+    subDomains = JSON.parse(
+      readFileSync(`${initiator.path}/result/${initiator.domain}/${initiator.domain}.json`).toString()
+    );
 
     bar.start(subDomains.length, 1);
     for (const i in subDomains) {

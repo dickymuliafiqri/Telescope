@@ -1,3 +1,9 @@
+# 0.0.3
+
+- Add menu `Show cdn-ssl result`
+- Implement selector instead of number input
+- Show subdomain count instead of list of 'em
+
 # 0.0.2
 
 - Properly clear terminal/console

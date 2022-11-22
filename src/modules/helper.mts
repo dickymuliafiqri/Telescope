@@ -1,7 +1,7 @@
 import clear from "console-clear";
 
-function clearTerminal() {
-  clear(true);
+function clearTerminal(scroll: boolean = true) {
+  clear(scroll);
 }
 
 async function sleep(ms: number) {

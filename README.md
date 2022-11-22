@@ -4,7 +4,7 @@
 </div>
 
 <div align="center" >
-    <img src="./assets/showcase.png" width=512>
+    <img src="./assets/0.0.3.png" width=512>
 </div>
 
 ## Info
@@ -12,16 +12,18 @@
 ```
 Work Is Still In Progress
 
-Contributors are highly welcome to make this project out of alpha build
+- Expect some breaking changes in the future commit
+- Contributors are highly welcome to make this project out of alpha build
 ```
 
 ## How To Use
 
 1. Make sure node and npm are properly installed on your device
 2. Clone this repo
-3. run `npm install`
-4. run `npm start`
-5. You're good to go
+3. Run `npm install`
+4. Run `npm run build`
+5. Run `npm start`
+6. You're good to go
 
 ## Credit
 

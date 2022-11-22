@@ -31,16 +31,16 @@ class Logger {
     let result;
     switch (level) {
       case logLevel.info:
-        result = `${chalk.blueBright.bold(this.tagMaker("INFO"))} ${text}`;
+        result = `${chalk.blueBright.bold(this.tagMaker("INFO"))} : ${text}`;
         break;
       case logLevel.warning:
-        result = `${chalk.yellowBright.bold(this.tagMaker("WARNING"))} ${text}`;
+        result = `${chalk.yellowBright.bold(this.tagMaker("WARNING"))} : ${text}`;
         break;
       case logLevel.error:
-        result = `${chalk.redBright.bold(this.tagMaker("ERROR"))} ${text}`;
+        result = `${chalk.redBright.bold(this.tagMaker("ERROR"))} : ${text}`;
         break;
       case logLevel.success:
-        result = `${chalk.greenBright.bold(this.tagMaker("SUCCESS"))} ${text}`;
+        result = `${chalk.greenBright.bold(this.tagMaker("SUCCESS"))} : ${text}`;
         break;
     }
 

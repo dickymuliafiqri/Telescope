@@ -6,18 +6,21 @@ import { existsSync, mkdirSync } from "fs";
 import { logger, logLevel } from "./modules/logger.mjs";
 import { scanner } from "./modules/scanner.mjs";
 import { clearTerminal } from "./modules/helper.mjs";
+import { selector } from "./modules/selector.mjs";
+import { show } from "./modules/show.mjs";
 
 // Create 'result' folder
 if (!existsSync("./result")) mkdirSync("./result");
 
 (async () => {
-  let answer: number;
+  let answer;
   do {
-    clearTerminal();
+    clearTerminal(false);
     initiator.checkFiles();
     initiator.countCdn();
     banner.showBanner();
-    answer = parseInt(await question.make("Select: "));
+
+    answer = parseInt((await selector.make(banner.menu())).id.toString()) + 1;
 
     switch (answer) {
       case 1:
@@ -32,24 +35,32 @@ if (!existsSync("./result")) mkdirSync("./result");
         break;
       case 4:
         logger.log(logLevel.info, "Please take a ☕️ while we're working your mark");
-        console.log(JSON.stringify(await subDomain.scan(initiator.domain), null, 2));
+        console.log(
+          `${logger.wrap(logLevel.info, "Found")} : ${(await subDomain.scan(initiator.domain)).length} subdomain`
+        );
         await question.make("Press enter to go back to main menu!");
         break;
       case 5:
-        if (!initiator.files.subdomain) break;
         await scanner.direct();
         await question.make("Press enter to go back to main menu!");
         break;
       case 6:
-        if (!initiator.files.direct) break;
         await scanner.cdn_ssl();
         await question.make("Press enter to go back to main menu!");
         break;
       case 7:
-        if (!initiator.files.subdomain) break;
         await scanner.sni();
         await question.make("Press enter to go back to main menu!");
         break;
+      case 8:
+        let select;
+        const cdns = show.cdn();
+        do {
+          select = parseInt((await selector.make(cdns)).id.toString()) + 1;
+        } while (select != cdns.length);
+      case banner.numberOfMenu:
+        console.log("");
+        console.log("Thank you and have a nice day/night");
     }
   } while (answer != banner.numberOfMenu);
 })();
