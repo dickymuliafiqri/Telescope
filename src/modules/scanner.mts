@@ -3,80 +3,118 @@ import WebSocket from "ws";
 import { initiator } from "./initiator.mjs";
 import { readFileSync, writeFileSync } from "fs";
 import { logger, logLevel } from "./logger.mjs";
-import { clearTerminal } from "./helper.js";
+import { clearTerminal, sleep } from "./helper.mjs";
 import { bar } from "./progress.mjs";
 
 // AbortController was added in node v14.17.0 globally
 const AbortController = globalThis.AbortController;
 
-class Scanner {
-  async direct() {
-    let result = [];
+interface DomainResult {
+  domain: string;
+  statusCode: number;
+  server: string;
+}
 
-    const subDomains = JSON.parse(
-      readFileSync(`${initiator.path}/result/${initiator.domain}/${initiator.domain}.json`) as unknown as string
-    );
+class Scanner {
+  private onFetch: Array<string> = [];
+
+  async direct() {
+    let result: Array<DomainResult> = [];
+    let subDomains: Array<string> = [];
+
+    try {
+      subDomains = JSON.parse(
+        readFileSync(`${initiator.path}/result/${initiator.domain}/${initiator.domain}.json`).toString()
+      );
+    } catch (e: any) {
+      return logger.log(logLevel.error, e.message);
+    }
 
     bar.start(subDomains.length, 1);
     for (const i in subDomains) {
+      this.onFetch.push(subDomains[i]);
       const controller = new AbortController();
       const timeout = setTimeout(() => {
         controller.abort();
-      }, 3000);
-      try {
-        const res = await fetch(`https://${subDomains[i]}`, {
-          method: "GET",
-          signal: controller.signal,
-          headers: {
-            "User-Agent": initiator.user_agent,
-          },
+      }, 5000);
+
+      // Fetch domain
+      fetch(`https://${subDomains[i]}`, {
+        method: "GET",
+        signal: controller.signal,
+        headers: {
+          "User-Agent": initiator.user_agent,
+        },
+      })
+        .then((res) => {
+          result.push({
+            domain: subDomains[i],
+            statusCode: res.status,
+            server: res.headers.get("server") as string,
+          });
+        })
+        .catch((e: Error) => {
+          // Error handler
+        })
+        .finally(() => {
+          if (this.onFetch[0]) this.onFetch.shift();
+          clearTimeout(timeout);
         });
 
-        result.push({
-          domain: subDomains[i],
-          statusCode: res.status,
-          server: res.headers.get("server"),
-        });
-      } catch (e) {
-      } finally {
-        clearTerminal();
-        for (const subDomain of result) {
-          if (subDomain.server?.match(/cloudflare/i)) {
-            console.log(`${logger.wrap(logLevel.cloudflare, String(subDomain.statusCode))}  ${subDomain.domain}`);
-          } else if (subDomain.server?.match(/cloudfront/i)) {
-            console.log(`${logger.wrap(logLevel.cloudfront, String(subDomain.statusCode))}  ${subDomain.domain}`);
-          } else {
-            console.log(`${logger.wrap(logLevel.none, String(subDomain.statusCode))}  ${subDomain.domain}`);
-          }
+      await new Promise(async (resolve) => {
+        while (this.onFetch.length >= initiator.maxFetch) {
+          // Wait for prefious fetch to complete
+          await sleep(200);
         }
-        if (subDomains[parseInt(i) + 1]) {
-          console.log(`${logger.wrap(logLevel.cloudflare, "CFlare")} ${logger.wrap(logLevel.cloudfront, "CFront")}`);
-          console.log(`${logger.wrap(logLevel.info, "SCAN")}  ${subDomains[parseInt(i) + 1]}`);
-          bar.increment();
+
+        resolve(0);
+      });
+
+      clearTerminal();
+      console.log(`${logger.wrap(logLevel.info, "STATUS")} ${logger.wrap(logLevel.cloudfront, "DOMAIN")}`);
+      for (const subDomain of result) {
+        if (subDomain.server?.match(/cloudflare/i)) {
+          console.log(
+            `${logger.wrap(logLevel.cloudflare, String(subDomain.statusCode))}  ${logger.color(
+              logLevel.cloudflare,
+              subDomain.domain
+            )}`
+          );
+        } else if (subDomain.server?.match(/cloudfront/i)) {
+          console.log(
+            `${logger.wrap(logLevel.cloudfront, String(subDomain.statusCode))}  ${logger.color(
+              logLevel.cloudfront,
+              subDomain.domain
+            )}`
+          );
         } else {
-          bar.stop();
+          console.log(`${logger.wrap(logLevel.none, String(subDomain.statusCode))}  ${subDomain.domain}`);
         }
-        clearTimeout(timeout);
+      }
+      if (subDomains[parseInt(i) + 1]) {
+        console.log(`${logger.wrap(logLevel.cloudflare, "CFlare")} ${logger.wrap(logLevel.cloudfront, "CFront")}`);
+        console.log(`${logger.wrap(logLevel.info, "SCAN")}  ${subDomains[parseInt(i) + 1]}`);
+        bar.increment();
       }
     }
+
+    // Wait for all fetch
+    while (this.onFetch[0]) {
+      await sleep(100);
+    }
+    bar.stop();
 
     writeFileSync(`${initiator.path}/result/${initiator.domain}/direct.json`, JSON.stringify(result, null, 2));
   }
 
   async cdn_ssl() {
-    let result: Array<{
-      domain: string;
-      statusCode: number;
-      server: string;
-    }> = [];
-
-    const cdns = JSON.parse(
-      readFileSync(`${initiator.path}/result/${initiator.domain}/direct.json`) as unknown as string
-    );
+    let result: Array<DomainResult> = [];
+    const cdns = JSON.parse(readFileSync(`${initiator.path}/result/${initiator.domain}/direct.json`).toString());
 
     bar.start(cdns.length, 1);
     for (const i in cdns) {
       if (!cdns[i].server?.match(/^cloudf/i)) continue;
+      this.onFetch.push(cdns[i].domain);
 
       const ws = new WebSocket(`ws://${cdns[i].domain}`, {
         method: "GET",
@@ -86,23 +124,29 @@ class Scanner {
           "User-Agent": initiator.user_agent,
           Upgrade: "websocket",
         },
-        handshakeTimeout: 3000,
+        handshakeTimeout: 5000,
       });
 
-      await new Promise((resolve, reject) => {
-        ws.on("error", (error: Error) => {
-          console.log(error);
-          if (error.message.match(/Unexpected server response: \d+$/)) {
-            result.push({
-              ...cdns[i],
-              statusCode: (error.message.match(/\d+$/) || [])[0],
-            });
-          }
+      ws.on("error", (error: Error) => {
+        if (error.message.match(/Unexpected server response: \d+$/)) {
+          result.push({
+            ...cdns[i],
+            statusCode: (error.message.match(/\d+$/) || [])[0],
+          });
+        }
+      });
 
-          resolve(0);
-        });
+      ws.on("close", () => {
+        if (this.onFetch[0]) this.onFetch.shift();
+      });
 
-        ws.on("close", () => resolve(0));
+      await new Promise(async (resolve) => {
+        while (this.onFetch.length >= initiator.maxFetch) {
+          // Wait for prefious fetch to complete
+          await sleep(200);
+        }
+
+        resolve(0);
       });
 
       clearTerminal();
@@ -123,6 +167,12 @@ class Scanner {
         bar.stop();
       }
     }
+
+    // Wait for all fetch
+    while (this.onFetch[0]) {
+      await sleep(100);
+    }
+    bar.stop();
 
     writeFileSync(`${initiator.path}/result/${initiator.domain}/cdn.json`, JSON.stringify(result, null, 2));
   }

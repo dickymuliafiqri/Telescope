@@ -18,6 +18,9 @@ ${initiator.domain ? logger.wrap(logLevel.success, "Domain") : logger.wrap(logLe
       initiator.domain
     }
 ${initiator.host ? logger.wrap(logLevel.success, "Host") : logger.wrap(logLevel.warning, "Host")} : ${initiator.host}
+${logger.wrap(logLevel.success, "Fetch")} : ${initiator.maxFetch}
+${logger.wrap(logLevel.cloudflare, "CFlare")} : ${initiator.cdn.cflare}
+${logger.wrap(logLevel.cloudfront, "CFront")} : ${initiator.cdn.cfront}
 
 
 ${this.menu()}`;
@@ -26,12 +29,59 @@ ${this.menu()}`;
   }
 
   private menu(): string {
-    let menu = ["Input domain", "Input host", "Scan subdomain", "Scan direct", "Scan cdn-ssl", "Scan SNI", "Exit"];
-    for (const i in menu) {
-      menu[i] = `${parseInt(i) + 1}. ${menu[i]}`;
+    const _menu = [
+      {
+        name: "Domain",
+        value: "Input domain",
+        show: true,
+      },
+      {
+        name: "Host",
+        value: "Input host",
+        show: true,
+      },
+      {
+        name: "Fetch",
+        value: "Change max fetch concurrent",
+        show: true,
+      },
+      {
+        name: "SubDomain",
+        value: "Scan subdomain",
+        show: true,
+      },
+      {
+        name: "Direct",
+        value: "Scan direct",
+        show: initiator.files.subdomain,
+      },
+      {
+        name: "CDN",
+        value: "Scan cdn-ssl",
+        show: initiator.files.direct,
+      },
+      {
+        name: "SNI",
+        value: "Scan SNI",
+        show: initiator.files.subdomain,
+      },
+      {
+        name: "Exit",
+        value: "Exit",
+        show: true,
+      },
+    ];
+
+    const menu = [];
+    for (const i in _menu) {
+      if (!_menu[i].show) {
+        continue;
+      }
+
+      menu.push(`${parseInt(i) + 1}. ${_menu[i].value}`);
     }
 
-    this.numberOfMenu = menu.length;
+    this.numberOfMenu = _menu.length;
     return menu.join("\n");
   }
 }

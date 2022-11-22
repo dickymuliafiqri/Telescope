@@ -31,16 +31,16 @@ class Logger {
     let result;
     switch (level) {
       case logLevel.info:
-        result = `${chalk.white.bgBlue.bold(this.tagMaker("INFO"))} ${text}`;
+        result = `${chalk.blueBright.bold(this.tagMaker("INFO"))} ${text}`;
         break;
       case logLevel.warning:
-        result = `${chalk.black.bgYellowBright.bold(this.tagMaker("WARNING"))} ${text}`;
+        result = `${chalk.yellowBright.bold(this.tagMaker("WARNING"))} ${text}`;
         break;
       case logLevel.error:
-        result = `${chalk.black.bgRedBright.bold(this.tagMaker("ERROR"))} ${text}`;
+        result = `${chalk.redBright.bold(this.tagMaker("ERROR"))} ${text}`;
         break;
       case logLevel.success:
-        result = `${chalk.black.bgGreenBright.bold(this.tagMaker("SUCCESS"))} ${text}`;
+        result = `${chalk.greenBright.bold(this.tagMaker("SUCCESS"))} ${text}`;
         break;
     }
 
@@ -51,25 +51,54 @@ class Logger {
     let result;
     switch (level) {
       case logLevel.info:
-        result = chalk.white.bgBlue.bold(this.tagMaker(tag));
+        result = chalk.blueBright.bold(this.tagMaker(tag));
         break;
       case logLevel.warning:
-        result = chalk.black.bgYellowBright.bold(this.tagMaker(tag));
+        result = chalk.yellowBright.bold(this.tagMaker(tag));
         break;
       case logLevel.error:
-        result = chalk.black.bgRedBright.bold(this.tagMaker(tag));
+        result = chalk.redBright.bold(this.tagMaker(tag));
         break;
       case logLevel.success:
-        result = chalk.black.bgGreenBright.bold(this.tagMaker(tag));
+        result = chalk.greenBright.bold(this.tagMaker(tag));
         break;
       case logLevel.cloudflare:
-        result = chalk.black.bgRgb(255, 135, 0).bold(this.tagMaker(tag));
+        result = chalk.rgb(255, 135, 0).bold(this.tagMaker(tag));
         break;
       case logLevel.cloudfront:
-        result = chalk.black.bgRgb(41, 134, 204).bold(this.tagMaker(tag));
+        result = chalk.rgb(41, 134, 204).bold(this.tagMaker(tag));
         break;
       case logLevel.none:
         result = this.tagMaker(tag);
+        break;
+    }
+
+    return result;
+  }
+
+  color(level: logLevel, text: string) {
+    let result;
+    switch (level) {
+      case logLevel.info:
+        result = chalk.blueBright.bold(text);
+        break;
+      case logLevel.warning:
+        result = chalk.yellowBright.bold(text);
+        break;
+      case logLevel.error:
+        result = chalk.redBright.bold(text);
+        break;
+      case logLevel.success:
+        result = chalk.greenBright.bold(text);
+        break;
+      case logLevel.cloudflare:
+        result = chalk.rgb(255, 135, 0).bold(text);
+        break;
+      case logLevel.cloudfront:
+        result = chalk.rgb(41, 134, 204).bold(text);
+        break;
+      case logLevel.none:
+        result = this.tagMaker(text);
         break;
     }
 

@@ -8,6 +8,15 @@ class Initiator {
   private _host = "id-herza.sshws.net";
   private _path = process.cwd();
   private _domain = "";
+  private _maxFetch = 32;
+  private _cFlare = 0;
+  private _cFront = 0;
+  private _files = {
+    subdomain: false,
+    direct: false,
+    cdn: false,
+    sni: false,
+  };
 
   constructor() {
     if (existsSync(`${this._path}/result/host`)) {
@@ -16,6 +25,35 @@ class Initiator {
 
     if (existsSync(`${this._path}/result/domain`)) {
       this._domain = readFileSync(`${this._path}/result/domain`).toString();
+    }
+  }
+
+  checkFiles() {
+    if (existsSync(`${this._path}/result/${this._domain}`)) {
+      this._files.subdomain = existsSync(`${this._path}/result/${this._domain}/${this._domain}.json`);
+      this._files.direct = existsSync(`${this._path}/result/${this._domain}/direct.json`);
+      this._files.cdn = existsSync(`${this._path}/result/${this._domain}/cdn.json`);
+      this._files.sni = existsSync(`${this._path}/result/${this._domain}/sni.json`);
+    } else {
+      this._files = {
+        subdomain: false,
+        direct: false,
+        cdn: false,
+        sni: false,
+      };
+    }
+  }
+
+  countCdn() {
+    this._cFlare = 0;
+    this._cFront = 0;
+    if (existsSync(`${this._path}/result/${this._domain}/direct.json`)) {
+      const cdns = JSON.parse(readFileSync(`${this._path}/result/${this._domain}/direct.json`).toString());
+
+      for (const cdn of cdns) {
+        if (cdn.server?.match(/cloudflare/i)) this._cFlare += 1;
+        if (cdn.server?.match(/cloudfront/i)) this._cFront += 1;
+      }
     }
   }
 
@@ -53,6 +91,25 @@ class Initiator {
 
   get path(): string {
     return this._path;
+  }
+
+  set maxFetch(value: number) {
+    this._maxFetch = value;
+  }
+
+  get maxFetch(): number {
+    return this._maxFetch;
+  }
+
+  get cdn(): { cflare: number; cfront: number } {
+    return {
+      cflare: this._cFlare,
+      cfront: this._cFront,
+    };
+  }
+
+  get files() {
+    return this._files;
   }
 }
 
