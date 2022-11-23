@@ -1,3 +1,8 @@
+# 0.0.5
+
+- Add `Scan sni` support
+- Better show result
+
 # 0.0.4
 
 - Minor banner changes

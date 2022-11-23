@@ -14,8 +14,8 @@ class Logger {
   private tagMaker(tag: string): string {
     let result: Array<string> = [" "];
 
-    if (tag.length > 8) throw logger.log(logLevel.error, "Only 6 character accepted!");
-    for (let i = 1; i < 8; i++) {
+    if (tag.length > 10) throw logger.log(logLevel.error, "Only 8 character accepted!");
+    for (let i = 1; i < 10; i++) {
       if (tag[i - 1]) {
         result[i] = tag[i - 1];
         continue;

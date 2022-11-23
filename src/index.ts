@@ -5,7 +5,7 @@ import { subDomain } from "./modules/subdomain.mjs";
 import { existsSync, mkdirSync } from "fs";
 import { logger, logLevel } from "./modules/logger.mjs";
 import { scanner } from "./modules/scanner.mjs";
-import { clearTerminal } from "./modules/helper.mjs";
+import { clearTerminal, writeListToTerminal, pager } from "./modules/helper.mjs";
 import { selector } from "./modules/selector.mjs";
 import { show } from "./modules/show.mjs";
 
@@ -64,55 +64,8 @@ if (!existsSync("./result")) mkdirSync("./result");
         break;
       // Show cdn-ssl result
       case 8:
-        if (!initiator.files.cdn) return;
-        let select;
-        const cdns = show.cdn();
-
-        let index = 0;
-        const listPerPage = 5;
-        let result: string[][] = [];
-        for (const i in cdns.subDomainList) {
-          if (!result[index]) result[index] = [];
-          result[index].push(`${result[index].length + 1} ${cdns.subDomainList[i]}`);
-          if (result[index].length >= listPerPage) {
-            if (result[index - 1]) result[index].push("Prev");
-            if (cdns.subDomainList[parseInt(i) + 1]) result[index].push("Next");
-            result[index].push("Main Menu");
-            index += 1;
-          } else if (result[index].length == cdns.subDomainList.length) {
-            result[index].push("Main Menu");
-          } else if (!cdns.subDomainList[parseInt(i) + 1]) {
-            result[index].push(...["Prev", "Main Menu"]);
-          }
-        }
-
-        let page = 0;
-        do {
-          select = parseInt((await selector.make(result[page])).id.toString()) + 1;
-
-          // Next page
-          if (result[page + 1] && select == result[page].length - 1) {
-            page += 1;
-            continue;
-            // Pref page
-          } else if (
-            (result[page - 1] && result[page + 1] && select == result[page].length - 2) ||
-            (result[page - 1] && !result[page + 1] && select == result[page].length - 1)
-          ) {
-            page -= 1;
-            continue;
-            // Select domain
-          } else if (select != result[page].length) {
-            clearTerminal(false);
-            banner.showBanner();
-            const info = cdns.listDetails[listPerPage * page + select - 1];
-            console.log(`${logger.wrap(logLevel.success, "Domain")} : ${info.domain}`);
-            console.log(`${logger.wrap(logLevel.success, "IP")} : ${info.ip || null}`);
-            console.log(`${logger.wrap(logLevel.success, "Server")} : ${info.server}`);
-            console.log(`${logger.wrap(logLevel.success, "Status")} : ${info.statusCode}`);
-            console.log("");
-          }
-        } while (select != result[page].length);
+        if (!initiator.files.cdn && !initiator.files.sni) return;
+        await show.showResult();
         break;
       // Exit
       case banner.numberOfMenu:

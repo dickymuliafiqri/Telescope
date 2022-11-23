@@ -1,6 +1,6 @@
 {
   "name": "telescope",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Simple tool to scan and find domain's bug",
   "main": "app/index.js",
   "scripts": {
@@ -25,18 +25,18 @@
   "dependencies": {
     "chalk": "^5.1.2",
     "cli-progress": "^3.11.2",
-    "cli-select": "^1.1.2",
+    "cli-select-2": "^2.0.0",
     "console-clear": "^1.1.1",
     "node-fetch": "^3.3.0",
     "typescript": "^4.9.3",
     "ws": "^8.11.0"
   },
   "devDependencies": {
-    "@types/ws": "^8.5.3",
     "@types/cli-progress": "^3.11.0",
     "@types/console-clear": "^1.1.0",
     "@types/node": "^18.11.9",
     "@types/node-fetch": "^2.6.2",
+    "@types/ws": "^8.5.3",
     "prettier": "^2.7.1"
   },
   "type": "module"

@@ -1,5 +1,6 @@
 import fetch from "node-fetch";
 import WebSocket from "ws";
+import { createSecureContext, connect } from "tls";
 import { initiator } from "./initiator.mjs";
 import { readFileSync, writeFileSync } from "fs";
 import { logger, logLevel } from "./logger.mjs";
@@ -14,6 +15,11 @@ export interface DomainResult {
   ip?: string;
   statusCode: number;
   server: string;
+}
+
+export interface TlsResult {
+  domain: string;
+  tls: string;
 }
 
 class Scanner {
@@ -189,8 +195,85 @@ class Scanner {
     writeFileSync(`${initiator.path}/result/${initiator.domain}/cdn.json`, JSON.stringify(result, null, 2));
   }
 
-  sni() {
-    logger.log(logLevel.info, "Work In Progress!");
+  async sni() {
+    let result: Array<TlsResult> = [];
+    const subDomains = JSON.parse(
+      readFileSync(`${initiator.path}/result/${initiator.domain}/subdomain.json`).toString()
+    );
+
+    bar.start(subDomains.length, 1);
+    clearTerminal();
+    for (const i in subDomains) {
+      this.onFetch.push(subDomains[i]);
+
+      const socket = connect({
+        host: initiator.v2host,
+        port: 443,
+        servername: subDomains[i],
+        rejectUnauthorized: false,
+        secureContext: createSecureContext({
+          maxVersion: "TLSv1.2",
+        }),
+      });
+
+      socket.on("secureConnect", () => {
+        const tls = socket.getProtocol()?.match(/(TLSv\d\.\d)$/);
+
+        if (tls) {
+          result.push({
+            domain: subDomains[i],
+            tls: tls[0],
+          });
+        }
+      });
+
+      socket.on("error", (e) => {
+        // Error handler
+        socket.end();
+      });
+
+      socket.on("close", () => {
+        if (this.onFetch[0]) this.onFetch.shift();
+      });
+
+      // Set timeout
+      socket.setTimeout(3000, () => {
+        socket.destroy();
+      });
+
+      await new Promise(async (resolve) => {
+        while (this.onFetch.length >= initiator.maxFetch) {
+          // Wait for prefious fetch to complete
+          await sleep(200);
+        }
+
+        resolve(0);
+      });
+
+      const resultList = [`${logger.wrap(logLevel.info, "PROTO")} ${logger.wrap(logLevel.cloudfront, "DOMAIN")}`];
+      for (const subDomain of result) {
+        resultList.push(`${logger.wrap(logLevel.success, subDomain.tls || "NULL")} : ${subDomain.domain}`);
+      }
+
+      if (subDomains[parseInt(i) + 1]) {
+        resultList.push(`${logger.wrap(logLevel.info, "SCAN")}  ${subDomains[parseInt(i) + 1]}`);
+        resultList.push("");
+
+        while (resultList.length > process.stdout.rows - 1) {
+          resultList.splice(1, 1);
+        }
+        writeListToTerminal(resultList);
+        bar.increment();
+      }
+    }
+
+    // Wait for all fetch
+    while (this.onFetch[0]) {
+      await sleep(100);
+    }
+    bar.stop();
+
+    writeFileSync(`${initiator.path}/result/${initiator.domain}/sni.json`, JSON.stringify(result, null, 2));
   }
 }
 

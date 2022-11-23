@@ -5,7 +5,8 @@ class Initiator {
   private _repo = "https://github.com/dickymuliafiqri/Telescope";
   private _user_agent =
     "Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36";
-  private _host = "id-herza.sshws.net";
+  private _host = "103.253.24.228";
+  private _v2host = "194.233.80.103";
   private _path = process.cwd();
   private _domain = "";
   private _maxFetch = 16;
@@ -92,6 +93,10 @@ class Initiator {
 
   get host(): string {
     return this._host;
+  }
+
+  get v2host(): string {
+    return this._v2host;
   }
 
   get author(): string {

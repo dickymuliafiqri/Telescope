@@ -1,12 +1,13 @@
-import cliSelect from "cli-select";
+import cliSelect from "cli-select-2";
 import { logger, logLevel } from "./logger.mjs";
 
 class Selector {
-  async make(values: Array<string>) {
+  async make(values: Array<string>, defaultSelected: number = 0) {
     const options = await cliSelect({
       values,
       selected: logger.color(logLevel.cloudfront, "▸"),
       unselected: " ",
+      defaultValue: values.length >= defaultSelected ? defaultSelected : 0,
       valueRenderer: (value, selected) => {
         if (selected) {
           return logger.color(logLevel.cloudfront, value);

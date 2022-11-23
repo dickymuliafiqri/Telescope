@@ -67,9 +67,9 @@ ${logger.wrap(logLevel.cloudfront, "CFront")} : ${initiator.cdn.cfront}
         show: initiator.files.subdomain,
       },
       {
-        name: "Show CDN",
-        value: "Show cdn-ssl result",
-        show: initiator.files.cdn,
+        name: "Show Result",
+        value: "Show Result",
+        show: initiator.files.cdn || initiator.files.sni,
       },
       {
         name: "Exit",

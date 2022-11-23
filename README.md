@@ -27,4 +27,4 @@ Work Is Still In Progress
 
 ## Credit
 
-[bugscanner-go]("https://github.com/aztecrabbit/bugscanner-go") Telescope is highly inspired from this project
+[bugscanner-go](https://github.com/aztecrabbit/bugscanner-go) Telescope is highly inspired from this project
