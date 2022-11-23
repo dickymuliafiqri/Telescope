@@ -14,8 +14,11 @@ o-O-o o--o o    o--o  o-o    o-o  o-o  o--o  o--o
     Simple tool to scan and find domain's bug
         made with 💩 by ${initiator.author}
 
-${initiator.domain ? logger.wrap(logLevel.success, "Domain") : logger.wrap(logLevel.warning, "Domain")} : ${
+${initiator.domain ? logger.wrap(logLevel.success, "Domain") : logger.wrap(logLevel.error, "Domain")} : ${
       initiator.domain
+    }
+${initiator.subdomain ? logger.wrap(logLevel.success, " ➥ Sub") : logger.wrap(logLevel.error, " ➥ Sub")} : ${
+      initiator.subdomain
     }
 ${initiator.host ? logger.wrap(logLevel.success, "Host") : logger.wrap(logLevel.warning, "Host")} : ${initiator.host}
 ${logger.wrap(logLevel.success, "Fetch")} : ${initiator.maxFetch}

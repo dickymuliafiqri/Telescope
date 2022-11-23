@@ -62,7 +62,7 @@ class SubDomain {
   private writeResult(name: string, data: any) {
     const path: string = `${initiator.path}/result/${name}`;
     if (!existsSync(path)) mkdirSync(path);
-    writeFileSync(`${path}/${name}.json`, JSON.stringify(data, null, 2));
+    writeFileSync(`${path}/subdomain.json`, JSON.stringify(data, null, 2));
   }
 }
 

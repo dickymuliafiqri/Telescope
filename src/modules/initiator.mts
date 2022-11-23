@@ -11,6 +11,7 @@ class Initiator {
   private _maxFetch = 16;
   private _cFlare = 0;
   private _cFront = 0;
+  private _subDomain = 0;
   private _files = {
     subdomain: false,
     direct: false,
@@ -30,7 +31,7 @@ class Initiator {
 
   checkFiles() {
     if (existsSync(`${this._path}/result/${this._domain}`)) {
-      this._files.subdomain = existsSync(`${this._path}/result/${this._domain}/${this._domain}.json`);
+      this._files.subdomain = existsSync(`${this._path}/result/${this._domain}/subdomain.json`);
       this._files.direct = existsSync(`${this._path}/result/${this._domain}/direct.json`);
       this._files.cdn = existsSync(`${this._path}/result/${this._domain}/cdn.json`);
       this._files.sni = existsSync(`${this._path}/result/${this._domain}/sni.json`);
@@ -44,9 +45,17 @@ class Initiator {
     }
   }
 
-  countCdn() {
+  count() {
+    this._subDomain = 0;
     this._cFlare = 0;
     this._cFront = 0;
+
+    if (existsSync(`${this._path}/result/${this._domain}/subdomain.json`)) {
+      this._subDomain = JSON.parse(
+        readFileSync(`${this._path}/result/${this._domain}/subdomain.json`).toString()
+      ).length;
+    }
+
     if (existsSync(`${this._path}/result/${this._domain}/direct.json`)) {
       const cdns = JSON.parse(readFileSync(`${this._path}/result/${this._domain}/direct.json`).toString());
 
@@ -69,6 +78,10 @@ class Initiator {
 
   get domain(): string {
     return this._domain || "";
+  }
+
+  get subdomain(): number {
+    return this._subDomain;
   }
 
   set host(host: string) {

@@ -3,14 +3,15 @@ import WebSocket from "ws";
 import { initiator } from "./initiator.mjs";
 import { readFileSync, writeFileSync } from "fs";
 import { logger, logLevel } from "./logger.mjs";
-import { clearTerminal, sleep } from "./helper.mjs";
+import { clearTerminal, sleep, writeListToTerminal } from "./helper.mjs";
 import { bar } from "./progress.mjs";
 
 // AbortController was added in node v14.17.0 globally
 const AbortController = globalThis.AbortController;
 
-interface DomainResult {
+export interface DomainResult {
   domain: string;
+  ip?: string;
   statusCode: number;
   server: string;
 }
@@ -22,17 +23,16 @@ class Scanner {
     let result: Array<DomainResult> = [];
     let subDomains: Array<string> = [];
 
-    subDomains = JSON.parse(
-      readFileSync(`${initiator.path}/result/${initiator.domain}/${initiator.domain}.json`).toString()
-    );
+    subDomains = JSON.parse(readFileSync(`${initiator.path}/result/${initiator.domain}/subdomain.json`).toString());
 
     bar.start(subDomains.length, 1);
+    clearTerminal();
     for (const i in subDomains) {
       this.onFetch.push(subDomains[i]);
       const controller = new AbortController();
       const timeout = setTimeout(() => {
         controller.abort();
-      }, 5000);
+      }, 3000);
 
       // Fetch domain
       fetch(`https://${subDomains[i]}`, {
@@ -43,7 +43,9 @@ class Scanner {
         },
       })
         .then((res) => {
-          result.push({
+          // Ignore server except cloudflare and cloudfront
+          if (!res.headers.get("server")?.match(/^cloudf/i)) return;
+          return result.push({
             domain: subDomains[i],
             statusCode: res.status,
             server: res.headers.get("server") as string,
@@ -66,30 +68,39 @@ class Scanner {
         resolve(0);
       });
 
-      clearTerminal();
-      console.log(`${logger.wrap(logLevel.info, "STATUS")} ${logger.wrap(logLevel.cloudfront, "DOMAIN")}`);
+      const resultList = [`${logger.wrap(logLevel.info, "STATUS")} ${logger.wrap(logLevel.cloudfront, "DOMAIN")}`];
       for (const subDomain of result) {
         if (subDomain.server?.match(/cloudflare/i)) {
-          console.log(
+          resultList.push(
             `${logger.wrap(logLevel.cloudflare, String(subDomain.statusCode))}  ${logger.color(
               logLevel.cloudflare,
               subDomain.domain
             )}`
           );
         } else if (subDomain.server?.match(/cloudfront/i)) {
-          console.log(
+          resultList.push(
             `${logger.wrap(logLevel.cloudfront, String(subDomain.statusCode))}  ${logger.color(
               logLevel.cloudfront,
               subDomain.domain
             )}`
           );
-        } else {
-          console.log(`${logger.wrap(logLevel.none, String(subDomain.statusCode))}  ${subDomain.domain}`);
         }
+        /**
+         Ignore subdomain except that hosted on cloudflare or cloudfront
+          else {
+            resultList.push(`${logger.wrap(logLevel.none, String(subDomain.statusCode))}  ${subDomain.domain}`);
+          }
+        */
       }
       if (subDomains[parseInt(i) + 1]) {
-        console.log(`${logger.wrap(logLevel.cloudflare, "CFlare")} ${logger.wrap(logLevel.cloudfront, "CFront")}`);
-        console.log(`${logger.wrap(logLevel.info, "SCAN")}  ${subDomains[parseInt(i) + 1]}`);
+        resultList.push(`${logger.wrap(logLevel.cloudflare, "CFlare")} ${logger.wrap(logLevel.cloudfront, "CFront")}`);
+        resultList.push(`${logger.wrap(logLevel.info, "SCAN")}  ${subDomains[parseInt(i) + 1]}`);
+        resultList.push("");
+
+        while (resultList.length > process.stdout.rows - 1) {
+          resultList.splice(1, 1);
+        }
+        writeListToTerminal(resultList);
         bar.increment();
       }
     }
@@ -108,8 +119,8 @@ class Scanner {
     const cdns = JSON.parse(readFileSync(`${initiator.path}/result/${initiator.domain}/direct.json`).toString());
 
     bar.start(cdns.length, 1);
+    clearTerminal();
     for (const i in cdns) {
-      if (!cdns[i].server?.match(/^cloudf/i)) continue;
       this.onFetch.push(cdns[i].domain);
 
       const ws = new WebSocket(`ws://${cdns[i].domain}`, {
@@ -120,7 +131,7 @@ class Scanner {
           "User-Agent": initiator.user_agent,
           Upgrade: "websocket",
         },
-        handshakeTimeout: 5000,
+        handshakeTimeout: 3000,
       });
 
       ws.on("error", (error: Error) => {
@@ -145,22 +156,27 @@ class Scanner {
         resolve(0);
       });
 
-      clearTerminal();
+      const resultList = [`${logger.wrap(logLevel.info, "STATUS")} ${logger.wrap(logLevel.cloudfront, "DOMAIN")}`];
       for (const cdn of result) {
-        if (cdn.server?.match(/cloudflare/i)) {
-          console.log(`${logger.wrap(logLevel.cloudflare, String(cdn.statusCode))}  ${cdn.domain}`);
-        } else if (cdn.server?.match(/cloudfront/i)) {
-          console.log(`${logger.wrap(logLevel.cloudfront, String(cdn.statusCode))}  ${cdn.domain}`);
-        } else {
-          console.log(`${logger.wrap(logLevel.none, String(cdn.statusCode))}  ${cdn.domain}`);
-        }
+        resultList.push(
+          `${cdn.statusCode == 101 ? logger.wrap(logLevel.success, cdn.statusCode.toString()) : cdn.statusCode}  ${
+            cdn.server.match(/^cloudflare/i)
+              ? logger.color(logLevel.cloudflare, cdn.domain)
+              : logger.color(logLevel.cloudfront, cdn.domain)
+          }`
+        );
       }
+
       if (cdns[parseInt(i) + 1]) {
-        console.log(`${logger.wrap(logLevel.cloudflare, "CFlare")} ${logger.wrap(logLevel.cloudfront, "CFront")}`);
-        console.log(`${logger.wrap(logLevel.info, "SCAN")}  ${cdns[parseInt(i) + 1].domain}`);
+        resultList.push(`${logger.wrap(logLevel.cloudflare, "CFlare")} ${logger.wrap(logLevel.cloudfront, "CFront")}`);
+        resultList.push(`${logger.wrap(logLevel.info, "SCAN")}  ${cdns[parseInt(i) + 1].domain}`);
+        resultList.push("");
+
+        while (resultList.length > process.stdout.rows - 1) {
+          resultList.splice(1, 1);
+        }
+        writeListToTerminal(resultList);
         bar.increment();
-      } else {
-        bar.stop();
       }
     }
 

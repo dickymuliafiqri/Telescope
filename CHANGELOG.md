@@ -1,3 +1,9 @@
+# 0.0.4
+
+- Minor banner changes
+- Improvement on scan log
+- Show detailed result
+
 # 0.0.3
 
 - Add menu `Show cdn-ssl result`
