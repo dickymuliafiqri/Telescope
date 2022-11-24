@@ -1,3 +1,10 @@
+# 0.0.8
+
+- Add alienvault subfinder by [@dickymuliafiqri](https://github.com/dickymuliafiqri)
+- Change showcase image
+- Re-calculate concurrent process for cdn-ssl scan
+- Code improvement
+
 # 0.0.7
 
 - Change built-in subfinder to modular subfinder

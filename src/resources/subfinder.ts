@@ -50,7 +50,7 @@ class SubFinder {
         await sleep(1000);
       }
 
-      this.result.push(...[...this.result, ...[...res.result]]);
+      this.result.push(...this.result, ...res.result);
       sleep(200);
     }
 

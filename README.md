@@ -4,7 +4,7 @@
 </div>
 
 <div align="center" >
-    <img src="./assets/0.0.3.png" width=512>
+    <img src="./assets/0.0.7.png" width=512>
 </div>
 
 ## Info
@@ -27,4 +27,5 @@ Work Is Still In Progress
 
 ## Credit
 
-[bugscanner-go](https://github.com/aztecrabbit/bugscanner-go) Telescope is highly inspired from this project
+- [bugscanner-go](https://github.com/aztecrabbit/bugscanner-go) Telescope is highly inspired from this project
+- Online services that used to enum subdomains

@@ -128,6 +128,7 @@ class Scanner {
 
   async cdn_ssl() {
     let result: Array<DomainResult> = [];
+    const maxFetch = Math.round((initiator.cdn.cflare + initiator.cdn.cfront) / initiator.estScan) || 8;
     const cdns = JSON.parse(readFileSync(`${initiator.path}/result/${initiator.domain}/direct.json`).toString());
 
     bar.start(cdns.length, 1);
@@ -160,7 +161,7 @@ class Scanner {
       });
 
       await new Promise(async (resolve) => {
-        while (this.onFetch.length >= initiator.maxFetch) {
+        while (this.onFetch.length >= maxFetch) {
           // Wait for prefious fetch to complete
           await sleep(500);
         }
