@@ -33,6 +33,7 @@ class SubFinder {
   }
 
   async run(): Promise<number> {
+    this.result = [];
     const onRun = [];
 
     for (const finder of this.subfinder) {

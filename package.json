@@ -1,6 +1,6 @@
 {
   "name": "telescope",
-  "version": "0.0.8",
+  "version": "0.0.8a",
   "description": "Simple tool to scan and find domain's bug",
   "main": "app/index.js",
   "scripts": {

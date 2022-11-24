@@ -5,6 +5,10 @@
 - Re-calculate concurrent process for cdn-ssl scan
 - Code improvement
 
+## a
+
+- Fix previous scan result still included in current scan
+
 # 0.0.7
 
 - Change built-in subfinder to modular subfinder
