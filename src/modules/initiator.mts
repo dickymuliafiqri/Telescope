@@ -9,10 +9,11 @@ class Initiator {
   private _v2host = "194.233.80.103";
   private _path = process.cwd();
   private _domain = "";
-  private _maxFetch = 16;
   private _cFlare = 0;
   private _cFront = 0;
+  private _estScan = 20;
   private _subDomain = 0;
+  private _maxFetch = 8;
   private _files = {
     subdomain: false,
     direct: false,
@@ -55,6 +56,7 @@ class Initiator {
       this._subDomain = JSON.parse(
         readFileSync(`${this._path}/result/${this._domain}/subdomain.json`).toString()
       ).length;
+      this._maxFetch = Math.round(this._subDomain / this._estScan) || 8;
     }
 
     if (existsSync(`${this._path}/result/${this._domain}/direct.json`)) {
@@ -109,6 +111,10 @@ class Initiator {
 
   get path(): string {
     return this._path;
+  }
+
+  set estScan(sec: number) {
+    this._estScan = sec;
   }
 
   set maxFetch(value: number) {

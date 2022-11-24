@@ -1,5 +1,6 @@
 import clear from "console-clear";
 import readline from "readline";
+import stripAnsi from "strip-ansi";
 
 function clearTerminal(scroll: boolean = true) {
   clear(scroll);
@@ -43,4 +44,8 @@ function pager(list: Array<string>, listPerPage: number = 5): Array<Array<string
   return result;
 }
 
-export { clearTerminal, sleep, writeListToTerminal, pager };
+function unchalk(text: string): string {
+  return stripAnsi(text);
+}
+
+export { clearTerminal, sleep, writeListToTerminal, pager, unchalk };

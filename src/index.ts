@@ -13,14 +13,14 @@ import { show } from "./modules/show.mjs";
 if (!existsSync("./result")) mkdirSync("./result");
 
 (async () => {
-  let answer;
+  let answer = 0;
   do {
     clearTerminal(false);
     initiator.checkFiles();
     initiator.count();
     banner.showBanner();
 
-    answer = parseInt((await selector.make(banner.menu())).id.toString()) + 1;
+    answer = parseInt((await selector.make(banner.menu(), answer - 1)).id.toString()) + 1;
 
     switch (answer) {
       // Input domain
@@ -33,8 +33,9 @@ if (!existsSync("./result")) mkdirSync("./result");
         break;
       // Change max fetch concurrent
       case 3:
-        logger.log(logLevel.info, "Under 64 is recommended");
-        initiator.maxFetch = parseInt(await question.make("Input value: "));
+        logger.log(logLevel.info, "Change estimation time (in second)");
+        logger.log(logLevel.info, "Under 30 is recommended");
+        initiator.estScan = parseInt(await question.make(" Input value: "));
         break;
       // Scan subdomain
       case 4:

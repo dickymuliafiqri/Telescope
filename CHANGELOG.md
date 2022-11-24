@@ -1,3 +1,8 @@
+# 0.0.6
+
+- Add benchmark result
+- Change max concurrent process based on estimation time for scan to be completed (in second)
+
 # 0.0.5
 
 - Add `Scan sni` support

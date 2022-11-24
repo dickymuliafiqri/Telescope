@@ -21,6 +21,7 @@ ${initiator.subdomain ? logger.wrap(logLevel.success, " ➥ Sub") : logger.wrap(
       initiator.subdomain
     }
 ${initiator.host ? logger.wrap(logLevel.success, "Host") : logger.wrap(logLevel.warning, "Host")} : ${initiator.host}
+${logger.wrap(logLevel.success, "Est Scan")} : ${(initiator.subdomain / initiator.maxFetch).toFixed(2)} seconds
 ${logger.wrap(logLevel.success, "Fetch")} : ${initiator.maxFetch}
 ${logger.wrap(logLevel.cloudflare, "CFlare")} : ${initiator.cdn.cflare}
 ${logger.wrap(logLevel.cloudfront, "CFront")} : ${initiator.cdn.cfront}
@@ -42,8 +43,8 @@ ${logger.wrap(logLevel.cloudfront, "CFront")} : ${initiator.cdn.cfront}
         show: true,
       },
       {
-        name: "Fetch",
-        value: "Change max fetch concurrent",
+        name: "Estimation Scan",
+        value: "Change Est Scan",
         show: true,
       },
       {

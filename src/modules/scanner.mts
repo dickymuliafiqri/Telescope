@@ -113,7 +113,7 @@ class Scanner {
 
     // Wait for all fetch
     while (this.onFetch[0]) {
-      await sleep(100);
+      await sleep(500);
     }
     bar.stop();
 
@@ -156,7 +156,7 @@ class Scanner {
       await new Promise(async (resolve) => {
         while (this.onFetch.length >= initiator.maxFetch) {
           // Wait for prefious fetch to complete
-          await sleep(200);
+          await sleep(500);
         }
 
         resolve(0);
@@ -269,7 +269,7 @@ class Scanner {
 
     // Wait for all fetch
     while (this.onFetch[0]) {
-      await sleep(100);
+      await sleep(500);
     }
     bar.stop();
 

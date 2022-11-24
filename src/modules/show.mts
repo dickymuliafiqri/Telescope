@@ -1,9 +1,11 @@
 import { readFileSync } from "fs";
-import { clearTerminal, pager, writeListToTerminal } from "./helper.mjs";
+import { clearTerminal, pager, unchalk, writeListToTerminal } from "./helper.mjs";
 import { initiator } from "./initiator.mjs";
 import { logger, logLevel } from "./logger.mjs";
 import { DomainResult, TlsResult } from "./scanner.mjs";
 import { selector } from "./selector.mjs";
+import readline from "readline";
+import { benchmark } from "./benchmark.js";
 
 interface Result extends DomainResult, TlsResult {}
 
@@ -78,11 +80,25 @@ class Show {
 
     // write result to terminal
     let select = 0;
-    const listPerPage = 5;
+    const listPerPage = 10;
     const page = pager(result.subDomainList, listPerPage);
+
+    let resultDetails = [
+      "Result:",
+      `${logger.wrap(logLevel.success, "Domain")} : `,
+      `${logger.wrap(logLevel.success, "IP")} : `,
+      `${logger.wrap(logLevel.success, "Server")} : `,
+      `${logger.wrap(logLevel.success, "Status")} : `,
+      `${logger.wrap(logLevel.success, "TLS")} : `,
+      `${logger.wrap(logLevel.warning, "Latency")} :`,
+      "",
+    ];
+    clearTerminal();
 
     let currPage = 0;
     do {
+      writeListToTerminal(resultDetails);
+      readline.cursorTo(process.stdout, 0, 8);
       select = parseInt((await selector.make(page[currPage], select - 1)).id.toString()) + 1;
 
       // Next page
@@ -98,19 +114,33 @@ class Show {
         continue;
         // Select domain
       } else if (select != page[currPage].length) {
-        clearTerminal(false);
-        const info = result.listDetails[listPerPage * currPage + select - 1];
-        console.log(info);
-        const resultDetails = [
+        const selectedResult = listPerPage * currPage + select - 1;
+        const info = result.listDetails[selectedResult];
+        resultDetails = [
           "Result:",
           `${logger.wrap(logLevel.success, "Domain")} : ${info.domain}`,
           `${logger.wrap(logLevel.success, "IP")} : ${info.ip}`,
           `${logger.wrap(logLevel.success, "Server")} : ${info.server}`,
           `${logger.wrap(logLevel.success, "Status")} : ${info.statusCode}`,
           `${logger.wrap(logLevel.success, "TLS")} : ${info.tls}`,
+          `${logger.wrap(logLevel.warning, "Latency")} : Connecting...`,
           "",
         ];
         writeListToTerminal(resultDetails);
+
+        (async () => {
+          let performance = "";
+          if (info.server?.match(/cloudflare/i)) {
+            performance = (await benchmark.cdn(unchalk(info.domain))) as string;
+          } else if (info.tls?.match(/TLSv\d\.\d/)) {
+            performance = (await benchmark.sni(unchalk(info.domain))) as string;
+          }
+
+          resultDetails[resultDetails.length - 2] = performance;
+          writeListToTerminal(resultDetails);
+          console.log("");
+          select = parseInt((await selector.make(page[currPage], select - 1)).id.toString()) + 1;
+        })();
         console.log("");
       }
     } while (select != page[currPage].length);
