@@ -1,3 +1,8 @@
+# 0.0.7
+
+- Change built-in subfinder to modular subfinder
+- Add crt.sh subfinder by [@dickymuliafiqri](https://github.com/dickymuliafiqri)
+
 # 0.0.6
 
 - Add benchmark result

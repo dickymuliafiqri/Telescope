@@ -26,6 +26,13 @@ function writeListToTerminal(list: Array<string>, cursorX: number = 0) {
 function pager(list: Array<string>, listPerPage: number = 5): Array<Array<string>> {
   let index = 0;
   let result: string[][] = [];
+
+  // If array is empty
+  if (list.length == 0) {
+    result[0] = ["Back"];
+    return result;
+  }
+
   for (const i in list) {
     if (!result[index]) result[index] = [];
     result[index].push(`${result[index].length + 1} ${list[i]}`);

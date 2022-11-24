@@ -6,6 +6,7 @@ import { readFileSync, writeFileSync } from "fs";
 import { logger, logLevel } from "./logger.mjs";
 import { clearTerminal, sleep, writeListToTerminal } from "./helper.mjs";
 import { bar } from "./progress.mjs";
+import { FinderResult } from "../resources/subfinder.js";
 
 // AbortController was added in node v14.17.0 globally
 const AbortController = globalThis.AbortController;
@@ -27,21 +28,21 @@ class Scanner {
 
   async direct() {
     let result: Array<DomainResult> = [];
-    let subDomains: Array<string> = [];
+    let subDomains: Array<FinderResult> = [];
 
     subDomains = JSON.parse(readFileSync(`${initiator.path}/result/${initiator.domain}/subdomain.json`).toString());
 
     bar.start(subDomains.length, 1);
     clearTerminal();
     for (const i in subDomains) {
-      this.onFetch.push(subDomains[i]);
+      this.onFetch.push(subDomains[i]?.domain || subDomains[i]?.ip);
       const controller = new AbortController();
       const timeout = setTimeout(() => {
         controller.abort();
       }, 3000);
 
       // Fetch domain
-      fetch(`https://${subDomains[i]}`, {
+      fetch(`https://${subDomains[i]?.domain || subDomains[i]?.ip}`, {
         method: "GET",
         signal: controller.signal,
         headers: {
@@ -52,7 +53,8 @@ class Scanner {
           // Ignore server except cloudflare and cloudfront
           if (!res.headers.get("server")?.match(/^cloudf/i)) return;
           return result.push({
-            domain: subDomains[i],
+            domain: subDomains[i]?.domain,
+            ip: subDomains[i]?.ip,
             statusCode: res.status,
             server: res.headers.get("server") as string,
           });
@@ -100,7 +102,11 @@ class Scanner {
       }
       if (subDomains[parseInt(i) + 1]) {
         resultList.push(`${logger.wrap(logLevel.cloudflare, "CFlare")} ${logger.wrap(logLevel.cloudfront, "CFront")}`);
-        resultList.push(`${logger.wrap(logLevel.info, "SCAN")}  ${subDomains[parseInt(i) + 1]}`);
+        resultList.push(
+          `${logger.wrap(logLevel.info, "SCAN")}  ${
+            subDomains[parseInt(i) + 1]?.domain || subDomains[parseInt(i) + 1]?.ip
+          }`
+        );
         resultList.push("");
 
         while (resultList.length > process.stdout.rows - 1) {
@@ -197,19 +203,19 @@ class Scanner {
 
   async sni() {
     let result: Array<TlsResult> = [];
-    const subDomains = JSON.parse(
+    const subDomains: Array<FinderResult> = JSON.parse(
       readFileSync(`${initiator.path}/result/${initiator.domain}/subdomain.json`).toString()
     );
 
     bar.start(subDomains.length, 1);
     clearTerminal();
     for (const i in subDomains) {
-      this.onFetch.push(subDomains[i]);
+      this.onFetch.push(subDomains[i]?.domain || subDomains[i]?.ip);
 
       const socket = connect({
         host: initiator.v2host,
         port: 443,
-        servername: subDomains[i],
+        servername: subDomains[i]?.domain || subDomains[i]?.ip,
         rejectUnauthorized: false,
         secureContext: createSecureContext({
           maxVersion: "TLSv1.2",
@@ -221,7 +227,7 @@ class Scanner {
 
         if (tls) {
           result.push({
-            domain: subDomains[i],
+            domain: subDomains[i]?.domain,
             tls: tls[0],
           });
         }
@@ -256,7 +262,11 @@ class Scanner {
       }
 
       if (subDomains[parseInt(i) + 1]) {
-        resultList.push(`${logger.wrap(logLevel.info, "SCAN")}  ${subDomains[parseInt(i) + 1]}`);
+        resultList.push(
+          `${logger.wrap(logLevel.info, "SCAN")}  ${
+            subDomains[parseInt(i) + 1]?.domain || subDomains[parseInt(i) + 1]?.ip
+          }`
+        );
         resultList.push("");
 
         while (resultList.length > process.stdout.rows - 1) {

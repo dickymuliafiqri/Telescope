@@ -1,16 +1,17 @@
 import { banner } from "./modules/banner.mjs";
 import { initiator } from "./modules/initiator.mjs";
 import { question } from "./modules/question.mjs";
-import { subDomain } from "./modules/subdomain.mjs";
 import { existsSync, mkdirSync } from "fs";
 import { logger, logLevel } from "./modules/logger.mjs";
 import { scanner } from "./modules/scanner.mjs";
 import { clearTerminal, writeListToTerminal, pager } from "./modules/helper.mjs";
 import { selector } from "./modules/selector.mjs";
 import { show } from "./modules/show.mjs";
+import { subfinder } from "./resources/subfinder.js";
 
 // Create 'result' folder
 if (!existsSync("./result")) mkdirSync("./result");
+subfinder.load();
 
 (async () => {
   let answer = 0;
@@ -40,9 +41,7 @@ if (!existsSync("./result")) mkdirSync("./result");
       // Scan subdomain
       case 4:
         logger.log(logLevel.info, "Please take a ☕️ while we're working your mark");
-        console.log(
-          `${logger.wrap(logLevel.info, "Found")} : ${(await subDomain.scan(initiator.domain)).length} subdomain`
-        );
+        console.log(`${logger.wrap(logLevel.info, "Found")} : ${await subfinder.run()} subdomain`);
         await question.make("Press enter to go back to main menu!");
         break;
       // Scan direct
