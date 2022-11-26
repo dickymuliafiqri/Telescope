@@ -44,7 +44,7 @@ ${logger.wrap(logLevel.cloudfront, "CFront")} : ${initiator.cdn.cfront}
       },
       {
         name: "Estimation Scan",
-        value: "Change Est Scan",
+        value: "Change est.scan",
         show: true,
       },
       {
@@ -68,8 +68,8 @@ ${logger.wrap(logLevel.cloudfront, "CFront")} : ${initiator.cdn.cfront}
         show: initiator.files.subdomain,
       },
       {
-        name: "Show Result",
-        value: "Show Result",
+        name: "Result",
+        value: "Show result",
         show: initiator.files.cdn || initiator.files.sni,
       },
       {

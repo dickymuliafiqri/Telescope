@@ -14,64 +14,68 @@ if (!existsSync("./result")) mkdirSync("./result");
 subfinder.load();
 
 (async () => {
-  let answer = 0;
+  let selectedIndex = 0;
+  let indexValue = "";
+  let answer;
   do {
     clearTerminal(false);
     initiator.checkFiles();
     initiator.count();
     banner.showBanner();
 
-    answer = parseInt((await selector.make(banner.menu(), answer - 1)).id.toString()) + 1;
+    answer = await selector.make(banner.menu(), selectedIndex - 1);
+    selectedIndex = parseInt(answer.id.toString()) + 1;
+    indexValue = answer.value;
 
-    switch (answer) {
+    switch (indexValue) {
       // Input domain
-      case 1:
+      case "Input domain":
         initiator.domain = await question.make("Input domain: ");
         break;
       // Input host
-      case 2:
+      case "Input host":
         initiator.host = await question.make("Input host: ");
         break;
       // Change max fetch concurrent
-      case 3:
+      case "Change est. scan":
         logger.log(logLevel.info, "Change estimation time (in second)");
         logger.log(logLevel.info, "Under 30 is recommended");
         initiator.estScan = parseInt(await question.make(" Input value: "));
         break;
       // Scan subdomain
-      case 4:
+      case "Scan subdomain":
         logger.log(logLevel.info, "Please take a ☕️ while we're working your mark");
-        console.log(`${logger.wrap(logLevel.info, "Found")} : ${await subfinder.run()} subdomain`);
+        console.log(`${logger.wrap(logLevel.info, "Total")} : ${await subfinder.run()} subdomain`);
         await question.make("Press enter to go back to main menu!");
         break;
       // Scan direct
-      case 5:
+      case "Scan direct":
         if (!initiator.files.subdomain) return;
         await scanner.direct();
         await question.make("Press enter to go back to main menu!");
         break;
       // Scan cdn-ssl
-      case 6:
+      case "Scan cdn-ssl":
         if (!initiator.files.direct) return;
         await scanner.cdn_ssl();
         await question.make("Press enter to go back to main menu!");
         break;
       // Scan SNI
-      case 7:
+      case "Scan SNI":
         if (!initiator.files.subdomain) return;
         await scanner.sni();
         await question.make("Press enter to go back to main menu!");
         break;
       // Show cdn-ssl result
-      case 8:
+      case "Show result":
         if (!initiator.files.cdn && !initiator.files.sni) return;
         await show.showResult();
         break;
       // Exit
-      case banner.numberOfMenu:
+      case "Exit":
         console.log("");
         console.log("Thank you and have a nice day/night");
         break;
     }
-  } while (answer != banner.numberOfMenu);
+  } while (selectedIndex != banner.numberOfMenu);
 })();

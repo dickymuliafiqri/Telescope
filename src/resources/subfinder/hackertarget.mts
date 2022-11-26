@@ -1,40 +1,41 @@
 /**
  * by dickymuliafiqri
- * 24112022
+ * 26112022
  *
  * Credit:
- * crt.sh to enum subdomains
+ * hackertarget.com to enum subdomains
  */
 
 import fetch from "node-fetch";
 import { logger, logLevel } from "../../modules/logger.mjs";
 import { subfinder, Result, FinderResult } from "../subfinder.js";
 
-interface CrtObject {
-  issuer_ca_id: number;
-  issuer_name: string;
-  common_name: string;
-  name_value: string;
-  id: number;
-  entry_timestamp: string;
-  not_before: string;
-  not_after: string;
-  serial_number: string;
+interface HackerObject {
+  hostname: string;
+  address: string;
 }
 
-async function crtsh(domain: string, timeout: AbortSignal): Promise<Result> {
-  const subfinder = "crtsh"; // Must not greater than 8 char
+async function alienvault(domain: string, timeout: AbortSignal): Promise<Result> {
+  const subfinder = "hkrtrgt"; // Must not greater than 8 char
   let result: Array<FinderResult> = [];
-  let res: Array<CrtObject> = [];
+  let res: Array<HackerObject> = [];
 
   try {
-    const req = await fetch(`http://crt.sh/?q=${domain}&output=json`, {
+    const req = await fetch(`https://api.hackertarget.com/hostsearch/?q=${domain}`, {
       method: "GET",
       signal: timeout,
     });
 
     if (req.status != 200) throw new Error(req.statusText);
-    res = JSON.parse(await req.text());
+
+    for (const subdomain of (await req.text()).split("\n")) {
+      const [hostname, address] = subdomain.split(",");
+
+      res.push({
+        hostname,
+        address,
+      });
+    }
   } catch (e: any) {
     // Return empty array
     return {
@@ -47,8 +48,8 @@ async function crtsh(domain: string, timeout: AbortSignal): Promise<Result> {
 
   for (const data of res) {
     result.push({
-      domain: data.name_value,
-      ip: "", // Ignore since crt.sh didn't provide ip result
+      domain: data.hostname,
+      ip: data.address,
     });
   }
 
@@ -60,4 +61,4 @@ async function crtsh(domain: string, timeout: AbortSignal): Promise<Result> {
   };
 }
 
-subfinder.addFinder(crtsh);
+subfinder.addFinder(alienvault);

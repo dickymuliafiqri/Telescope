@@ -34,25 +34,51 @@ class SubFinder {
 
   async run(): Promise<number> {
     this.result = [];
-    const onRun = [];
+    const onRun: Array<number> = [];
+    const fetchResult: Array<Result> = [];
 
     for (const finder of this.subfinder) {
       onRun.push(1);
-      const res: Result = await finder(initiator.domain);
+
+      const controller = new globalThis.AbortController();
+      const timeout = setTimeout(() => {
+        controller.abort();
+      }, 30000);
+
+      finder(initiator.domain, controller.signal)
+        .then((res: Result) => {
+          if (res.error) {
+            console.log(`${logger.wrap(logLevel.error, res.subfinder)} : ${res.message}`);
+          } else if (res.result) {
+            fetchResult.push(res);
+          }
+        })
+        .finally(() => {
+          clearTimeout(timeout);
+          if (onRun[0]) onRun.shift();
+        });
 
       // Print error message from subfinder
-      if (res.error) {
-        console.log(`${logger.wrap(logLevel.error, res.subfinder)} : ${res.message}`);
-        continue;
-      }
 
       while (onRun.length >= 3) {
         // Wait for previous finder
         await sleep(1000);
       }
 
-      this.result.push(...this.result, ...res.result);
-      sleep(200);
+      await sleep(200);
+    }
+
+    let loop = 0;
+    do {
+      if (loop >= 60) break;
+      loop++;
+      await sleep(1000);
+    } while (onRun[0]);
+
+    for (const result of fetchResult) {
+      if (result.error) continue;
+
+      this.result.push(...this.result, ...result.result);
     }
 
     this.filter();

@@ -1,3 +1,11 @@
+# 0.0.9
+
+- Fix selector bug
+- Fix concurrent subfinder process
+- Add timeout on subfinder
+- Add hackertarget subfinder, thanks [@dickymuliafiqri](https://github.com/dickymuliafiqri)
+- Show subdomain found count by subfinder
+
 # 0.0.8
 
 - Add alienvault subfinder by [@dickymuliafiqri](https://github.com/dickymuliafiqri)
