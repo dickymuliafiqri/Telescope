@@ -1,3 +1,8 @@
+# 0.0.10
+
+- Fix `Change est scan` menu
+- Add `Deep scan subdomain` menu
+
 # 0.0.9
 
 - Fix selector bug

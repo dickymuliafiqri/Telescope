@@ -44,12 +44,17 @@ ${logger.wrap(logLevel.cloudfront, "CFront")} : ${initiator.cdn.cfront}
       },
       {
         name: "Estimation Scan",
-        value: "Change est.scan",
+        value: "Change est. scan",
         show: true,
       },
       {
         name: "SubDomain",
         value: "Scan subdomain",
+        show: true,
+      },
+      {
+        name: "Deep Scan SubDomain",
+        value: "Deep scan subdomain",
         show: true,
       },
       {
