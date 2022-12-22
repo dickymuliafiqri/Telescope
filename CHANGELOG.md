@@ -1,3 +1,8 @@
+# 0.0.11
+
+- Fix initial scan not included while perform Deep scan
+- Add jonlu subfinder, thanks [@dickymuliafiqri](https://github.com/dickymuliafiqri)
+
 # 0.0.10
 
 - Fix `Change est scan` menu

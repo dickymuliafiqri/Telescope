@@ -1,41 +1,29 @@
 /**
  * by dickymuliafiqri
- * 26112022
+ * 23122022
  *
  * Credit:
- * hackertarget.com to enum subdomains
+ * jonlu.ca to enum subdomains
  */
 
 import fetch from "node-fetch";
 import { logger, logLevel } from "../../modules/logger.mjs";
 import { subfinder, Result, FinderResult } from "../subfinder.js";
 
-interface HackerObject {
-  hostname: string;
-  address: string;
-}
-
-async function alienvault(domain: string, timeout: AbortSignal): Promise<Result> {
-  const subfinder = "hkrtrgt"; // Must not greater than 8 char
+async function jonlu(domain: string, timeout: AbortSignal): Promise<Result> {
+  const subfinder = "jnlu"; // Must not greater than 8 char
   let result: Array<FinderResult> = [];
-  let res: Array<HackerObject> = [];
+  let res: Array<string> = [];
 
   try {
-    const req = await fetch(`https://api.hackertarget.com/hostsearch/?q=${domain}`, {
+    const req = await fetch(`https://jonlu.ca/anubis/subdomains/${domain}`, {
       method: "GET",
       signal: timeout,
     });
 
     if (req.status != 200) throw new Error(req.statusText);
 
-    for (const subdomain of (await req.text()).split("\n")) {
-      const [hostname, address] = subdomain.split(",");
-
-      res.push({
-        hostname,
-        address,
-      });
-    }
+    res = JSON.parse(await req.text());
   } catch (e: any) {
     // Return empty array
     return {
@@ -46,10 +34,10 @@ async function alienvault(domain: string, timeout: AbortSignal): Promise<Result>
     };
   }
 
-  for (const data of res) {
+  for (const domain of res) {
     result.push({
-      domain: data.hostname,
-      ip: data.address,
+      domain,
+      ip: "",
     });
   }
 
@@ -61,4 +49,4 @@ async function alienvault(domain: string, timeout: AbortSignal): Promise<Result>
   };
 }
 
-subfinder.addFinder(alienvault);
+subfinder.addFinder(jonlu);

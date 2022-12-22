@@ -52,7 +52,7 @@ async function crtsh(domain: string, timeout: AbortSignal): Promise<Result> {
     });
   }
 
-  console.log(`${logger.wrap(logLevel.info, subfinder)} : ${result.length}`);
+  console.log(`${logger.wrap(logLevel.success, subfinder)} : ${result.length}`);
   return {
     subfinder,
     error: false,

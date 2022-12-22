@@ -37,8 +37,8 @@ class SubFinder {
     logger.log(logLevel.info, "Running initial scanner ...");
     await this.run();
 
-    const finalResult: Array<FinderResult> = [];
     const result = structuredClone(this.result);
+    const finalResult: Array<FinderResult> = [...result];
 
     const onRun: Array<number> = [];
 
