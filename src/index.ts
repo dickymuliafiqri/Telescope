@@ -4,7 +4,7 @@ import { question } from "./modules/question.mjs";
 import { existsSync, mkdirSync } from "fs";
 import { logger, logLevel } from "./modules/logger.mjs";
 import { scanner } from "./modules/scanner.mjs";
-import { clearTerminal, writeListToTerminal, pager } from "./modules/helper.mjs";
+import { clearTerminal } from "./modules/helper.mjs";
 import { selector } from "./modules/selector.mjs";
 import { show } from "./modules/show.mjs";
 import { subfinder } from "./resources/subfinder.js";

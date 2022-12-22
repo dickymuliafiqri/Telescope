@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node app/index.js",
     "build": "npx tsc",
+    "auto": "npx tsc && node app/autoscan.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

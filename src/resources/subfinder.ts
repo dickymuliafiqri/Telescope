@@ -32,10 +32,10 @@ class SubFinder {
     }
   }
 
-  async deepRun(): Promise<number> {
+  async deepRun(domain?: string): Promise<number> {
     logger.log(logLevel.info, "Running deep scan, maybe take a very long time");
     logger.log(logLevel.info, "Running initial scanner ...");
-    await this.run();
+    await this.run(domain);
 
     const result = structuredClone(this.result);
     const finalResult: Array<FinderResult> = [...result];
