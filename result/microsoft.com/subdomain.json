@@ -1,5 +1,9 @@
 [
   {
+    "domain": "services.premier.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
     "domain": "sapbusinessprocesshealth.microsoft.com",
     "ip": "40.64.128.232"
   },
@@ -33293,10 +33297,6 @@
   },
   {
     "domain": "euw.services.premier.microsoft.com",
-    "ip": ""
-  },
-  {
-    "domain": "services.premier.microsoft.com",
     "ip": ""
   },
   {
