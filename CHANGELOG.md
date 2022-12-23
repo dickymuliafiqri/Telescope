@@ -1,3 +1,8 @@
+# 0.0.12
+
+- Remove `Deep scan subdomain` menu
+- Add Telescope subfinder, thanks [@dickymuliafiqri](https://github.com/dickymuliafiqri)
+
 # 0.0.11
 
 - Fix initial scan not included while perform Deep scan

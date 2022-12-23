@@ -32,64 +32,6 @@ class SubFinder {
     }
   }
 
-  async deepRun(domain?: string): Promise<number> {
-    logger.log(logLevel.info, "Running deep scan, maybe take a very long time");
-    logger.log(logLevel.info, "Running initial scanner ...");
-    await this.run(domain);
-
-    const result = structuredClone(this.result);
-    const finalResult: Array<FinderResult> = [...result];
-
-    const onRun: Array<number> = [];
-
-    for (let i = 1; i <= 2; i++) {
-      logger.log(logLevel.info, `Start scan number: ${i}`);
-      for (const j in result) {
-        const target = result[j];
-        onRun.push(1);
-
-        this.run(target.domain)
-          .then(() => {
-            finalResult.push(...this.result);
-          })
-          .finally(() => {
-            onRun.shift();
-          });
-
-        let isStuck = 30;
-        while (onRun.length > 50) {
-          logger.log(logLevel.info, "Waiting previous process ...");
-          await sleep(1000);
-
-          isStuck--;
-          if (!isStuck) {
-            while (onRun[0]) {
-              onRun.shift();
-            }
-            break;
-          }
-        }
-      }
-
-      if (i >= 2) break;
-    }
-
-    logger.log(logLevel.info, "Waiting for all process to be complete");
-    let isStuck = 60;
-    while (onRun[0]) {
-      sleep(1000);
-
-      isStuck--;
-      if (!isStuck) break;
-    }
-
-    this.result = structuredClone(finalResult);
-    this.filter();
-    this.saveResult(domain);
-
-    return this.result.length;
-  }
-
   async run(domain?: string): Promise<number> {
     this.result = [];
     const onRun: Array<number> = [];
@@ -141,7 +83,7 @@ class SubFinder {
     }
 
     this.filter();
-    this.saveResult();
+    this.saveResult(domain);
 
     return this.result.length;
   }

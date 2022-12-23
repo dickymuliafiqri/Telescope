@@ -53,11 +53,6 @@ ${logger.wrap(logLevel.cloudfront, "CFront")} : ${initiator.cdn.cfront}
         show: true,
       },
       {
-        name: "Deep Scan SubDomain",
-        value: "Deep scan subdomain",
-        show: true,
-      },
-      {
         name: "Direct",
         value: "Scan direct",
         show: initiator.files.subdomain,

@@ -48,11 +48,6 @@ subfinder.load();
         console.log(`${logger.wrap(logLevel.info, "Total")} : ${await subfinder.run()} subdomain`);
         await question.make("Press enter to go back to main menu!");
         break;
-      case "Deep scan subdomain":
-        logger.log(logLevel.info, "Please take a ☕️ while we're working your mark");
-        console.log(`${logger.wrap(logLevel.info, "Total")} : ${await subfinder.deepRun()} subdomain`);
-        await question.make("Press enter to go back to main menu!");
-        break;
       // Scan direct
       case "Scan direct":
         if (!initiator.files.subdomain) return;
