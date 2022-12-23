@@ -2540,6 +2540,10 @@
     "ip": "104.16.66.85"
   },
   {
+    "domain": "status.udemy.com",
+    "ip": ""
+  },
+  {
     "domain": "gtm.udemy.com",
     "ip": ""
   },
@@ -2549,10 +2553,6 @@
   },
   {
     "domain": "prod.revenuewebhook.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "status.udemy.com",
     "ip": ""
   },
   {
