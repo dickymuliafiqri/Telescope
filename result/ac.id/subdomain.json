@@ -10264,6 +10264,26 @@
     "ip": "103.229.73.124"
   },
   {
+    "domain": "www.mpm.poltekba.ac.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "ujian.stiba.ac.id",
+    "ip": "103.55.38.37"
+  },
+  {
+    "domain": "angket.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "sister.poltekkesjkt2.ac.id",
+    "ip": "182.253.24.3"
+  },
+  {
+    "domain": "web.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
     "domain": "www.fe.unibba.ac.id",
     "ip": "103.28.12.168"
   },
@@ -10684,6 +10704,10 @@
     "ip": "167.205.12.180"
   },
   {
+    "domain": "www.pmm.stmikiba.ac.id",
+    "ip": "151.106.118.148"
+  },
+  {
     "domain": "ejournal.poltekkesjakarta1.ac.id",
     "ip": "103.102.153.101"
   },
@@ -11050,6 +11074,10 @@
   {
     "domain": "webdisk.staiduba.ac.id",
     "ip": "103.28.53.92"
+  },
+  {
+    "domain": "cpanel.bpm.umbulukumba.ac.id",
+    "ip": "45.13.255.241"
   },
   {
     "domain": "kemahasiswaan.stisipolp12.ac.id",
@@ -11516,6 +11544,10 @@
     "ip": "193.168.194.119"
   },
   {
+    "domain": "www.sertifikat.stiepertiba.ac.id",
+    "ip": "203.161.184.111"
+  },
+  {
     "domain": "gz.poltekkesjkt2.ac.id",
     "ip": "103.229.73.214"
   },
@@ -11820,6 +11852,10 @@
     "ip": "203.175.8.64"
   },
   {
+    "domain": "donasi.seribu.bulan.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
     "domain": "www.lpjm.stbayapariaba.ac.id",
     "ip": "103.229.73.193"
   },
@@ -12116,8 +12152,8 @@
     "ip": "167.205.70.38"
   },
   {
-    "domain": "www.mpm.poltekba.ac.id",
-    "ip": "103.229.73.99"
+    "domain": "stit-hasiba.ac.id",
+    "ip": "103.247.11.121"
   },
   {
     "domain": "www.akuntansi.uvers2.ac.id",
@@ -12246,21 +12282,5 @@
   {
     "domain": "minyak-216.tm.ITB.ac.id",
     "ip": "167.205.12.216"
-  },
-  {
-    "domain": "ujian.stiba.ac.id",
-    "ip": "103.55.38.37"
-  },
-  {
-    "domain": "angket.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "sister.poltekkesjkt2.ac.id",
-    "ip": "182.253.24.3"
-  },
-  {
-    "domain": "web.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
   }
 ]

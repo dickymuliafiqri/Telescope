@@ -252,11 +252,51 @@
     "ip": "50.63.202.12"
   },
   {
+    "domain": "tcb-b.vn.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "tcb-a.vn.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "mpgs.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mpgs.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.api.google.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vtweb2.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.app.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.checkout.midtrans.com",
+    "ip": ""
+  },
+  {
     "domain": "p-prodsec-stig.midtrans.com",
     "ip": ""
   },
   {
+    "domain": "vtweb2.midtrans.com",
+    "ip": ""
+  },
+  {
     "domain": "cf-lb.api.google.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "store.midtrans.com",
     "ip": ""
   },
   {
@@ -284,6 +324,10 @@
     "ip": ""
   },
   {
+    "domain": "payments.midtrans.com",
+    "ip": ""
+  },
+  {
     "domain": "cf-lb.sandbox.midtrans.com",
     "ip": ""
   },
@@ -296,39 +340,7 @@
     "ip": ""
   },
   {
-    "domain": "tcb-b.vn.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "tcb-a.vn.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "mpgs.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "uob-exc.midtrans.com",
-    "ip": ""
-  },
-  {
     "domain": "uob.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "recurring.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "store.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "vtweb2.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "checkout.midtrans.com",
     "ip": ""
   },
   {
@@ -336,31 +348,7 @@
     "ip": ""
   },
   {
-    "domain": "andes.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "payments.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "fingerprint.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "stg-checkout.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.mpgs.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "sg.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.api.google.midtrans.com",
+    "domain": "checkout.midtrans.com",
     "ip": ""
   },
   {
@@ -368,7 +356,19 @@
     "ip": ""
   },
   {
+    "domain": "diesel.stg.midtrans.com",
+    "ip": ""
+  },
+  {
     "domain": "sandbox.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "uob-exc.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "stg-checkout.midtrans.com",
     "ip": ""
   },
   {
@@ -376,19 +376,19 @@
     "ip": ""
   },
   {
-    "domain": "www.vtweb2.midtrans.com",
+    "domain": "andes.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "www.app.midtrans.com",
+    "domain": "sg.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "www.checkout.midtrans.com",
+    "domain": "recurring.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "diesel.stg.midtrans.com",
+    "domain": "fingerprint.midtrans.com",
     "ip": ""
   }
 ]
