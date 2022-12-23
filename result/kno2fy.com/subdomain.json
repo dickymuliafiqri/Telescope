@@ -24,18 +24,6 @@
     "ip": "kno2deliveryprod.azurewebsites.net"
   },
   {
-    "domain": "errorlogger.kno2fy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.interface-01.kno2fy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.errorlogger.kno2fy.com",
-    "ip": ""
-  },
-  {
     "domain": "kno2fy.com",
     "ip": "104.18.10.39"
   },
@@ -74,5 +62,17 @@
   {
     "domain": "carequality.kno2fy.com",
     "ip": "104.42.147.181"
+  },
+  {
+    "domain": "errorlogger.kno2fy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.interface-01.kno2fy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.errorlogger.kno2fy.com",
+    "ip": ""
   }
 ]
