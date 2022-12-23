@@ -1,0 +1,5630 @@
+[
+  {
+    "domain": "updates.digicert.com",
+    "ip": "142.0.165.167"
+  },
+  {
+    "domain": "crl-symcprod.digicert.com",
+    "ip": "fp2E7A.wpc.2BE4.phicdn.net"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5-to-g1-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5-to-g1-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5-to-g1.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5-to-g3-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5-to-g3-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5-to-g3.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "csl3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "cacert3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "stg.ext.gw.digicert.com",
+    "ip": "62.2.210.125"
+  },
+  {
+    "domain": "yeti2025.ct.digicert.com",
+    "ip": "ctyetiapp-lb-99490862.us-west-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "nessie2025.ct.digicert.com",
+    "ip": "ctnessieapp-lb-1434707286.us-east-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "clientauth.stage.dse.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "stage.dse.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "nie.ext.gw.digicert.com",
+    "ip": "90.145.65.251"
+  },
+  {
+    "domain": "ssp-aia.digicert.com",
+    "ip": "ssp-aia.symauth.com"
+  },
+  {
+    "domain": "verizon-global-root-ca.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "baltimore-cybertrust-root-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "overlord.admin.digicert.com",
+    "ip": "45.60.121.229"
+  },
+  {
+    "domain": "cdp2.digicert.com",
+    "ip": "23.49.133.12"
+  },
+  {
+    "domain": "root.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "crlrts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "cdp1.digicert.com",
+    "ip": "23.61.181.9"
+  },
+  {
+    "domain": "app.updates.digicert.com",
+    "ip": "142.0.165.167"
+  },
+  {
+    "domain": "www.ocsp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "clientauth.demo.one.ch.digicert.com",
+    "ip": "91.240.105.29"
+  },
+  {
+    "domain": "demo.one.ch.digicert.com",
+    "ip": "91.240.105.29"
+  },
+  {
+    "domain": "clientauth.one.ch.digicert.com",
+    "ip": "91.240.105.35"
+  },
+  {
+    "domain": "one.ch.digicert.com",
+    "ip": "91.240.105.35"
+  },
+  {
+    "domain": "ecloudapps.digicert.com",
+    "ip": "216.168.244.28"
+  },
+  {
+    "domain": "beta.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "yeti2018.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "nessie2019.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "yeti2019.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "nessie2018.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "one.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "certificatelabs.ssltools.digicert.com",
+    "ip": "18.236.45.216"
+  },
+  {
+    "domain": "clientauth.one.digicert.com",
+    "ip": "216.168.244.38"
+  },
+  {
+    "domain": "dev.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "wss-dev.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "kh-dev.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "kb-internal-dev.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "dc-dev.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "kb-dev.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "assured-id-root-g2-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "global-root-g3-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-g2-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-g2.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "rts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "clientauth.one.nl.digicert.com",
+    "ip": "202.65.16.35"
+  },
+  {
+    "domain": "one.nl.digicert.com",
+    "ip": "202.65.16.35"
+  },
+  {
+    "domain": "global-root-g2.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "global-root-g2-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "global-root-ca-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "global-root-ca-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "ev-root-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "securefile.digicert.com",
+    "ip": "34.235.228.242"
+  },
+  {
+    "domain": "acme.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "mail.digicert.com",
+    "ip": "44.230.95.124"
+  },
+  {
+    "domain": "assured-id-root-g3-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-g3-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-g3.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-ca-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "stage.one.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "www.quovadis-root-ca-1-g3-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "quovadis-root-ca-1-g3-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "www.assured-id-root-ca-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-ca-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "www.trusted-root-g4-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "www.global-root-g3-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "global-root-g3-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "thawte-primary-root-ca.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g5.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "geotrust-primary-ca-g3.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "thawte-primary-root-ca-g2.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "quovadis-root-ca-1-g3.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "symantec-c3-pub-primary-ca-g4-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "quovadis-root-ca-3-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "quovadis-root-ca-2-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "leh.ext.gw.digicert.com",
+    "ip": "67.137.52.99"
+  },
+  {
+    "domain": "mou.ext.gw.digicert.com",
+    "ip": "4.53.135.29"
+  },
+  {
+    "domain": "mstrpreprod.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "partnernews.digicert.com",
+    "ip": "2a01:7e01::f03c:92ff:fe4a:3385"
+  },
+  {
+    "domain": "global-root-g3.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "trusted-root-g4-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "trusted-root-g4-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "trusted-root-g4.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-ca.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "legacylistener.digicert.com",
+    "ip": "216.168.246.110"
+  },
+  {
+    "domain": "sspsia.digicert.com",
+    "ip": "ssp-sia.symauth.com"
+  },
+  {
+    "domain": "admin-enroll-pilot.au.digicert.com",
+    "ip": "202.65.20.157"
+  },
+  {
+    "domain": "admin-manager-pilot.au.digicert.com",
+    "ip": "202.65.20.158"
+  },
+  {
+    "domain": "knowledgebase.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "digicert.com",
+    "ip": "ns1.p03.dynect.net"
+  },
+  {
+    "domain": "content.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "automation-service.digicert.com",
+    "ip": "152.199.4.158"
+  },
+  {
+    "domain": "discovery-service.digicert.com",
+    "ip": "152.199.4.158"
+  },
+  {
+    "domain": "nessie2023.ct.digicert.com",
+    "ip": "3.14.162.20"
+  },
+  {
+    "domain": "nessie2020.ct.digicert.com",
+    "ip": "3.13.166.142"
+  },
+  {
+    "domain": "docs.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "university.digicert.com",
+    "ip": "52.60.40.201"
+  },
+  {
+    "domain": "partners.digicert.com",
+    "ip": "209.170.205.126"
+  },
+  {
+    "domain": "learn.digicert.com",
+    "ip": "54.85.91.97"
+  },
+  {
+    "domain": "play.google.comocsp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.ssltools.digicert.com",
+    "ip": "45.60.195.203"
+  },
+  {
+    "domain": "gorgon.ct.digicert.com",
+    "ip": "3.13.166.142"
+  },
+  {
+    "domain": "oem.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "edge2.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "seal-symclab.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "dataservices.digicert.com",
+    "ip": "216.168.244.8"
+  },
+  {
+    "domain": "integration.digicert.com",
+    "ip": "216.168.244.8"
+  },
+  {
+    "domain": "microstrategy.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "mstrdev.digicert.com",
+    "ip": "10.100.107.15"
+  },
+  {
+    "domain": "digicert-tls-rsa4096-root-g5-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-tls-ecc-p384-root-g5-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-tls-ecc-p384-root-g5-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-tls-rsa4096-root-g5.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-tls-ecc-p384-root-g5.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "eca-loopvar.digicert.com",
+    "ip": "52.37.182.165"
+  },
+  {
+    "domain": "eca-cdo.digicert.com",
+    "ip": "54.187.18.199"
+  },
+  {
+    "domain": "thawte-primary-root-ca-g2-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "caas.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "digicert-tls-rsa4096-root-g5-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "certmanager-webservices.websecurity.digicert.com",
+    "ip": "216.168.246.82"
+  },
+  {
+    "domain": "yeti2022-2.ct.digicert.com",
+    "ip": "52.40.37.183"
+  },
+  {
+    "domain": "login.digicert.com",
+    "ip": "216.168.244.41"
+  },
+  {
+    "domain": "admin.digicert.com",
+    "ip": "45.60.121.229"
+  },
+  {
+    "domain": "yeti2023.ct.digicert.com",
+    "ip": "54.69.141.46"
+  },
+  {
+    "domain": "yeti2020.ct.digicert.com",
+    "ip": "52.40.37.183"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "pkiclient-updater.digicert.com",
+    "ip": "wpc.2be4.phicdn.net"
+  },
+  {
+    "domain": "52fcacerts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "4.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250atimestamp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "erts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "aas.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "252fwww.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "sp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "edgebase.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "internal.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "20cacerts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ww.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "20www.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250adev.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250acacerts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250akh.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250ametrics.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250akb-internal.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250adocs.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250adl.cacerts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250astatus.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250assltools.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250aseal.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "integration-dev.digicert.com",
+    "ip": "216.168.247.30"
+  },
+  {
+    "domain": "ssp-crl.digicert.com",
+    "ip": "ssp-crl.symauth.com"
+  },
+  {
+    "domain": "crr3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "caclrts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "wwn.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "czl3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "cacepts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ssp-ocsp.digicert.com",
+    "ip": "ssp-ocsp.symauth.com"
+  },
+  {
+    "domain": "ev-root.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "geotrust-primary-ca-g2-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "dl.cacerts.digicert.com",
+    "ip": "checker.digicert.com"
+  },
+  {
+    "domain": "w.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "thawte-primary-root-ca-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "cacl3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250acrl3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250aocsp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "252fcrl3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "252focsp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ciplus.pki.digicert.com",
+    "ip": "ciplus.blu.pki.symauth.net"
+  },
+  {
+    "domain": "ciplus-auth.pki.digicert.com",
+    "ip": "216.168.246.48"
+  },
+  {
+    "domain": "api.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "kb-internal.digicert.com",
+    "ip": "7cee2uc.x.incapdns.net"
+  },
+  {
+    "domain": "kh.digicert.com",
+    "ip": "g8e2463.x.incapdns.net"
+  },
+  {
+    "domain": "ssltools.digicert.com",
+    "ip": "owvqgee.x.incapdns.net"
+  },
+  {
+    "domain": "knowledgehub.digicert.com",
+    "ip": "g8e2463.x.incapdns.net"
+  },
+  {
+    "domain": "chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "pki-ocsp.digicert.com",
+    "ip": "ocsp-ds.ws.symantec.com.edgekey.net"
+  },
+  {
+    "domain": "ssp-sia.digicert.com",
+    "ip": "ssp-sia.symauth.com"
+  },
+  {
+    "domain": "cacerts.digicert.com",
+    "ip": "2606:4700::6812:b27"
+  },
+  {
+    "domain": "www.digicert.com",
+    "ip": "3ivgup7.x.incapdns.net"
+  },
+  {
+    "domain": "status.digicert.com",
+    "ip": "63gng2lz2kw8.stspg-customer.com"
+  },
+  {
+    "domain": "gatekeeper.digicert.com",
+    "ip": "202.65.20.179"
+  },
+  {
+    "domain": "admin.gatekeeper.digicert.com",
+    "ip": "202.65.20.181"
+  },
+  {
+    "domain": "crl3.digicert.com",
+    "ip": "cs9.wac.phicdn.net"
+  },
+  {
+    "domain": "ocsp.digicert.com",
+    "ip": "cs9.wac.phicdn.net"
+  },
+  {
+    "domain": "crl4.digicert.com",
+    "ip": "72.21.91.29"
+  },
+  {
+    "domain": "nessie2021.ct.digicert.com",
+    "ip": "ctnessieapp-lb-1434707286.us-east-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "yeti2021.ct.digicert.com",
+    "ip": "ctyetiapp-lb-99490862.us-west-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "yeti2022.ct.digicert.com",
+    "ip": "ctyetiapp-lb-99490862.us-west-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "nessie2022.ct.digicert.com",
+    "ip": "ctnessieapp-lb-1434707286.us-east-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "pkiservices.pki.digicert.com",
+    "ip": "pkiservices.blu.pki.symauth.net"
+  },
+  {
+    "domain": "kd-pw-mng.dcj.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "secweb-pilot.dcj.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "secweb.dcj.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "reston-sonar.res.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "hotspot-20-trust-root-ca-03-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "bam1.infra-nt.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "quovadis-root-ca-2-g3-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-2-g3-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-2-g3.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "edge4.digicert.com",
+    "ip": "cs9.wac.edgecastcdn.net"
+  },
+  {
+    "domain": "verisign-universal-root-ca-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "apitest.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "repo01.prod.lup.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "repo.prod.lup.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "thawte-primary-root-ca-g3.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-universal-root-ca-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-universal-root-ca.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "geotrust-primary-ca-g3-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "repo01.prod.res.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "repo.prod.res.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "de.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "de.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "symantec-c3-pub-primary-ca-g4.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g4-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g4.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g3-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g3.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "thawte-primary-root-ca-g2-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "symantec-c3-pub-primary-ca-g6-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "symantec-c3-pub-primary-ca-g6-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "symantec-c3-pub-primary-ca-g6.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-3-g3-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-3-g3-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-3-g3.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-3.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-1-g3-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-2-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-2.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "geotrust-primary-ca-g2-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "geotrust-primary-ca-g2.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "geotrust-primary-ca.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "geotrust-primary-ca-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "www.mstrpreprod.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "mstrpreprod.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pac.tgp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pac.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "wi-sct-ws01.prod.lup.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "golem.ct.digicert.com",
+    "ip": "18.220.27.222"
+  },
+  {
+    "domain": "8dn2l4mdh193gdykldpdc86slbvnwswn.dcv.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "repo01.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "repo.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "kvm.sgu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "gaoadfs.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "bom.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.dc-uat.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "dc-uat.digicert.com",
+    "ip": "s5myxrw.impervadns.net"
+  },
+  {
+    "domain": "websitesecurity.status.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "octp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "cacerjs.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "yeti2024.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "backups02.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "backups.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "backups01.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "nessie2024.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.admin-manager.pki.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.onsite.pki.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.sc-admin-enroll.pki.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pki-u.digicert.com",
+    "ip": "digicert.lingellearning.com"
+  },
+  {
+    "domain": "www.pki-u.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "localhost.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "poweriq.tgp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "lup.ext-gw.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.lup.ext-gw.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "prismcentral.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.pilot-domainauth.ws.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.vc1-prd.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "vc1-prd.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "timestamp.digicert.com",
+    "ip": "216.168.244.9"
+  },
+  {
+    "domain": "www.problemreport.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "problemreport.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pure1-stg.tgp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "vc1.dr.res.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "des.digicert.com",
+    "ip": "34.213.233.92"
+  },
+  {
+    "domain": "order.digicert.com",
+    "ip": "216.168.244.41"
+  },
+  {
+    "domain": "www.order.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "daas.digicert.com",
+    "ip": "ws.digicert.com"
+  },
+  {
+    "domain": "ws.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "testdomain.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.ecloudapps-dev.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ecloudapps-dev.digicert.com",
+    "ip": "216.168.244.28"
+  },
+  {
+    "domain": "u1lxebsdb02.corp.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "u1lxebsdb01.corp.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "bomfo.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.bomfo.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "bomfo.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.bomfo.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "vc1.slc.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pcs1.slc1.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "psc1.tgp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "vc1.tgp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "vc1.slc1.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "psc1.slc.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "EBSDB01.corp.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pta.websecurity.digicert.com",
+    "ip": "pta.blu.websecurity.symauth.net"
+  },
+  {
+    "domain": "www.pta.websecurity.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.domainauth.ws.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.pki-downloads.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pki-downloads.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "blog.digicert.com",
+    "ip": "54.68.158.176"
+  },
+  {
+    "domain": "edge3.digicert.com",
+    "ip": "cs9.wac.edgecastcdn.net"
+  },
+  {
+    "domain": "edge1.digicert.com",
+    "ip": "cs9.wac.phicdn.net"
+  },
+  {
+    "domain": "go.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "connect-boomitest.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "connect-boomiprod.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "US2WIEX01.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ex1.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ad2.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "verizon-global-root-ca-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verizon-global-root-ca-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "global-root-g2-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "baltimore-cybertrust-root-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "baltimore-cybertrust-root.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "clientauth.stage.one.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "k8s.demo.one.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "dataservices-dev.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "demo.one.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "clientauth.demo.one.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "k8s.stage.one.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "ev-root-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "global-root-ca.chain-demos.digicert.com",
+    "ip": "64.58.225.127"
+  },
+  {
+    "domain": "knowledge.digicert.com",
+    "ip": "lbxkgma.x.incapdns.net"
+  },
+  {
+    "domain": "fpetest.corp.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "motivari.com.br",
+    "ip": "digicert.com"
+  },
+  {
+    "domain": "ams1nafs02s301.prod.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsconsole1.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "le1nafs01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ams-prd-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "uca2wiadsdc04.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "uca1wiadsdc03.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca2wiweb04.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca2wiweb02.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca2widb04.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca2widb02.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca2wiadsdc02.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca1wiwebsvc01.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca1wiweb03.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca1wiweb01.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca1wijump01.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca1widb03.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca1widb01.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsca1wiadsdc01.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-stg-office.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "stg.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "overface.admin.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bipentpre01.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bipent01.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bomdock.prod.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bipent01.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cis.prod.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "rancher.corp.prod.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "nie.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "WI-WSS-UT02.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "WI-WDC-04.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "WI-WDC-03.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "WI-WDC-02.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "WI-WDC-01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "WI-SPH-UT03.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "WI-SPH-UT02.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "WI-SCT-WS01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "WI-JMP-WK04.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "WI-JMP-WK03.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "WI-JMP-WK02.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "WI-JMP-WK01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "LUP1WIWSSU01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA1WIADSDC01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA1WIDB01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA1WIDB03.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA1WIJUMP01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA1WIWEB01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA1WIWEB03.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA1WIWEB05.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA1WIWEBSVC01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA2WIADSDC02.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA2WIDB02.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA2WIDB04.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA2WIWEB02.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA2WIWEB04.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "ECA2WIWEB06.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA2WIWEB02.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA1WIWEB03.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA1WIWEB05.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA2WIWEB04.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA1WIWEB01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA2WIWEB06.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA1WIWEBSVC01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA1WIDB01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA1WIDB03.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA2WIDB02.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA2WIDB04.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA2WIADSDC02.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA1WIJUMP01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "UCA1WIADSDC01.DCAPROD.DIGICERT.COM",
+    "ip": ""
+  },
+  {
+    "domain": "U1LXTENABLESC01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "uca1lxtenablesc03.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "uca1lxtenablesc01.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "eca1lxtenablesc03.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "eca1lxtenablesc01.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vwb.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dr-ntp-s302.dr.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcheck.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bisci01.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ams1lxsplunkevent.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "LUP1WIWSUSKMS01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "AMS1WIWSUSKMS01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "AMS1WIADSMDC02.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "LUP1WIADSMDC02.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "LUP1WIADSMDC01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "AMS1WIADSMDC01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "us1lxtenable01.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "blu-infra-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "prospector.admin.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstrprepatel.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "unified-manager.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "veeam-azure.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "clientauth.vwb.stage.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ilomanager.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "q1nafs01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "q1nafs02.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "E2WIADSMDC02.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "prismcentral.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "res-dr-ssl-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "res-dr-nclu2.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "res-dr-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "res-dr-ca-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mel-prd-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "blu-prd-nclu2.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "blu-prd-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "blu-prd-ssl-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "blu-prd-ca-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "blu-dev-nclu2.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "blu-dev-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "blu-prd-sbo-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "res-dr-sbo-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "blu-dev-sbo-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "oracleapex.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstrpatel01.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "oracleapex.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "PROD-NTP-S3.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pki-egw.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "clientauth.demo.one.nl.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lup-prd-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev-ntp-s3.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo01.prod.cle1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "power.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "assets.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lab-sonar.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "kdzabbix.dcj.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev-ntp-s302.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "harbor.sbolab.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev-dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cybozu.dcj.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo101.prod.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "US2WIADSMDC02.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "US1WIADSMDC01.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "LE1WIADSMDC02.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ES2WIADSMDC02.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ES1WIADSMDC01.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo01.dev.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-ams-prd.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "digicertcloud.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "thawte-primary-root-ca-g3-expired.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g5-expired.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "geotrust-primary-ca-g3-expired.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g4-revoked.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "symantec-c3-pub-primary-ca-g4-expired.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "quovadis-root-ca-3-expired.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "geotrust-primary-ca-expired.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "quovadis-root-ca-revoked.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "quovadis-root-ca-expired.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "quovadis-root-ca.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "clientauth.demo.one.jp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "artemis.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dctrack.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "workbench.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo01.prod.pdx2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "rancher.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "rancher.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "locksmith.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "panorama.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "panorama.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "qakadm.sbolab.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "datapipelineconfig.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "datamart.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "datalake.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "eug.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "workdb23-e1-inf.bo.prod.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "casper.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "athena.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mail.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "kube1.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mail.prod.pdx2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "monitor.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "admanager.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lup1lxsplunkcm01.lup.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "admanager.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sap.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sap.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lon.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lon.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "poweriq.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dctrack.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ban.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ban.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "kaw.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "kaw.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dub.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dub.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cap.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cap.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "gin.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "gin.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "res-dr-ssl-nclu.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mel2.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mel2.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mou.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "RES-DR-CA-NCLU.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-ssl.dr.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "leh.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "root.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "blu-prd-ca-nclu.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "new.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "catest.digicert-assured-id-ca-1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "catest.digicert-global-ca-1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "c3.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pki.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pki-admin.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pki-pilot.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "admin-pilot.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ocsp-pilot.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "clearpass.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "webcms.dcj.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "demo.snowbird.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc1-dev.vc.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "captive-portal.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "rancher.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "charts.pkiplatform.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-ssl.prod.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "BLU-PRD-SSL-NCLU.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "trustcenter-enterprise.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "trustcenter.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "getcert.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "le1nafs01.tgp.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "u1nafs01.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "q1nafs01.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "q1nafs02.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "e1nafs01.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "e1nafs02.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "aem-cloud.corp.dr.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "aem.corp.dr.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "jenkins.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "us.blu.arista.cvp-1.1.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "images.updates.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "u1nafs01-clu.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "q1nafs01-clu.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "q1nafs02-clu.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "e1nafs01-clu.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "e1nafs02-clu.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-domainauth.ws.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "skippy.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "brew.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "catgpwebsvc01.ca.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mmadmin-manager.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mmadmin-enroll.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mmadmin.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "RES-DR-SBO-NCLU1.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "RES-DR-NCLU2.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "RES-DR-NCLU1.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "MEL-PRD-NCLU1.mel.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "BLU-PRD-SBO-NCLU1.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "BLU-PRD-NCLU2.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "BLU-PRD-NCLU1.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "BLU-DEV-SBO-NCLU1.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "BLU-DEV-NCLU2.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "BLU-DEV-NCLU1.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "M2WIADSDC02.mel.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "M1WIADSDC01.mel.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "E2WIADSDC02.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "E1WIADSDC01.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U2WIADSDC02.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1WIADSDC01.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "E1WIADSMDC01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U2WIADSMDC02.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1WIADSMDC01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vsc.ws.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "trustblade.ws.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ft3-products.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ft3-api.ws.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ft3-cc-admin.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mobility-controller.eug.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mobility-master.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "images.shoppingguarantee.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "evcs.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "domainauth.ws.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sentinel.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "docs.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "casguupdate.ca.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-mmadmin.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-mmadmin-enroll.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-mmadmin-manager.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-sentinel.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1WIWSUS01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "test-cc-admin.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "test-api.ws.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "test-products.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q1LXCLPM02.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ithaca1-i.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ithaca2-i.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ithaca3-i.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mou.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tgp.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "app.shoppingguarantee.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "api.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "api.ws.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cc-admin.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "api-appsec.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "products.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "securesigning.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sas-sso.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "aem-cloud.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "aem.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "u1wiwacm01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "enterprise-ssl-admin.jp.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "enterprise-ssl.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "enterprise-ssl-admin.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "certmanager.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "enterprise-ssl-adminmanager.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-enterprise-ssl-admin.jp.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-enterprise-ssl-adminmanager.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-enterprise-ssl-admin.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-enterprise-ssl.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-certmanager-webservices.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-certmanager.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "aem-cloud.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "beta.snowbird.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sso.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cic.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cws.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cws-as.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Brenda.Bernal@digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "integration-cc.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "rancher.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "intranet.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "aem.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "E1LXCLPM01.dr.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q1LXCLPM01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "app.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "seal2019.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bomdock.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "billington.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "helpspot1.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot.gatekeeper.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "my.pilot.gatekeeper.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "my.gatekeeper.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "admin.pilot.gatekeeper.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "web-cms.dcj.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mel2.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "moxie.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ban.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "veeament.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc1-dev.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dlabs-selfservice.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "gateway-mel.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wsus.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ad1-tgp.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "gp2-sonar.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Dean.Coclin@digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wyvern2019.ct.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ad1-sgu.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "clint.wilson@digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fw1.mel.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bcdvideo1.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "deployer.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cso-selfservice.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "admin-manager.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sc-admin-enroll.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "onsiteipsec.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "onsite.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "onsite-admin.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lb2.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-sc-admin-enroll.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-onsiteipsec.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-onsite.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-onsite-admin.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pilot-admin-manager.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lb1.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www-dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www-qa.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www-uat.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "qa-automation.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "digidock.dev.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "audittesting3.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "audit.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "audittesting.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "connect-boomi.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "digidock.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "shoppingguarantee.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ebsprod.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fpeprod.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fpeeaoprod.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sabrxprod.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.sng.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.dub.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "connect-boomitest.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sabrxtest.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fpeeaotest.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ebstest.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q1LXSBX01.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fpeeaodev.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fpedev.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ebsdev.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ebsdb02.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ctmon.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "certcrawler.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc1.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "psc1.slc1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ecentral.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "status-wrapper.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "MPKI-EG.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "renewcs.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev-eca-loopvar.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev-eca.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev-ecentral.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "qa-knowledgehub.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "portkey1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wkm.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "rca.intra.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "certitude.intra.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ocsp-ssl-symclab.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wps.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "foa.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wps-dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wss-uat.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wss-origin.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wss-uat-author.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wss-prod-author.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wss-prod-author-dr.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wss-origin2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wss-qa-author.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wss-dev-author.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "uat-knowledgehub.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "uat-knowledgebase.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "uat-Knowledgebase-internal.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "uat-community.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tht-origin.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tht-fr-origin.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tht-de-origin.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "rapid-origin.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "qa-knowledgebase.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "qa-Knowledgebase-internal.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "qa-community.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev-knowledgebase.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev-Knowledgebase-internal.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev-community.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "community.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "gt-origin.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev-knowledgehub.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "revoked.ssltools.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "expired.ssltools.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunk.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "inside-api1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "certificatelabs.ssltools-qa.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ssltools-qa.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cyberark.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pki-prod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "otp.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pki-stage.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wss-uat-origin.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wss-qa.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tht-uat.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tht-fr-uat.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "rapid-uat.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tht-de-uat.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "gt-uat.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "otp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "nagios.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sodium.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pki-uat.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "atlassian.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "observer.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "resources.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "global-root-ca-x.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ev-root-x.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tim.hollebeek@digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "summit.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cybertrust-global-root.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cybertrust-global-root-expired.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cybertrust-global-root-revoked.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "idp1.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "gte-cybertrust-global-root.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ben@digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ben.wilson@digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "securitysummit17.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "jeremy.rowley@digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "content.backup.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sha2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "confluence.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "global.beacon.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "assured.beacon.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "agent.ccbeta.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "greenbar.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "nagios1.cloud.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "assured-id.beacon.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "default.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "gte-cybertrust-global-root.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "baltimore-cybertrust-root.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "est.demo.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "assured-id-root-g3.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "trusted-root-g4.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "assured-id-root-g2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "global-root-g3.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "global-root-g2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fw1.sgu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fw1.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wafman.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "saml.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "agent.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ctevtest.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ctd1.sjc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "parse.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "AutoDiscover.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "autodiscover.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sadtrombone.test.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunk.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ad1.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ecc-secure-server-ca.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "supporttest.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "smetrics.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ctsupporttest.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cttest.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "staple.ct.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fw1.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sample.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "stash.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ev-xg.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ev-xr.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ov-xr.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "kucf.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ov-xg.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "revoked.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bamboo.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "voice1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "paeon.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fw01.prod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "crucible.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wac1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "portkey.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "office.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "smtp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "inside-chat.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "nyx.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "eos.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ldap.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "embed.ct.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "global-root.beacon.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "extended-validation.beacon.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "global-root.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ev-root.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "rick.dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "seal.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "assured-id-root.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "chat.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g3-revoked.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "hotspot-trust-root-ca3.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "thawte-primary-root-ca-g3-revoked.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "thawte-primary-root-ca-revoked.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g5-revoked.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ams1nafs02s301.prod.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "amsconsole1.prod.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.daas.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.le1nafs01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.university.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.aem-cloud.corp.dr.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.learn.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.stg.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.stg.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "leh.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lup.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mel.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.bipentpre01.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.bipent01.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "k8s.stage.dse.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.bomdock.prod.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.bipent01.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bomfo.prod.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.bomfo.prod.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.dataservices.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.rancher.corp.prod.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin20.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.smetrics.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.metrics.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.U1LXTENABLESC01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vc-lup-prd.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcheck-us.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcheck-vc-ams-prd.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcheck-vc-blu-dev.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcheck-vc-blu-prd.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcheck-vc-blu-prd-ssl.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcheck-vc-leh-office.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcheck-vc-lup-prd.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcheck-vc-mel-prd.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcheck-vc-res-dr.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcheck-vc-res-dr-ssl.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vcheck.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.beta.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.docs.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.bomdock.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstrlb.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.bisci01.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.cordtools.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ams1lxsplunkin01.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ams1lxsplunkin02.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cordtools.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1WIDSBI02.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1WIDSBI03.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.secweb.dcj.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.secweb-pilot.dcj.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.kd-pw-mng.dcj.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstrpatel01.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstr.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstrweb01.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstrweb02.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.LUP1WIWSUSKMS01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.AMS1WIWSUSKMS01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.cordtools.dr.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cordtools.dr.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1WIDSBI01.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.cordtools.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cordtools.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstrpreweb01.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.AMS1WIADSMDC02.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.LUP1WIADSMDC02.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.LUP1WIADSMDC01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.AMS1WIADSMDC01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.us1lxtenable01.dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.updates.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.partnernews.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.blu-infra-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ct.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.bom.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstrpreweb02.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstrstage.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mstrprepatel.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mgmt.stage.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhec.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf07.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf08.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf09.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf10.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkresevent.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkreshf01.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkreshf02.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkreshf03.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkreshf04.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkreshf05.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkreshf06.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkreshf07.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkreshf08.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkreshf10.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.unified-manager.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.veeam-azure.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vwb.stage.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ilomanager.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.q1nafs01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.q1nafs02.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.E2WIADSMDC02.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pure1-stg.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vc-blu-prd-ssl.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vc-blu-prd.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.prismcentral.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.res-dr-ssl-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.res-dr-nclu2.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.res-dr-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.res-dr-ca-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mel-prd-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.blu-prd-nclu2.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.blu-prd-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.blu-prd-ssl-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.blu-prd-ca-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.blu-dev-nclu2.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.blu-dev-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.blu-prd-sbo-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.res-dr-sbo-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.blu-dev-sbo-nclu1.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.oracleapex.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mstrpatel01.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.oracleapex.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "US2WICORPCERT02.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.PROD-NTP-S3.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "US1WICORPCERT01.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "demo.one.nl.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "prod.ams.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.lup-prd-nclu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.dev-ntp-s3.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstrweb01.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "mstrweb02.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.prod.cle1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U2LXPIQ01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U2LXDCT01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "labsonar.sbolab.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.U2LXDCT01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.eca-loopvar.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.eca-cdo.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.kdzabbix.dcj.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1LXE11IAP03.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.dev-ntp-s302.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "kube.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.certmanager-webservices.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "stage.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.integration-dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.app.updates.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vc-res-dr.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vc-mel-prd.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.root.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "kube.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.harbor.sbolab.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "prod.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ciplus.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.cso-selfservice.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ciplus-auth.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.dlabs-selfservice.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev-docs.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.cybozu.dcj.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.dev-eca.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "prod.lup.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.US2WIADSMDC02.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.US1WIADSMDC01.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.LE1WIADSMDC02.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ES2WIADSMDC02.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ES1WIADSMDC01.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pilot.gatekeeper.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.gatekeeper.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mstrpreprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.microstrategy.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vc-leh-office.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vc-blu-dev.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vc-res-dr-ssl.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-blu-dev.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-blu-prd.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-blu-prd-ssl.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vcenter.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-leh-office.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-lup-prd.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-mel-prd.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-res-dr.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-res-dr-ssl.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc-syd-dr.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "compdev.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.digicertcloud.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.geotrust-primary-ca-g3-expired.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mstr.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.U1WIDSBI02.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.U1WIDSBI01.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "demo.one.jp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dcaprod.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.onsite-admin.pki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.partners.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.prod.pdx2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.rancher.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.bomfo.dr.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bomfo.dr.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.rancher.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ecloudapps.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.locksmith.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.panorama.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.panorama.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.qakadm.sbolab.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.psc1.slc1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ecentral.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.datapipelineconfig.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.datamart.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.datalake.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "imprvtst.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.eug.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.workdb23-e1-inf.bo.prod.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.workdb53-u1-inf.bo.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "workdb53-u1-inf.bo.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "athena.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "athena.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.kube1.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "nagios.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "gt-dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "kb-int-dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "rapid-dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tht-de-dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tht-dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tht-fr-dev.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "desktopcentral.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "manageengine.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.certificatelabs.ssltools.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lup1lxsplunkds01.lup.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lup1lxsplunkevent.lup.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lup1lxsplunkin01.lup.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "lup1lxsplunkin02.lup.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.lup1lxsplunkcm01.lup.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "selfservice.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "u1wiadmp01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.sap.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.sap.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.lon.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.lon.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q2LXPIQM01.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q2LXDCTM01.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ban.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ban.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.kaw.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.kaw.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.securefile.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bom.dr.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.dub.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.dub.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.cap.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.cap.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.gin.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.gin.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.bom.dr.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.res-dr-ssl-nclu.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mel2.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mel2.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.stage.one.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.legacylistener.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mou.int.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mou.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.leh.ext.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.RES-DR-CA-NCLU.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vc-ssl.dr.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.blu-prd-ca-nclu.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "theroot.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "catest.digicert-high-assurance-ev-ca-1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.fw1.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fw2.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ev-root-rv.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.assured-id-root-ca.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.assured-id-root-ca-revoked.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pki.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pki-admin.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.admin-enroll-pilot.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.admin-manager-pilot.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pki-pilot.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.admin-pilot.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ocsp-pilot.au.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.trusted-root-g4.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.ban.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.blu.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.bmu.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.cap.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.dub.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.eug.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.gal.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.gin.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.ham.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.kaw.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.lon.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.mec.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.mel.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.mtv.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.mun.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.nie.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.nld.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.res.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.sap.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.sgu.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.swe.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.tgp.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q1LXCLPM02.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.clearpass.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.webcms.dcj.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "k8s.demo.snowbird.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vc1-dev.vc.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.captive-portal.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.prod.cle.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.prod.dub.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.prod.pdx.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.prod.rva.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.prod.sng.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dcr.pkiplatform.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "k8s.pkiplatform.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pkiplatform.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vc-ssl.prod.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.BLU-PRD-SSL-NCLU.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.trustcenter-enterprise.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.trustcenter.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.getcert.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.le1nafs01.tgp.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.u1nafs01.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.q1nafs01.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.q1nafs02.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.e1nafs01.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.e1nafs02.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.pkiplatform.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.wsus.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "aemcloud.corp.dr.res.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.us.blu.arista.cvp-1.1.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.Q1LXCLPM01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.images.updates.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.u1nafs01-clu.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.q1nafs01-clu.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.q1nafs02-clu.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.e1nafs01-clu.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.e1nafs02-clu.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.summit.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.skippy.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.brew.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.catgpwebsvc01.ca.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.kube.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mmadmin-manager.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mmadmin-enroll.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mmadmin.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.RES-DR-SBO-NCLU1.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.RES-DR-NCLU2.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.RES-DR-NCLU1.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.MEL-PRD-NCLU1.mel.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.BLU-PRD-SBO-NCLU1.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.BLU-PRD-NCLU2.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.BLU-PRD-NCLU1.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.BLU-DEV-SBO-NCLU1.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.BLU-DEV-NCLU2.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.BLU-DEV-NCLU1.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.M2WIADSDC02.mel.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.M1WIADSDC01.mel.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.E2WIADSDC02.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.E1WIADSDC01.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.U2WIADSDC02.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.U1WIADSDC01.blu.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.E1WIADSMDC01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.U2WIADSMDC02.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.U1WIADSMDC01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vsc.ws.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.trustblade.ws.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ft3-products.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ft3-api.ws.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ft3-cc-admin.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.images.shoppingguarantee.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.evcs.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.sentinel.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.docs.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.casguupdate.ca.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.gorgon.ct.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pilot-mmadmin.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pilot-mmadmin-enroll.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pilot-mmadmin-manager.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pilot-sentinel.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.labsonar.sbolab.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "bom.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.U1WIWSUS01.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.test-cc-admin.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.test-api.ws.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.test-products.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.integration.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.Q1LXCLPM02.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mou.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.tgp.gw.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.app.shoppingguarantee.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "aemcloud.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.aem-cloud.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.aem.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wac.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pilot-certmanager.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.aem-cloud.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.beta.snowbird.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.sso.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.cic.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.cws.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.cws-as.websecurity.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "aemcloud.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.integration-cc.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.rancher.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.cle1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www2019.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "helpspot.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "veeam-portal.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ad1.tgp.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wyvern2020.ct.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wyvern2021.ct.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wyvern2022.ct.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wyvern2023.ct.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ad1.sgu.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.cle.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.pdx2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.pdx.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "repo.dev.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "audittesting2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "labs.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1LXE11IAP01.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U2LXE11IAP03.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1LXFPEC1W1.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1LXFPEC1W2.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U2LXFPEC2W1.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U2LXFPEC2W2.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1LXSBX01.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "U1LXSBX02.corp.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "T1LXSBX01.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "T1LXSBX02.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "T1LXFPEC1W1.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "T1LXFPEC1W2.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "T1LXE11IAP01.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "T1LXE11IAP03.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q1LXFPEC1W1.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q1LXFPEC1W2.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q1LXSBX02.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "sabrxdev.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q1LXE11IAP01.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q1LXE11IAP03.corp.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkcm01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkds01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkes01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkevent.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf02.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf03.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf04.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf05.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf06.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin02.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin03.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin04.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin05.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin06.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin07.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin08.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin09.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin10.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin11.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin12.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin13.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin14.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin15.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin16.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin17.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin18.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin19.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunksh01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunksh02.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunksh03.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vc1.prd.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "vs1.slc1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "manageengine.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "knowledgebase-internal.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "seal-test-symclab.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "inside-api2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "inside-api.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ldaps.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "idp2.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "idp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.securitysummit17.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "stage.tgp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "helpspot.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "intra.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "jira.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "wiki.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ccbeta.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.backup.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "support.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "metrics.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fw2.sgu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "palo.sgu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fw2.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "palo.slc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "d1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "d2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "d3.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "deploy.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "launch.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ctd1.wdc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ctd2.sjc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ctd2.wdc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ctdb.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ex1-sgu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "secure-server-ca.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ex2.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "email.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ex1.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "ex2.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fw01.slc03.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "j.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "test.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "pleasebet61.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "fingerscrossed.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "justatest.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.origin.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ev-root-expired.chain-demos.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.quovadis-root-ca-1-g3-revoked.chain-demos.digicert.com",
+    "ip": ""
+  }
+]

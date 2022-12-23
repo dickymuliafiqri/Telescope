@@ -1,0 +1,394 @@
+[
+  {
+    "domain": "email.mg.midtrans.com",
+    "ip": "mailgun.org"
+  },
+  {
+    "domain": "beta-docs.midtrans.com",
+    "ip": "104.17.3.81"
+  },
+  {
+    "domain": "openapi.midtrans.com",
+    "ip": "54.251.86.142"
+  },
+  {
+    "domain": "api.vn.midtrans.com",
+    "ip": "35.186.155.107"
+  },
+  {
+    "domain": "pixel.midtrans.com",
+    "ip": "104.17.2.81"
+  },
+  {
+    "domain": "ops.midtrans.com",
+    "ip": "103.208.23.22"
+  },
+  {
+    "domain": "vpn.jkt.midtrans.com",
+    "ip": "117.102.113.10"
+  },
+  {
+    "domain": "plugins-demo.midtrans.com",
+    "ip": "109.106.252.241"
+  },
+  {
+    "domain": "komodo.midtrans.com",
+    "ip": "104.17.2.81"
+  },
+  {
+    "domain": "engineering.midtrans.com",
+    "ip": "104.18.131.189"
+  },
+  {
+    "domain": "collections.midtrans.com",
+    "ip": "34.101.179.22"
+  },
+  {
+    "domain": "api.google.midtrans.com",
+    "ip": "103.208.23.37"
+  },
+  {
+    "domain": "saudagar-internal.sandbox.midtrans.com",
+    "ip": "igs.sandbox.midtrans.com"
+  },
+  {
+    "domain": "temu.midtrans.com",
+    "ip": "2528720.group20.sites.hubspot.net"
+  },
+  {
+    "domain": "pmm.sandbox.midtrans.com",
+    "ip": "igs.sandbox.midtrans.com"
+  },
+  {
+    "domain": "mami.sandbox.midtrans.com",
+    "ip": "103.58.103.188"
+  },
+  {
+    "domain": "info.midtrans.com",
+    "ip": "9c3ff2a82faf476d894d107d13b0f56e.unbouncepages.com"
+  },
+  {
+    "domain": "vt-pixels.sandbox.midtrans.com",
+    "ip": "103.58.103.189"
+  },
+  {
+    "domain": "partners.midtrans.com",
+    "ip": "cf-lb-partners.midtrans.com"
+  },
+  {
+    "domain": "cf-lb-partners.midtrans.com",
+    "ip": "103.208.23.36"
+  },
+  {
+    "domain": "stig.midtrans.com",
+    "ip": "157.230.192.154"
+  },
+  {
+    "domain": "aegis.midtrans.com",
+    "ip": "104.17.2.81"
+  },
+  {
+    "domain": "status.midtrans.com",
+    "ip": "104.17.133.16"
+  },
+  {
+    "domain": "snap-docs.midtrans.com",
+    "ip": "104.17.134.16"
+  },
+  {
+    "domain": "support.midtrans.com",
+    "ip": "vtsupport.zendesk.com"
+  },
+  {
+    "domain": "www.midtrans.com",
+    "ip": "104.17.133.16"
+  },
+  {
+    "domain": "tekno.midtrans.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.dashboard.midtrans.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.account.midtrans.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.analytics.midtrans.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.payments.midtrans.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "mid.midtrans.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.aegis.midtrans.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "account.stg.midtrans.com",
+    "ip": "117.102.118.212"
+  },
+  {
+    "domain": "demo.midtrans.com",
+    "ip": "104.17.134.16"
+  },
+  {
+    "domain": "grafana.ops.midtrans.com",
+    "ip": "103.44.26.169"
+  },
+  {
+    "domain": "dashboard.midtrans.com",
+    "ip": "104.17.2.81"
+  },
+  {
+    "domain": "account.midtrans.com",
+    "ip": "104.16.44.37"
+  },
+  {
+    "domain": "iris-docs.midtrans.com",
+    "ip": "iris-docs.midtrans.com.herokudns.com"
+  },
+  {
+    "domain": "vt-pixels.midtrans.com",
+    "ip": "104.17.2.81"
+  },
+  {
+    "domain": "dashboard.sandbox.midtrans.com",
+    "ip": "igs.sandbox.midtrans.com"
+  },
+  {
+    "domain": "iris.sandbox.midtrans.com",
+    "ip": "igs.sandbox.midtrans.com"
+  },
+  {
+    "domain": "simulator.sandbox.midtrans.com",
+    "ip": "igs.sandbox.midtrans.com"
+  },
+  {
+    "domain": "passport.sandbox.midtrans.com",
+    "ip": "igs.sandbox.midtrans.com"
+  },
+  {
+    "domain": "ops.sandbox.midtrans.com",
+    "ip": "igs.sandbox.midtrans.com"
+  },
+  {
+    "domain": "internal.sandbox.midtrans.com",
+    "ip": "igs.sandbox.midtrans.com"
+  },
+  {
+    "domain": "iris-banksim.sandbox.midtrans.com",
+    "ip": "igs.sandbox.midtrans.com"
+  },
+  {
+    "domain": "passport-cb.sandbox.midtrans.com",
+    "ip": "igs.sandbox.midtrans.com"
+  },
+  {
+    "domain": "gencert.ops.midtrans.com",
+    "ip": "103.58.103.189"
+  },
+  {
+    "domain": "igs.sandbox.midtrans.com",
+    "ip": "103.58.103.189"
+  },
+  {
+    "domain": "www.api.midtrans.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "mrt.ops.midtrans.com",
+    "ip": "cf-lb.pvt00068.midtrans.com"
+  },
+  {
+    "domain": "cf-lb.pvt00068.midtrans.com",
+    "ip": "103.44.26.216"
+  },
+  {
+    "domain": "dimas.sandbox.midtrans.com",
+    "ip": "103.44.26.170"
+  },
+  {
+    "domain": "athena-docs.midtrans.com",
+    "ip": "iris-docs.midtrans.com.herokudns.com"
+  },
+  {
+    "domain": "unicorn.ops.midtrans.com",
+    "ip": "103.44.26.170"
+  },
+  {
+    "domain": "api.sandbox.midtrans.com",
+    "ip": "103.58.103.188"
+  },
+  {
+    "domain": "app.sandbox.midtrans.com",
+    "ip": "103.58.103.188"
+  },
+  {
+    "domain": "blog.midtrans.com",
+    "ip": "104.18.129.189"
+  },
+  {
+    "domain": "docs.midtrans.com",
+    "ip": "104.16.38.55"
+  },
+  {
+    "domain": "api.midtrans.com",
+    "ip": "104.16.135.148"
+  },
+  {
+    "domain": "app.midtrans.com",
+    "ip": "104.16.70.40"
+  },
+  {
+    "domain": "midtrans.com",
+    "ip": "50.63.202.12"
+  },
+  {
+    "domain": "p-prodsec-stig.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "cf-lb.api.google.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "api.stg.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "cf-lb-api.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "cf-lb-app.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "mobile-docs.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "api-docs.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "dc1.ops.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "cf-lb.sandbox.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "account-gopay.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "passport-gopay.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "tcb-b.vn.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "tcb-a.vn.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "mpgs.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "uob-exc.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "uob.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "recurring.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "store.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "vtweb2.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "checkout.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "analytics.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "andes.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "payments.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "fingerprint.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "stg-checkout.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.mpgs.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "sg.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.api.google.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "jkt.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "sandbox.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "stg.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.vtweb2.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.app.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.checkout.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "diesel.stg.midtrans.com",
+    "ip": ""
+  }
+]
