@@ -1,1 +1,3326 @@
-[]
+[
+  {
+    "domain": "0000.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "laina2000.academia.edu",
+    "ip": "108.157.4.55"
+  },
+  {
+    "domain": "fami4real2000.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "lainat2000.academia.edu",
+    "ip": "108.157.4.32"
+  },
+  {
+    "domain": "ingenieria110.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "sentry-safe-ds3410.academia.edu",
+    "ip": "108.157.4.129"
+  },
+  {
+    "domain": "paris10.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "u-paris10.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "wwwu-paris10.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "120.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "220.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "vantran220.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "ricardogutierrez20.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "albertoherrera70.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "lounaunima260990.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "sf0.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "cfassets0.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "ifdyt9001.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "icits2011.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "hfont2011.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "shanhuihui111.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "21.academia.edu",
+    "ip": "108.157.4.129"
+  },
+  {
+    "domain": "221.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "nasirmuhammad51.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "nirmalendusaha61.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "sandylatina81.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "sujitsinha1.academia.edu",
+    "ip": "18.65.3.45"
+  },
+  {
+    "domain": "it-uniroma1.academia.edu",
+    "ip": "108.156.107.80"
+  },
+  {
+    "domain": "www.uniroma1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "wwwuniroma1.academia.edu",
+    "ip": "65.8.158.97"
+  },
+  {
+    "domain": "bobbionorbertoestadopoderygobiernoestadogobiernoysociedad1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "adelaide1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "dicle1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "lille1.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "univ-lille1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "u-bourgogne1.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "unipune1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "indire1.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "univ-tlse1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "mef1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "uni-leipzig1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "uni-marburg1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "unibe-ch1.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "th1.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "cehsegreti1.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "ui1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "pu-pk1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "vgpl1.academia.edu",
+    "ip": "108.157.4.56"
+  },
+  {
+    "domain": "unam1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "uqam1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "ignatianum1.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "univ-tlemcen1.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "uni-tuebingen1.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "carolyndunn1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "bernardharrison1.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "univ-lyon1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "upn1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "1to1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univ-montp1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "belajargitar1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "usp-br1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "ahmedshaker1.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "miu-ir1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univ-rennes1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "paris1.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "unive-paris1.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "u-paris1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univ-paris1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "angeliquedavis1.academia.edu",
+    "ip": "108.157.4.32"
+  },
+  {
+    "domain": "taylors1.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "swbts1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "assets1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "unige-it1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "romlit1.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "charlenevincent1.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "u-clermont1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "uni-frankfurt1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "www.uni-frankfurt1.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "cqu1.academia.edu",
+    "ip": "108.157.4.55"
+  },
+  {
+    "domain": "osu1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "iuav1.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "u-bordeaux1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "ubordeaux1.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "hnrmhpdf1980pdfvol48-2-1980-2.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "israelashvilibukobzakim2012.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "312312.academia.edu",
+    "ip": "99.84.126.77"
+  },
+  {
+    "domain": "davidmerrill12.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "univ-paris12.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "sfb-trr-62.academia.edu",
+    "ip": "108.157.4.129"
+  },
+  {
+    "domain": "162.academia.edu",
+    "ip": "108.157.4.129"
+  },
+  {
+    "domain": "anaalves162.academia.edu",
+    "ip": "108.157.4.129"
+  },
+  {
+    "domain": "eca72.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "uniroma2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "unina2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "insulaid2.academia.edu",
+    "ip": "143.204.29.73"
+  },
+  {
+    "domain": "medien-space2.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "universite-yde2.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "univ-tlse2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univ-setif2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "unibe-ch2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "greenwich2.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "lyon2.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "universite-lyon2.academia.edu",
+    "ip": "13.227.74.75"
+  },
+  {
+    "domain": "univ-lyon2.academia.edu",
+    "ip": "108.156.107.80"
+  },
+  {
+    "domain": "www.univ-lyon2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "o2.academia.edu",
+    "ip": "108.138.246.2"
+  },
+  {
+    "domain": "upjp2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univ-montp2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univ-alger2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "christophermiller2.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "univ-rennes2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "u-paris2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "kopertis2.academia.edu",
+    "ip": "108.157.4.129"
+  },
+  {
+    "domain": "assets2.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "davidcamus2.academia.edu",
+    "ip": "108.138.246.30"
+  },
+  {
+    "domain": "u-bordeaux2.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univ-nancy2.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "hilaryperry2.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "constantine03.academia.edu",
+    "ip": "65.8.158.108"
+  },
+  {
+    "domain": "ahmadsudirman13.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "univ-paris13.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "isetjuan23.academia.edu",
+    "ip": "108.157.4.56"
+  },
+  {
+    "domain": "antoniovieira33.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "cg43.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "173.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "roma3.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "uniroma3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "mc3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "u-grenoble3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univ-lille3.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "peterirvine3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "petermorrison3.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "univ-lyon3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "pauladecastro3.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "in2p3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univ-montp3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univ-dalger3.academia.edu",
+    "ip": "108.157.4.56"
+  },
+  {
+    "domain": "univ-montpellier3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "paris3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univ-paris3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "univparis3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "assets3.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "cfassets3.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "u-bordeaux3.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "204.academia.edu",
+    "ip": "99.86.207.88"
+  },
+  {
+    "domain": "cg04.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "krosno24.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "brbr24.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "mika0453189634.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "paulp0834.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "peterthompson34.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "accessdenied64.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "bnca94.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "josephola4.academia.edu",
+    "ip": "108.138.246.2"
+  },
+  {
+    "domain": "uniroma4.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "ced4.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "2013shoxr4.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "edwinsolares4.academia.edu",
+    "ip": "108.157.4.32"
+  },
+  {
+    "domain": "fernandomatamoros4.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "esu4.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "u-bordeaux4.academia.edu",
+    "ip": "108.138.246.30"
+  },
+  {
+    "domain": "kanishksingh15.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "225.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "cbta35.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "t35.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "uta45.academia.edu",
+    "ip": "108.157.4.56"
+  },
+  {
+    "domain": "255.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "65.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "asiatravel365.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "alexandrepereira85.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "jordimarti5.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "andrewfraser5.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "univ-paris5.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "charlessaunders5.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "johnwright106.academia.edu",
+    "ip": "108.138.246.2"
+  },
+  {
+    "domain": "michaelthinguriephesians41516.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "pal-a16.academia.edu",
+    "ip": "108.157.4.129"
+  },
+  {
+    "domain": "exc16.academia.edu",
+    "ip": "108.157.4.56"
+  },
+  {
+    "domain": "hussainkhan16.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "paulstephenson16.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "isocs-26.academia.edu",
+    "ip": "108.138.246.2"
+  },
+  {
+    "domain": "236.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "246.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "stie66.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "unsam66.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "76.academia.edu",
+    "ip": "108.157.4.55"
+  },
+  {
+    "domain": "health786.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "charlesparker6.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "vasiletudor6.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "107.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "lilib17.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "jennifertucker17.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "jasonwilson27.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "santiagoalvarez137.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "247.academia.edu",
+    "ip": "99.84.126.77"
+  },
+  {
+    "domain": "shputzim247.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "archeo57.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "arte7.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "carreteravalldemosakm7.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "orientalecom7.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "camp7.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "paris7.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "univ-paris7.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "davidhaley7.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "8.academia.edu",
+    "ip": "108.157.4.55"
+  },
+  {
+    "domain": "public08.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "218.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "iro18.academia.edu",
+    "ip": "13.226.225.97"
+  },
+  {
+    "domain": "28.academia.edu",
+    "ip": "99.86.38.68"
+  },
+  {
+    "domain": "tiennguyen228.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "bobbybrown28.academia.edu",
+    "ip": "108.138.246.30"
+  },
+  {
+    "domain": "cwilliams28.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "248.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "spp1448.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "158.academia.edu",
+    "ip": "99.86.38.68"
+  },
+  {
+    "domain": "mta01258.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "cetis58.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "jnrt-20078.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "net78.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "malocasin88.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "egpmaju88.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "galaxy88.academia.edu",
+    "ip": "108.138.246.2"
+  },
+  {
+    "domain": "olmec98.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "magdagarcia8.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "paris8.academia.edu",
+    "ip": "108.157.4.55"
+  },
+  {
+    "domain": "univ-paris8.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "iium2009.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "239.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "muzeum1939.academia.edu",
+    "ip": "108.138.246.2"
+  },
+  {
+    "domain": "79.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "189.academia.edu",
+    "ip": "143.204.30.8"
+  },
+  {
+    "domain": "liga99.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "a.academia.edu",
+    "ip": "108.157.4.56"
+  },
+  {
+    "domain": "xn--80a.academia.edu",
+    "ip": "13.227.74.75"
+  },
+  {
+    "domain": "xn--approachesandmethodsinlanguageteaching-tl11a.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "xn--universit-y1a.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "xn--yaar-65a.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "um5a.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "caa.academia.edu",
+    "ip": "18.65.3.45"
+  },
+  {
+    "domain": "iucaa.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "ceaa.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "biaa.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "cnaa.academia.edu",
+    "ip": "108.157.4.129"
+  },
+  {
+    "domain": "noaa.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "nefsc-noaa.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "nwfsc-noaa.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "dpaa.academia.edu",
+    "ip": "108.157.4.56"
+  },
+  {
+    "domain": "raa.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "uaa.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "buaa.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "nuaa.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "nyaa.academia.edu",
+    "ip": "108.138.246.2"
+  },
+  {
+    "domain": "unsa-ba.academia.edu",
+    "ip": "108.138.246.30"
+  },
+  {
+    "domain": "ius-ba.academia.edu",
+    "ip": "65.8.158.97"
+  },
+  {
+    "domain": "ibu-ba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "addisababa.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "javneymohrmaba.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "naba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "epst-annaba.academia.edu",
+    "ip": "108.157.4.32"
+  },
+  {
+    "domain": "univ-annaba.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "macba.academia.edu",
+    "ip": "108.138.246.30"
+  },
+  {
+    "domain": "ucbcba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "llanocba.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "nucba.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "ifba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "ufba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "iba.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "it-chiba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "poliba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "uniba.academia.edu",
+    "ip": "99.84.126.77"
+  },
+  {
+    "domain": "siba.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "unicuritiba.academia.edu",
+    "ip": "108.157.4.56"
+  },
+  {
+    "domain": "accademiabelleartiba.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "centroelba.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "ie-smu-mba.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "wasedamba.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "femba.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "fldm-usmba.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "zumba.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "mnba.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "cordoba.academia.edu",
+    "ip": "54.230.18.67"
+  },
+  {
+    "domain": "unicordoba.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "umanitoba.academia.edu",
+    "ip": "13.227.74.75"
+  },
+  {
+    "domain": "pba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "lab-urba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "observatoriconflicteurba.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "esba.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "uba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "www.uba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "euba.academia.edu",
+    "ip": "108.157.4.32"
+  },
+  {
+    "domain": "tsukuba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "www.tsukuba.academia.edu",
+    "ip": "108.156.107.80"
+  },
+  {
+    "domain": "ffyluba.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "manouba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "stuba.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "wwwuba.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "savba.academia.edu",
+    "ip": "65.8.158.108"
+  },
+  {
+    "domain": "ca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "mta-ca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "mhc-ca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "rmc-ca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "nrc-ca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "newman-ca.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "carleton-ca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "uqar-ca.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "stmarys-ca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "uft-ca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "cbu-ca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "wlu-ca.academia.edu",
+    "ip": "13.227.74.75"
+  },
+  {
+    "domain": "smu-ca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "tu-ca.academia.edu",
+    "ip": "18.65.3.45"
+  },
+  {
+    "domain": "ufv-ca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "xn--7ca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "aca.academia.edu",
+    "ip": "108.156.107.80"
+  },
+  {
+    "domain": "ithaca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "maca.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "cca.academia.edu",
+    "ip": "99.86.38.68"
+  },
+  {
+    "domain": "dianic-wicca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "museu-altarocca.academia.edu",
+    "ip": "108.138.246.2"
+  },
+  {
+    "domain": "imtlucca.academia.edu",
+    "ip": "143.204.29.73"
+  },
+  {
+    "domain": "eca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "geca.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "meca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "cesmeca.academia.edu",
+    "ip": "99.86.38.68"
+  },
+  {
+    "domain": "enseirb-matmeca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "cineca.academia.edu",
+    "ip": "99.86.38.68"
+  },
+  {
+    "domain": "vitorfonseca.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "seteca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "fca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "usfca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "ufca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "iehca.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "udenargaica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "universidadnacionalsanluisgonzagadeica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "pacifica.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "pedagogica.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "methodologica.academia.edu",
+    "ip": "108.157.4.56"
+  },
+  {
+    "domain": "facoltateologica.academia.edu",
+    "ip": "108.138.246.30"
+  },
+  {
+    "domain": "unitecnologica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "libertesphilosophica.academia.edu",
+    "ip": "13.227.74.75"
+  },
+  {
+    "domain": "apologeticacatolica.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "ucatolica.academia.edu",
+    "ip": "13.227.74.75"
+  },
+  {
+    "domain": "cattolica.academia.edu",
+    "ip": "108.157.4.129"
+  },
+  {
+    "domain": "laciviltacattolica.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "unicattolica.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "mica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "encyclopaediaislamica.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "aquademica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "chimica.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "geoeconomica.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "apolitecnica.academia.edu",
+    "ip": "108.138.246.30"
+  },
+  {
+    "domain": "sinica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "monica.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "unica.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "www-unica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "wwwunica.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "byzantinohungarica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "museocostarica.academia.edu",
+    "ip": "13.227.74.75"
+  },
+  {
+    "domain": "federica.academia.edu",
+    "ip": "13.226.225.97"
+  },
+  {
+    "domain": "midamerica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "uamerica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "tccafrica.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "sica.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "arcaucasica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "jurassica.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "accademianumismatica.academia.edu",
+    "ip": "108.138.246.30"
+  },
+  {
+    "domain": "antarctica.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "historiapolitica.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "culturapolitica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "humanistica.academia.edu",
+    "ip": "13.227.74.75"
+  },
+  {
+    "domain": "utica.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "sjca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "eymenakca.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "utalca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "cemca.academia.edu",
+    "ip": "99.86.38.68"
+  },
+  {
+    "domain": "newdelhiymca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "uniymca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "nca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "davidcabianca.academia.edu",
+    "ip": "108.157.4.32"
+  },
+  {
+    "domain": "centrale-casablanca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "elcuenca.academia.edu",
+    "ip": "13.226.225.97"
+  },
+  {
+    "domain": "ucuenca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "pnca.academia.edu",
+    "ip": "108.157.4.32"
+  },
+  {
+    "domain": "unca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "itboca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "trapca.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "ipca.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "rca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "ajrca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "sca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "montesca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "essca.academia.edu",
+    "ip": "108.138.246.30"
+  },
+  {
+    "domain": "usca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "gausca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "accademiadellacrusca.academia.edu",
+    "ip": "108.138.246.2"
+  },
+  {
+    "domain": "uca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "auca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "unicauca.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "veduca.academia.edu",
+    "ip": "108.138.246.30"
+  },
+  {
+    "domain": "silingardiluca.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "nuca.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "swca.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "da.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "h-da.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "simbada.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "ulusiada.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "lis-ulusiada.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "ferrantallada.academia.edu",
+    "ip": "108.157.4.56"
+  },
+  {
+    "domain": "gajahmada.academia.edu",
+    "ip": "108.138.246.2"
+  },
+  {
+    "domain": "blumada.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "canada.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "fbccanada.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "icscanada.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "granada.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "teol-granada.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "universidadgranada.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "centrodeinvestigacincientficayeducacinsuperiordeensenada.academia.edu",
+    "ip": "54.230.18.67"
+  },
+  {
+    "domain": "jntukakinada.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "djunada.academia.edu",
+    "ip": "65.8.66.52"
+  },
+  {
+    "domain": "rada.academia.edu",
+    "ip": "108.157.4.55"
+  },
+  {
+    "domain": "alvorada.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "andreaestrada.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "ksada.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "stikeswirahusada.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "stikesmalukuhusada.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "nevada.academia.edu",
+    "ip": "108.156.107.80"
+  },
+  {
+    "domain": "sierranevada.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "artificialgrasslasvegasnevada.academia.edu",
+    "ip": "13.227.74.75"
+  },
+  {
+    "domain": "drbabasahebambedkarmarathwada.academia.edu",
+    "ip": "65.8.66.52"
+  },
+  {
+    "domain": "bda.academia.edu",
+    "ip": "18.65.3.75"
+  },
+  {
+    "domain": "armandochaguaceda.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "usergioarboleda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "yovannapineda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "waseda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "uwaseda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "medicinaayurveda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "gda.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "asp-gda.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "agda.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "ida.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "fedpolybida.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "wicida.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "lleida.academia.edu",
+    "ip": "13.227.74.75"
+  },
+  {
+    "domain": "courtneyweida.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "mitsuoyoshida.academia.edu",
+    "ip": "108.157.4.129"
+  },
+  {
+    "domain": "faculdadeunida.academia.edu",
+    "ip": "143.204.29.73"
+  },
+  {
+    "domain": "unefamerida.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "consorciomerida.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "florida.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "akesrustida.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "filosofiaparalavida.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "wwwdroit-oujda.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "univ-skikda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "ukda.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "esmeralda.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "nlda.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "hivolda.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "thf-fulda.academia.edu",
+    "ip": "108.157.4.129"
+  },
+  {
+    "domain": "fh-fulda.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "joseangelgarcialanda.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "nalanda.academia.edu",
+    "ip": "18.65.3.45"
+  },
+  {
+    "domain": "thenalanda.academia.edu",
+    "ip": "99.84.126.77"
+  },
+  {
+    "domain": "ahonapanda.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "djuanda.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "minda.academia.edu",
+    "ip": "18.65.3.45"
+  },
+  {
+    "domain": "iain-samarinda.academia.edu",
+    "ip": "13.226.225.97"
+  },
+  {
+    "domain": "stainsamarinda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "luismiguelrionda.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "lbscdecapoda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "msubaroda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "wwwmsubaroda.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "uoda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "mpda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "sharda.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "rlacerda.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "uda.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "uni-obuda.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "suda.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "tsuda.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "cea.academia.edu",
+    "ip": "99.86.38.68"
+  },
+  {
+    "domain": "antoanelagarbacea.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "gabrielastoicea.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "liviuchelcea.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "rcea.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "uoradea.academia.edu",
+    "ip": "18.65.3.87"
+  },
+  {
+    "domain": "ihavenoidea.academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "wikipidea.academia.edu",
+    "ip": "99.84.238.200"
+  },
+  {
+    "domain": "marinaarboraldea.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "tdea.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "udea.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "mastozoologiaudea.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "alexandrasandulescubudea.academia.edu",
+    "ip": "108.157.4.56"
+  },
+  {
+    "domain": "gea.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "inshea.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "insthea.academia.edu",
+    "ip": "18.65.3.111"
+  },
+  {
+    "domain": "paris-iea.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "kea.academia.edu",
+    "ip": "99.84.238.159"
+  },
+  {
+    "domain": "clea.academia.edu",
+    "ip": "99.84.238.209"
+  },
+  {
+    "domain": "vu.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "escu.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "cmu.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "uthscsa.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "unistrasi.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "cieq.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "caltech.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "ceeac-eccas.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "kingscollegelondon.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "viic.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "bgu.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "uniroma1.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "tust.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "stba-prayoga.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "univ-lille2.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "uct.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "uva.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "univ-catholyon.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "driestar-educatief.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "hdemia.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "oswaldocruz.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "goglsls.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "garph.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "amherst.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "pucp.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "englishandforeignlanguagesuniversity.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "fsvucm.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "ukf.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "calarts.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "iliauni.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "shadowfight2-hack.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "appliancerepair-brooklyn.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "vpu.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "unlam-ar.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "ikc.academia.edu",
+    "ip": "99.86.38.23"
+  },
+  {
+    "domain": "mit.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "giovannisemi.academia.edu",
+    "ip": "99.86.38.44"
+  },
+  {
+    "domain": "azdemmehdi.academia.edu",
+    "ip": "99.86.38.101"
+  },
+  {
+    "domain": "www.aucegypt.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "asu.academia.edu",
+    "ip": "99.86.38.44"
+  },
+  {
+    "domain": "cdkc.academia.edu",
+    "ip": "99.86.38.44"
+  },
+  {
+    "domain": "aub-lb.academia.edu",
+    "ip": "99.86.38.101"
+  },
+  {
+    "domain": "ucdenver.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "unisa-au.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "du.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "universitaeuropeadiroma.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "escuelaeuropea.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "taiwan.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "yaspendhar.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "kit.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "unifr.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "ucriverside.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "ufmg.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "uniandes.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "trecemartirescitycollege.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "bethallisonbarr.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "imli.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "pkv.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "ibei.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "icrea.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "northwestern.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "thebody.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "ntbg.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "unirio.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "teologiaburgos.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "maxweberstiftung.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "uu.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "unicatt.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "pierrelavoie.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "nvidia.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "javainstitute.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "nicosia.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "kvampangan.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "unicv.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "ulaval.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "udec-cl.academia.edu",
+    "ip": "65.8.158.105"
+  },
+  {
+    "domain": "neomed.academia.edu",
+    "ip": "99.86.38.23"
+  },
+  {
+    "domain": "allahabaduniversity.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "rudn.academia.edu",
+    "ip": "65.8.158.108"
+  },
+  {
+    "domain": "universidadedoestadodabahia.academia.edu",
+    "ip": "108.138.246.30"
+  },
+  {
+    "domain": "polinema.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "univ-silkroad.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "pidamuniversity.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "open.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "ftic.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "fordham.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "desperateamateurs.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "oxford.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "uoi.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "umayor.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "uv.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "unc.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "yrte.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "euetib.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "ulacit.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "rosario.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "agar.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "theodorearthurpinnock.academia.edu",
+    "ip": "99.86.38.101"
+  },
+  {
+    "domain": "csde.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "damanhour.academia.edu",
+    "ip": "65.8.158.97"
+  },
+  {
+    "domain": "smpn35sby.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "haifa.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "dha.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "tcd.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "soas.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "cnrs.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "unisarc.academia.edu",
+    "ip": "99.86.38.44"
+  },
+  {
+    "domain": "kriss.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "pbru.academia.edu",
+    "ip": "65.8.66.110"
+  },
+  {
+    "domain": "canbridge.academia.edu",
+    "ip": "99.84.238.145"
+  },
+  {
+    "domain": "usfq.academia.edu",
+    "ip": "65.8.66.11"
+  },
+  {
+    "domain": "wbts.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "stthom.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "macomb.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "ccrum.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "isparta.academia.edu",
+    "ip": "99.86.38.44"
+  },
+  {
+    "domain": "cervantesvirtual.academia.edu",
+    "ip": "108.138.246.23"
+  },
+  {
+    "domain": "academia.edu",
+    "ip": "108.138.246.31"
+  },
+  {
+    "domain": "syr.academia.edu",
+    "ip": "18.65.229.57"
+  },
+  {
+    "domain": "institutomallea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "enea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "unea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "cordioea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "universidadeuropea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "berea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "korea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "sea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "swansea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "uea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ubuea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "cuea.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "fa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "iaibafa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "rafa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "strefa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "mgfa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "blogfa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "shfa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ikifa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "khalifa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "unifa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "cofa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "transportmarfa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "asfa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ufa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "uokufa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "clasesdesalsaenmalaga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "taniafraga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "gonzaga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "upbbga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ccga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "antropoloxiagalega.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "arlangga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "rhga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "conimbriga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "iainsalatiga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "stainsalatiga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ajazcrahvdcslqedkkitxxzyiuzgxezosljwkjga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "mga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "candymanga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "xanga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "maringa.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "dilanthiamaratunga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "westga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "uga.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ihaha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "unomaha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ssaha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "unwaha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "facha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ocha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "benha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "marinha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "aspha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "doshisha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "maranatha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "vetha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ajitha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "uha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ewha.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "marcusmaia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "polytechnicnamibia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "universidaddelvallecolombia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "columbia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "universityofbritishcolumbia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "esgallaecia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "esadgalicia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ciesasdocencia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "germanlozanogarcia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "murcia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "museosdemurcia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "brescia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "hsantalucia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "arcadia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "unimedia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "aguapedia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "wikipedia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "guampedia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "sandia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "cis-india.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "rvceindia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ieindia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "bapucamhindia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "jawaharlalanehrunewdelhiindia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "basecampindia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "nrigroupindia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "censusindia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "laguardia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "concordia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ccorreia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ddfia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "menofia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "sofia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "uni-sofia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "tu-sofia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "vikybahagia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "archeologia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "era-arqueologia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "macarqueologia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "jasarqueologia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "psychologia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "antropologia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "uam-antropologia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "politologia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "northgeorgia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "valahia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "sophia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "fiia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "siia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "albanologjia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "nokia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "lpkia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "tinggaldiaustralia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "icp-italia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "sumitalia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "medievalia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "janelia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "anglia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "eastanglia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "conservatoriosantacecilia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "sicilia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "brasilia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "e-jlia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "veolia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "metropolia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "anatolia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "universidadedebraslia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "jamiamilliaislamia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "epheacademia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "euroacademia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "urmia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "artsmia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "accademiadicatania.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "acadenia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "virginia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "minia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "fredonia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "gestaltsalonia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "unia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "arkeotopia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "fernandosantamaria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ensdemaria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "avemaria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "uleam-secretaria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "cumbria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "northumbria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "uninsubria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "cria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ifra-nigeria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "lasunigeria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "facultaddeingenieria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ipleiria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "inria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "theoria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "institutoterramemoria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "victoria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "universityofvictoria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ufvitoria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "idamanpria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "centria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ist-austria.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ucentralasia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "sasia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "feu-eastasia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "indonesia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "besta-indonesia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ums-indonesia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "universitasterbukaindonesia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "uwindonesia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "teknologimalaysia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "conservatoriovibovalentia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "suplementia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "wwwuia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "iusspavia.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "antyczna-grecja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "nebrija.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "xpofmnutlwuxjtkksiuokpqhshncodehjtquvlja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "unja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "universidadinternacionaldelarioja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "unirioja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "wwwunirioja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "salemuniversitylokoja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "universidadnacionaldeloja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "raharja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "shsja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "unibuja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "vizja.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "annairenebaka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "iutoic-dhaka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "univdhaka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "usnkolaka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "meraka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "eliskabrtnicka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "wdka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "afeka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "eureka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "kyoto-seika.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "estrategika.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "unsika.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "chromatika.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "sociolingvistika.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "instika.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "ppsuika.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "universitynigeriansukka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "lka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "whosrilanka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "gdgoenka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "botkyrka.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "isi-ska.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "alaska.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "politechnikaslaska.academia.edu",
+    "ip": ""
+  }
+]

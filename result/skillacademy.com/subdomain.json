@@ -32,10 +32,6 @@
     "ip": "2606:2c40::c73c:671c"
   },
   {
-    "domain": "wa-me.skillacademy.com",
-    "ip": "104.18.24.139"
-  },
-  {
     "domain": "sunsilk.skillacademy.com",
     "ip": "2606:2c40::c73c:67e4"
   },
@@ -70,10 +66,6 @@
   {
     "domain": "kisahsukses.skillacademy.com",
     "ip": "2828691.group41.sites.hubspot.net"
-  },
-  {
-    "domain": "skillacademy.com",
-    "ip": "104.18.25.139"
   },
   {
     "domain": "enterprise.skillacademy.com",
@@ -128,7 +120,15 @@
     "ip": "p2.shared.global.fastly.net"
   },
   {
+    "domain": "skillacademy.com",
+    "ip": "104.18.24.139"
+  },
+  {
+    "domain": "wa-me.skillacademy.com",
+    "ip": "104.18.25.139"
+  },
+  {
     "domain": "www.skillacademy.com",
-    "ip": "54.229.13.177"
+    "ip": "104.18.25.139"
   }
 ]
