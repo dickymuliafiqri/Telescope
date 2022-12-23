@@ -1,13 +1,5 @@
 [
   {
-    "domain": "www.kno2fy.com",
-    "ip": "2606:4700::6812:b27"
-  },
-  {
-    "domain": "wfmonitor.kno2fy.com",
-    "ip": "104.18.10.39"
-  },
-  {
     "domain": "teams.kno2fy.com",
     "ip": "as-kno2-teams-bot-prd.azurewebsites.net"
   },
@@ -24,40 +16,12 @@
     "ip": "104.18.10.39"
   },
   {
-    "domain": "auth.kno2fy.com",
-    "ip": "kno2-cd-3mz6kl910syuk3sw.edge.tenants.auth0.com"
-  },
-  {
-    "domain": "kno2fy.com",
-    "ip": "ns3-06.azure-dns.org"
-  },
-  {
-    "domain": "app.kno2fy.com",
-    "ip": "cdnkno2prd.azureedge.net"
-  },
-  {
     "domain": "www.kmweb.kno2fy.com",
     "ip": "NXDOMAIN"
   },
   {
-    "domain": "kmweb.kno2fy.com",
-    "ip": "kmweb-prd-west.asekno2prodwest.p.azurewebsites.net"
-  },
-  {
     "domain": "delivery.kno2fy.com",
     "ip": "kno2deliveryprod.azurewebsites.net"
-  },
-  {
-    "domain": "monitors.kno2fy.com",
-    "ip": "104.210.38.149"
-  },
-  {
-    "domain": "rmtgw.kno2fy.com",
-    "ip": "13.91.93.44"
-  },
-  {
-    "domain": "carequality.kno2fy.com",
-    "ip": ""
   },
   {
     "domain": "errorlogger.kno2fy.com",
@@ -70,5 +34,45 @@
   {
     "domain": "www.errorlogger.kno2fy.com",
     "ip": ""
+  },
+  {
+    "domain": "kno2fy.com",
+    "ip": "104.18.10.39"
+  },
+  {
+    "domain": "kmweb.kno2fy.com",
+    "ip": "104.18.11.39"
+  },
+  {
+    "domain": "auth.kno2fy.com",
+    "ip": "104.18.11.39"
+  },
+  {
+    "domain": "o1.mail.kno2fy.com",
+    "ip": "198.37.156.34"
+  },
+  {
+    "domain": "app.kno2fy.com",
+    "ip": "104.18.11.39"
+  },
+  {
+    "domain": "wfmonitor.kno2fy.com",
+    "ip": "104.18.11.39"
+  },
+  {
+    "domain": "monitors.kno2fy.com",
+    "ip": "104.18.11.39"
+  },
+  {
+    "domain": "rmtgw.kno2fy.com",
+    "ip": "40.83.169.117"
+  },
+  {
+    "domain": "www.kno2fy.com",
+    "ip": "104.18.11.39"
+  },
+  {
+    "domain": "carequality.kno2fy.com",
+    "ip": "104.42.147.181"
   }
 ]
