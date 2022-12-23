@@ -3320,6 +3320,10 @@
     "ip": ""
   },
   {
+    "domain": "embed.ct.digicert.com",
+    "ip": ""
+  },
+  {
     "domain": "parse.digicert.com",
     "ip": ""
   },
@@ -3456,10 +3460,6 @@
     "ip": ""
   },
   {
-    "domain": "embed.ct.digicert.com",
-    "ip": ""
-  },
-  {
     "domain": "global-root.beacon.digicert.com",
     "ip": ""
   },
@@ -3492,11 +3492,11 @@
     "ip": ""
   },
   {
-    "domain": "verisign-c3-pub-primary-ca-g3-revoked.chain-demos.digicert.com",
+    "domain": "hotspot-trust-root-ca3.chain-demos.digicert.com",
     "ip": ""
   },
   {
-    "domain": "hotspot-trust-root-ca3.chain-demos.digicert.com",
+    "domain": "verisign-c3-pub-primary-ca-g3-revoked.chain-demos.digicert.com",
     "ip": ""
   },
   {
@@ -3504,11 +3504,11 @@
     "ip": ""
   },
   {
-    "domain": "thawte-primary-root-ca-revoked.chain-demos.digicert.com",
+    "domain": "verisign-c3-pub-primary-ca-g5-revoked.chain-demos.digicert.com",
     "ip": ""
   },
   {
-    "domain": "verisign-c3-pub-primary-ca-g5-revoked.chain-demos.digicert.com",
+    "domain": "thawte-primary-root-ca-revoked.chain-demos.digicert.com",
     "ip": ""
   },
   {
@@ -3828,6 +3828,98 @@
     "ip": ""
   },
   {
+    "domain": "cppm.ban.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.blu.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.bmu.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.cap.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.dub.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.eug.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.gal.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.gin.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.ham.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.kaw.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.lon.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.mec.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.mel.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.mtv.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.mun.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.nie.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.nld.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.res.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.sap.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.sgu.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.swe.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "cppm.tgp.corp.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "Q1LXCLPM02.dev.blu.digicert.com",
+    "ip": ""
+  },
+  {
     "domain": "mgmt.stage.blu.digicert.com",
     "ip": ""
   },
@@ -4017,6 +4109,110 @@
   },
   {
     "domain": "www.PROD-NTP-S3.prod.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkcm01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkds01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkes01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkevent.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin02.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin03.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin04.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin05.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin06.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin07.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin08.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin09.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin10.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin11.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin12.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin13.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin14.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin15.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin16.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin17.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin18.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkin19.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunksh01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunksh02.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunksh03.blu.digicert.com",
     "ip": ""
   },
   {
@@ -4644,98 +4840,6 @@
     "ip": ""
   },
   {
-    "domain": "cppm.ban.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.blu.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.bmu.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.cap.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.dub.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.eug.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.gal.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.gin.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.ham.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.kaw.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.lon.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.mec.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.mel.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.mtv.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.mun.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.nie.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.nld.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.res.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.sap.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.sgu.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.swe.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "cppm.tgp.corp.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "Q1LXCLPM02.dev.blu.digicert.com",
-    "ip": ""
-  },
-  {
     "domain": "www.clearpass.corp.digicert.com",
     "ip": ""
   },
@@ -4877,6 +4981,30 @@
   },
   {
     "domain": "www.e1nafs02-clu.res.dc.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf01.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf02.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf03.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf04.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf05.blu.digicert.com",
+    "ip": ""
+  },
+  {
+    "domain": "splunkhf06.blu.digicert.com",
     "ip": ""
   },
   {
@@ -5305,134 +5433,6 @@
   },
   {
     "domain": "Q1LXE11IAP03.corp.dev.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkcm01.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkds01.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkes01.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkevent.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkhf01.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkhf02.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkhf03.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkhf04.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkhf05.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkhf06.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin01.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin02.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin03.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin04.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin05.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin06.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin07.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin08.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin09.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin10.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin11.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin12.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin13.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin14.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin15.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin16.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin17.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin18.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunkin19.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunksh01.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunksh02.blu.digicert.com",
-    "ip": ""
-  },
-  {
-    "domain": "splunksh03.blu.digicert.com",
     "ip": ""
   },
   {
