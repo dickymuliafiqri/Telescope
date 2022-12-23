@@ -1,5 +1,9 @@
 [
   {
+    "domain": "mail-yb1-xb36.google.com",
+    "ip": "2607:f8b0:4864:20::b36"
+  },
+  {
     "domain": "googleproxy-66-249-80-0.google.com",
     "ip": ""
   },
