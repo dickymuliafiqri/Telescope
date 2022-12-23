@@ -1,5 +1,9 @@
 [
   {
+    "domain": "iridiastest.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "digitalreservations-ppe.microsoft.com",
     "ip": "2620:1ec:4f:1::69"
   },
