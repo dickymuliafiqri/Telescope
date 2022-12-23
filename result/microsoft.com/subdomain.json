@@ -1,5 +1,13 @@
 [
   {
+    "domain": "mea.powerapps.microsoft.com",
+    "ip": "20.74.173.74"
+  },
+  {
+    "domain": "asia.powerapps-staging.microsoft.com",
+    "ip": "20.243.252.17"
+  },
+  {
     "domain": "mea.powerapps-staging.microsoft.com",
     "ip": "20.74.173.76"
   },
