@@ -11976,6 +11976,10 @@
     "ip": ""
   },
   {
+    "domain": "www.mail.borneo2016.co.id",
+    "ip": "103.247.8.181"
+  },
+  {
     "domain": "cpcontacts.econe2010.co.id",
     "ip": "103.247.11.74"
   },
@@ -13768,10 +13772,6 @@
     "ip": "148.72.246.210"
   },
   {
-    "domain": "www.mail.borneo2016.co.id",
-    "ip": "103.247.8.181"
-  },
-  {
     "domain": "cpanel.rayana5.co.id",
     "ip": "202.157.186.6"
   },
@@ -13974,5 +13974,9 @@
   {
     "domain": "data.saranak3.co.id",
     "ip": "103.120.125.12"
+  },
+  {
+    "domain": "webdisk.bprnbp3.co.id",
+    "ip": "193.168.194.7"
   }
 ]
