@@ -10256,6 +10256,14 @@
     "ip": ""
   },
   {
+    "domain": "stibada.ac.id",
+    "ip": "103.147.154.71"
+  },
+  {
+    "domain": "www.proxmox.uca.ac.id",
+    "ip": "103.229.73.124"
+  },
+  {
     "domain": "www.fe.unibba.ac.id",
     "ip": "103.28.12.168"
   },
@@ -10478,6 +10486,10 @@
   {
     "domain": "minyak-202.tm.ITB.ac.id",
     "ip": "167.205.12.202"
+  },
+  {
+    "domain": "www.library.poltekkeskesba.ac.id",
+    "ip": "193.168.194.205"
   },
   {
     "domain": "minyak-144.tm.ITB.ac.id",
@@ -11261,7 +11273,7 @@
   },
   {
     "domain": "www.amran.akba.ac.id",
-    "ip": "103.29.215.187"
+    "ip": "49.128.186.44"
   },
   {
     "domain": "stitba.ac.id",
@@ -11321,7 +11333,7 @@
   },
   {
     "domain": "www.bacondeng.akba.ac.id",
-    "ip": "103.29.215.187"
+    "ip": "49.128.186.44"
   },
   {
     "domain": "pmb.akperkesdam4.ac.id",
@@ -11420,10 +11432,6 @@
     "ip": "103.247.11.239"
   },
   {
-    "domain": "stibada.ac.id",
-    "ip": "103.147.154.71"
-  },
-  {
     "domain": "cpcontacts.stisipolp12.ac.id",
     "ip": "45.130.231.8"
   },
@@ -11504,10 +11512,6 @@
     "ip": "167.205.70.82"
   },
   {
-    "domain": "www.proxmox.uca.ac.id",
-    "ip": "103.229.73.124"
-  },
-  {
     "domain": "www.coba.akipba.ac.id",
     "ip": "193.168.194.119"
   },
@@ -11586,6 +11590,10 @@
   {
     "domain": "www.sinerba.unperba.ac.id",
     "ip": "45.32.124.251"
+  },
+  {
+    "domain": "akba.ac.id",
+    "ip": "49.128.186.44"
   },
   {
     "domain": "tes.unperba.ac.id",
