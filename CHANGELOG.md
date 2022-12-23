@@ -1,3 +1,7 @@
+# 0.0.13
+
+- Fix auto scan
+
 # 0.0.12
 
 - Remove `Deep scan subdomain` menu

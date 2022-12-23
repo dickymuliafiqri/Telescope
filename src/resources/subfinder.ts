@@ -17,7 +17,6 @@ export interface Result {
 
 class SubFinder {
   private subfinder: Array<Function> = [];
-  private result: Array<FinderResult> = [];
 
   addFinder(finder: Function) {
     this.subfinder.push(finder);
@@ -33,7 +32,7 @@ class SubFinder {
   }
 
   async run(domain?: string): Promise<number> {
-    this.result = [];
+    const finalResult: Array<FinderResult> = [];
     const onRun: Array<number> = [];
     const fetchResult: Array<Result> = [];
 
@@ -79,52 +78,51 @@ class SubFinder {
     for (const result of fetchResult) {
       if (result.error) continue;
 
-      this.result.push(...this.result, ...result.result);
+      finalResult.push(...finalResult, ...result.result);
     }
 
-    this.filter();
-    this.saveResult(domain);
+    this.saveResult(this.filter(finalResult), domain);
 
-    return this.result.length;
+    return finalResult.length;
   }
 
-  private filter() {
+  private filter(result: Array<FinderResult>): Array<FinderResult> {
     // Filter \n
-    for (const i in this.result) {
-      const subDomain = this.result[i].domain;
+    for (const i in result) {
+      const subDomain = result[i].domain;
       if (subDomain.match(/\n/)) {
         const subsubDomain = subDomain.split("\n");
 
         for (let y = 1; y < subsubDomain.length; y++) {
-          this.result.push({
+          result.push({
             domain: subsubDomain[y],
             ip: "",
           });
         }
 
-        this.result[i].domain = subsubDomain[0];
+        result[i].domain = subsubDomain[0];
       }
     }
 
     // filter *
-    for (const i in this.result) {
-      const subDomain = this.result[i].domain;
+    for (const i in result) {
+      const subDomain = result[i].domain;
       if (subDomain.startsWith("*")) {
-        delete this.result[i];
+        delete result[i];
       }
     }
 
     // filter duplicate
-    for (const i in this.result) {
-      const subDomain = this.result[i].domain;
-      for (const y in this.result) {
-        if (subDomain == this.result[y].domain && i != y) {
-          if (this.result[y]?.ip) {
-            delete this.result[i];
-          } else if (this.result[i]?.ip) {
-            delete this.result[y];
+    for (const i in result) {
+      const subDomain = result[i].domain;
+      for (const y in result) {
+        if (subDomain == result[y].domain && i != y) {
+          if (result[y]?.ip) {
+            delete result[i];
+          } else if (result[i]?.ip) {
+            delete result[y];
           } else {
-            delete this.result[i];
+            delete result[i];
           }
         }
       }
@@ -132,20 +130,20 @@ class SubFinder {
 
     // Delete orphans and re-asign filtered result
     const temp_result: Array<FinderResult> = [];
-    for (const subDomain of this.result) {
+    for (const subDomain of result) {
       if (subDomain?.domain || subDomain?.ip) {
         temp_result.push(subDomain);
       }
     }
 
-    this.result = temp_result;
+    return temp_result;
   }
 
-  private saveResult(domain?: string) {
+  private saveResult(result: Array<FinderResult>, domain?: string) {
     const savePath = `${initiator.path}/result/${domain ?? initiator.domain}`;
     if (!existsSync(`${savePath}`)) mkdirSync(`${savePath}`);
 
-    writeFileSync(`${savePath}/subdomain.json`, JSON.stringify(this.result, null, 2));
+    writeFileSync(`${savePath}/subdomain.json`, JSON.stringify(result, null, 2));
   }
 }
 
