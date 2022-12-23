@@ -416,6 +416,10 @@
     "ip": ""
   },
   {
+    "domain": "email.udemy.com",
+    "ip": ""
+  },
+  {
     "domain": "omp.email.udemy.com",
     "ip": ""
   },
@@ -536,47 +540,15 @@
     "ip": ""
   },
   {
+    "domain": "government.udemy.com",
+    "ip": ""
+  },
+  {
     "domain": "web6130.udemy.com",
     "ip": ""
   },
   {
-    "domain": "gtm.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "uat.revenuewebhook.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "prod.revenuewebhook.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "status.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "prod.revenuesigning.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "prod.revenuetransport.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "affiliatesupport.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "uat.transport.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "ssotest.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "sso.udemy.com",
+    "domain": "ufb-test.dev.udemy.com",
     "ip": ""
   },
   {
@@ -584,19 +556,47 @@
     "ip": ""
   },
   {
+    "domain": "secure.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "udemy-images.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "prod.revenuetransport.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "prod.revenuewebhook.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "prod.revenuesigning.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "uat.transport.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "adaptive-content.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "gtm.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "core.taxforms.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "status.udemy.com",
+    "ip": ""
+  },
+  {
     "domain": "admin.taxforms.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "hackathon.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "government.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "engineering.udemy.com",
     "ip": ""
   },
   {
@@ -604,11 +604,27 @@
     "ip": ""
   },
   {
-    "domain": "officemap.udemy.com",
+    "domain": "taxforms.udemy.com",
     "ip": ""
   },
   {
-    "domain": "adaptive-content.udemy.com",
+    "domain": "engineering.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "support.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "legalteam.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "sso.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "officemap.udemy.com",
     "ip": ""
   },
   {
@@ -620,11 +636,11 @@
     "ip": ""
   },
   {
-    "domain": "udemy-images.udemy.com",
+    "domain": "ssotest.udemy.com",
     "ip": ""
   },
   {
-    "domain": "mule.udemy.com",
+    "domain": "uat.revenuewebhook.udemy.com",
     "ip": ""
   },
   {
@@ -632,55 +648,7 @@
     "ip": ""
   },
   {
-    "domain": "my.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "info.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "email.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "secure.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.uat.revenuewebhook.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.prod.revenuewebhook.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.prod.revenuesigning.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.prod.revenuetransport.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "copyright.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.uat.transport.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.ssotest.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.sso.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "core.taxforms.udemy.com",
+    "domain": "mule.udemy.com",
     "ip": ""
   },
   {
@@ -688,67 +656,27 @@
     "ip": ""
   },
   {
+    "domain": "affiliatesupport.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "copyright.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "info.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "hackathon.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "my.udemy.com",
+    "ip": ""
+  },
+  {
     "domain": "helpdesk.taxforms.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "taxforms.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.ucp.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.people-innovators.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.officemap.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "ufb-test.dev.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.adaptive-content.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "legalteam.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.email.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "support.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.udemy-images.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.info.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.support.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.landing.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "udemy.com",
     "ip": ""
   },
   {
