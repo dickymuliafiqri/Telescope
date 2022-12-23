@@ -1,49 +1,5 @@
 [
   {
-    "domain": "p-prodsec-stig.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "cf-lb.api.google.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "api.stg.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "cf-lb-api.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "cf-lb-app.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "mobile-docs.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "api-docs.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "dc1.ops.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "cf-lb.sandbox.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "account-gopay.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "passport-gopay.midtrans.com",
-    "ip": ""
-  },
-  {
     "domain": "email.mg.midtrans.com",
     "ip": "mailgun.org"
   },
@@ -294,6 +250,50 @@
   {
     "domain": "midtrans.com",
     "ip": "50.63.202.12"
+  },
+  {
+    "domain": "p-prodsec-stig.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "cf-lb.api.google.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "api.stg.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "cf-lb-api.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "cf-lb-app.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "mobile-docs.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "api-docs.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "dc1.ops.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "cf-lb.sandbox.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "account-gopay.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "passport-gopay.midtrans.com",
+    "ip": ""
   },
   {
     "domain": "tcb-b.vn.midtrans.com",

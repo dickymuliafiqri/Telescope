@@ -1,133 +1,5 @@
 [
   {
-    "domain": "ind03.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "omp.email.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "omptrans.email.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "server.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "warnings.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3610.abmail.instructors.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3609.abmail.instructors.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3669.abmail.udemybusiness.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3611.abmail.students.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3612.abmail.students.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3613.abmail.students.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3614.abmail.students.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3615.abmail.students.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3616.abmail.students.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3617.abmail.students.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3619.abmail.students.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "o3608.abmail.alerts.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "web17860.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "ns60.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "web4960.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "web17930.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "web16960.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "web13230.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "web17820.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "web3960.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "web17960.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "s40.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "d.i60.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "web18860.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "i60.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "70.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "web6130.udemy.com",
-    "ip": ""
-  },
-  {
     "domain": "experience.udemy.com",
     "ip": "2600:1409:9800:16::1720:4ba8"
   },
@@ -538,6 +410,134 @@
   {
     "domain": "staging.community.udemy.com",
     "ip": "2600:9000:212f:ea00:a:d537:ccc0:93a1"
+  },
+  {
+    "domain": "ind03.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "omp.email.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "omptrans.email.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "server.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "warnings.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3610.abmail.instructors.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3609.abmail.instructors.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3669.abmail.udemybusiness.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3611.abmail.students.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3612.abmail.students.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3613.abmail.students.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3614.abmail.students.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3615.abmail.students.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3616.abmail.students.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3617.abmail.students.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3619.abmail.students.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "o3608.abmail.alerts.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "web17860.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "ns60.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "web4960.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "web17930.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "web16960.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "web13230.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "web17820.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "web3960.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "web17960.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "s40.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "d.i60.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "web18860.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "i60.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "70.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "web6130.udemy.com",
+    "ip": ""
   },
   {
     "domain": "mysql10.udemy.com",

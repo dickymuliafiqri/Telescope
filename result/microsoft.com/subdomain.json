@@ -1,5 +1,9 @@
 [
   {
+    "domain": "digitalreservations-ppe.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "services.premier.microsoft.com",
     "ip": "20.81.111.85"
   },
