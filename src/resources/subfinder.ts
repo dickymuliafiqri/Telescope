@@ -57,7 +57,7 @@ class SubFinder {
           });
 
         let isStuck = 30;
-        while (onRun.length > 10) {
+        while (onRun.length > 50) {
           logger.log(logLevel.info, "Waiting previous process ...");
           await sleep(1000);
 
@@ -85,7 +85,7 @@ class SubFinder {
 
     this.result = structuredClone(finalResult);
     this.filter();
-    this.saveResult();
+    this.saveResult(domain);
 
     return this.result.length;
   }
@@ -199,8 +199,8 @@ class SubFinder {
     this.result = temp_result;
   }
 
-  private saveResult() {
-    const savePath = `${initiator.path}/result/${initiator.domain}`;
+  private saveResult(domain?: string) {
+    const savePath = `${initiator.path}/result/${domain ?? initiator.domain}`;
     if (!existsSync(`${savePath}`)) mkdirSync(`${savePath}`);
 
     writeFileSync(`${savePath}/subdomain.json`, JSON.stringify(this.result, null, 2));

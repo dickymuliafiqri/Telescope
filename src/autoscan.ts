@@ -1,6 +1,23 @@
 import { subfinder } from "./resources/subfinder.js";
 
-const domains = ["com", "co.id", "ac.id", "go.id", "id"];
+const domains = [
+  "academia.edu",
+  "skillacademi.com",
+  //   "microsoft.com",
+  //   "spotify.com",
+  //   "joox.com",
+  //   "kno2fy.com",
+  //   "onlymega.com",
+  //   "google.com",
+  //   "line.me",
+  //   "midtrans.com",
+  //   "digicert.com",
+  //   "millionaireaisle.com",
+  //   "skolla.online",
+  //   "udemy.com",
+  //   "zoom.us",
+  //   "ac.id",
+];
 
 subfinder.load();
 (async () => {
