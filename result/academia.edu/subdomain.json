@@ -1,5 +1,9 @@
 [
   {
+    "domain": "ichnfm.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
     "domain": "vu.academia.edu",
     "ip": "99.84.66.65"
   },
@@ -2468,18 +2472,6 @@
     "ip": "99.84.238.209"
   },
   {
-    "domain": "try.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "support.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "engineering.academia.edu",
-    "ip": ""
-  },
-  {
     "domain": "institutomallea.academia.edu",
     "ip": ""
   },
@@ -3333,6 +3325,18 @@
   },
   {
     "domain": "politechnikaslaska.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "try.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "support.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "engineering.academia.edu",
     "ip": ""
   }
 ]
