@@ -1,5 +1,9 @@
 [
   {
+    "domain": "dcsfe.dev.adu.microsoft.com",
+    "ip": "20.62.132.246"
+  },
+  {
     "domain": "spoprod-a.ftop.microsoft.com",
     "ip": "20.112.52.29"
   },

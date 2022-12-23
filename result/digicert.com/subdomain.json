@@ -1,5 +1,1337 @@
 [
   {
+    "domain": "updates.digicert.com",
+    "ip": "142.0.165.167"
+  },
+  {
+    "domain": "crl-symcprod.digicert.com",
+    "ip": "fp2E7A.wpc.2BE4.phicdn.net"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5-to-g1-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5-to-g1-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5-to-g1.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5-to-g3-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5-to-g3-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5-to-g3.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "csl3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "cacert3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "stg.ext.gw.digicert.com",
+    "ip": "62.2.210.125"
+  },
+  {
+    "domain": "yeti2025.ct.digicert.com",
+    "ip": "ctyetiapp-lb-99490862.us-west-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "nessie2025.ct.digicert.com",
+    "ip": "ctnessieapp-lb-1434707286.us-east-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "clientauth.stage.dse.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "stage.dse.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "nie.ext.gw.digicert.com",
+    "ip": "90.145.65.251"
+  },
+  {
+    "domain": "ssp-aia.digicert.com",
+    "ip": "ssp-aia.symauth.com"
+  },
+  {
+    "domain": "verizon-global-root-ca.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "baltimore-cybertrust-root-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "overlord.admin.digicert.com",
+    "ip": "45.60.121.229"
+  },
+  {
+    "domain": "cdp2.digicert.com",
+    "ip": "23.49.133.12"
+  },
+  {
+    "domain": "root.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "crlrts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "cdp1.digicert.com",
+    "ip": "23.61.181.9"
+  },
+  {
+    "domain": "app.updates.digicert.com",
+    "ip": "142.0.165.167"
+  },
+  {
+    "domain": "www.ocsp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "clientauth.demo.one.ch.digicert.com",
+    "ip": "91.240.105.29"
+  },
+  {
+    "domain": "demo.one.ch.digicert.com",
+    "ip": "91.240.105.29"
+  },
+  {
+    "domain": "clientauth.one.ch.digicert.com",
+    "ip": "91.240.105.35"
+  },
+  {
+    "domain": "one.ch.digicert.com",
+    "ip": "91.240.105.35"
+  },
+  {
+    "domain": "ecloudapps.digicert.com",
+    "ip": "216.168.244.28"
+  },
+  {
+    "domain": "beta.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "yeti2018.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "nessie2019.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "yeti2019.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "nessie2018.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "one.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "certificatelabs.ssltools.digicert.com",
+    "ip": "18.236.45.216"
+  },
+  {
+    "domain": "clientauth.one.digicert.com",
+    "ip": "216.168.244.38"
+  },
+  {
+    "domain": "dev.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "wss-dev.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "kh-dev.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "kb-internal-dev.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "dc-dev.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "kb-dev.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "assured-id-root-g2-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "global-root-g3-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-g2-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-g2.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "rts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "clientauth.one.nl.digicert.com",
+    "ip": "202.65.16.35"
+  },
+  {
+    "domain": "one.nl.digicert.com",
+    "ip": "202.65.16.35"
+  },
+  {
+    "domain": "global-root-g2.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "global-root-g2-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "global-root-ca-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "global-root-ca-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "ev-root-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "securefile.digicert.com",
+    "ip": "34.235.228.242"
+  },
+  {
+    "domain": "acme.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "mail.digicert.com",
+    "ip": "44.230.95.124"
+  },
+  {
+    "domain": "assured-id-root-g3-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-g3-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-g3.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-ca-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "stage.one.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "www.quovadis-root-ca-1-g3-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "quovadis-root-ca-1-g3-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "www.assured-id-root-ca-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-ca-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "www.trusted-root-g4-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "www.global-root-g3-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "global-root-g3-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "thawte-primary-root-ca.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g5.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "geotrust-primary-ca-g3.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "thawte-primary-root-ca-g2.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "quovadis-root-ca-1-g3.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "symantec-c3-pub-primary-ca-g4-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "quovadis-root-ca-3-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "quovadis-root-ca-2-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "leh.ext.gw.digicert.com",
+    "ip": "67.137.52.99"
+  },
+  {
+    "domain": "mou.ext.gw.digicert.com",
+    "ip": "4.53.135.29"
+  },
+  {
+    "domain": "mstrpreprod.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "partnernews.digicert.com",
+    "ip": "2a01:7e01::f03c:92ff:fe4a:3385"
+  },
+  {
+    "domain": "global-root-g3.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "trusted-root-g4-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "trusted-root-g4-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "trusted-root-g4.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "assured-id-root-ca.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "legacylistener.digicert.com",
+    "ip": "216.168.246.110"
+  },
+  {
+    "domain": "sspsia.digicert.com",
+    "ip": "ssp-sia.symauth.com"
+  },
+  {
+    "domain": "admin-enroll-pilot.au.digicert.com",
+    "ip": "202.65.20.157"
+  },
+  {
+    "domain": "admin-manager-pilot.au.digicert.com",
+    "ip": "202.65.20.158"
+  },
+  {
+    "domain": "knowledgebase.digicert.com",
+    "ip": "45.60.150.51"
+  },
+  {
+    "domain": "digicert.com",
+    "ip": "ns1.p03.dynect.net"
+  },
+  {
+    "domain": "content.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "automation-service.digicert.com",
+    "ip": "152.199.4.158"
+  },
+  {
+    "domain": "discovery-service.digicert.com",
+    "ip": "152.199.4.158"
+  },
+  {
+    "domain": "nessie2023.ct.digicert.com",
+    "ip": "3.14.162.20"
+  },
+  {
+    "domain": "nessie2020.ct.digicert.com",
+    "ip": "3.13.166.142"
+  },
+  {
+    "domain": "docs.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "university.digicert.com",
+    "ip": "52.60.40.201"
+  },
+  {
+    "domain": "partners.digicert.com",
+    "ip": "209.170.205.126"
+  },
+  {
+    "domain": "learn.digicert.com",
+    "ip": "54.85.91.97"
+  },
+  {
+    "domain": "play.google.comocsp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.ssltools.digicert.com",
+    "ip": "45.60.195.203"
+  },
+  {
+    "domain": "gorgon.ct.digicert.com",
+    "ip": "3.13.166.142"
+  },
+  {
+    "domain": "oem.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "edge2.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "seal-symclab.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "dataservices.digicert.com",
+    "ip": "216.168.244.8"
+  },
+  {
+    "domain": "integration.digicert.com",
+    "ip": "216.168.244.8"
+  },
+  {
+    "domain": "microstrategy.digicert.com",
+    "ip": "45.60.44.211"
+  },
+  {
+    "domain": "mstrdev.digicert.com",
+    "ip": "10.100.107.15"
+  },
+  {
+    "domain": "digicert-tls-rsa4096-root-g5-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-tls-ecc-p384-root-g5-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-tls-ecc-p384-root-g5-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-tls-rsa4096-root-g5.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-tls-ecc-p384-root-g5.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5-revoked.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "digicert-rsa4096-root-g5.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "eca-loopvar.digicert.com",
+    "ip": "52.37.182.165"
+  },
+  {
+    "domain": "eca-cdo.digicert.com",
+    "ip": "54.187.18.199"
+  },
+  {
+    "domain": "thawte-primary-root-ca-g2-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "caas.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "digicert-tls-rsa4096-root-g5-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "certmanager-webservices.websecurity.digicert.com",
+    "ip": "216.168.246.82"
+  },
+  {
+    "domain": "yeti2022-2.ct.digicert.com",
+    "ip": "52.40.37.183"
+  },
+  {
+    "domain": "login.digicert.com",
+    "ip": "216.168.244.41"
+  },
+  {
+    "domain": "admin.digicert.com",
+    "ip": "45.60.121.229"
+  },
+  {
+    "domain": "yeti2023.ct.digicert.com",
+    "ip": "54.69.141.46"
+  },
+  {
+    "domain": "yeti2020.ct.digicert.com",
+    "ip": "52.40.37.183"
+  },
+  {
+    "domain": "digicert-ecc-p384-root-g5-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "pkiclient-updater.digicert.com",
+    "ip": "wpc.2be4.phicdn.net"
+  },
+  {
+    "domain": "52fcacerts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "4.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250atimestamp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "erts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "aas.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "252fwww.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "sp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "edgebase.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "internal.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "20cacerts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ww.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "20www.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250adev.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250acacerts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250akh.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250ametrics.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250akb-internal.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250adocs.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250adl.cacerts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250astatus.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250assltools.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250aseal.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "integration-dev.digicert.com",
+    "ip": "216.168.247.30"
+  },
+  {
+    "domain": "ssp-crl.digicert.com",
+    "ip": "ssp-crl.symauth.com"
+  },
+  {
+    "domain": "crr3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "caclrts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "wwn.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "czl3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "cacepts.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ssp-ocsp.digicert.com",
+    "ip": "ssp-ocsp.symauth.com"
+  },
+  {
+    "domain": "ev-root.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "geotrust-primary-ca-g2-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "dl.cacerts.digicert.com",
+    "ip": "checker.digicert.com"
+  },
+  {
+    "domain": "w.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "thawte-primary-root-ca-expired.chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "cacl3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250acrl3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "250aocsp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "252fcrl3.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "252focsp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ciplus.pki.digicert.com",
+    "ip": "ciplus.blu.pki.symauth.net"
+  },
+  {
+    "domain": "ciplus-auth.pki.digicert.com",
+    "ip": "216.168.246.48"
+  },
+  {
+    "domain": "api.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "kb-internal.digicert.com",
+    "ip": "7cee2uc.x.incapdns.net"
+  },
+  {
+    "domain": "kh.digicert.com",
+    "ip": "g8e2463.x.incapdns.net"
+  },
+  {
+    "domain": "ssltools.digicert.com",
+    "ip": "owvqgee.x.incapdns.net"
+  },
+  {
+    "domain": "knowledgehub.digicert.com",
+    "ip": "g8e2463.x.incapdns.net"
+  },
+  {
+    "domain": "chain-demos.digicert.com",
+    "ip": "216.168.244.44"
+  },
+  {
+    "domain": "pki-ocsp.digicert.com",
+    "ip": "ocsp-ds.ws.symantec.com.edgekey.net"
+  },
+  {
+    "domain": "ssp-sia.digicert.com",
+    "ip": "ssp-sia.symauth.com"
+  },
+  {
+    "domain": "cacerts.digicert.com",
+    "ip": "2606:4700::6812:b27"
+  },
+  {
+    "domain": "www.digicert.com",
+    "ip": "3ivgup7.x.incapdns.net"
+  },
+  {
+    "domain": "status.digicert.com",
+    "ip": "63gng2lz2kw8.stspg-customer.com"
+  },
+  {
+    "domain": "gatekeeper.digicert.com",
+    "ip": "202.65.20.179"
+  },
+  {
+    "domain": "admin.gatekeeper.digicert.com",
+    "ip": "202.65.20.181"
+  },
+  {
+    "domain": "crl3.digicert.com",
+    "ip": "cs9.wac.phicdn.net"
+  },
+  {
+    "domain": "ocsp.digicert.com",
+    "ip": "cs9.wac.phicdn.net"
+  },
+  {
+    "domain": "crl4.digicert.com",
+    "ip": "72.21.91.29"
+  },
+  {
+    "domain": "nessie2021.ct.digicert.com",
+    "ip": "ctnessieapp-lb-1434707286.us-east-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "yeti2021.ct.digicert.com",
+    "ip": "ctyetiapp-lb-99490862.us-west-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "yeti2022.ct.digicert.com",
+    "ip": "ctyetiapp-lb-99490862.us-west-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "nessie2022.ct.digicert.com",
+    "ip": "ctnessieapp-lb-1434707286.us-east-2.elb.amazonaws.com"
+  },
+  {
+    "domain": "pkiservices.pki.digicert.com",
+    "ip": "pkiservices.blu.pki.symauth.net"
+  },
+  {
+    "domain": "kd-pw-mng.dcj.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "secweb-pilot.dcj.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "secweb.dcj.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "reston-sonar.res.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "hotspot-20-trust-root-ca-03-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "bam1.infra-nt.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "quovadis-root-ca-2-g3-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-2-g3-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-2-g3.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "edge4.digicert.com",
+    "ip": "cs9.wac.edgecastcdn.net"
+  },
+  {
+    "domain": "verisign-universal-root-ca-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "apitest.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "repo01.prod.lup.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "repo.prod.lup.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "thawte-primary-root-ca-g3.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-universal-root-ca-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-universal-root-ca.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "geotrust-primary-ca-g3-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "repo01.prod.res.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "repo.prod.res.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "de.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "de.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "symantec-c3-pub-primary-ca-g4.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g4-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g4.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g3-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verisign-c3-pub-primary-ca-g3.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "thawte-primary-root-ca-g2-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "symantec-c3-pub-primary-ca-g6-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "symantec-c3-pub-primary-ca-g6-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "symantec-c3-pub-primary-ca-g6.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-3-g3-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-3-g3-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-3-g3.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-3.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-1-g3-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-2-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "quovadis-root-ca-2.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "geotrust-primary-ca-g2-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "geotrust-primary-ca-g2.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "geotrust-primary-ca.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "geotrust-primary-ca-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "www.mstrpreprod.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "mstrpreprod.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pac.tgp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pac.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "wi-sct-ws01.prod.lup.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "golem.ct.digicert.com",
+    "ip": "18.220.27.222"
+  },
+  {
+    "domain": "8dn2l4mdh193gdykldpdc86slbvnwswn.dcv.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "repo01.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "repo.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "kvm.sgu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "gaoadfs.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "bom.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.dc-uat.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "dc-uat.digicert.com",
+    "ip": "s5myxrw.impervadns.net"
+  },
+  {
+    "domain": "websitesecurity.status.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "octp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "cacerjs.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "yeti2024.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "backups02.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "backups.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "backups01.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "nessie2024.ct.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.admin-manager.pki.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.onsite.pki.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.sc-admin-enroll.pki.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pki-u.digicert.com",
+    "ip": "digicert.lingellearning.com"
+  },
+  {
+    "domain": "www.pki-u.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "localhost.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "poweriq.tgp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "lup.ext-gw.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.lup.ext-gw.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "prismcentral.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.pilot-domainauth.ws.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.vc1-prd.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "vc1-prd.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "timestamp.digicert.com",
+    "ip": "216.168.244.9"
+  },
+  {
+    "domain": "www.problemreport.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "problemreport.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pure1-stg.tgp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "vc1.dr.res.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "des.digicert.com",
+    "ip": "34.213.233.92"
+  },
+  {
+    "domain": "order.digicert.com",
+    "ip": "216.168.244.41"
+  },
+  {
+    "domain": "www.order.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "daas.digicert.com",
+    "ip": "ws.digicert.com"
+  },
+  {
+    "domain": "ws.digicert.com",
+    "ip": "216.168.244.42"
+  },
+  {
+    "domain": "testdomain.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.ecloudapps-dev.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ecloudapps-dev.digicert.com",
+    "ip": "216.168.244.28"
+  },
+  {
+    "domain": "u1lxebsdb02.corp.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "u1lxebsdb01.corp.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "bomfo.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.bomfo.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "bomfo.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.bomfo.prod.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "vc1.slc.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pcs1.slc1.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "psc1.tgp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "vc1.tgp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "vc1.slc1.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "psc1.slc.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "EBSDB01.corp.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pta.websecurity.digicert.com",
+    "ip": "pta.blu.websecurity.symauth.net"
+  },
+  {
+    "domain": "www.pta.websecurity.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.domainauth.ws.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.pki-downloads.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "pki-downloads.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "blog.digicert.com",
+    "ip": "54.68.158.176"
+  },
+  {
+    "domain": "edge3.digicert.com",
+    "ip": "cs9.wac.edgecastcdn.net"
+  },
+  {
+    "domain": "edge1.digicert.com",
+    "ip": "cs9.wac.phicdn.net"
+  },
+  {
+    "domain": "go.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "connect-boomitest.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "connect-boomiprod.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "US2WIEX01.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ex1.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ad2.corp.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "verizon-global-root-ca-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "verizon-global-root-ca-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "global-root-g2-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "baltimore-cybertrust-root-revoked.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "baltimore-cybertrust-root.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "clientauth.stage.one.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "k8s.demo.one.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "dataservices-dev.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "demo.one.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "clientauth.demo.one.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "k8s.stage.one.digicert.com",
+    "ip": "216.168.244.10"
+  },
+  {
+    "domain": "ev-root-expired.chain-demos.digicert.com",
+    "ip": "64.58.225.121"
+  },
+  {
+    "domain": "global-root-ca.chain-demos.digicert.com",
+    "ip": "64.58.225.127"
+  },
+  {
+    "domain": "knowledge.digicert.com",
+    "ip": "lbxkgma.x.incapdns.net"
+  },
+  {
+    "domain": "fpetest.corp.dev.blu.digicert.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "motivari.com.br",
+    "ip": "digicert.com"
+  },
+  {
     "domain": "ams1nafs02s301.prod.ams.digicert.com",
     "ip": ""
   },
@@ -4294,1337 +5626,5 @@
   {
     "domain": "www.quovadis-root-ca-1-g3-revoked.chain-demos.digicert.com",
     "ip": ""
-  },
-  {
-    "domain": "updates.digicert.com",
-    "ip": "142.0.165.167"
-  },
-  {
-    "domain": "crl-symcprod.digicert.com",
-    "ip": "fp2E7A.wpc.2BE4.phicdn.net"
-  },
-  {
-    "domain": "digicert-rsa4096-root-g5-to-g1-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-rsa4096-root-g5-to-g1-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-rsa4096-root-g5-to-g1.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-ecc-p384-root-g5-to-g3-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-ecc-p384-root-g5-to-g3-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-ecc-p384-root-g5-to-g3.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "csl3.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "cacert3.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "stg.ext.gw.digicert.com",
-    "ip": "62.2.210.125"
-  },
-  {
-    "domain": "yeti2025.ct.digicert.com",
-    "ip": "ctyetiapp-lb-99490862.us-west-2.elb.amazonaws.com"
-  },
-  {
-    "domain": "nessie2025.ct.digicert.com",
-    "ip": "ctnessieapp-lb-1434707286.us-east-2.elb.amazonaws.com"
-  },
-  {
-    "domain": "clientauth.stage.dse.digicert.com",
-    "ip": "216.168.244.10"
-  },
-  {
-    "domain": "stage.dse.digicert.com",
-    "ip": "216.168.244.10"
-  },
-  {
-    "domain": "nie.ext.gw.digicert.com",
-    "ip": "90.145.65.251"
-  },
-  {
-    "domain": "ssp-aia.digicert.com",
-    "ip": "ssp-aia.symauth.com"
-  },
-  {
-    "domain": "verizon-global-root-ca.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "baltimore-cybertrust-root-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "overlord.admin.digicert.com",
-    "ip": "45.60.121.229"
-  },
-  {
-    "domain": "cdp2.digicert.com",
-    "ip": "23.49.133.12"
-  },
-  {
-    "domain": "root.digicert.com",
-    "ip": "45.60.44.211"
-  },
-  {
-    "domain": "crlrts.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "cdp1.digicert.com",
-    "ip": "23.61.181.9"
-  },
-  {
-    "domain": "app.updates.digicert.com",
-    "ip": "142.0.165.167"
-  },
-  {
-    "domain": "www.ocsp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "clientauth.demo.one.ch.digicert.com",
-    "ip": "91.240.105.29"
-  },
-  {
-    "domain": "demo.one.ch.digicert.com",
-    "ip": "91.240.105.29"
-  },
-  {
-    "domain": "clientauth.one.ch.digicert.com",
-    "ip": "91.240.105.35"
-  },
-  {
-    "domain": "one.ch.digicert.com",
-    "ip": "91.240.105.35"
-  },
-  {
-    "domain": "ecloudapps.digicert.com",
-    "ip": "216.168.244.28"
-  },
-  {
-    "domain": "beta.digicert.com",
-    "ip": "216.168.244.42"
-  },
-  {
-    "domain": "yeti2018.ct.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "nessie2019.ct.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "yeti2019.ct.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "nessie2018.ct.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "one.digicert.com",
-    "ip": "45.60.44.211"
-  },
-  {
-    "domain": "certificatelabs.ssltools.digicert.com",
-    "ip": "18.236.45.216"
-  },
-  {
-    "domain": "clientauth.one.digicert.com",
-    "ip": "216.168.244.38"
-  },
-  {
-    "domain": "dev.digicert.com",
-    "ip": "45.60.44.211"
-  },
-  {
-    "domain": "wss-dev.digicert.com",
-    "ip": "45.60.150.51"
-  },
-  {
-    "domain": "kh-dev.digicert.com",
-    "ip": "45.60.150.51"
-  },
-  {
-    "domain": "kb-internal-dev.digicert.com",
-    "ip": "45.60.150.51"
-  },
-  {
-    "domain": "dc-dev.digicert.com",
-    "ip": "45.60.150.51"
-  },
-  {
-    "domain": "kb-dev.digicert.com",
-    "ip": "45.60.150.51"
-  },
-  {
-    "domain": "assured-id-root-g2-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "global-root-g3-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "assured-id-root-g2-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "assured-id-root-g2.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "rts.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "clientauth.one.nl.digicert.com",
-    "ip": "202.65.16.35"
-  },
-  {
-    "domain": "one.nl.digicert.com",
-    "ip": "202.65.16.35"
-  },
-  {
-    "domain": "global-root-g2.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "global-root-g2-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "global-root-ca-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "global-root-ca-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "ev-root-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "securefile.digicert.com",
-    "ip": "34.235.228.242"
-  },
-  {
-    "domain": "acme.digicert.com",
-    "ip": "216.168.244.42"
-  },
-  {
-    "domain": "mail.digicert.com",
-    "ip": "44.230.95.124"
-  },
-  {
-    "domain": "assured-id-root-g3-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "assured-id-root-g3-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "assured-id-root-g3.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "assured-id-root-ca-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "stage.one.digicert.com",
-    "ip": "45.60.44.211"
-  },
-  {
-    "domain": "www.quovadis-root-ca-1-g3-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "quovadis-root-ca-1-g3-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "www.assured-id-root-ca-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "assured-id-root-ca-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "www.trusted-root-g4-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "www.global-root-g3-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "global-root-g3-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "thawte-primary-root-ca.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "verisign-c3-pub-primary-ca-g5.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "geotrust-primary-ca-g3.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "thawte-primary-root-ca-g2.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "quovadis-root-ca-1-g3.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "symantec-c3-pub-primary-ca-g4-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "quovadis-root-ca-3-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "quovadis-root-ca-2-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "leh.ext.gw.digicert.com",
-    "ip": "67.137.52.99"
-  },
-  {
-    "domain": "mou.ext.gw.digicert.com",
-    "ip": "4.53.135.29"
-  },
-  {
-    "domain": "mstrpreprod.digicert.com",
-    "ip": "45.60.44.211"
-  },
-  {
-    "domain": "partnernews.digicert.com",
-    "ip": "2a01:7e01::f03c:92ff:fe4a:3385"
-  },
-  {
-    "domain": "global-root-g3.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "trusted-root-g4-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "trusted-root-g4-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "trusted-root-g4.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "assured-id-root-ca.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "legacylistener.digicert.com",
-    "ip": "216.168.246.110"
-  },
-  {
-    "domain": "sspsia.digicert.com",
-    "ip": "ssp-sia.symauth.com"
-  },
-  {
-    "domain": "admin-enroll-pilot.au.digicert.com",
-    "ip": "202.65.20.157"
-  },
-  {
-    "domain": "admin-manager-pilot.au.digicert.com",
-    "ip": "202.65.20.158"
-  },
-  {
-    "domain": "knowledgebase.digicert.com",
-    "ip": "45.60.150.51"
-  },
-  {
-    "domain": "digicert.com",
-    "ip": "ns1.p03.dynect.net"
-  },
-  {
-    "domain": "content.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "automation-service.digicert.com",
-    "ip": "152.199.4.158"
-  },
-  {
-    "domain": "discovery-service.digicert.com",
-    "ip": "152.199.4.158"
-  },
-  {
-    "domain": "nessie2023.ct.digicert.com",
-    "ip": "3.14.162.20"
-  },
-  {
-    "domain": "nessie2020.ct.digicert.com",
-    "ip": "3.13.166.142"
-  },
-  {
-    "domain": "docs.digicert.com",
-    "ip": "45.60.44.211"
-  },
-  {
-    "domain": "university.digicert.com",
-    "ip": "52.60.40.201"
-  },
-  {
-    "domain": "partners.digicert.com",
-    "ip": "209.170.205.126"
-  },
-  {
-    "domain": "learn.digicert.com",
-    "ip": "54.85.91.97"
-  },
-  {
-    "domain": "play.google.comocsp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.ssltools.digicert.com",
-    "ip": "45.60.195.203"
-  },
-  {
-    "domain": "gorgon.ct.digicert.com",
-    "ip": "3.13.166.142"
-  },
-  {
-    "domain": "oem.digicert.com",
-    "ip": "216.168.244.42"
-  },
-  {
-    "domain": "edge2.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "seal-symclab.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "dataservices.digicert.com",
-    "ip": "216.168.244.8"
-  },
-  {
-    "domain": "integration.digicert.com",
-    "ip": "216.168.244.8"
-  },
-  {
-    "domain": "microstrategy.digicert.com",
-    "ip": "45.60.44.211"
-  },
-  {
-    "domain": "mstrdev.digicert.com",
-    "ip": "10.100.107.15"
-  },
-  {
-    "domain": "digicert-tls-rsa4096-root-g5-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-tls-ecc-p384-root-g5-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-tls-ecc-p384-root-g5-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-tls-rsa4096-root-g5.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-tls-ecc-p384-root-g5.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-ecc-p384-root-g5.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-ecc-p384-root-g5-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-rsa4096-root-g5-revoked.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-rsa4096-root-g5-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "digicert-rsa4096-root-g5.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "eca-loopvar.digicert.com",
-    "ip": "52.37.182.165"
-  },
-  {
-    "domain": "eca-cdo.digicert.com",
-    "ip": "54.187.18.199"
-  },
-  {
-    "domain": "thawte-primary-root-ca-g2-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "caas.digicert.com",
-    "ip": "216.168.244.42"
-  },
-  {
-    "domain": "digicert-tls-rsa4096-root-g5-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "certmanager-webservices.websecurity.digicert.com",
-    "ip": "216.168.246.82"
-  },
-  {
-    "domain": "yeti2022-2.ct.digicert.com",
-    "ip": "52.40.37.183"
-  },
-  {
-    "domain": "login.digicert.com",
-    "ip": "216.168.244.41"
-  },
-  {
-    "domain": "admin.digicert.com",
-    "ip": "45.60.121.229"
-  },
-  {
-    "domain": "yeti2023.ct.digicert.com",
-    "ip": "54.69.141.46"
-  },
-  {
-    "domain": "yeti2020.ct.digicert.com",
-    "ip": "52.40.37.183"
-  },
-  {
-    "domain": "digicert-ecc-p384-root-g5-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "pkiclient-updater.digicert.com",
-    "ip": "wpc.2be4.phicdn.net"
-  },
-  {
-    "domain": "52fcacerts.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "4.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250atimestamp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "erts.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "aas.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "252fwww.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "sp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "edgebase.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "internal.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "20cacerts.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "ww.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "20www.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250adev.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250acacerts.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250akh.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250ametrics.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250akb-internal.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250adocs.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250adl.cacerts.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250astatus.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250assltools.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250aseal.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "integration-dev.digicert.com",
-    "ip": "216.168.247.30"
-  },
-  {
-    "domain": "ssp-crl.digicert.com",
-    "ip": "ssp-crl.symauth.com"
-  },
-  {
-    "domain": "crr3.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "caclrts.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "wwn.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "czl3.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "cacepts.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "ssp-ocsp.digicert.com",
-    "ip": "ssp-ocsp.symauth.com"
-  },
-  {
-    "domain": "ev-root.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "geotrust-primary-ca-g2-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "dl.cacerts.digicert.com",
-    "ip": "checker.digicert.com"
-  },
-  {
-    "domain": "w.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "thawte-primary-root-ca-expired.chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "cacl3.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250acrl3.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "250aocsp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "252fcrl3.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "252focsp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "ciplus.pki.digicert.com",
-    "ip": "ciplus.blu.pki.symauth.net"
-  },
-  {
-    "domain": "ciplus-auth.pki.digicert.com",
-    "ip": "216.168.246.48"
-  },
-  {
-    "domain": "api.digicert.com",
-    "ip": "216.168.244.42"
-  },
-  {
-    "domain": "kb-internal.digicert.com",
-    "ip": "7cee2uc.x.incapdns.net"
-  },
-  {
-    "domain": "kh.digicert.com",
-    "ip": "g8e2463.x.incapdns.net"
-  },
-  {
-    "domain": "ssltools.digicert.com",
-    "ip": "owvqgee.x.incapdns.net"
-  },
-  {
-    "domain": "knowledgehub.digicert.com",
-    "ip": "g8e2463.x.incapdns.net"
-  },
-  {
-    "domain": "chain-demos.digicert.com",
-    "ip": "216.168.244.44"
-  },
-  {
-    "domain": "pki-ocsp.digicert.com",
-    "ip": "ocsp-ds.ws.symantec.com.edgekey.net"
-  },
-  {
-    "domain": "ssp-sia.digicert.com",
-    "ip": "ssp-sia.symauth.com"
-  },
-  {
-    "domain": "cacerts.digicert.com",
-    "ip": "2606:4700::6812:b27"
-  },
-  {
-    "domain": "www.digicert.com",
-    "ip": "3ivgup7.x.incapdns.net"
-  },
-  {
-    "domain": "status.digicert.com",
-    "ip": "63gng2lz2kw8.stspg-customer.com"
-  },
-  {
-    "domain": "gatekeeper.digicert.com",
-    "ip": "202.65.20.179"
-  },
-  {
-    "domain": "admin.gatekeeper.digicert.com",
-    "ip": "202.65.20.181"
-  },
-  {
-    "domain": "crl3.digicert.com",
-    "ip": "cs9.wac.phicdn.net"
-  },
-  {
-    "domain": "ocsp.digicert.com",
-    "ip": "cs9.wac.phicdn.net"
-  },
-  {
-    "domain": "crl4.digicert.com",
-    "ip": "72.21.91.29"
-  },
-  {
-    "domain": "nessie2021.ct.digicert.com",
-    "ip": "ctnessieapp-lb-1434707286.us-east-2.elb.amazonaws.com"
-  },
-  {
-    "domain": "yeti2021.ct.digicert.com",
-    "ip": "ctyetiapp-lb-99490862.us-west-2.elb.amazonaws.com"
-  },
-  {
-    "domain": "yeti2022.ct.digicert.com",
-    "ip": "ctyetiapp-lb-99490862.us-west-2.elb.amazonaws.com"
-  },
-  {
-    "domain": "nessie2022.ct.digicert.com",
-    "ip": "ctnessieapp-lb-1434707286.us-east-2.elb.amazonaws.com"
-  },
-  {
-    "domain": "pkiservices.pki.digicert.com",
-    "ip": "pkiservices.blu.pki.symauth.net"
-  },
-  {
-    "domain": "kd-pw-mng.dcj.corp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "secweb-pilot.dcj.corp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "secweb.dcj.corp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "reston-sonar.res.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "hotspot-20-trust-root-ca-03-expired.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "bam1.infra-nt.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "quovadis-root-ca-2-g3-expired.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "quovadis-root-ca-2-g3-revoked.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "quovadis-root-ca-2-g3.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "edge4.digicert.com",
-    "ip": "cs9.wac.edgecastcdn.net"
-  },
-  {
-    "domain": "verisign-universal-root-ca-revoked.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "apitest.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "repo01.prod.lup.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "repo.prod.lup.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "thawte-primary-root-ca-g3.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "verisign-universal-root-ca-expired.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "verisign-universal-root-ca.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "geotrust-primary-ca-g3-revoked.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "repo01.prod.res.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "repo.prod.res.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "de.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "de.dev.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "symantec-c3-pub-primary-ca-g4.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "verisign-c3-pub-primary-ca-g4-expired.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "verisign-c3-pub-primary-ca-g4.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "verisign-c3-pub-primary-ca-g3-expired.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "verisign-c3-pub-primary-ca-g3.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "thawte-primary-root-ca-g2-revoked.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "symantec-c3-pub-primary-ca-g6-revoked.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "symantec-c3-pub-primary-ca-g6-expired.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "symantec-c3-pub-primary-ca-g6.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "quovadis-root-ca-3-g3-revoked.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "quovadis-root-ca-3-g3-expired.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "quovadis-root-ca-3-g3.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "quovadis-root-ca-3.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "quovadis-root-ca-1-g3-expired.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "quovadis-root-ca-2-expired.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "quovadis-root-ca-2.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "geotrust-primary-ca-g2-revoked.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "geotrust-primary-ca-g2.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "geotrust-primary-ca.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "geotrust-primary-ca-revoked.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "www.mstrpreprod.dev.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "mstrpreprod.dev.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "pac.tgp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "pac.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "wi-sct-ws01.prod.lup.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "golem.ct.digicert.com",
-    "ip": "18.220.27.222"
-  },
-  {
-    "domain": "8dn2l4mdh193gdykldpdc86slbvnwswn.dcv.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "repo01.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "repo.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "kvm.sgu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "gaoadfs.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "bom.dev.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.dc-uat.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "dc-uat.digicert.com",
-    "ip": "s5myxrw.impervadns.net"
-  },
-  {
-    "domain": "websitesecurity.status.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "octp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "cacerjs.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "yeti2024.ct.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "backups02.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "backups.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "backups01.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "nessie2024.ct.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.admin-manager.pki.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.onsite.pki.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.sc-admin-enroll.pki.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "pki-u.digicert.com",
-    "ip": "digicert.lingellearning.com"
-  },
-  {
-    "domain": "www.pki-u.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "localhost.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "poweriq.tgp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "lup.ext-gw.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.lup.ext-gw.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "prismcentral.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.pilot-domainauth.ws.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.vc1-prd.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "vc1-prd.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "timestamp.digicert.com",
-    "ip": "216.168.244.9"
-  },
-  {
-    "domain": "www.problemreport.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "problemreport.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "pure1-stg.tgp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "vc1.dr.res.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "des.digicert.com",
-    "ip": "34.213.233.92"
-  },
-  {
-    "domain": "order.digicert.com",
-    "ip": "216.168.244.41"
-  },
-  {
-    "domain": "www.order.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "daas.digicert.com",
-    "ip": "ws.digicert.com"
-  },
-  {
-    "domain": "ws.digicert.com",
-    "ip": "216.168.244.42"
-  },
-  {
-    "domain": "testdomain.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.ecloudapps-dev.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "ecloudapps-dev.digicert.com",
-    "ip": "216.168.244.28"
-  },
-  {
-    "domain": "u1lxebsdb02.corp.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "u1lxebsdb01.corp.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "bomfo.dev.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.bomfo.dev.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "bomfo.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.bomfo.prod.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "vc1.slc.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "pcs1.slc1.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "psc1.tgp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "vc1.tgp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "vc1.slc1.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "psc1.slc.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "EBSDB01.corp.dev.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "pta.websecurity.digicert.com",
-    "ip": "pta.blu.websecurity.symauth.net"
-  },
-  {
-    "domain": "www.pta.websecurity.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.domainauth.ws.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.pki-downloads.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "pki-downloads.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "blog.digicert.com",
-    "ip": "54.68.158.176"
-  },
-  {
-    "domain": "edge3.digicert.com",
-    "ip": "cs9.wac.edgecastcdn.net"
-  },
-  {
-    "domain": "edge1.digicert.com",
-    "ip": "cs9.wac.phicdn.net"
-  },
-  {
-    "domain": "go.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "connect-boomitest.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "connect-boomiprod.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "US2WIEX01.corp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "ex1.corp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "ad2.corp.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "verizon-global-root-ca-expired.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "verizon-global-root-ca-revoked.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "global-root-g2-revoked.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "baltimore-cybertrust-root-revoked.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "baltimore-cybertrust-root.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "clientauth.stage.one.digicert.com",
-    "ip": "216.168.244.10"
-  },
-  {
-    "domain": "k8s.demo.one.digicert.com",
-    "ip": "216.168.244.10"
-  },
-  {
-    "domain": "dataservices-dev.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "demo.one.digicert.com",
-    "ip": "216.168.244.10"
-  },
-  {
-    "domain": "clientauth.demo.one.digicert.com",
-    "ip": "216.168.244.10"
-  },
-  {
-    "domain": "k8s.stage.one.digicert.com",
-    "ip": "216.168.244.10"
-  },
-  {
-    "domain": "ev-root-expired.chain-demos.digicert.com",
-    "ip": "64.58.225.121"
-  },
-  {
-    "domain": "global-root-ca.chain-demos.digicert.com",
-    "ip": "64.58.225.127"
-  },
-  {
-    "domain": "knowledge.digicert.com",
-    "ip": "lbxkgma.x.incapdns.net"
-  },
-  {
-    "domain": "fpetest.corp.dev.blu.digicert.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "motivari.com.br",
-    "ip": "digicert.com"
   }
 ]

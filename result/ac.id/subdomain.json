@@ -1,5 +1,13 @@
 [
   {
+    "domain": "www.beta.uniba.ac.id",
+    "ip": "202.157.189.113"
+  },
+  {
+    "domain": "stibada.ac.id",
+    "ip": "103.147.154.71"
+  },
+  {
     "domain": "www.fe.unibba.ac.id",
     "ip": "103.28.12.168"
   },
