@@ -1,5 +1,237 @@
 [
   {
+    "domain": "spoprod-a.ftop.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "naspo.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "dubai.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "amsterdam.myenvisiontour.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "commerce.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "amsterdam.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "shanghai.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "mumbai.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "courses.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "formspro.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "discover.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "webgallery.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "speakerdirectory.myignitetour.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "sao-paulo.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "startup.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "lovessmb.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "berlin.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "static2.ftop.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "print.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "demos.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "texasdir.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "speakerdirectory.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "cloud.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "businessai.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "www.billing.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "berlin.myenvisiontour.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "tokyo.myenvisiontour.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "toronto.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "cdsacademystage.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "sessioncatalog.myignitetour.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "openedx.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "cert.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "osaka.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "paris.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "creator.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "help.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "msppdd.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "www.startup-staging.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "toronto.myenvisiontour.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "sydney.myenvisiontour.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "sydney.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "seoul.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "microsoftedgesupport.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "azuredata.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "sf.myenvisiontour.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "taipei.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "dcacademystage.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "cdsacademy.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "singapore.myenvisiontour.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "stockholm.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "boards.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "madrid.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "washington-dc.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "mobileapp.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "chicago.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "bangalore.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "academy.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "milan.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
     "domain": "mea.powerapps.microsoft.com",
     "ip": "20.74.173.74"
   },
@@ -25040,10 +25272,6 @@
     "ip": ""
   },
   {
-    "domain": "academy.microsoft.com",
-    "ip": ""
-  },
-  {
     "domain": "betamu.update.microsoft.com",
     "ip": ""
   },
@@ -27509,10 +27737,6 @@
   },
   {
     "domain": "vstfsharepointext.partners.extranet.microsoft.com",
-    "ip": ""
-  },
-  {
-    "domain": "cert.microsoft.com",
     "ip": ""
   },
   {
@@ -32853,10 +33077,6 @@
   },
   {
     "domain": "lync11.lyncweb.microsoft.com",
-    "ip": ""
-  },
-  {
-    "domain": "commerce.microsoft.com",
     "ip": ""
   },
   {
