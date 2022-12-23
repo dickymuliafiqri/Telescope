@@ -1,5 +1,9 @@
 [
   {
+    "domain": "tip1.powerapps-staging.microsoft.com",
+    "ip": "20.237.175.206"
+  },
+  {
     "domain": "m365-rfa-api.microsoft.com",
     "ip": "2620:1ec:4f:1::69"
   },
