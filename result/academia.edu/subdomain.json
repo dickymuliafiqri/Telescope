@@ -1,17 +1,5 @@
 [
   {
-    "domain": "try.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "support.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "engineering.academia.edu",
-    "ip": ""
-  },
-  {
     "domain": "vu.academia.edu",
     "ip": "99.84.66.65"
   },
@@ -3334,5 +3322,17 @@
   {
     "domain": "clea.academia.edu",
     "ip": "99.84.238.209"
+  },
+  {
+    "domain": "try.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "support.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "engineering.academia.edu",
+    "ip": ""
   }
 ]
