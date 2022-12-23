@@ -1,5 +1,9 @@
 [
   {
+    "domain": "sapbusinessprocesshealth.microsoft.com",
+    "ip": "40.64.128.232"
+  },
+  {
     "domain": "tip1.powerapps-staging.microsoft.com",
     "ip": "20.237.175.206"
   },
