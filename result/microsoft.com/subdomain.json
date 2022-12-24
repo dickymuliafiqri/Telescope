@@ -1,5 +1,9 @@
 [
   {
+    "domain": "supplier.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "offlinebook.mtps.microsoft.com",
     "ip": "13.107.246.70"
   },
