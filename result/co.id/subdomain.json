@@ -11984,6 +11984,10 @@
     "ip": ""
   },
   {
+    "domain": "data.saranak3.co.id",
+    "ip": "103.120.125.12"
+  },
+  {
     "domain": "cpcontacts.econe2010.co.id",
     "ip": "103.247.11.74"
   },
@@ -13908,6 +13912,10 @@
     "ip": "103.247.11.74"
   },
   {
+    "domain": "rascar4x4.co.id",
+    "ip": "193.168.194.121"
+  },
+  {
     "domain": "hostmaster.www.360.co.id",
     "ip": "127.0.0.4"
   },
@@ -13978,9 +13986,5 @@
   {
     "domain": "kyoai123.co.id",
     "ip": "103.93.55.65"
-  },
-  {
-    "domain": "data.saranak3.co.id",
-    "ip": "103.120.125.12"
   }
 ]
