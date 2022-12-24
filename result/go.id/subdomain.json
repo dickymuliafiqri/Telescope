@@ -1,5 +1,9 @@
 [
   {
+    "domain": "www.sisgra.pn-baturaja.go.id",
+    "ip": "103.163.138.13"
+  },
+  {
     "domain": "API count exceeded - Increase Quota with Membership"
   },
   {
@@ -2019,6 +2023,5682 @@
     "ip": "103.205.56.195"
   },
   {
+    "domain": "zmta10.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "proxy10.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "zmta11.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "proxy11.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "znemta1.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail1.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mailprotection1.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kalbar1.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ns1.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dns1.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "zasav1.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "px02.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "zmta12.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "proxy12.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "znemta2.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail2.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mailprotection2.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pop2.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "smtp2.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ns2.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dns2.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "zasav2.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "zmta13.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "znemta3.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mailprotection3.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ns3.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dns3.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "zmta14.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ns4.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "proxy4.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "zmta15.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "proxy5.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "proxy6.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "zmta7.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "proxy7.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "zmta8.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "proxy8.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "zmta9.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "proxy9.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmjogja.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bidtik.jogja.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lp.jogja.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sultra.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmsultra.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sultra.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.sultra.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.sultra.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sebasa.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "papua.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmpapua.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "brimob.papua.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "projab.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ntb.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmntb.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "propam.ntb.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lotim.ntb.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.ntb.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mcc.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sikd.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "edge.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mailconsole.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmjateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.magelangkota.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tegalkota.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "smilepolice.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "restabessmg.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bidti.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "skck.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tegal.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.pekalongan.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "grobogan.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.grobogan.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.sragen.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "klaten.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "andalalin.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.wonosobo.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.karanganyar.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kalteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmkalteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.kalteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.kalteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sulteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmsulteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.sulteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.sulteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.sulteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmlampung.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.lampung.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.lampung.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.lampung.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "airwatch.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "aceh.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmaceh.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.aceh.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.aceh.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "propam.aceh.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.aceh.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmjambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "quickresponse.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bali.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmbali.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.bali.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "disresklungkung.bali.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bali.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.bali.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kepri.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmkepri.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.kepri.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sdm.kepri.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "spdp.kepri.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.kepri.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.kepri.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "yanhak.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lekdik.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lemdik.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "itk.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ssoportal.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "babel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmbabel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.babel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.babel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.babel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "apikalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmkalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "batola.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "brimob.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tabalong.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "hulusungaitengah.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bidpropam.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "balangan.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanewsbalangan.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sasirangan.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "hulusungaiselatan.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tapin.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "banjarmasin.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "banjar.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whm.lantas.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.lantas.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "biddokkes.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "reskrimsus.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tanahlaut.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.tanahlaut.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.tanahlaut.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.tanahbumbu.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tbumbu.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanewstanbu.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kotabaru.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "banjarbaru.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sulsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmsulsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.bone.sulsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sulsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.sulsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.sulsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sumsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmsumsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "skck.sumsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.sumsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mx.sumsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ssoemail.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "baharkam.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sabhara.baharkam.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "korbinmas.baharkam.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pamobvit.baharkam.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "propam.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "satpam.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ktasatpam.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cucm.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ssoidm.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "rjp.ssdm.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sipp.ssdm.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sespim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "wassidik.bareskrim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pusiknas.bareskrim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bareskrim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmjatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpcalendars.banyuwangi.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bidpropam.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpcalendars.bidpropam.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tuban.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "forum.spkt.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "skot.spkt.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kaltim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmkaltim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.kaltim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.kaltim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.kaltim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "smm.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.divkum.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "itwasum.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "epos.setum.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "penerimaan.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dn.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmbanten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lp.tangerangkota.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.lp.tangerangkota.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpcalendars.lp.tangerangkota.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.apps.tangerangkota.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditreskrimsus.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "vicon.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "gorontalo.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmgorontalo.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.gorontalo.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.gorontalo.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.gorontalo.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmmetro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sdm.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "birosdm.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bidkum.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whm.bidkum.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.bidkum.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "reskrimum.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "humas.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lantas.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.lantas.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "reskrimsus.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jakut.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sso.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "imap.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cp.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cakep.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bujp.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pop.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "smtp.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmjabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.yanma.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tasikmalayakota.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whm.tasikmalayakota.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bogorkota.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.bandung.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bandung.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whm.bandung.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.bandung.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpcontacts.bidkum.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.banjar.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.banjar.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.banjar.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpcalendars.banjar.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bidhumas.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.bidhumas.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whm.bidhumas.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "biddokkes.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpcontacts.biddokkes.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bidkeu.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "rsbaindramayu.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.rsbaindramayu.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.rsbaindramayu.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kalbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmkalbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sulbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.sulbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmsumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "polresta.sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "spripim.sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bidkum.sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tanahdatar.sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditbinmas.sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lantas.sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "assessmentcenter.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "promoter.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "polair.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.polair.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "assr.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pusdikbinmas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.pusdikbinmas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "humas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "data.humas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.humas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "infosarpras.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "inputsarpras.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lantas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sisma.lantas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "regidentonline.lantas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.lantas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "quickwins.lantas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "korlantas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cc.korlantas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sim.korlantas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "wbs.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "wcs.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mabes.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmmabes.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pusdokkes.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "meetings.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "duknis.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpns.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bos.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "spark.bos.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "apiinternal.bos.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "apieksternal.bos.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "rodalops.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whm.rodalops.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sops.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sops.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whm.sops.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pop.sops.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "smtp.sops.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "eksus.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.eksus.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "multimedianews.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "chat.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "papuabarat.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmpapuabarat.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.papuabarat.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "spot.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ntt.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmntt.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.ntt.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditintelkam.ntt.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmmalut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sulut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmsulut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.sulut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.sulut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmsumut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.tobasa.sumut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "brimob.sumut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.sumut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sumut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.sumut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.sumut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "poldasumut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mxout.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmriau.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "propam.riau.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sdm.riau.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.riau.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bengkalis.riau.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.riau.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "maluku.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmmaluku.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.maluku.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whmbengkulu.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.bengkulu.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.bengkulu.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ediscovery.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "portal.divkum.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.lampung.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bidpropam.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "robinops.bareskrim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.kalteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.maluku.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.sleman.jogja.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cimahi.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.ntb.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jakbar.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "restabes-smg.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "polresmuarojambi.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.jogja.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "polairud.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "polrestanjabbar.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "esdm.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "binkar.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cianjur.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.ntt.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.rembang.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mailprotection0.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.papua.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "polresbungo.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "polwan.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.magelang.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "polresta.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.tegal.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "birosdm.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "itwasda.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "gassus.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "banyuwangi.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.banyuwangi.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bidhukum.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "riau.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sula.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.sultra.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.wonogiri.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditpolair.sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.kepri.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.lotim.ntb.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.jambi.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.semarang.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "latsidik.casemanagement.bareskrim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "halbar.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "halteng.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ternate.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "fakfak.papuabarat.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "halut.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tidore.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "halsel.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "morotai.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "haltim.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ntb.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditintelkam.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "apps.tangerangkota.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "rs-bhayangkarasurabaya.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.gorontalo.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.sumbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.tanahlaut.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.tanahbumbu.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tanahbumbu.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.pekalongankota.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.sultra.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bidpropam.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sespim.lemdiklat.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.sinjai.sulsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.kulonprogo.jogja.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanewsmedan.sumut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.oku.sumsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "oku.sumsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bogorkota.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bidtipol.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bidtipol.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.tangerangkota.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tangerangkota.banten.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "satreskrim.pasuruan.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.sumsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.papuabarat.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.itwasda.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditlantas.ntb.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.ntb.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.cimahi.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditintelkam.ntt.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.rowatpers.ssdm.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "rowatpers.ssdm.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.cianjur.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.malut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditsabhara.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditsabhara.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditpolair.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditpolair.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.labuhanbatu.sumut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "api.robinops.bareskrim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bidpropam.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.data.humas.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.aceh.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanewskotabaru.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bidkeu.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.kaltim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.klaten.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.babel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.reskrimsus.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.kalteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.maluku.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.sulteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.sulsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.bali.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.sulut.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.kalbar1.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "divhubinter.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.divhubinter.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "hulusungaiutara.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lantas.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.lantas.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "autodiscover.cyber.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail1.cyber.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.cyber.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.pati.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.purworejo.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sebasa.lemdiklat.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.demak.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.purbalingga.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.kudus.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.banjarnegara.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.semarangkota.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.brebes.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.temanggung.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.salatiga.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.kendal.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.pusjarah.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pusjarah.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sdm.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.banyumas.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.jepara.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.sukoharjo.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.pemalang.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.cilacap.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lobar.ntb.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.rtmc.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "rtmc.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.kepri.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bengkulu.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bengkulu.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "madiun.jatim.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cirebon.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.cirebon.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ditlantas.ntt.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "rekrutmen.ntt.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tribratanews.surakarta.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ditreskrimsus.sumsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "karawang.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.karawang.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "reskrimmobile.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cirebonkota.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.cirebonkota.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sumedang.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sumedang.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sukabumi.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sukabumi.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bidkum.metro.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "reskrimum.jateng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.subang.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "subang.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bogor.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bogor.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sukabumikota.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sukabumikota.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.tasikmalaya.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tasikmalaya.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ciamis.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ciamis.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "indramayu.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.indramayu.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.purwakarta.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "purwakarta.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kuningan.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.kuningan.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dis-resklungkung.bali.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.tasikmalayakota.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "garut.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.garut.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.jogja.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.gassus.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "banjar.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.banjar.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bidhumas.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "korbrimob.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.korbrimob.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.kalsel.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sulteng.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.polwan.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.skck.jogja.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "skck.jogja.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.projab.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.skck.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.kalbar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bandung.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bandung.jabar.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "inmta1.bin.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cloud.bin.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sandi.bin.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pejaten.bin.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ppid.bin.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "in-mta1.bin.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ftp.bin.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pop3.bin.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "smtp.bin.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ns1.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ns2.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ns3.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ns4.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pilkada2017.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ujipilkada2017.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "publikasipilkada2017.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "infopilkada.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mesia.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "siprenja.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "simonika.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "angsa.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "data.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "silogdata.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kakatua.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "beasiswa.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "edgepublic.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ppid.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pedendang.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "keroncong.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kotabandung.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kabbelitung.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "situng.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "silog.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "datawilayah.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jdih.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sidalih.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "datasidalih.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "empuloh.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pilkada2017i.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "rajawali.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "nuri.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "merpati.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dederuk.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ujiuploadformkwk.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "portal.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sulsel.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sumsel.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kabacehsingkil.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dapil.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sipol.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ujicobasipol.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cinenen.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kotacirebon.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "silon.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "excelsilon.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "maleo.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab.probolinggo.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kabbojonegoro.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sipp.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "smtp.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jabar.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kalbar.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mediacenter.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "condor.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cas.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ujicobasiparmas.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "maps.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "situngss.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "git.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kabkepulauanseribu.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pemandu.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "infopemilu.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "susu.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "paw.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-bandungbarat.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-balikpapan.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "karawangkab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jateng.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-bandung.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-tasikmalaya.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-bandung.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lampungprov.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-pasaman.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-bojonegoro.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-situbondo.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pilkada2015.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bombanakab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-karo.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jabarprov.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-bogor.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jatengprov.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-padangpariaman.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "malukuprov.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-wajo.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "buruselatankab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sso.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "deliserdangkab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "papua.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "papuaprov.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dumaikota.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-purwakarta.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-cirebon.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-limapuluhkota.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kalsel.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "balikpapankota.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-acehbarat.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sukabumikab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-pangandaran.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-temanggung.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-lingga.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jombangkab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-yogyakarta.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kaltara.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-gowa.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-murungraya.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jatimprov.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "singkawangkota.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sidoarjokab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kedirikab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lamongankab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "doc.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kalselprov.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "malut.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cilegonkota.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kayongutarakab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dct.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jambiprov.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-kotawaringintimur.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-samosir.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kalteng.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sitap.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "registrasi.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pilpres2014.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-banyumas.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tangerangkab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-binjai.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bimakab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "yogyakartaprov.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ntt.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kepri.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "selayarkab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-pesisirselatan.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "grobogankab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lampung.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kaltim.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "palembangkota.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sulselprov.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "silog-data.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pandeglangkab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kepanambaskab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kaltimprov.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kuburayakab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "gorontalokab.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-sidrap.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-sinjai.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "rekrut.kab-pidie.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-tapanuliutara.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-luwu.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-karimun.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-tangerangselatan.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-poso.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-makassar.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "adhoc.kab-bintan.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-luwutimur.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-soppeng.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-maros.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-bulukumba.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-gorontalo.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-nias.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-niasselatan.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-medan.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-acehsingkil.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-tanjungpinang.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-garut.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-tegal.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-surakarta.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-bangkep.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-belitung.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-batubara.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-donggala.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-jayawijaya.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-cimahi.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "gorontalo.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-lamandau.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-kolaka.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-niasutara.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-kepulauanseribu.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sumbar.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-wakatobi.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-sukamara.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-muaraenim.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-katingan.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-padang.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-pidie.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-palangkaraya.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-gorontaloutara.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-majalengka.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "diy.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-baritoutara.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-tasikmalaya.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-kulonprogo.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-pagaralam.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-payakumbuh.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-prabumulih.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bali.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-padangpanjang.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-seruyan.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sultra.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sulteng.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-baritotimur.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-dumai.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-bukittinggi.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-pariaman.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-kutaibarat.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-palembang.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-butonutara.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-lampungtengah.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-mahakamulu.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-jeneponto.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-gunungkidul.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-sawahlunto.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kota-palopo.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab-jember.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "banten.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kab.oganilir.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.kpu.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "password.bssn.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cloud.bssn.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bsre.bssn.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.bssn.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jdih.bssn.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sikal.bssn.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kkt.bssn.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "panseljpt.bssn.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "osd-dev.bssn.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bssn.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bssn.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dc1vicexpe01.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail2.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "portal.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "m.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "vicom.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "karier.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "autodiscover.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "eprocurement.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lync.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "inetdns.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "airbox.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bispro.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "smtp.bi.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "imradgondol.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "hosting4.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bbpi-semarang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "epegawai2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "abk-djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "wpi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kinerjaku.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "djprl.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bkipmbelawan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mta1.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "hosting1.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ns1.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mta2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "hosting2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "infohukum2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "vps2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "hosting3.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "web2016.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "hosting3a.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "seketika.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sipalka.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "data.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "satudata.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "satupeta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bbp2hpjakarta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "nocweb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "old.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "aquacard.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "iphp-online.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpse.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "helpdesk.lpse.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "report.lpse.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "simpeg.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ropeg.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bpol.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "program.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lpsdkp.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "p3tkp.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ejournal-balitbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "elearning.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "testing.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sdi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ppdpi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pupi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "aplikasipupi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "isi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "presensi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pbj.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ppk-kp3k.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kkji.kp3k.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "djkp3k.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sipdik.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pusdik.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sibatik.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sidatik.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "simpatik.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "espk.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "seal.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kapal.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "portal.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sidoel.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "oldmail.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "regmail.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "zimbrasentul.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ckib.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "trace.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bali.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "perak.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ok.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ppk.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "haccp.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "gis.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "old.infohukum.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "perpustakaan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "siikan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "impikan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "perizinan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "simwas.itjen.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "persuratan.roren.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dekin.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "vicon.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "siap.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "invest.p2hp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "simwaskan.djpsdkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "smspusluh.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bpppbelawan.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "spkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "skp-pdspkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "smp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cwp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "semar.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "observer.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "newedalwas.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cds.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pandis.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kkpvms.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bppbapmaros.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "puiudang.bppbapmaros.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "portalbalai.bppbapmaros.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "labuji.bppbapmaros.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.bppbapmaros.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.bppbapmaros.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bppbapmaros.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "perpustakaan.bppbapmaros.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cms.bppbapmaros.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "smshostpupi.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "integrasi.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "logbook.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "simantap.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pipp.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "statistikdjpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ecert.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "host.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "oldhost.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "newhost.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.tm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.tm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.tm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.tm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.sigeta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sigeta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sigeta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.sigeta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.sigeta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.siakad-stp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.siakad-stp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "siakad-stp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.siakad-stp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.siakad-stp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "repositori.polteksorong.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.sidik.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sidik.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sidik.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.sidik.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.sidik.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.polteksorong.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.polteksorong.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "polteksorong.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.polteksorong.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.polteksorong.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mfce.pusluh.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dev.monev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.nelpin.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.nelpin.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "nelpin.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.nelpin.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.nelpin.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.monev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.monev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "monev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.monev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.monev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.ocean.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ocean.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ocean.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.ocean.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.ocean.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "2ndfiticonference.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.2ndfiticonference.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.2ndfiticonference.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.2ndfiticonference.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.2ndfiticonference.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "recovery.appleid.apple.com.monev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.lrsdkp.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lrsdkp.brsdm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lrsdkp.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.lrsdkp.brsdm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.lrsdkp.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.lrsdkp.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.lrsdkp.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "siakad.polteksorong.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "alumni.polteksorong.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "conference.polteksorong.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.ptsp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ptsp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ptsp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.ptsp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.ptsp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.puslitbangkan.balitbangkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.puslitbangkan.balitbangkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "puslitbangkan.balitbangkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.puslitbangkan.balitbangkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.puslitbangkan.balitbangkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.perpustakaan-stpbogor.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.perpustakaan-stpbogor.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "perpustakaan-stpbogor.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.perpustakaan-stpbogor.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.perpustakaan-stpbogor.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.pengaduan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.pengaduan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pengaduan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.pengaduan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.pengaduan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.pusriskel.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.pusriskel.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pusriskel.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.pusriskel.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.pusriskel.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.news.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.news.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "news.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.news.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.news.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "repository.polteksorong.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jurnal.stpbogor.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.lp2t.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lp2t.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.lp2t.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.lp2t.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.lp2t.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.stp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.stp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "stp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.stp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.stp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.mekanisasi01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.mekanisasi01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mekanisasi01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.mekanisasi01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.mekanisasi01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.etraining.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "etraining.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.etraining.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.etraining.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.etraining.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.temankapi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.temankapi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "temankapi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.temankapi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.temankapi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.stpbogor.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.stpbogor.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "stpbogor.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.stpbogor.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.stpbogor.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.kepegawaian.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kepegawaian.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.kepegawaian.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.kepegawaian.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.kepegawaian.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.upg.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.upg.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "upg.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.upg.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.upg.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.whistleblower.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.whistleblower.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.whistleblower.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.whistleblower.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whistleblower.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bp3upalembang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.bp3upalembang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bp3upalembang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.bp3upalembang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bp3upalembang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bbpse.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.bbpse.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bbpse.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.bbpse.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bbpse.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "perpustakaan.bp3upalembang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.p3dspb.balitbangkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.p3dspb.balitbangkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "p3dspb.balitbangkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.p3dspb.balitbangkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.p3dspb.balitbangkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bblbatam.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.bblbatam.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bblbatam.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.bblbatam.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bblbatam.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.kenelayanan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "kenelayanan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.kenelayanan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.kenelayanan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.kenelayanan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "brbihdepok.brsdm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.brbihdepok.brsdm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.brbihdepok.brsdm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.brbihdepok.brsdm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.brbihdepok.brsdm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.penyuluh.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.penyuluh.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "penyuluh.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.penyuluh.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.penyuluh.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.jdih2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jdih2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.jdih2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.jdih2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.jdih2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sim.ekerjasama.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.ekerjasama.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ekerjasama.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ekerjasama.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.ekerjasama.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.ekerjasama.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bp2ksi.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.bp2ksi.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bp2ksi.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.bp2ksi.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bp2ksi.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bppl.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.bppl.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bppl.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.bppl.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bppl.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "survei.bbpi-semarang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "skm.bbpi-semarang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "elibrary.bbpi-semarang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pustaka.bp2ksi.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.bbpi-semarang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bbpi-semarang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.bbpi-semarang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bbpi-semarang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.meacenter.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "meacenter.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dev01.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.dev01.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bbpbl.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bbpbl.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.wpi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "balikpapan.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.balikpapan.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.simpak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "simpak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.puslat1.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.puslat.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "puslat1.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "puslat.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "test.simpak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dimensional.kinerjaku.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "old.djprl.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "adm.ams.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.djprl.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.kinerjaku.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ams.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ams.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "old.ams.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.abk-djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sms.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sms.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jdih.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.jdih.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.poltekkpkupang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "poltekkpkupang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "infoproduk.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.infoproduk.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "karangasem.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.karangasem.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.pakwaskan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pakwaskan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "haccp2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.haccp2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.oss.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "oss.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "infohukum.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.infohukum.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "eplanning.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.eplanning.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "board.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.board.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "android.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.android.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ambon.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ambon.djpb.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.semarang.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "semarang.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sedakep.semarang.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "btc-ictbf-2018.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.btc-ictbf-2018.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.merauke.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "merauke.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "siadil.merauke.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "persuratan.merauke.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "distro.brsdm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.distro.brsdm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bkipmbelawan.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sertifikasi-akp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sertifikasi-akp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "gracilaria.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.gracilaria.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.sipp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sipp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sipp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.sipp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.sipp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.seketika2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "seketika2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ppid.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ppid.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.rebyc-cti.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.rebyc-cti.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "rebyc-cti.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.rebyc-cti.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.rebyc-cti.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.reformasi-birokrasi2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.reformasi-birokrasi2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "reformasi-birokrasi2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.reformasi-birokrasi2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.reformasi-birokrasi2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.cpib.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpib.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.cpib.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.cpib.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.cpib.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bppbapmaros.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.tmdev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "tmdev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "epuspa.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.epuspa.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.nip.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "nip.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.mfcepusluh.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.mfcepusluh.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mfcepusluh.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.mfcepusluh.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.mfcepusluh.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "juanda.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.juanda.bkipm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bbp4b.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.bbp4b.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bbp4b.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.bbp4b.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bbp4b.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.siska.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.siska.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "siska.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.siska.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.siska.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.sisinbe.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sisinbe.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sisinbe.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.sisinbe.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.sisinbe.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.sirendak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sirendak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sirendak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.sirendak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.sirendak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.sipmonev01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sipmonev01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sipmonev01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.sipmonev01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.sipmonev01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.sikap.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sikap.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sikap.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.sikap.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.sikap.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.simdak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.simdak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "simdak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.simdak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.simdak.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.semilir.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.semilir.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "semilir.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.semilir.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.semilir.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.pusluh.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.pusluh.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pusluh.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.pusluh.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.pusluh.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sdiabp.itjen.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.itjen.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "itjen.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.itjen.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.itjen.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.itjen.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.djpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.edalwas.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "edalwas.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.edalwas.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.edalwas.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.edalwas.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bppisukamandi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.bppisukamandi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bppisukamandi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.bppisukamandi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bppisukamandi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cbib.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.cbib.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.cbib.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.cbib.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.cbib.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sinada.bbp2hpjakarta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cloud.bbp2hpjakarta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.bbp2hpjakarta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.bbp2hpjakarta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.bbp2hpjakarta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.bbp2hpjakarta.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.news2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "news2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.oss2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "oss2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "akademik.poltekkpkupang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "e-learning.poltekkpkupang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ourocean2018.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ourocean2018.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.ppid2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ppid2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ppid2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.ppid2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.ppid2.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.ppid.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.ppid.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.ppid.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "journal.stpbogor.bpsdmkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.meacenter.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.meacenter.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.meacenter.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lebay.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.lebay.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ccdp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ccdp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "galeri.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.galeri.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ppid3.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ppid3.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mp.polteksorong.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "asdas.djpdspkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "djpdspkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.djpdspkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "blog.djpdspkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jdih3.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.jdih3.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.office.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "office.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ecom.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.ecom.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.new.bpppaertembaga.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "new.bpppaertembaga.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mobile.poltekkpsidoarjo.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.poltekkpsidoarjo.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "poltekkpsidoarjo.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "dev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.dev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "iphp.dev.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.sigedatikpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "sigedatikpt.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.roren.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "roren.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.pitap.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "pitap.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "brsdm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.brsdm.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "eproposal.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.eproposal.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "djpsdkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.djpsdkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "edalwas02.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.edalwas02.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "cpanel.hosting3a.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.hosting3a.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webdisk.hosting3a.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "webmail.hosting3a.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "whm.hosting3a.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "mail.simstat.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "simstat.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "data-tppnasional.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "satwaspontianak.psdkp.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bdasukamandi.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "balitbangdias.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bbp4b01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "p3sdlp01.litbang.kkp.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "ns2.kkp.go.id",
+    "ip": ""
+  },
+  {
     "domain": "dprd-luwukab.go.id",
     "ip": ""
   },
@@ -2432,6 +8112,10 @@
   },
   {
     "domain": "disdik.kepriprov.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "jogja.polri.go.id",
     "ip": ""
   },
   {
@@ -3055,6 +8739,10 @@
     "ip": ""
   },
   {
+    "domain": "lamtim.lampung.polri.go.id",
+    "ip": ""
+  },
+  {
     "domain": "helpdesk.layanan.tanahlautkab.go.id",
     "ip": ""
   },
@@ -3123,6 +8811,10 @@
     "ip": ""
   },
   {
+    "domain": "tuba.lampung.polri.go.id",
+    "ip": ""
+  },
+  {
     "domain": "e-auction.postel.go.id",
     "ip": ""
   },
@@ -3188,6 +8880,10 @@
   },
   {
     "domain": "ep.bpbatam.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lamteng.lampung.polri.go.id",
     "ip": ""
   },
   {
@@ -3980,6 +9676,10 @@
   },
   {
     "domain": "cts2.pn-karawang.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "lampung.polri.go.id",
     "ip": ""
   },
   {
@@ -5415,6 +11115,10 @@
     "ip": ""
   },
   {
+    "domain": "skck.polri.go.id",
+    "ip": ""
+  },
+  {
     "domain": "kejari-cimahi.go.id",
     "ip": ""
   },
@@ -6048,6 +11752,10 @@
   },
   {
     "domain": "eoffice.jabarprov.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "owa.bi.go.id",
     "ip": ""
   },
   {
@@ -8695,6 +14403,14 @@
     "ip": ""
   },
   {
+    "domain": "tanggamus.lampung.polri.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "waykanan.lampung.polri.go.id",
+    "ip": ""
+  },
+  {
     "domain": "www.lampung.polri.go.id",
     "ip": ""
   },
@@ -9864,6 +15580,10 @@
   },
   {
     "domain": "www.kapusarda.bandung.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bin.go.id",
     "ip": ""
   },
   {
@@ -11739,6 +17459,10 @@
     "ip": ""
   },
   {
+    "domain": "kkp.go.id",
+    "ip": ""
+  },
+  {
     "domain": "komisiinformasi.go.id",
     "ip": ""
   },
@@ -11832,6 +17556,10 @@
   },
   {
     "domain": "www.mpr.go.id",
+    "ip": ""
+  },
+  {
+    "domain": "bi.go.id",
     "ip": ""
   },
   {
@@ -12235,6 +17963,10 @@
     "ip": ""
   },
   {
+    "domain": "kpu.go.id",
+    "ip": ""
+  },
+  {
     "domain": "pjnhk.go.id",
     "ip": ""
   },
@@ -12316,5734 +18048,6 @@
   },
   {
     "domain": "kominfo.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zmta10.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "proxy10.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zmta11.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "proxy11.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "znemta1.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail1.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mailprotection1.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kalbar1.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ns1.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dns1.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zasav1.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "px02.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zmta12.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "proxy12.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "znemta2.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail2.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mailprotection2.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pop2.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "smtp2.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ns2.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dns2.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zasav2.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zmta13.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "znemta3.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mailprotection3.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ns3.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dns3.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zmta14.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ns4.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "proxy4.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zmta15.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "proxy5.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "proxy6.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zmta7.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "proxy7.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zmta8.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "proxy8.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zmta9.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "proxy9.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jogja.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmjogja.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bidtik.jogja.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lp.jogja.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sultra.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmsultra.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sultra.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.sultra.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.sultra.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sebasa.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "papua.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmpapua.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "brimob.papua.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "projab.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ntb.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmntb.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "propam.ntb.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lotim.ntb.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.ntb.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mcc.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sikd.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "edge.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mailconsole.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmjateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.magelangkota.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tegalkota.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "smilepolice.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "restabessmg.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bidti.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "skck.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tegal.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.pekalongan.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "grobogan.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.grobogan.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.sragen.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "klaten.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "andalalin.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.wonosobo.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.karanganyar.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kalteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmkalteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.kalteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.kalteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sulteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmsulteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.sulteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.sulteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.sulteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lampung.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmlampung.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.lampung.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.lampung.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.lampung.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "airwatch.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "aceh.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmaceh.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.aceh.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.aceh.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "propam.aceh.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.aceh.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmjambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "quickresponse.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bali.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmbali.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.bali.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "disresklungkung.bali.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bali.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.bali.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kepri.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmkepri.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.kepri.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sdm.kepri.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "spdp.kepri.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.kepri.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.kepri.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "yanhak.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "skck.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lekdik.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lemdik.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "itk.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ssoportal.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "babel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmbabel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.babel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.babel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.babel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "apikalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmkalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "batola.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "brimob.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tabalong.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "hulusungaitengah.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bidpropam.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "balangan.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanewsbalangan.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sasirangan.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "hulusungaiselatan.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tapin.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "banjarmasin.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "banjar.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whm.lantas.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.lantas.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "biddokkes.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "reskrimsus.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tanahlaut.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.tanahlaut.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.tanahlaut.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.tanahbumbu.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tbumbu.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanewstanbu.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kotabaru.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "banjarbaru.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sulsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmsulsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.bone.sulsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sulsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.sulsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.sulsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sumsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmsumsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "skck.sumsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.sumsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mx.sumsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ssoemail.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "baharkam.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sabhara.baharkam.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "korbinmas.baharkam.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pamobvit.baharkam.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "propam.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "satpam.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ktasatpam.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cucm.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ssoidm.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "rjp.ssdm.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sipp.ssdm.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sespim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "wassidik.bareskrim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pusiknas.bareskrim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bareskrim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmjatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpcalendars.banyuwangi.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bidpropam.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpcalendars.bidpropam.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tuban.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "forum.spkt.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "skot.spkt.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kaltim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmkaltim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.kaltim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.kaltim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.kaltim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "smm.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.divkum.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "itwasum.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "epos.setum.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "penerimaan.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dn.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmbanten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lp.tangerangkota.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.lp.tangerangkota.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpcalendars.lp.tangerangkota.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.apps.tangerangkota.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditreskrimsus.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "vicon.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "gorontalo.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmgorontalo.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.gorontalo.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.gorontalo.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.gorontalo.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmmetro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sdm.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "birosdm.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bidkum.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whm.bidkum.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.bidkum.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "reskrimum.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "humas.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lantas.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.lantas.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "reskrimsus.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jakut.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sso.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "imap.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cp.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cakep.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bujp.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pop.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "smtp.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmjabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.yanma.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tasikmalayakota.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whm.tasikmalayakota.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bogorkota.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.bandung.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bandung.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whm.bandung.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.bandung.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpcontacts.bidkum.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.banjar.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.banjar.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.banjar.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpcalendars.banjar.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bidhumas.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.bidhumas.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whm.bidhumas.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "biddokkes.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpcontacts.biddokkes.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bidkeu.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "rsbaindramayu.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.rsbaindramayu.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.rsbaindramayu.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kalbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmkalbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sulbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.sulbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmsumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "polresta.sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "spripim.sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bidkum.sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tanahdatar.sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditbinmas.sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lantas.sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "assessmentcenter.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "promoter.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "polair.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.polair.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "assr.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pusdikbinmas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.pusdikbinmas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "humas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "data.humas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.humas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "infosarpras.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "inputsarpras.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lantas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sisma.lantas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "regidentonline.lantas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.lantas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "quickwins.lantas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "korlantas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cc.korlantas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sim.korlantas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "wbs.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "wcs.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mabes.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmmabes.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pusdokkes.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "meetings.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "duknis.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpns.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bos.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "spark.bos.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "apiinternal.bos.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "apieksternal.bos.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "rodalops.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whm.rodalops.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sops.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sops.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whm.sops.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pop.sops.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "smtp.sops.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "eksus.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.eksus.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "multimedianews.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "chat.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "papuabarat.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmpapuabarat.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.papuabarat.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "spot.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ntt.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmntt.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.ntt.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditintelkam.ntt.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmmalut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sulut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmsulut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.sulut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.sulut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmsumut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.tobasa.sumut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "brimob.sumut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.sumut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sumut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.sumut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.sumut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "poldasumut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mxout.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmriau.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "propam.riau.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sdm.riau.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.riau.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bengkalis.riau.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.riau.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "maluku.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmmaluku.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.maluku.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whmbengkulu.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.bengkulu.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.bengkulu.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ediscovery.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "portal.divkum.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.lampung.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bidpropam.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "robinops.bareskrim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.kalteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.maluku.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.sleman.jogja.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cimahi.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.ntb.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jakbar.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "restabes-smg.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "polresmuarojambi.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.jogja.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "polairud.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "polrestanjabbar.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "esdm.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "binkar.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cianjur.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.ntt.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.rembang.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mailprotection0.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.papua.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "polresbungo.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "polwan.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.magelang.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "polresta.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.tegal.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "birosdm.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "itwasda.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "gassus.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "banyuwangi.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.banyuwangi.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bidhukum.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "riau.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sula.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.sultra.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.wonogiri.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditpolair.sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.kepri.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.lotim.ntb.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.jambi.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.semarang.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "latsidik.casemanagement.bareskrim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "halbar.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "halteng.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ternate.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "fakfak.papuabarat.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "halut.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tidore.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "halsel.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "morotai.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "haltim.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ntb.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditintelkam.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "apps.tangerangkota.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "rs-bhayangkarasurabaya.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.gorontalo.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.sumbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.tanahlaut.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.tanahbumbu.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tanahbumbu.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.pekalongankota.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.sultra.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bidpropam.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sespim.lemdiklat.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.sinjai.sulsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.kulonprogo.jogja.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanewsmedan.sumut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.oku.sumsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "oku.sumsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bogorkota.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bidtipol.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bidtipol.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.tangerangkota.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tangerangkota.banten.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "satreskrim.pasuruan.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.sumsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.papuabarat.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.itwasda.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditlantas.ntb.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.ntb.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.cimahi.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditintelkam.ntt.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.rowatpers.ssdm.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "rowatpers.ssdm.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.cianjur.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.malut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditsabhara.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditsabhara.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditpolair.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditpolair.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.labuhanbatu.sumut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "api.robinops.bareskrim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bidpropam.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.data.humas.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.aceh.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanewskotabaru.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bidkeu.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.kaltim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.klaten.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.babel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.reskrimsus.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.kalteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.maluku.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.sulteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.sulsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.bali.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.sulut.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.kalbar1.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "divhubinter.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.divhubinter.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "hulusungaiutara.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lantas.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.lantas.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "autodiscover.cyber.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail1.cyber.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.cyber.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.pati.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.purworejo.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sebasa.lemdiklat.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.demak.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.purbalingga.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.kudus.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.banjarnegara.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.semarangkota.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.brebes.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.temanggung.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.salatiga.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.kendal.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.pusjarah.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pusjarah.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sdm.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.banyumas.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.jepara.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.sukoharjo.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.pemalang.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.cilacap.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lobar.ntb.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.rtmc.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "rtmc.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.kepri.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bengkulu.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bengkulu.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "madiun.jatim.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cirebon.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.cirebon.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ditlantas.ntt.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "rekrutmen.ntt.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tribratanews.surakarta.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ditreskrimsus.sumsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "karawang.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.karawang.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "reskrimmobile.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cirebonkota.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.cirebonkota.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sumedang.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sumedang.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sukabumi.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sukabumi.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bidkum.metro.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "reskrimum.jateng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.subang.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "subang.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bogor.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bogor.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sukabumikota.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sukabumikota.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.tasikmalaya.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tasikmalaya.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ciamis.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ciamis.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "indramayu.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.indramayu.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.purwakarta.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "purwakarta.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kuningan.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.kuningan.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dis-resklungkung.bali.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lamteng.lampung.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lamtim.lampung.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.tasikmalayakota.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "garut.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.garut.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.jogja.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.gassus.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "banjar.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.banjar.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bidhumas.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "korbrimob.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.korbrimob.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.kalsel.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sulteng.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.polwan.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.skck.jogja.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "skck.jogja.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.projab.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.skck.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.kalbar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tuba.lampung.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bandung.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bandung.jabar.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tanggamus.lampung.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "waykanan.lampung.polri.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "inmta1.bin.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cloud.bin.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sandi.bin.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pejaten.bin.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bin.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ppid.bin.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "in-mta1.bin.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ftp.bin.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pop3.bin.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "smtp.bin.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ns1.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ns2.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ns3.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ns4.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pilkada2017.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ujipilkada2017.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "publikasipilkada2017.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "infopilkada.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mesia.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "siprenja.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "simonika.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "angsa.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "data.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "silogdata.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kakatua.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "beasiswa.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "edgepublic.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ppid.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pedendang.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "keroncong.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kotabandung.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kabbelitung.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "situng.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "silog.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "datawilayah.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jdih.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sidalih.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "datasidalih.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "empuloh.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pilkada2017i.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "rajawali.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "nuri.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "merpati.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dederuk.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ujiuploadformkwk.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "portal.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sulsel.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sumsel.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kabacehsingkil.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dapil.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sipol.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ujicobasipol.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cinenen.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kotacirebon.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "silon.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "excelsilon.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "maleo.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab.probolinggo.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kabbojonegoro.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sipp.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "smtp.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jabar.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kalbar.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mediacenter.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "condor.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cas.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ujicobasiparmas.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "maps.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "situngss.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "git.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kabkepulauanseribu.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pemandu.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "infopemilu.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "susu.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "paw.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-bandungbarat.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-balikpapan.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "karawangkab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jateng.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-bandung.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-tasikmalaya.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-bandung.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lampungprov.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-pasaman.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-bojonegoro.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-situbondo.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pilkada2015.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bombanakab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-karo.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jabarprov.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-bogor.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jatengprov.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-padangpariaman.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "malukuprov.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-wajo.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "buruselatankab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sso.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "deliserdangkab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "papua.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "papuaprov.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dumaikota.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-purwakarta.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-cirebon.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-limapuluhkota.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kalsel.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "balikpapankota.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-acehbarat.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sukabumikab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-pangandaran.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-temanggung.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-lingga.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jombangkab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-yogyakarta.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kaltara.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-gowa.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-murungraya.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jatimprov.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "singkawangkota.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sidoarjokab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kedirikab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lamongankab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "doc.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kalselprov.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "malut.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cilegonkota.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kayongutarakab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dct.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jambiprov.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-kotawaringintimur.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-samosir.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kalteng.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sitap.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "registrasi.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pilpres2014.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-banyumas.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tangerangkab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-binjai.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bimakab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "yogyakartaprov.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ntt.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kepri.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "selayarkab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-pesisirselatan.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "grobogankab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lampung.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kaltim.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "palembangkota.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sulselprov.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "silog-data.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pandeglangkab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kepanambaskab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kaltimprov.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kuburayakab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "gorontalokab.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-sidrap.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-sinjai.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "rekrut.kab-pidie.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-tapanuliutara.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-luwu.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-karimun.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-tangerangselatan.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-poso.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-makassar.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "adhoc.kab-bintan.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-luwutimur.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-soppeng.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-maros.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-bulukumba.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-gorontalo.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-nias.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-niasselatan.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-medan.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-acehsingkil.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-tanjungpinang.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-garut.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-tegal.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-surakarta.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-bangkep.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-belitung.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-batubara.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-donggala.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-jayawijaya.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-cimahi.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "gorontalo.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-lamandau.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-kolaka.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-niasutara.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-kepulauanseribu.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sumbar.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-wakatobi.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-sukamara.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-muaraenim.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-katingan.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-padang.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-pidie.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-palangkaraya.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-gorontaloutara.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-majalengka.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "diy.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-baritoutara.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-tasikmalaya.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-kulonprogo.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-pagaralam.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-payakumbuh.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-prabumulih.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bali.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-padangpanjang.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-seruyan.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sultra.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sulteng.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-baritotimur.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-dumai.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-bukittinggi.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-pariaman.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-kutaibarat.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-palembang.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-butonutara.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-lampungtengah.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-mahakamulu.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-jeneponto.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-gunungkidul.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-sawahlunto.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kota-palopo.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab-jember.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "banten.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kab.oganilir.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.kpu.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "password.bssn.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cloud.bssn.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bsre.bssn.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.bssn.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jdih.bssn.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sikal.bssn.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kkt.bssn.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "panseljpt.bssn.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "osd-dev.bssn.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bssn.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bssn.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dc1vicexpe01.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail2.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "owa.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "portal.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "m.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "vicom.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "karier.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "autodiscover.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "eprocurement.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lync.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "inetdns.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "airbox.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bispro.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "smtp.bi.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "imradgondol.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "hosting4.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bbpi-semarang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "epegawai2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "abk-djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "wpi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kinerjaku.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "djprl.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bkipmbelawan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mta1.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "hosting1.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ns1.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mta2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "hosting2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "infohukum2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "vps2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "hosting3.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "web2016.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "hosting3a.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "seketika.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sipalka.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "data.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "satudata.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "satupeta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bbp2hpjakarta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "nocweb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "old.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "aquacard.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "iphp-online.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpse.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "helpdesk.lpse.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "report.lpse.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "simpeg.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ropeg.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bpol.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "program.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lpsdkp.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "p3tkp.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ejournal-balitbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "elearning.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "testing.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sdi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ppdpi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pupi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "aplikasipupi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "isi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "presensi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pbj.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ppk-kp3k.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kkji.kp3k.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "djkp3k.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sipdik.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pusdik.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sibatik.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sidatik.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "simpatik.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "espk.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "seal.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kapal.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "portal.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sidoel.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "oldmail.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "regmail.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "zimbrasentul.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ckib.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "trace.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bali.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "perak.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ok.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ppk.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "haccp.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "gis.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "old.infohukum.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "perpustakaan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "siikan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "impikan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "perizinan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "simwas.itjen.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "persuratan.roren.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dekin.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "vicon.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "siap.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "invest.p2hp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "simwaskan.djpsdkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "smspusluh.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bpppbelawan.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "spkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "skp-pdspkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "smp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cwp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "semar.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "observer.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "newedalwas.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cds.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pandis.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kkpvms.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bppbapmaros.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "puiudang.bppbapmaros.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "portalbalai.bppbapmaros.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "labuji.bppbapmaros.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.bppbapmaros.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.bppbapmaros.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bppbapmaros.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "perpustakaan.bppbapmaros.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cms.bppbapmaros.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "smshostpupi.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "integrasi.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "logbook.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "simantap.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pipp.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "statistikdjpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ecert.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "host.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "oldhost.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "newhost.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.tm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.tm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.tm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.tm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.sigeta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sigeta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sigeta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.sigeta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.sigeta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.siakad-stp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.siakad-stp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "siakad-stp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.siakad-stp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.siakad-stp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "repositori.polteksorong.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.sidik.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sidik.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sidik.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.sidik.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.sidik.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.polteksorong.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.polteksorong.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "polteksorong.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.polteksorong.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.polteksorong.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mfce.pusluh.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dev.monev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.nelpin.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.nelpin.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "nelpin.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.nelpin.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.nelpin.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.monev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.monev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "monev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.monev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.monev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.ocean.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ocean.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ocean.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.ocean.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.ocean.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "2ndfiticonference.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.2ndfiticonference.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.2ndfiticonference.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.2ndfiticonference.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.2ndfiticonference.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "recovery.appleid.apple.com.monev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.lrsdkp.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lrsdkp.brsdm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lrsdkp.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.lrsdkp.brsdm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.lrsdkp.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.lrsdkp.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.lrsdkp.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "siakad.polteksorong.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "alumni.polteksorong.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "conference.polteksorong.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.ptsp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ptsp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ptsp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.ptsp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.ptsp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.puslitbangkan.balitbangkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.puslitbangkan.balitbangkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "puslitbangkan.balitbangkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.puslitbangkan.balitbangkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.puslitbangkan.balitbangkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.perpustakaan-stpbogor.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.perpustakaan-stpbogor.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "perpustakaan-stpbogor.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.perpustakaan-stpbogor.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.perpustakaan-stpbogor.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.pengaduan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.pengaduan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pengaduan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.pengaduan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.pengaduan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.pusriskel.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.pusriskel.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pusriskel.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.pusriskel.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.pusriskel.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.news.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.news.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "news.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.news.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.news.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "repository.polteksorong.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jurnal.stpbogor.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.lp2t.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lp2t.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.lp2t.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.lp2t.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.lp2t.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.stp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.stp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "stp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.stp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.stp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.mekanisasi01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.mekanisasi01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mekanisasi01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.mekanisasi01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.mekanisasi01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.etraining.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "etraining.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.etraining.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.etraining.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.etraining.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.temankapi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.temankapi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "temankapi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.temankapi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.temankapi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.stpbogor.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.stpbogor.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "stpbogor.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.stpbogor.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.stpbogor.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.kepegawaian.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kepegawaian.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.kepegawaian.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.kepegawaian.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.kepegawaian.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.upg.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.upg.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "upg.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.upg.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.upg.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.whistleblower.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.whistleblower.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.whistleblower.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.whistleblower.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whistleblower.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bp3upalembang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.bp3upalembang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bp3upalembang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.bp3upalembang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bp3upalembang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bbpse.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.bbpse.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bbpse.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.bbpse.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bbpse.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "perpustakaan.bp3upalembang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.p3dspb.balitbangkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.p3dspb.balitbangkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "p3dspb.balitbangkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.p3dspb.balitbangkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.p3dspb.balitbangkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bblbatam.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.bblbatam.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bblbatam.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.bblbatam.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bblbatam.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.kenelayanan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "kenelayanan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.kenelayanan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.kenelayanan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.kenelayanan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "brbihdepok.brsdm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.brbihdepok.brsdm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.brbihdepok.brsdm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.brbihdepok.brsdm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.brbihdepok.brsdm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.penyuluh.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.penyuluh.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "penyuluh.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.penyuluh.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.penyuluh.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.jdih2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jdih2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.jdih2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.jdih2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.jdih2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sim.ekerjasama.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.ekerjasama.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ekerjasama.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ekerjasama.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.ekerjasama.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.ekerjasama.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bp2ksi.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.bp2ksi.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bp2ksi.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.bp2ksi.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bp2ksi.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bppl.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.bppl.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bppl.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.bppl.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bppl.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "survei.bbpi-semarang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "skm.bbpi-semarang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "elibrary.bbpi-semarang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pustaka.bp2ksi.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.bbpi-semarang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bbpi-semarang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.bbpi-semarang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bbpi-semarang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.meacenter.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "meacenter.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dev01.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.dev01.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bbpbl.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bbpbl.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.wpi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "balikpapan.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.balikpapan.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.simpak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "simpak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.puslat1.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.puslat.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "puslat1.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "puslat.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "test.simpak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dimensional.kinerjaku.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "old.djprl.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "adm.ams.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.djprl.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.kinerjaku.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ams.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ams.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "old.ams.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.abk-djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sms.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sms.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jdih.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.jdih.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.poltekkpkupang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "poltekkpkupang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "infoproduk.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.infoproduk.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "karangasem.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.karangasem.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.pakwaskan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pakwaskan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "haccp2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.haccp2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.oss.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "oss.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "infohukum.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.infohukum.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "eplanning.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.eplanning.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "board.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.board.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "android.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.android.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ambon.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ambon.djpb.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.semarang.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "semarang.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sedakep.semarang.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "btc-ictbf-2018.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.btc-ictbf-2018.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.merauke.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "merauke.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "siadil.merauke.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "persuratan.merauke.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "distro.brsdm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.distro.brsdm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bkipmbelawan.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sertifikasi-akp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sertifikasi-akp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "gracilaria.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.gracilaria.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.sipp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sipp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sipp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.sipp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.sipp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.seketika2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "seketika2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ppid.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ppid.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.rebyc-cti.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.rebyc-cti.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "rebyc-cti.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.rebyc-cti.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.rebyc-cti.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.reformasi-birokrasi2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.reformasi-birokrasi2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "reformasi-birokrasi2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.reformasi-birokrasi2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.reformasi-birokrasi2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.cpib.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpib.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.cpib.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.cpib.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.cpib.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bppbapmaros.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.tmdev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "tmdev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "epuspa.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.epuspa.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.nip.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "nip.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.mfcepusluh.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.mfcepusluh.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mfcepusluh.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.mfcepusluh.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.mfcepusluh.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "juanda.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.juanda.bkipm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bbp4b.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.bbp4b.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bbp4b.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.bbp4b.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bbp4b.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.siska.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.siska.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "siska.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.siska.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.siska.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.sisinbe.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sisinbe.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sisinbe.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.sisinbe.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.sisinbe.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.sirendak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sirendak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sirendak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.sirendak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.sirendak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.sipmonev01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sipmonev01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sipmonev01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.sipmonev01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.sipmonev01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.sikap.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sikap.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sikap.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.sikap.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.sikap.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.simdak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.simdak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "simdak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.simdak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.simdak.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.semilir.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.semilir.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "semilir.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.semilir.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.semilir.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.pusluh.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.pusluh.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pusluh.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.pusluh.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.pusluh.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sdiabp.itjen.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.itjen.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "itjen.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.itjen.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.itjen.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.itjen.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.djpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.edalwas.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "edalwas.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.edalwas.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.edalwas.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.edalwas.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bppisukamandi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.bppisukamandi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bppisukamandi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.bppisukamandi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bppisukamandi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cbib.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.cbib.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.cbib.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.cbib.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.cbib.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sinada.bbp2hpjakarta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cloud.bbp2hpjakarta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.bbp2hpjakarta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.bbp2hpjakarta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.bbp2hpjakarta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.bbp2hpjakarta.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.news2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "news2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.oss2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "oss2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "akademik.poltekkpkupang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "e-learning.poltekkpkupang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ourocean2018.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ourocean2018.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.ppid2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ppid2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ppid2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.ppid2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.ppid2.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.ppid.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.ppid.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.ppid.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "journal.stpbogor.bpsdmkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.meacenter.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.meacenter.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.meacenter.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "lebay.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.lebay.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ccdp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ccdp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "galeri.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.galeri.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ppid3.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ppid3.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mp.polteksorong.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "asdas.djpdspkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "djpdspkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.djpdspkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "blog.djpdspkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "jdih3.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.jdih3.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.office.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "office.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ecom.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.ecom.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.new.bpppaertembaga.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "new.bpppaertembaga.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mobile.poltekkpsidoarjo.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.poltekkpsidoarjo.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "poltekkpsidoarjo.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "dev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.dev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "iphp.dev.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.sigedatikpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "sigedatikpt.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.roren.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "roren.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.pitap.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "pitap.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "brsdm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.brsdm.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "eproposal.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.eproposal.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "djpsdkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.djpsdkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "edalwas02.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.edalwas02.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "cpanel.hosting3a.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.hosting3a.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webdisk.hosting3a.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "webmail.hosting3a.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "whm.hosting3a.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "mail.simstat.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "simstat.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "data-tppnasional.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "satwaspontianak.psdkp.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bdasukamandi.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "balitbangdias.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "bbp4b01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "p3sdlp01.litbang.kkp.go.id",
-    "ip": ""
-  },
-  {
-    "domain": "ns2.kkp.go.id",
     "ip": ""
   }
 ]
