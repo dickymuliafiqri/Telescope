@@ -1,5 +1,65 @@
 [
   {
+    "domain": "webmail.pkk.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "maras-senang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sidora.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.maras-senang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.siurat.bangka.go.id.opd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.sidora.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "maras-senang.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.sidora.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcalendars.maras-senang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.bintet.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.sidora.bangka.go.id.opd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.maras-senang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "dinparpora.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "kencana.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "pn-koba.go.id",
+    "ip": "151.106.118.172"
+  },
+  {
     "domain": "API count exceeded - Increase Quota with Membership"
   },
   {
