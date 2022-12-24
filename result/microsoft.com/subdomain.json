@@ -4,10 +4,6 @@
     "ip": "52.233.73.87"
   },
   {
-    "domain": "uat-westus2.sigr.mtq.microsoft.com",
-    "ip": "20.83.108.231"
-  },
-  {
     "domain": "bvt-eastus2.sigr.mtq.microsoft.com",
     "ip": "20.122.82.158"
   },
@@ -1349,10 +1345,6 @@
   },
   {
     "domain": "mta40.email2.microsoft.com",
-    "ip": ""
-  },
-  {
-    "domain": "mta21.email2.microsoft.com",
     "ip": ""
   },
   {
@@ -16256,6 +16248,14 @@
     "ip": ""
   },
   {
+    "domain": "mta18.email2.microsoft.com",
+    "ip": "136.147.186.18"
+  },
+  {
+    "domain": "wus2s2-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com",
+    "ip": "52.143.78.194"
+  },
+  {
     "domain": "wwwco1test14.microsoft.com",
     "ip": "65.55.21.22"
   },
@@ -17188,6 +17188,10 @@
     "ip": "130.248.181.174"
   },
   {
+    "domain": "uat-westus2.sigr.mtq.microsoft.com",
+    "ip": "20.83.108.231"
+  },
+  {
     "domain": "sppilotco1.microsoft.com",
     "ip": "65.55.58.194"
   },
@@ -17868,6 +17872,10 @@
     "ip": "64.4.17.22"
   },
   {
+    "domain": "mta21.email2.microsoft.com",
+    "ip": "136.147.186.21"
+  },
+  {
     "domain": "cmsbn1test01.microsoft.com",
     "ip": "134.170.22.53"
   },
@@ -18246,14 +18254,6 @@
   {
     "domain": "cmsby2test62.microsoft.com",
     "ip": "134.170.188.99"
-  },
-  {
-    "domain": "mta18.email2.microsoft.com",
-    "ip": "136.147.186.18"
-  },
-  {
-    "domain": "wus2s2-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com",
-    "ip": "52.143.78.194"
   },
   {
     "domain": "gulopez@microsoft.com",

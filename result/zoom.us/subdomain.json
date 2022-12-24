@@ -1,5 +1,9 @@
 [
   {
+    "domain": "gaib-org-tr.zoom.us",
+    "ip": "us02web.zoom.us"
+  },
+  {
     "domain": "doxim.zoom.us",
     "ip": "www.zoom.us"
   },
