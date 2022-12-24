@@ -16051,6 +16051,14 @@
     "ip": ""
   },
   {
+    "domain": "webmail.sisumaker.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcalendars.sisumaker.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
     "domain": "www.neknang.bangka.go.id.desa.bangka.go.id",
     "ip": "103.205.56.195"
   },
@@ -16315,10 +16323,6 @@
     "ip": "202.73.26.154"
   },
   {
-    "domain": "webmail.sisumaker.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
     "domain": "www.delegasi.pn-baturaja.go.id",
     "ip": "103.163.138.13"
   },
@@ -16509,6 +16513,10 @@
   {
     "domain": "puskeswan.bangka.go.id",
     "ip": "103.205.56.195"
+  },
+  {
+    "domain": "casn.salatiga.go.id",
+    "ip": "103.230.100.42"
   },
   {
     "domain": "webdisk.kecamatan.bangka.go.id",
@@ -17771,10 +17779,6 @@
     "ip": "103.205.56.195"
   },
   {
-    "domain": "cpcalendars.sisumaker.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
     "domain": "cpcontacts.pkk.bangka.go.id",
     "ip": "103.205.56.195"
   },
@@ -18049,5 +18053,9 @@
   {
     "domain": "www.sisgra.pn-baturaja.go.id",
     "ip": "103.163.138.13"
+  },
+  {
+    "domain": "sipp.pn-salatiga.go.id",
+    "ip": "148.163.81.2"
   }
 ]
