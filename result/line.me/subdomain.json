@@ -2980,70 +2980,6 @@
     "ip": ""
   },
   {
-    "domain": "jobs.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "clova-cek-requests.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "man-admin.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "org-5thanniversary.game.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "5thanniversary.game.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "ace.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "sign.game.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "agecheck.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "api.news.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "ja.play.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "contact-m.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "ad-center.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "sticker-contest.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "contact.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "admin-official.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "partner.line.me",
-    "ip": ""
-  },
-  {
     "domain": "notice-o.line.me",
     "ip": "147.92.191.86"
   },
@@ -3428,12 +3364,12 @@
     "ip": "184.86.194.210"
   },
   {
-    "domain": "cube.line.me",
-    "ip": "104.71.132.34"
-  },
-  {
     "domain": "social-plugins.line.me",
     "ip": "173.222.229.162"
+  },
+  {
+    "domain": "cube.line.me",
+    "ip": "104.71.132.34"
   },
   {
     "domain": "terms2.line.me",
@@ -3452,12 +3388,12 @@
     "ip": "104.71.132.34"
   },
   {
-    "domain": "square-api.line.me",
-    "ip": "104.71.133.95"
-  },
-  {
     "domain": "help2.line.me",
     "ip": "104.71.132.34"
+  },
+  {
+    "domain": "square-api.line.me",
+    "ip": "104.71.133.95"
   },
   {
     "domain": "today.line.me",
@@ -3898,6 +3834,70 @@
   {
     "domain": "design.line.me",
     "ip": "203.104.153.194"
+  },
+  {
+    "domain": "jobs.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "clova-cek-requests.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "man-admin.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "org-5thanniversary.game.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "5thanniversary.game.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "ace.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "sign.game.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "agecheck.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "api.news.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "ja.play.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "contact-m.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "ad-center.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "sticker-contest.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "contact.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "admin-official.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "partner.line.me",
+    "ip": ""
   },
   {
     "domain": "landpress.line.me",
