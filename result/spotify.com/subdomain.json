@@ -4611,86 +4611,6 @@
     "ip": ""
   },
   {
-    "domain": "atctest.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.pci-testing.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.pci.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.inapp-support.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.sparta-api-testing.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.test.kubeflow-platform.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.dev.kubeflow-platform.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.prod.kubeflow-platform.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "developer.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.www--spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "cms.staging-change.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "staging-change.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "lon.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "ash.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "sto.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.codequest.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.contest.codequest.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "labs.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "news.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "press.spotify.com",
-    "ip": ""
-  },
-  {
     "domain": "generic.wg.spotify.com",
     "ip": "edge-web.dual-gslb.spotify.com"
   },
@@ -5297,5 +5217,85 @@
   {
     "domain": "ap.gslb.spotify.com",
     "ip": "35.190.245.184"
+  },
+  {
+    "domain": "atctest.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pci-testing.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pci.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.inapp-support.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.sparta-api-testing.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.test.kubeflow-platform.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.dev.kubeflow-platform.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.prod.kubeflow-platform.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "developer.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.www--spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "cms.staging-change.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "staging-change.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "lon.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "ash.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "sto.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.codequest.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.contest.codequest.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "labs.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "news.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "press.spotify.com",
+    "ip": ""
   }
 ]
