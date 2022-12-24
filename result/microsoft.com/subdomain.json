@@ -1,5 +1,9 @@
 [
   {
+    "domain": "dev.docs.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "minervahpc.microsoft.com",
     "ip": "20.163.113.171"
   },
