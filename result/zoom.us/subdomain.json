@@ -1,5 +1,9 @@
 [
   {
+    "domain": "doxim.zoom.us",
+    "ip": "www.zoom.us"
+  },
+  {
     "domain": "qa.tableau.corp.zoom.us",
     "ip": "3.212.32.37"
   },
