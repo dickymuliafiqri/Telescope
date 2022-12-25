@@ -1,5 +1,9 @@
 [
   {
+    "domain": "api.apac.hms.migrationservices.teams.microsoft.com",
+    "ip": "52.140.50.93"
+  },
+  {
     "domain": "offlinebook.mtps.microsoft.com",
     "ip": "13.107.246.70"
   },
