@@ -1,5 +1,9 @@
 [
   {
+    "domain": "gethelp-prod.services.microsoft.com",
+    "ip": "104.40.3.53"
+  },
+  {
     "domain": "Api.securitycenter.microsoft.com",
     "ip": "40.86.86.112"
   },

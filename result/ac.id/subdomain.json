@@ -1,5 +1,9 @@
 [
   {
+    "domain": "lab.elektro.poltekba.ac.id",
+    "ip": "103.80.240.228"
+  },
+  {
     "domain": "pmb.stibada.ac.id",
     "ip": "103.147.154.71"
   },
