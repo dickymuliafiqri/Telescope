@@ -1,9 +1,5 @@
 [
   {
-    "domain": "lab.elektro.poltekba.ac.id",
-    "ip": "103.80.240.228"
-  },
-  {
     "domain": "pmb.stibada.ac.id",
     "ip": "103.147.154.71"
   },
@@ -10308,6 +10304,22 @@
     "ip": "167.205.12.216"
   },
   {
+    "domain": "dev.staiduba.ac.id",
+    "ip": "103.28.53.92"
+  },
+  {
+    "domain": "cpcontacts.staiduba.ac.id",
+    "ip": "103.28.53.92"
+  },
+  {
+    "domain": "www.dev.staiduba.ac.id",
+    "ip": "103.28.53.92"
+  },
+  {
+    "domain": "siakad.ummuba.ac.id",
+    "ip": "194.163.42.92"
+  },
+  {
     "domain": "www.fe.unibba.ac.id",
     "ip": "103.28.12.168"
   },
@@ -10360,12 +10372,12 @@
     "ip": "151.106.119.173"
   },
   {
-    "domain": "dev.staiduba.ac.id",
-    "ip": "103.28.53.92"
-  },
-  {
     "domain": "bc.stiba.ac.id",
     "ip": "103.55.38.187"
+  },
+  {
+    "domain": "kk.up45.ac.id",
+    "ip": "80.241.208.213"
   },
   {
     "domain": "webmail.akjp2.ac.id",
@@ -10454,6 +10466,10 @@
   {
     "domain": "www.kemahasiswaan.stmikiba.ac.id",
     "ip": "151.106.118.148"
+  },
+  {
+    "domain": "lab.elektro.poltekba.ac.id",
+    "ip": "103.80.240.228"
   },
   {
     "domain": "www.cart.staba.ac.id",
@@ -10574,6 +10590,10 @@
   {
     "domain": "cpcontacts.lms.stie-66.ac.id",
     "ip": "103.55.39.107"
+  },
+  {
+    "domain": "www.journal.pertiba.ac.id",
+    "ip": "217.21.72.214"
   },
   {
     "domain": "www.wisuda.staba.ac.id",
@@ -10768,10 +10788,6 @@
     "ip": "203.175.8.40"
   },
   {
-    "domain": "cpcontacts.staiduba.ac.id",
-    "ip": "103.28.53.92"
-  },
-  {
     "domain": "cpanel.goaktif.poltekkesjakarta3.ac.id",
     "ip": "109.106.253.125"
   },
@@ -10906,6 +10922,10 @@
   {
     "domain": "cpcontacts.spmb.stie-66.ac.id",
     "ip": "103.55.39.107"
+  },
+  {
+    "domain": "pkkmb.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
   },
   {
     "domain": "mailtracking.sp.ITB.ac.id",
@@ -11150,10 +11170,6 @@
   {
     "domain": "app.stiba.ac.id",
     "ip": "103.55.38.187"
-  },
-  {
-    "domain": "www.dev.staiduba.ac.id",
-    "ip": "103.28.53.92"
   },
   {
     "domain": "cpcontacts.perpustakaan.stie-66.ac.id",
@@ -11556,8 +11572,8 @@
     "ip": "119.235.251.168"
   },
   {
-    "domain": "kk.up45.ac.id",
-    "ip": "80.241.208.213"
+    "domain": "www.pkkmb.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
   },
   {
     "domain": "lingkungan-82.tl.ITB.ac.id",
@@ -11597,7 +11613,7 @@
   },
   {
     "domain": "pmb.poltekkesjkt2.ac.id",
-    "ip": "103.229.73.214"
+    "ip": "151.106.119.173"
   },
   {
     "domain": "www.fkes.unibba.ac.id",
@@ -11694,10 +11710,6 @@
   {
     "domain": "simaba.unperba.ac.id",
     "ip": "104.21.80.56"
-  },
-  {
-    "domain": "siakad.ummuba.ac.id",
-    "ip": "194.163.42.92"
   },
   {
     "domain": "network.up45.ac.id",
