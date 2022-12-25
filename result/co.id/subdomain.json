@@ -1,11 +1,11 @@
 [
   {
-    "domain": "webmail.astraauto2000.co.id",
-    "ip": "217.182.175.206"
+    "domain": "www.eabsen.inhutani5.co.id",
+    "ip": "103.8.79.217"
   },
   {
-    "domain": "list.qoo10.co.id",
-    "ip": "52.74.251.10"
+    "domain": "ftp.inhutani5.co.id",
+    "ip": "103.8.79.217"
   },
   {
     "domain": "cpcontacts.econe2010.co.id",
@@ -908,10 +908,6 @@
     "ip": "101.50.1.75"
   },
   {
-    "domain": "www.eabsen.inhutani5.co.id",
-    "ip": "103.8.79.217"
-  },
-  {
     "domain": "q2001.co.id",
     "ip": "103.153.3.20"
   },
@@ -962,10 +958,6 @@
   {
     "domain": "mail.saranak3.co.id",
     "ip": "103.120.124.238"
-  },
-  {
-    "domain": "ftp.inhutani5.co.id",
-    "ip": "103.8.79.217"
   },
   {
     "domain": "mail.ptpn11.co.id",
@@ -2006,6 +1998,14 @@
   {
     "domain": "mail.atg5.co.id",
     "ip": "103.102.1.206"
+  },
+  {
+    "domain": "list.qoo10.co.id",
+    "ip": "52.74.251.10"
+  },
+  {
+    "domain": "webmail.astraauto2000.co.id",
+    "ip": "217.182.175.206"
   },
   {
     "domain": "ebank.ultrajaya.co.id",
