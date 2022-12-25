@@ -10296,6 +10296,14 @@
     "ip": ""
   },
   {
+    "domain": "webdisk.perpustakaan.poltekkesjakarta3.ac.id",
+    "ip": "153.92.10.60"
+  },
+  {
+    "domain": "minyak-216.tm.ITB.ac.id",
+    "ip": "167.205.12.216"
+  },
+  {
     "domain": "www.fe.unibba.ac.id",
     "ip": "103.28.12.168"
   },
@@ -10342,6 +10350,10 @@
   {
     "domain": "journal.stiba.ac.id",
     "ip": "103.55.38.155"
+  },
+  {
+    "domain": "appabsensi.poltekkesjkt2.ac.id",
+    "ip": "151.106.119.173"
   },
   {
     "domain": "dev.staiduba.ac.id",
@@ -11576,8 +11588,8 @@
     "ip": "194.233.70.180"
   },
   {
-    "domain": "webdisk.perpustakaan.poltekkesjakarta3.ac.id",
-    "ip": "153.92.10.60"
+    "domain": "lecturer.laaroiba.ac.id",
+    "ip": "165.22.52.62"
   },
   {
     "domain": "pmb.poltekkesjkt2.ac.id",
@@ -12290,9 +12302,5 @@
   {
     "domain": "kl.poltekkesjkt2.ac.id",
     "ip": "103.229.73.214"
-  },
-  {
-    "domain": "minyak-216.tm.ITB.ac.id",
-    "ip": "167.205.12.216"
   }
 ]
