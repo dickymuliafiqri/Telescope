@@ -1,5 +1,21 @@
 [
   {
+    "domain": "Api.securitycenter.microsoft.com",
+    "ip": "40.86.86.112"
+  },
+  {
+    "domain": "Api.security.microsoft.com",
+    "ip": "104.43.247.104"
+  },
+  {
+    "domain": "Api-DF.securitycenter.microsoft.com",
+    "ip": "40.86.24.22"
+  },
+  {
+    "domain": "Api-DF.security.microsoft.com",
+    "ip": "40.86.24.22"
+  },
+  {
     "domain": "api.emea.hms.migrationservices.teams.microsoft.com",
     "ip": "13.74.169.165"
   },
