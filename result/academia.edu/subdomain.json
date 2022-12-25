@@ -1327,10 +1327,6 @@
     "ip": "108.138.246.31"
   },
   {
-    "domain": "academia.edu",
-    "ip": "108.138.246.31"
-  },
-  {
     "domain": "try.academia.edu",
     "ip": ""
   },
@@ -1341,6 +1337,10 @@
   {
     "domain": "engineering.academia.edu",
     "ip": ""
+  },
+  {
+    "domain": "academia.edu",
+    "ip": "108.156.107.42"
   },
   {
     "domain": "0000.academia.edu",
