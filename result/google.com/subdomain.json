@@ -1,5 +1,9 @@
 [
   {
+    "domain": "dataplex-dev.cloud.google.com",
+    "ip": "142.251.211.238"
+  },
+  {
     "domain": "google.com",
     "ip": "209.85.200.113"
   },
@@ -20161,10 +20165,6 @@
   },
   {
     "domain": "da-mtv-5.da.ext.google.com",
-    "ip": ""
-  },
-  {
-    "domain": "dataplex-dev.cloud.google.com",
     "ip": ""
   },
   {
