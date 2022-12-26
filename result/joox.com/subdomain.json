@@ -44,22 +44,6 @@
     "ip": ""
   },
   {
-    "domain": "my.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "l.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "mm.stream.music.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "th.stream.music.joox.com",
-    "ip": ""
-  },
-  {
     "domain": "mm.api.joox.com",
     "ip": "NXDOMAIN"
   },
@@ -278,5 +262,21 @@
   {
     "domain": "cos.image.joox.com",
     "ip": "203.205.191.24"
+  },
+  {
+    "domain": "my.app.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "l.app.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "mm.stream.music.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "th.stream.music.joox.com",
+    "ip": ""
   }
 ]

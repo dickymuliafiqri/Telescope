@@ -1,5 +1,81 @@
 [
   {
+    "domain": "cpcontacts.kel-srimenanti.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.kecmerawang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcalendars.deniang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "deniang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.potensi.bangka.go.id",
+    "ip": "156.67.211.199"
+  },
+  {
+    "domain": "kel-srimenanti.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcontacts.deniang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.bappeda.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.potensi.bangka.go.id",
+    "ip": "156.67.211.199"
+  },
+  {
+    "domain": "cpcontacts.bappeda.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.kel-srimenanti.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "kecmerawang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcalendars.kecmerawang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "deniang.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.awasbang.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "kel-srimenanti.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.deniang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.deniang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcalendars.kel-srimenanti.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
     "domain": "zmta10.polri.go.id",
     "ip": ""
   },
