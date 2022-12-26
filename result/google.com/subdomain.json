@@ -1,9 +1,5 @@
 [
   {
-    "domain": "dataplex-dev.cloud.google.com",
-    "ip": "142.251.211.238"
-  },
-  {
     "domain": "google.com",
     "ip": "209.85.200.113"
   },
@@ -20404,8 +20400,12 @@
     "ip": ""
   },
   {
+    "domain": "dataplex-dev.cloud.google.com",
+    "ip": "142.251.211.238"
+  },
+  {
     "domain": "status.search.google.com",
-    "ip": "2607:f8b0:400a:805::200e"
+    "ip": "142.251.211.238"
   },
   {
     "domain": "guidebooks.google.com",
@@ -20468,12 +20468,12 @@
     "ip": "173.194.185.136"
   },
   {
-    "domain": "r2---sn-5hne6n6e.c.pack.google.com",
-    "ip": "r2.sn-5hne6n6e.c.pack.google.com"
-  },
-  {
     "domain": "r2.sn-5hne6n6e.c.pack.google.com",
     "ip": "172.217.132.231"
+  },
+  {
+    "domain": "r2---sn-5hne6n6e.c.pack.google.com",
+    "ip": "r2.sn-5hne6n6e.c.pack.google.com"
   },
   {
     "domain": "r4---sn-5hnednss.c.pack.google.com",
@@ -20488,12 +20488,12 @@
     "ip": "2607:f8b0:400a:80b::2004"
   },
   {
-    "domain": "frame.adwords-next-external-devel.qa.adz.google.com",
-    "ip": "2607:f8b0:400e:c00::81"
-  },
-  {
     "domain": "frame.ds-next-external-devel.qa.adz.google.com",
     "ip": "2607:f8b0:400e:c0a::81"
+  },
+  {
+    "domain": "frame.adwords-next-external-devel.qa.adz.google.com",
+    "ip": "2607:f8b0:400e:c00::81"
   },
   {
     "domain": "sketchup.l.google.com",
@@ -20577,7 +20577,7 @@
   },
   {
     "domain": "fife.usercontent.google.com",
-    "ip": "172.217.14.193"
+    "ip": "2607:f8b0:400a:80a::2001"
   },
   {
     "domain": "acs-autopush.voice.google.com",
@@ -20589,6 +20589,10 @@
   },
   {
     "domain": "jibe.google.com",
+    "ip": "142.251.211.238"
+  },
+  {
+    "domain": "apigee.google.com",
     "ip": "142.251.211.238"
   },
   {
@@ -20608,10 +20612,6 @@
     "ip": "142.251.211.238"
   },
   {
-    "domain": "apigee.google.com",
-    "ip": "142.251.211.238"
-  },
-  {
     "domain": "firebase.google.com",
     "ip": "142.251.215.238"
   },
@@ -20625,7 +20625,19 @@
   },
   {
     "domain": "console.us.cloud.google.com",
-    "ip": "142.250.69.206"
+    "ip": "2607:f8b0:400a:801::200e"
+  },
+  {
+    "domain": "composer-qa.cloud.google.com",
+    "ip": "142.251.211.238"
+  },
+  {
+    "domain": "dataproc.cloud.google.com",
+    "ip": "142.251.211.238"
+  },
+  {
+    "domain": "datasetsearch.research.google.com",
+    "ip": "142.251.211.238"
   },
   {
     "domain": "composer.cloud.google.com",
@@ -20672,15 +20684,15 @@
     "ip": "142.251.211.238"
   },
   {
-    "domain": "composer-qa.cloud.google.com",
+    "domain": "datafusion-api-staging.cloud.google.com",
     "ip": "142.251.211.238"
   },
   {
-    "domain": "dataproc.cloud.google.com",
+    "domain": "backupdr-staging.cloud.google.com",
     "ip": "142.251.211.238"
   },
   {
-    "domain": "datasetsearch.research.google.com",
+    "domain": "microhost.google.com",
     "ip": "142.251.211.238"
   },
   {
@@ -20724,18 +20736,6 @@
     "ip": "142.251.211.238"
   },
   {
-    "domain": "datafusion-api-staging.cloud.google.com",
-    "ip": "142.251.211.238"
-  },
-  {
-    "domain": "backupdr-staging.cloud.google.com",
-    "ip": "142.251.211.238"
-  },
-  {
-    "domain": "microhost.google.com",
-    "ip": "142.251.211.238"
-  },
-  {
     "domain": "mobile.akaun.google.com",
     "ip": "NXDOMAIN"
   },
@@ -20754,6 +20754,10 @@
   {
     "domain": "696.drive.google.com",
     "ip": "2607:f8b0:400e:c0d::bd"
+  },
+  {
+    "domain": "555047.drive.google.com",
+    "ip": "2607:f8b0:400e:c00::bd"
   },
   {
     "domain": "47630.drive.google.com",
@@ -20788,6 +20792,10 @@
     "ip": "2607:f8b0:400e:c0a::bd"
   },
   {
+    "domain": "1314.drive.google.com",
+    "ip": "108.177.98.189"
+  },
+  {
     "domain": "0971.drive.google.com",
     "ip": "108.177.98.189"
   },
@@ -20796,15 +20804,11 @@
     "ip": "108.177.98.189"
   },
   {
-    "domain": "1314.drive.google.com",
-    "ip": "108.177.98.189"
-  },
-  {
-    "domain": "g55n0f6ua.drive.google.com",
+    "domain": "9521.drive.google.com",
     "ip": "2607:f8b0:400e:c06::bd"
   },
   {
-    "domain": "9521.drive.google.com",
+    "domain": "g55n0f6ua.drive.google.com",
     "ip": "2607:f8b0:400e:c06::bd"
   },
   {
@@ -20828,12 +20832,16 @@
     "ip": "2607:f8b0:400e:c06::bd"
   },
   {
+    "domain": "5453.drive.google.com",
+    "ip": "2607:f8b0:400e:c02::bd"
+  },
+  {
     "domain": "52909.drive.google.com",
     "ip": "2607:f8b0:400e:c02::bd"
   },
   {
-    "domain": "5453.drive.google.com",
-    "ip": "2607:f8b0:400e:c02::bd"
+    "domain": "9236.drive.google.com",
+    "ip": "2607:f8b0:400e:c06::bd"
   },
   {
     "domain": "js5o5z.drive.google.com",
@@ -20848,7 +20856,7 @@
     "ip": "2607:f8b0:400e:c06::bd"
   },
   {
-    "domain": "9236.drive.google.com",
+    "domain": "66768.drive.google.com",
     "ip": "2607:f8b0:400e:c06::bd"
   },
   {
@@ -20856,12 +20864,12 @@
     "ip": "2607:f8b0:400e:c01::bd"
   },
   {
-    "domain": "66768.drive.google.com",
-    "ip": "2607:f8b0:400e:c06::bd"
-  },
-  {
     "domain": "95.drive.google.com",
     "ip": "2607:f8b0:400e:c01::bd"
+  },
+  {
+    "domain": "tkr.drive.google.com",
+    "ip": "2607:f8b0:400e:c0d::bd"
   },
   {
     "domain": "t9qqqs.drive.google.com",
@@ -20872,12 +20880,12 @@
     "ip": "2607:f8b0:400e:c0a::bd"
   },
   {
-    "domain": "tkr.drive.google.com",
-    "ip": "2607:f8b0:400e:c0d::bd"
-  },
-  {
     "domain": "1751.drive.google.com",
     "ip": "2607:f8b0:400e:c0a::bd"
+  },
+  {
+    "domain": "198139.drive.google.com",
+    "ip": "2607:f8b0:400e:c01::bd"
   },
   {
     "domain": "7169.drive.google.com",
@@ -20888,8 +20896,8 @@
     "ip": "2607:f8b0:400e:c01::bd"
   },
   {
-    "domain": "198139.drive.google.com",
-    "ip": "2607:f8b0:400e:c01::bd"
+    "domain": "lii4d.drive.google.com",
+    "ip": "2607:f8b0:400e:c00::bd"
   },
   {
     "domain": "oie1rc.drive.google.com",
@@ -20916,12 +20924,16 @@
     "ip": "2607:f8b0:400e:c00::bd"
   },
   {
-    "domain": "lii4d.drive.google.com",
-    "ip": "2607:f8b0:400e:c00::bd"
-  },
-  {
     "domain": "blogger.l.google.com",
     "ip": "2607:f8b0:400a:80a::2009"
+  },
+  {
+    "domain": "86.drive.google.com",
+    "ip": "108.177.98.189"
+  },
+  {
+    "domain": "811653.drive.google.com",
+    "ip": "108.177.98.189"
   },
   {
     "domain": "82.drive.google.com",
@@ -20930,6 +20942,10 @@
   {
     "domain": "235243.drive.google.com",
     "ip": "108.177.98.189"
+  },
+  {
+    "domain": "8d.drive.google.com",
+    "ip": "2607:f8b0:400e:c01::bd"
   },
   {
     "domain": "25.drive.google.com",
@@ -20964,15 +20980,7 @@
     "ip": "108.177.98.189"
   },
   {
-    "domain": "86.drive.google.com",
-    "ip": "108.177.98.189"
-  },
-  {
-    "domain": "8d.drive.google.com",
-    "ip": "108.177.98.189"
-  },
-  {
-    "domain": "811653.drive.google.com",
+    "domain": "066335.drive.google.com",
     "ip": "108.177.98.189"
   },
   {
@@ -20984,19 +20992,11 @@
     "ip": "108.177.98.189"
   },
   {
-    "domain": "066335.drive.google.com",
-    "ip": "108.177.98.189"
-  },
-  {
     "domain": "58201.drive.google.com",
     "ip": "108.177.98.189"
   },
   {
     "domain": "53458.drive.google.com",
-    "ip": "108.177.98.189"
-  },
-  {
-    "domain": "555047.drive.google.com",
     "ip": "108.177.98.189"
   },
   {
