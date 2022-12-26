@@ -1,5 +1,908 @@
 [
   {
+    "domain": "API count exceeded - Increase Quota with Membership"
+  },
+  {
+    "domain": "generic.wg.spotify.com",
+    "ip": "edge-web.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "provider-api.spotify.com",
+    "ip": "generic.wg.spotify.com"
+  },
+  {
+    "domain": "shop.spotify.com",
+    "ip": "edge-web.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "promo.spotify.com",
+    "ip": "151.101.22.133"
+  },
+  {
+    "domain": "gew4-spclient.spotify.com",
+    "ip": "edge-web-gew4.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "edge-web-gew4.dual-gslb.spotify.com",
+    "ip": "35.186.224.17"
+  },
+  {
+    "domain": "gue1-dealer.spotify.com",
+    "ip": "gue1-dealer-ssl.spotify.com"
+  },
+  {
+    "domain": "gue1-dealer-ssl.spotify.com",
+    "ip": "35.186.224.43"
+  },
+  {
+    "domain": "ap-gew4.spotify.com",
+    "ip": "34.158.0.131"
+  },
+  {
+    "domain": "edge-web-gue1.dual-gslb.spotify.com",
+    "ip": "35.186.224.16"
+  },
+  {
+    "domain": "gue1-spclient.spotify.com",
+    "ip": "edge-web-gue1.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "ap-gue1.spotify.com",
+    "ip": "34.158.253.218"
+  },
+  {
+    "domain": "edge-web-direct.single-gslb.spotify.com",
+    "ip": "35.190.245.250"
+  },
+  {
+    "domain": "bloodhound.spotify.com",
+    "ip": "2600:1901:1:c36::"
+  },
+  {
+    "domain": "charts.spotify.com",
+    "ip": "edge-web.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "explore.spotify.com",
+    "ip": "edge-web.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "live.spotify.com",
+    "ip": "edge-web.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "link.hello.spotify.com",
+    "ip": "sendgrid.net"
+  },
+  {
+    "domain": "sparta-api.spotify.com",
+    "ip": "2600:1901:1:c36::"
+  },
+  {
+    "domain": "sparta-api-testing.spotify.com",
+    "ip": "2600:1901:1:c36::"
+  },
+  {
+    "domain": "gew1-dealer.spotify.com",
+    "ip": "gew1-dealer-ssl.spotify.com"
+  },
+  {
+    "domain": "gae2-spclient.spotify.com",
+    "ip": "edge-web-gae2.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "gew1-spclient.spotify.com",
+    "ip": "edge-web-gew1.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "mobile-ap.spotify.com",
+    "ip": "ap.single-gslb.spotify.com"
+  },
+  {
+    "domain": "ap-gae2.spotify.com",
+    "ip": "104.199.240.237"
+  },
+  {
+    "domain": "guc3-dealer.spotify.com",
+    "ip": "guc3-dealer-ssl.spotify.com"
+  },
+  {
+    "domain": "ap-guc3.spotify.com",
+    "ip": "104.154.127.126"
+  },
+  {
+    "domain": "ap.spotify.com",
+    "ip": "ap.single-gslb.spotify.com"
+  },
+  {
+    "domain": "www.open.spotify.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "guc3-spclient.spotify.com",
+    "ip": "edge-web-guc3.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "support.spotify.com",
+    "ip": "edge-web-split-geo.single-gslb.spotify.com"
+  },
+  {
+    "domain": "www.spotify.com",
+    "ip": "edge-web-split-geo.single-gslb.spotify.com"
+  },
+  {
+    "domain": "accounts.spotify.com",
+    "ip": "edge-web-split-geo.single-gslb.spotify.com"
+  },
+  {
+    "domain": "open.spotify.com",
+    "ip": "edge-web-split-geo.single-gslb.spotify.com"
+  },
+  {
+    "domain": "edge-web-split-geo.single-gslb.spotify.com",
+    "ip": "35.186.224.25"
+  },
+  {
+    "domain": "backstage-licensing.spotify.com",
+    "ip": "54.91.59.199"
+  },
+  {
+    "domain": "gae2-accesspoint-a-j16d.ap.spotify.com",
+    "ip": "104.199.240.192"
+  },
+  {
+    "domain": "gae2-accesspoint-c-xwr3.ap.spotify.com",
+    "ip": "35.190.240.240"
+  },
+  {
+    "domain": "guc3-accesspoint-a-v0wv.ap.spotify.com",
+    "ip": "35.190.245.153"
+  },
+  {
+    "domain": "gew1-accesspoint-a-dqk1.ap.spotify.com",
+    "ip": "35.190.242.159"
+  },
+  {
+    "domain": "gew1-accesspoint-a-snxq.ap.spotify.com",
+    "ip": "104.199.64.204"
+  },
+  {
+    "domain": "gew1-accesspoint-a-clk1.ap.spotify.com",
+    "ip": "35.190.242.190"
+  },
+  {
+    "domain": "gew1-accesspoint-a-3rs1.ap.spotify.com",
+    "ip": "35.190.242.141"
+  },
+  {
+    "domain": "gae2-accesspoint-a-47z0.ap.spotify.com",
+    "ip": "104.199.241.1"
+  },
+  {
+    "domain": "spclient.wg.spotify.com",
+    "ip": "35.186.224.25"
+  },
+  {
+    "domain": "heads-ec.spotify.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "keyframes-fa.cdn.spotify.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "images.spotify.com",
+    "ip": "scdnco.spotify.map.fastly.net"
+  },
+  {
+    "domain": "gae2-accesspoint-a-sp2b.ap.spotify.com",
+    "ip": "104.199.241.254"
+  },
+  {
+    "domain": "gew1-accesspoint-a-phhx.ap.spotify.com",
+    "ip": "35.190.243.29"
+  },
+  {
+    "domain": "gew1-accesspoint-a-fjdh.ap.spotify.com",
+    "ip": "35.190.243.230"
+  },
+  {
+    "domain": "gew1-accesspoint-a-llwb.ap.spotify.com",
+    "ip": "104.199.64.171"
+  },
+  {
+    "domain": "gew1-accesspoint-a-fk3g.ap.spotify.com",
+    "ip": "35.190.243.87"
+  },
+  {
+    "domain": "tracing.spotify.com",
+    "ip": "edge-web.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "guc3-accesspoint-a-n88s.ap.spotify.com",
+    "ip": "35.190.244.165"
+  },
+  {
+    "domain": "guc3-accesspoint-a-r9jr.ap.spotify.com",
+    "ip": "104.154.126.191"
+  },
+  {
+    "domain": "guc3-accesspoint-a-4m3h.ap.spotify.com",
+    "ip": "104.154.126.5"
+  },
+  {
+    "domain": "gew1-accesspoint-a-23j2.ap.spotify.com",
+    "ip": "35.190.243.122"
+  },
+  {
+    "domain": "guc3-accesspoint-a-c9mz.ap.spotify.com",
+    "ip": "35.190.245.193"
+  },
+  {
+    "domain": "gae2-accesspoint-a-n986.ap.spotify.com",
+    "ip": "104.199.240.221"
+  },
+  {
+    "domain": "gew1-accesspoint-a-676c.ap.spotify.com",
+    "ip": "104.199.65.39"
+  },
+  {
+    "domain": "guc3-accesspoint-a-135l.ap.spotify.com",
+    "ip": "104.154.126.44"
+  },
+  {
+    "domain": "gew1-accesspoint-a-lnxw.ap.spotify.com",
+    "ip": "104.199.64.54"
+  },
+  {
+    "domain": "guc3-accesspoint-a-0rf9.ap.spotify.com",
+    "ip": "35.190.244.102"
+  },
+  {
+    "domain": "www-staging3.spotify.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www-staging.spotify.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ads.spotify.com",
+    "ip": "edge-web.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "play.spotify.com",
+    "ip": "edge-web-split-geo.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "www.canvas.spotify.com",
+    "ip": "2607:f8b0:400a:80a::2013"
+  },
+  {
+    "domain": "spotify.com",
+    "ip": "ns-cloud-a2.googledomains.com"
+  },
+  {
+    "domain": "wl.spotify.com",
+    "ip": "52.52.150.75"
+  },
+  {
+    "domain": "guc3-accesspoint-a-jpkr.ap.spotify.com",
+    "ip": "104.154.127.92"
+  },
+  {
+    "domain": "gew1-accesspoint-a-cr9c.ap.spotify.com",
+    "ip": "35.190.242.253"
+  },
+  {
+    "domain": "guc3-accesspoint-a-86tc.ap.spotify.com",
+    "ip": "35.190.245.116"
+  },
+  {
+    "domain": "gae2-accesspoint-a-kwzw.ap.spotify.com",
+    "ip": "104.199.240.39"
+  },
+  {
+    "domain": "gew1-accesspoint-a-gd49.ap.spotify.com",
+    "ip": "35.190.243.55"
+  },
+  {
+    "domain": "guc3-accesspoint-a-cmt9.ap.spotify.com",
+    "ip": "35.190.244.121"
+  },
+  {
+    "domain": "gew1-accesspoint-a-76tq.ap.spotify.com",
+    "ip": "35.190.242.236"
+  },
+  {
+    "domain": "gew1-accesspoint-a-nzl8.ap.spotify.com",
+    "ip": "35.190.242.21"
+  },
+  {
+    "domain": "guc3-accesspoint-a-88k2.ap.spotify.com",
+    "ip": "35.190.245.192"
+  },
+  {
+    "domain": "gew1-accesspoint-a-gx39.ap.spotify.com",
+    "ip": "104.199.64.0"
+  },
+  {
+    "domain": "gae2-accesspoint-a-0st4.ap.spotify.com",
+    "ip": "104.199.241.241"
+  },
+  {
+    "domain": "guc3-accesspoint-a-10sk.ap.spotify.com",
+    "ip": "104.154.126.144"
+  },
+  {
+    "domain": "gew1-accesspoint-a-whff.ap.spotify.com",
+    "ip": "35.190.242.147"
+  },
+  {
+    "domain": "guc3-accesspoint-a-m1zv.ap.spotify.com",
+    "ip": "35.190.244.212"
+  },
+  {
+    "domain": "guc3-accesspoint-a-04j9.ap.spotify.com",
+    "ip": "35.190.244.82"
+  },
+  {
+    "domain": "gew1-accesspoint-a-hscp.ap.spotify.com",
+    "ip": "104.199.64.206"
+  },
+  {
+    "domain": "gew1-accesspoint-a-l2mk.ap.spotify.com",
+    "ip": "35.190.242.134"
+  },
+  {
+    "domain": "cms.spotify.com",
+    "ip": "edge-web.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "gew1-accesspoint-a-vn30.ap.spotify.com",
+    "ip": "35.190.242.247"
+  },
+  {
+    "domain": "guc3-accesspoint-a-7wwv.ap.spotify.com",
+    "ip": "104.154.126.102"
+  },
+  {
+    "domain": "guc3-accesspoint-a-97w7.ap.spotify.com",
+    "ip": "35.190.244.144"
+  },
+  {
+    "domain": "gew1-accesspoint-a-3p49.ap.spotify.com",
+    "ip": "35.190.243.71"
+  },
+  {
+    "domain": "gew1-accesspoint-a-mbnn.ap.spotify.com",
+    "ip": "35.190.243.15"
+  },
+  {
+    "domain": "gew1-accesspoint-a-bth2.ap.spotify.com",
+    "ip": "35.190.242.122"
+  },
+  {
+    "domain": "guc3-accesspoint-a-jtzc.ap.spotify.com",
+    "ip": "35.190.244.143"
+  },
+  {
+    "domain": "guc3-accesspoint-a-z61d.ap.spotify.com",
+    "ip": "35.190.244.171"
+  },
+  {
+    "domain": "gew1-accesspoint-a-13rf.ap.spotify.com",
+    "ip": "104.199.65.47"
+  },
+  {
+    "domain": "gew1-accesspoint-a-nj36.ap.spotify.com",
+    "ip": "35.190.242.130"
+  },
+  {
+    "domain": "gew1-accesspoint-a-ptdl.ap.spotify.com",
+    "ip": "35.190.243.72"
+  },
+  {
+    "domain": "guc3-accesspoint-a-7hph.ap.spotify.com",
+    "ip": "35.190.245.97"
+  },
+  {
+    "domain": "gew1-accesspoint-a-prxh.ap.spotify.com",
+    "ip": "35.190.243.93"
+  },
+  {
+    "domain": "guc3-accesspoint-a-pfgf.ap.spotify.com",
+    "ip": "104.154.127.67"
+  },
+  {
+    "domain": "gew1-accesspoint-a-czt3.ap.spotify.com",
+    "ip": "104.199.64.166"
+  },
+  {
+    "domain": "guc3-accesspoint-a-ltl1.ap.spotify.com",
+    "ip": "104.154.127.224"
+  },
+  {
+    "domain": "guc3-accesspoint-a-jzlw.ap.spotify.com",
+    "ip": "104.154.127.211"
+  },
+  {
+    "domain": "gae2-accesspoint-a-0gdn.ap.spotify.com",
+    "ip": "104.199.241.214"
+  },
+  {
+    "domain": "guc3-accesspoint-a-m2sk.ap.spotify.com",
+    "ip": "35.190.245.60"
+  },
+  {
+    "domain": "gew1-accesspoint-a-m41b.ap.spotify.com",
+    "ip": "104.199.65.127"
+  },
+  {
+    "domain": "guc3-accesspoint-a-wz22.ap.spotify.com",
+    "ip": "104.154.126.2"
+  },
+  {
+    "domain": "gew1-accesspoint-a-kwrr.ap.spotify.com",
+    "ip": "35.190.242.250"
+  },
+  {
+    "domain": "guc3-accesspoint-a-wnhn.ap.spotify.com",
+    "ip": "104.154.127.96"
+  },
+  {
+    "domain": "guc3-accesspoint-c-z59f.ap.spotify.com",
+    "ip": "35.190.245.211"
+  },
+  {
+    "domain": "gew1-accesspoint-a-p1z4.ap.spotify.com",
+    "ip": "104.199.65.71"
+  },
+  {
+    "domain": "gew1-accesspoint-c-lzsz.ap.spotify.com",
+    "ip": "35.190.243.48"
+  },
+  {
+    "domain": "guc3-accesspoint-a-9c4x.ap.spotify.com",
+    "ip": "104.154.127.79"
+  },
+  {
+    "domain": "guc3-accesspoint-a-g2wl.ap.spotify.com",
+    "ip": "35.190.245.171"
+  },
+  {
+    "domain": "gew1-accesspoint-a-sr5k.ap.spotify.com",
+    "ip": "35.190.242.14"
+  },
+  {
+    "domain": "guc3-accesspoint-a-wk15.ap.spotify.com",
+    "ip": "104.154.127.16"
+  },
+  {
+    "domain": "gew1-accesspoint-a-7kvp.ap.spotify.com",
+    "ip": "35.190.243.128"
+  },
+  {
+    "domain": "gew1-accesspoint-a-r9m3.ap.spotify.com",
+    "ip": "104.199.64.146"
+  },
+  {
+    "domain": "login.spotify.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "weblb.gslb.spotify.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "weblb-wg.gslb.spotify.comlog.spotify.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "ash2-accesspoint-a81.ap.spotify.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "heads-fa.spotify.com",
+    "ip": "scdnco.spotify.map.fastly.net"
+  },
+  {
+    "domain": "community-stage.spotify.com",
+    "ip": "2600:9000:2196:bc00:c:dc94:d040:93a1"
+  },
+  {
+    "domain": "www.ads.spotify.com",
+    "ip": "2607:f8b0:400a:807::2013"
+  },
+  {
+    "domain": "ogin5.spotify.com",
+    "ip": "NXDOMAIN"
+  },
+  {
+    "domain": "www.newsroom.spotify.com",
+    "ip": "2607:f8b0:400a:806::2013"
+  },
+  {
+    "domain": "dynamicworkplace4wtc.spotify.com",
+    "ip": "142.250.217.83"
+  },
+  {
+    "domain": "todaystopfan.spotify.com",
+    "ip": "216.239.38.21"
+  },
+  {
+    "domain": "investors.spotify.com",
+    "ip": "162.159.130.11"
+  },
+  {
+    "domain": "experimentation.spotify.com",
+    "ip": "2607:f8b0:400a:807::2013"
+  },
+  {
+    "domain": "upgrade.spotify.com",
+    "ip": "2a04:4e42:600::645"
+  },
+  {
+    "domain": "community.spotify.com",
+    "ip": "2600:9000:2196:2e00:15:4d2e:2180:93a1"
+  },
+  {
+    "domain": "www.noteable.spotify.com",
+    "ip": "2607:f8b0:400e:c09::79"
+  },
+  {
+    "domain": "www.hrblog.spotify.com",
+    "ip": "142.250.69.211"
+  },
+  {
+    "domain": "beta.developer.spotify.com",
+    "ip": "151.101.130.133"
+  },
+  {
+    "domain": "lineup.spotify.com",
+    "ip": "edge-web.dual-gslb.spotify.com"
+  },
+  {
+    "domain": "ap.gslb.spotify.com",
+    "ip": "104.154.126.13"
+  },
+  {
+    "domain": "o9.em.spotify.com",
+    "ip": "208.117.48.84"
+  },
+  {
+    "domain": "o22.em.spotify.com",
+    "ip": "149.72.196.242"
+  },
+  {
+    "domain": "gew1-dealer-ssl.spotify.com",
+    "ip": "35.186.224.40"
+  },
+  {
+    "domain": "edge-web-legacy.dual-gslb.spotify.com",
+    "ip": "35.186.224.20"
+  },
+  {
+    "domain": "gew1-dnsauthslave-public-vxj0.gew1.spotify.com",
+    "ip": "104.155.75.171"
+  },
+  {
+    "domain": "o12.em.spotify.com",
+    "ip": "208.117.50.136"
+  },
+  {
+    "domain": "grafana-staging.dual-gslb.spotify.com",
+    "ip": "34.135.77.110"
+  },
+  {
+    "domain": "o24.ptr8711.spotify.com",
+    "ip": "149.72.141.16"
+  },
+  {
+    "domain": "tags.spotify.com",
+    "ip": "216.239.32.21"
+  },
+  {
+    "domain": "o31.em.spotify.com",
+    "ip": "149.72.255.238"
+  },
+  {
+    "domain": "o25.em.spotify.com",
+    "ip": "149.72.128.158"
+  },
+  {
+    "domain": "o26.em.spotify.com",
+    "ip": "149.72.241.206"
+  },
+  {
+    "domain": "o35.em.spotify.com",
+    "ip": "149.72.132.208"
+  },
+  {
+    "domain": "hrblog.spotify.com",
+    "ip": "216.239.38.21"
+  },
+  {
+    "domain": "lb.sso.spotify.com",
+    "ip": "35.227.201.204"
+  },
+  {
+    "domain": "o36.em.spotify.com",
+    "ip": "149.72.133.204"
+  },
+  {
+    "domain": "guc3-dealer-ssl.spotify.com",
+    "ip": "35.186.224.42"
+  },
+  {
+    "domain": "lbnoreload.sso.spotify.com",
+    "ip": "35.241.22.224"
+  },
+  {
+    "domain": "vpnpartner.dual-gslb.spotify.com",
+    "ip": "104.155.96.47"
+  },
+  {
+    "domain": "o27.em.spotify.com",
+    "ip": "149.72.136.74"
+  },
+  {
+    "domain": "o2.em.spotify.com",
+    "ip": "167.89.22.73"
+  },
+  {
+    "domain": "o10.em.spotify.com",
+    "ip": "208.117.49.194"
+  },
+  {
+    "domain": "weblb-wg.dual-gslb.spotify.com",
+    "ip": "104.154.127.47"
+  },
+  {
+    "domain": "ns9.spotify.com",
+    "ip": "34.70.255.124"
+  },
+  {
+    "domain": "grafana.dual-gslb.spotify.com",
+    "ip": "35.239.105.88"
+  },
+  {
+    "domain": "o21.em.spotify.com",
+    "ip": "167.89.57.163"
+  },
+  {
+    "domain": "o7.em.spotify.com",
+    "ip": "208.117.48.82"
+  },
+  {
+    "domain": "tableau-slack-app.spotify.com",
+    "ip": "34.96.72.33"
+  },
+  {
+    "domain": "o23.em.spotify.com",
+    "ip": "149.72.130.211"
+  },
+  {
+    "domain": "o4.em.spotify.com",
+    "ip": "167.89.23.30"
+  },
+  {
+    "domain": "o3.em.spotify.com",
+    "ip": "167.89.23.27"
+  },
+  {
+    "domain": "pci-testing.spotify.com",
+    "ip": "216.239.38.21"
+  },
+  {
+    "domain": "canary-certificate-for-noop.spotify.com",
+    "ip": "35.186.224.1"
+  },
+  {
+    "domain": "guc3-dnsauthslave-public-zhq4.guc3.spotify.com",
+    "ip": "104.197.241.77"
+  },
+  {
+    "domain": "ap-gew1.spotify.com",
+    "ip": "104.199.65.124"
+  },
+  {
+    "domain": "edge-grpc.dual-gslb.spotify.com",
+    "ip": "35.186.224.25"
+  },
+  {
+    "domain": "o18.em.spotify.com",
+    "ip": "167.89.58.12"
+  },
+  {
+    "domain": "ns4.spotify.com",
+    "ip": "35.187.144.243"
+  },
+  {
+    "domain": "lexikon-slack-app.spotify.com",
+    "ip": "35.186.229.127"
+  },
+  {
+    "domain": "o34.em.spotify.com",
+    "ip": "149.72.93.128"
+  },
+  {
+    "domain": "mydata.spotify.com",
+    "ip": "35.190.69.110"
+  },
+  {
+    "domain": "global-dealer-ssl.spotify.com",
+    "ip": "35.186.224.47"
+  },
+  {
+    "domain": "edge-web-gae2.dual-gslb.spotify.com",
+    "ip": "35.186.224.13"
+  },
+  {
+    "domain": "o14.em.spotify.com",
+    "ip": "208.117.51.103"
+  },
+  {
+    "domain": "newsroom.spotify.com",
+    "ip": "216.239.38.21"
+  },
+  {
+    "domain": "o32.em.spotify.com",
+    "ip": "149.72.28.14"
+  },
+  {
+    "domain": "o13.em.spotify.com",
+    "ip": "208.117.50.137"
+  },
+  {
+    "domain": "o11.em.spotify.com",
+    "ip": "208.117.49.195"
+  },
+  {
+    "domain": "edge-web-guc3.dual-gslb.spotify.com",
+    "ip": "35.186.224.19"
+  },
+  {
+    "domain": "o16.em.spotify.com",
+    "ip": "167.89.81.104"
+  },
+  {
+    "domain": "edge-web-russia.dual-gslb.spotify.com",
+    "ip": "35.186.224.25"
+  },
+  {
+    "domain": "o6.em.spotify.com",
+    "ip": "208.117.48.81"
+  },
+  {
+    "domain": "ap.single-gslb.spotify.com",
+    "ip": "104.154.127.126"
+  },
+  {
+    "domain": "noteable.spotify.com",
+    "ip": "216.239.38.21"
+  },
+  {
+    "domain": "canvas.spotify.com",
+    "ip": "216.239.36.21"
+  },
+  {
+    "domain": "pci.spotify.com",
+    "ip": "216.239.34.21"
+  },
+  {
+    "domain": "o39.em.alerts.spotify.com",
+    "ip": "149.72.25.177"
+  },
+  {
+    "domain": "o37.em.spotify.com",
+    "ip": "149.72.133.64"
+  },
+  {
+    "domain": "o19.em.spotify.com",
+    "ip": "167.89.56.66"
+  },
+  {
+    "domain": "audio-fa-quic-svcb.cdn-gslb.spotify.com",
+    "ip": "151.101.194.250"
+  },
+  {
+    "domain": "o15.em.spotify.com",
+    "ip": "167.89.81.103"
+  },
+  {
+    "domain": "guc3-dnsauthslave-public-42k7.guc3.spotify.com",
+    "ip": "35.225.138.77"
+  },
+  {
+    "domain": "o38.em.alerts.spotify.com",
+    "ip": "50.31.54.240"
+  },
+  {
+    "domain": "webapi-wg.dual-gslb.spotify.com",
+    "ip": "35.186.224.25"
+  },
+  {
+    "domain": "ns5.spotify.com",
+    "ip": "146.148.96.150"
+  },
+  {
+    "domain": "wg.spotify.com",
+    "ip": "35.186.224.25"
+  },
+  {
+    "domain": "grafana.single-gslb.spotify.com",
+    "ip": "35.239.105.88"
+  },
+  {
+    "domain": "ns2.spotify.com",
+    "ip": "130.211.80.183"
+  },
+  {
+    "domain": "o41.ptr3502.spotify.com",
+    "ip": "149.72.21.2"
+  },
+  {
+    "domain": "guc3-dnsauthslave-public-jz9z.guc3.spotify.com",
+    "ip": "146.148.96.150"
+  },
+  {
+    "domain": "gae2-dealer-ssl.spotify.com",
+    "ip": "35.186.224.39"
+  },
+  {
+    "domain": "ns3.spotify.com",
+    "ip": "104.197.241.77"
+  },
+  {
+    "domain": "edge-web.dual-gslb.spotify.com",
+    "ip": "35.186.224.25"
+  },
+  {
+    "domain": "o20.em.spotify.com",
+    "ip": "167.89.57.100"
+  },
+  {
+    "domain": "o1.em.spotify.com",
+    "ip": "167.89.22.66"
+  },
+  {
+    "domain": "clicks.artists.spotify.com",
+    "ip": "35.201.116.223"
+  },
+  {
+    "domain": "o8.em.spotify.com",
+    "ip": "208.117.48.83"
+  },
+  {
+    "domain": "edge-web-gew1.dual-gslb.spotify.com",
+    "ip": "35.186.224.18"
+  },
+  {
+    "domain": "guc3-dnsauthslave-pubns-72vd.guc3.spotify.com",
+    "ip": "34.70.255.124"
+  },
+  {
+    "domain": "apresolve.spotify.com",
+    "ip": "34.98.74.57"
+  },
+  {
+    "domain": "motionbrand.spotify.com",
+    "ip": "52.17.106.107"
+  },
+  {
+    "domain": "o5.em.spotify.com",
+    "ip": "208.117.48.80"
+  },
+  {
+    "domain": "o33.em.spotify.com",
+    "ip": "149.72.93.219"
+  },
+  {
+    "domain": "gew1-dnsauthslave-public-2lsn.gew1.spotify.com",
+    "ip": "130.211.80.183"
+  },
+  {
     "domain": "sjc1apresolve-a1.sjc1.spotify.com",
     "ip": ""
   },
@@ -4146,909 +5049,6 @@
   {
     "domain": "pixel-static.spotify.com",
     "ip": ""
-  },
-  {
-    "domain": "API count exceeded - Increase Quota with Membership"
-  },
-  {
-    "domain": "generic.wg.spotify.com",
-    "ip": "edge-web.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "provider-api.spotify.com",
-    "ip": "generic.wg.spotify.com"
-  },
-  {
-    "domain": "shop.spotify.com",
-    "ip": "edge-web.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "promo.spotify.com",
-    "ip": "151.101.22.133"
-  },
-  {
-    "domain": "gew4-spclient.spotify.com",
-    "ip": "edge-web-gew4.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "edge-web-gew4.dual-gslb.spotify.com",
-    "ip": "35.186.224.17"
-  },
-  {
-    "domain": "gue1-dealer.spotify.com",
-    "ip": "gue1-dealer-ssl.spotify.com"
-  },
-  {
-    "domain": "gue1-dealer-ssl.spotify.com",
-    "ip": "35.186.224.43"
-  },
-  {
-    "domain": "ap-gew4.spotify.com",
-    "ip": "34.158.0.131"
-  },
-  {
-    "domain": "edge-web-gue1.dual-gslb.spotify.com",
-    "ip": "35.186.224.16"
-  },
-  {
-    "domain": "gue1-spclient.spotify.com",
-    "ip": "edge-web-gue1.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "ap-gue1.spotify.com",
-    "ip": "34.158.253.218"
-  },
-  {
-    "domain": "edge-web-direct.single-gslb.spotify.com",
-    "ip": "35.190.245.250"
-  },
-  {
-    "domain": "bloodhound.spotify.com",
-    "ip": "2600:1901:1:c36::"
-  },
-  {
-    "domain": "charts.spotify.com",
-    "ip": "edge-web.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "explore.spotify.com",
-    "ip": "edge-web.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "live.spotify.com",
-    "ip": "edge-web.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "link.hello.spotify.com",
-    "ip": "sendgrid.net"
-  },
-  {
-    "domain": "sparta-api.spotify.com",
-    "ip": "2600:1901:1:c36::"
-  },
-  {
-    "domain": "sparta-api-testing.spotify.com",
-    "ip": "2600:1901:1:c36::"
-  },
-  {
-    "domain": "gew1-dealer.spotify.com",
-    "ip": "gew1-dealer-ssl.spotify.com"
-  },
-  {
-    "domain": "gae2-spclient.spotify.com",
-    "ip": "edge-web-gae2.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "gew1-spclient.spotify.com",
-    "ip": "edge-web-gew1.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "mobile-ap.spotify.com",
-    "ip": "ap.single-gslb.spotify.com"
-  },
-  {
-    "domain": "ap-gae2.spotify.com",
-    "ip": "104.199.240.237"
-  },
-  {
-    "domain": "guc3-dealer.spotify.com",
-    "ip": "guc3-dealer-ssl.spotify.com"
-  },
-  {
-    "domain": "ap-guc3.spotify.com",
-    "ip": "104.154.127.126"
-  },
-  {
-    "domain": "ap.spotify.com",
-    "ip": "ap.single-gslb.spotify.com"
-  },
-  {
-    "domain": "www.open.spotify.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "guc3-spclient.spotify.com",
-    "ip": "edge-web-guc3.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "support.spotify.com",
-    "ip": "edge-web-split-geo.single-gslb.spotify.com"
-  },
-  {
-    "domain": "www.spotify.com",
-    "ip": "edge-web-split-geo.single-gslb.spotify.com"
-  },
-  {
-    "domain": "accounts.spotify.com",
-    "ip": "edge-web-split-geo.single-gslb.spotify.com"
-  },
-  {
-    "domain": "open.spotify.com",
-    "ip": "edge-web-split-geo.single-gslb.spotify.com"
-  },
-  {
-    "domain": "edge-web-split-geo.single-gslb.spotify.com",
-    "ip": "35.186.224.25"
-  },
-  {
-    "domain": "backstage-licensing.spotify.com",
-    "ip": "54.91.59.199"
-  },
-  {
-    "domain": "gae2-accesspoint-a-j16d.ap.spotify.com",
-    "ip": "104.199.240.192"
-  },
-  {
-    "domain": "gae2-accesspoint-c-xwr3.ap.spotify.com",
-    "ip": "35.190.240.240"
-  },
-  {
-    "domain": "guc3-accesspoint-a-v0wv.ap.spotify.com",
-    "ip": "35.190.245.153"
-  },
-  {
-    "domain": "gew1-accesspoint-a-dqk1.ap.spotify.com",
-    "ip": "35.190.242.159"
-  },
-  {
-    "domain": "gew1-accesspoint-a-snxq.ap.spotify.com",
-    "ip": "104.199.64.204"
-  },
-  {
-    "domain": "gew1-accesspoint-a-clk1.ap.spotify.com",
-    "ip": "35.190.242.190"
-  },
-  {
-    "domain": "gew1-accesspoint-a-3rs1.ap.spotify.com",
-    "ip": "35.190.242.141"
-  },
-  {
-    "domain": "gae2-accesspoint-a-47z0.ap.spotify.com",
-    "ip": "104.199.241.1"
-  },
-  {
-    "domain": "spclient.wg.spotify.com",
-    "ip": "35.186.224.25"
-  },
-  {
-    "domain": "heads-ec.spotify.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "keyframes-fa.cdn.spotify.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "images.spotify.com",
-    "ip": "scdnco.spotify.map.fastly.net"
-  },
-  {
-    "domain": "gae2-accesspoint-a-sp2b.ap.spotify.com",
-    "ip": "104.199.241.254"
-  },
-  {
-    "domain": "gew1-accesspoint-a-phhx.ap.spotify.com",
-    "ip": "35.190.243.29"
-  },
-  {
-    "domain": "gew1-accesspoint-a-fjdh.ap.spotify.com",
-    "ip": "35.190.243.230"
-  },
-  {
-    "domain": "gew1-accesspoint-a-llwb.ap.spotify.com",
-    "ip": "104.199.64.171"
-  },
-  {
-    "domain": "gew1-accesspoint-a-fk3g.ap.spotify.com",
-    "ip": "35.190.243.87"
-  },
-  {
-    "domain": "tracing.spotify.com",
-    "ip": "edge-web.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "guc3-accesspoint-a-n88s.ap.spotify.com",
-    "ip": "35.190.244.165"
-  },
-  {
-    "domain": "guc3-accesspoint-a-r9jr.ap.spotify.com",
-    "ip": "104.154.126.191"
-  },
-  {
-    "domain": "guc3-accesspoint-a-4m3h.ap.spotify.com",
-    "ip": "104.154.126.5"
-  },
-  {
-    "domain": "gew1-accesspoint-a-23j2.ap.spotify.com",
-    "ip": "35.190.243.122"
-  },
-  {
-    "domain": "guc3-accesspoint-a-c9mz.ap.spotify.com",
-    "ip": "35.190.245.193"
-  },
-  {
-    "domain": "gae2-accesspoint-a-n986.ap.spotify.com",
-    "ip": "104.199.240.221"
-  },
-  {
-    "domain": "gew1-accesspoint-a-676c.ap.spotify.com",
-    "ip": "104.199.65.39"
-  },
-  {
-    "domain": "guc3-accesspoint-a-135l.ap.spotify.com",
-    "ip": "104.154.126.44"
-  },
-  {
-    "domain": "gew1-accesspoint-a-lnxw.ap.spotify.com",
-    "ip": "104.199.64.54"
-  },
-  {
-    "domain": "guc3-accesspoint-a-0rf9.ap.spotify.com",
-    "ip": "35.190.244.102"
-  },
-  {
-    "domain": "www-staging3.spotify.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www-staging.spotify.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "ads.spotify.com",
-    "ip": "edge-web.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "play.spotify.com",
-    "ip": "edge-web-split-geo.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "www.canvas.spotify.com",
-    "ip": "2607:f8b0:400a:80a::2013"
-  },
-  {
-    "domain": "spotify.com",
-    "ip": "ns-cloud-a2.googledomains.com"
-  },
-  {
-    "domain": "wl.spotify.com",
-    "ip": "52.52.150.75"
-  },
-  {
-    "domain": "guc3-accesspoint-a-jpkr.ap.spotify.com",
-    "ip": "104.154.127.92"
-  },
-  {
-    "domain": "gew1-accesspoint-a-cr9c.ap.spotify.com",
-    "ip": "35.190.242.253"
-  },
-  {
-    "domain": "guc3-accesspoint-a-86tc.ap.spotify.com",
-    "ip": "35.190.245.116"
-  },
-  {
-    "domain": "gae2-accesspoint-a-kwzw.ap.spotify.com",
-    "ip": "104.199.240.39"
-  },
-  {
-    "domain": "gew1-accesspoint-a-gd49.ap.spotify.com",
-    "ip": "35.190.243.55"
-  },
-  {
-    "domain": "guc3-accesspoint-a-cmt9.ap.spotify.com",
-    "ip": "35.190.244.121"
-  },
-  {
-    "domain": "gew1-accesspoint-a-76tq.ap.spotify.com",
-    "ip": "35.190.242.236"
-  },
-  {
-    "domain": "gew1-accesspoint-a-nzl8.ap.spotify.com",
-    "ip": "35.190.242.21"
-  },
-  {
-    "domain": "guc3-accesspoint-a-88k2.ap.spotify.com",
-    "ip": "35.190.245.192"
-  },
-  {
-    "domain": "gew1-accesspoint-a-gx39.ap.spotify.com",
-    "ip": "104.199.64.0"
-  },
-  {
-    "domain": "gae2-accesspoint-a-0st4.ap.spotify.com",
-    "ip": "104.199.241.241"
-  },
-  {
-    "domain": "guc3-accesspoint-a-10sk.ap.spotify.com",
-    "ip": "104.154.126.144"
-  },
-  {
-    "domain": "gew1-accesspoint-a-whff.ap.spotify.com",
-    "ip": "35.190.242.147"
-  },
-  {
-    "domain": "guc3-accesspoint-a-m1zv.ap.spotify.com",
-    "ip": "35.190.244.212"
-  },
-  {
-    "domain": "guc3-accesspoint-a-04j9.ap.spotify.com",
-    "ip": "35.190.244.82"
-  },
-  {
-    "domain": "gew1-accesspoint-a-hscp.ap.spotify.com",
-    "ip": "104.199.64.206"
-  },
-  {
-    "domain": "gew1-accesspoint-a-l2mk.ap.spotify.com",
-    "ip": "35.190.242.134"
-  },
-  {
-    "domain": "cms.spotify.com",
-    "ip": "edge-web.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "gew1-accesspoint-a-vn30.ap.spotify.com",
-    "ip": "35.190.242.247"
-  },
-  {
-    "domain": "guc3-accesspoint-a-7wwv.ap.spotify.com",
-    "ip": "104.154.126.102"
-  },
-  {
-    "domain": "guc3-accesspoint-a-97w7.ap.spotify.com",
-    "ip": "35.190.244.144"
-  },
-  {
-    "domain": "gew1-accesspoint-a-3p49.ap.spotify.com",
-    "ip": "35.190.243.71"
-  },
-  {
-    "domain": "gew1-accesspoint-a-mbnn.ap.spotify.com",
-    "ip": "35.190.243.15"
-  },
-  {
-    "domain": "gew1-accesspoint-a-bth2.ap.spotify.com",
-    "ip": "35.190.242.122"
-  },
-  {
-    "domain": "guc3-accesspoint-a-jtzc.ap.spotify.com",
-    "ip": "35.190.244.143"
-  },
-  {
-    "domain": "guc3-accesspoint-a-z61d.ap.spotify.com",
-    "ip": "35.190.244.171"
-  },
-  {
-    "domain": "gew1-accesspoint-a-13rf.ap.spotify.com",
-    "ip": "104.199.65.47"
-  },
-  {
-    "domain": "gew1-accesspoint-a-nj36.ap.spotify.com",
-    "ip": "35.190.242.130"
-  },
-  {
-    "domain": "gew1-accesspoint-a-ptdl.ap.spotify.com",
-    "ip": "35.190.243.72"
-  },
-  {
-    "domain": "guc3-accesspoint-a-7hph.ap.spotify.com",
-    "ip": "35.190.245.97"
-  },
-  {
-    "domain": "gew1-accesspoint-a-prxh.ap.spotify.com",
-    "ip": "35.190.243.93"
-  },
-  {
-    "domain": "guc3-accesspoint-a-pfgf.ap.spotify.com",
-    "ip": "104.154.127.67"
-  },
-  {
-    "domain": "gew1-accesspoint-a-czt3.ap.spotify.com",
-    "ip": "104.199.64.166"
-  },
-  {
-    "domain": "guc3-accesspoint-a-ltl1.ap.spotify.com",
-    "ip": "104.154.127.224"
-  },
-  {
-    "domain": "guc3-accesspoint-a-jzlw.ap.spotify.com",
-    "ip": "104.154.127.211"
-  },
-  {
-    "domain": "gae2-accesspoint-a-0gdn.ap.spotify.com",
-    "ip": "104.199.241.214"
-  },
-  {
-    "domain": "guc3-accesspoint-a-m2sk.ap.spotify.com",
-    "ip": "35.190.245.60"
-  },
-  {
-    "domain": "gew1-accesspoint-a-m41b.ap.spotify.com",
-    "ip": "104.199.65.127"
-  },
-  {
-    "domain": "guc3-accesspoint-a-wz22.ap.spotify.com",
-    "ip": "104.154.126.2"
-  },
-  {
-    "domain": "gew1-accesspoint-a-kwrr.ap.spotify.com",
-    "ip": "35.190.242.250"
-  },
-  {
-    "domain": "guc3-accesspoint-a-wnhn.ap.spotify.com",
-    "ip": "104.154.127.96"
-  },
-  {
-    "domain": "guc3-accesspoint-c-z59f.ap.spotify.com",
-    "ip": "35.190.245.211"
-  },
-  {
-    "domain": "gew1-accesspoint-a-p1z4.ap.spotify.com",
-    "ip": "104.199.65.71"
-  },
-  {
-    "domain": "gew1-accesspoint-c-lzsz.ap.spotify.com",
-    "ip": "35.190.243.48"
-  },
-  {
-    "domain": "guc3-accesspoint-a-9c4x.ap.spotify.com",
-    "ip": "104.154.127.79"
-  },
-  {
-    "domain": "guc3-accesspoint-a-g2wl.ap.spotify.com",
-    "ip": "35.190.245.171"
-  },
-  {
-    "domain": "gew1-accesspoint-a-sr5k.ap.spotify.com",
-    "ip": "35.190.242.14"
-  },
-  {
-    "domain": "guc3-accesspoint-a-wk15.ap.spotify.com",
-    "ip": "104.154.127.16"
-  },
-  {
-    "domain": "gew1-accesspoint-a-7kvp.ap.spotify.com",
-    "ip": "35.190.243.128"
-  },
-  {
-    "domain": "gew1-accesspoint-a-r9m3.ap.spotify.com",
-    "ip": "104.199.64.146"
-  },
-  {
-    "domain": "login.spotify.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "weblb.gslb.spotify.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "weblb-wg.gslb.spotify.comlog.spotify.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "ash2-accesspoint-a81.ap.spotify.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "heads-fa.spotify.com",
-    "ip": "scdnco.spotify.map.fastly.net"
-  },
-  {
-    "domain": "community-stage.spotify.com",
-    "ip": "2600:9000:2196:bc00:c:dc94:d040:93a1"
-  },
-  {
-    "domain": "www.ads.spotify.com",
-    "ip": "2607:f8b0:400a:807::2013"
-  },
-  {
-    "domain": "ogin5.spotify.com",
-    "ip": "NXDOMAIN"
-  },
-  {
-    "domain": "www.newsroom.spotify.com",
-    "ip": "2607:f8b0:400a:806::2013"
-  },
-  {
-    "domain": "dynamicworkplace4wtc.spotify.com",
-    "ip": "142.250.217.83"
-  },
-  {
-    "domain": "todaystopfan.spotify.com",
-    "ip": "216.239.38.21"
-  },
-  {
-    "domain": "investors.spotify.com",
-    "ip": "162.159.130.11"
-  },
-  {
-    "domain": "experimentation.spotify.com",
-    "ip": "2607:f8b0:400a:807::2013"
-  },
-  {
-    "domain": "upgrade.spotify.com",
-    "ip": "2a04:4e42:600::645"
-  },
-  {
-    "domain": "community.spotify.com",
-    "ip": "2600:9000:2196:2e00:15:4d2e:2180:93a1"
-  },
-  {
-    "domain": "www.noteable.spotify.com",
-    "ip": "2607:f8b0:400e:c09::79"
-  },
-  {
-    "domain": "www.hrblog.spotify.com",
-    "ip": "142.250.69.211"
-  },
-  {
-    "domain": "beta.developer.spotify.com",
-    "ip": "151.101.130.133"
-  },
-  {
-    "domain": "lineup.spotify.com",
-    "ip": "edge-web.dual-gslb.spotify.com"
-  },
-  {
-    "domain": "ap.gslb.spotify.com",
-    "ip": "104.154.126.13"
-  },
-  {
-    "domain": "o9.em.spotify.com",
-    "ip": "208.117.48.84"
-  },
-  {
-    "domain": "o22.em.spotify.com",
-    "ip": "149.72.196.242"
-  },
-  {
-    "domain": "gew1-dealer-ssl.spotify.com",
-    "ip": "35.186.224.40"
-  },
-  {
-    "domain": "edge-web-legacy.dual-gslb.spotify.com",
-    "ip": "35.186.224.20"
-  },
-  {
-    "domain": "gew1-dnsauthslave-public-vxj0.gew1.spotify.com",
-    "ip": "104.155.75.171"
-  },
-  {
-    "domain": "o12.em.spotify.com",
-    "ip": "208.117.50.136"
-  },
-  {
-    "domain": "grafana-staging.dual-gslb.spotify.com",
-    "ip": "34.135.77.110"
-  },
-  {
-    "domain": "o24.ptr8711.spotify.com",
-    "ip": "149.72.141.16"
-  },
-  {
-    "domain": "tags.spotify.com",
-    "ip": "216.239.32.21"
-  },
-  {
-    "domain": "o31.em.spotify.com",
-    "ip": "149.72.255.238"
-  },
-  {
-    "domain": "o25.em.spotify.com",
-    "ip": "149.72.128.158"
-  },
-  {
-    "domain": "o26.em.spotify.com",
-    "ip": "149.72.241.206"
-  },
-  {
-    "domain": "o35.em.spotify.com",
-    "ip": "149.72.132.208"
-  },
-  {
-    "domain": "hrblog.spotify.com",
-    "ip": "216.239.38.21"
-  },
-  {
-    "domain": "lb.sso.spotify.com",
-    "ip": "35.227.201.204"
-  },
-  {
-    "domain": "o36.em.spotify.com",
-    "ip": "149.72.133.204"
-  },
-  {
-    "domain": "guc3-dealer-ssl.spotify.com",
-    "ip": "35.186.224.42"
-  },
-  {
-    "domain": "lbnoreload.sso.spotify.com",
-    "ip": "35.241.22.224"
-  },
-  {
-    "domain": "vpnpartner.dual-gslb.spotify.com",
-    "ip": "104.155.96.47"
-  },
-  {
-    "domain": "o27.em.spotify.com",
-    "ip": "149.72.136.74"
-  },
-  {
-    "domain": "o2.em.spotify.com",
-    "ip": "167.89.22.73"
-  },
-  {
-    "domain": "o10.em.spotify.com",
-    "ip": "208.117.49.194"
-  },
-  {
-    "domain": "weblb-wg.dual-gslb.spotify.com",
-    "ip": "104.154.127.47"
-  },
-  {
-    "domain": "ns9.spotify.com",
-    "ip": "34.70.255.124"
-  },
-  {
-    "domain": "grafana.dual-gslb.spotify.com",
-    "ip": "35.239.105.88"
-  },
-  {
-    "domain": "o21.em.spotify.com",
-    "ip": "167.89.57.163"
-  },
-  {
-    "domain": "o7.em.spotify.com",
-    "ip": "208.117.48.82"
-  },
-  {
-    "domain": "tableau-slack-app.spotify.com",
-    "ip": "34.96.72.33"
-  },
-  {
-    "domain": "o23.em.spotify.com",
-    "ip": "149.72.130.211"
-  },
-  {
-    "domain": "o4.em.spotify.com",
-    "ip": "167.89.23.30"
-  },
-  {
-    "domain": "o3.em.spotify.com",
-    "ip": "167.89.23.27"
-  },
-  {
-    "domain": "pci-testing.spotify.com",
-    "ip": "216.239.38.21"
-  },
-  {
-    "domain": "canary-certificate-for-noop.spotify.com",
-    "ip": "35.186.224.1"
-  },
-  {
-    "domain": "guc3-dnsauthslave-public-zhq4.guc3.spotify.com",
-    "ip": "104.197.241.77"
-  },
-  {
-    "domain": "ap-gew1.spotify.com",
-    "ip": "104.199.65.124"
-  },
-  {
-    "domain": "edge-grpc.dual-gslb.spotify.com",
-    "ip": "35.186.224.25"
-  },
-  {
-    "domain": "o18.em.spotify.com",
-    "ip": "167.89.58.12"
-  },
-  {
-    "domain": "ns4.spotify.com",
-    "ip": "35.187.144.243"
-  },
-  {
-    "domain": "lexikon-slack-app.spotify.com",
-    "ip": "35.186.229.127"
-  },
-  {
-    "domain": "o34.em.spotify.com",
-    "ip": "149.72.93.128"
-  },
-  {
-    "domain": "mydata.spotify.com",
-    "ip": "35.190.69.110"
-  },
-  {
-    "domain": "global-dealer-ssl.spotify.com",
-    "ip": "35.186.224.47"
-  },
-  {
-    "domain": "edge-web-gae2.dual-gslb.spotify.com",
-    "ip": "35.186.224.13"
-  },
-  {
-    "domain": "o14.em.spotify.com",
-    "ip": "208.117.51.103"
-  },
-  {
-    "domain": "newsroom.spotify.com",
-    "ip": "216.239.38.21"
-  },
-  {
-    "domain": "o32.em.spotify.com",
-    "ip": "149.72.28.14"
-  },
-  {
-    "domain": "o13.em.spotify.com",
-    "ip": "208.117.50.137"
-  },
-  {
-    "domain": "o11.em.spotify.com",
-    "ip": "208.117.49.195"
-  },
-  {
-    "domain": "edge-web-guc3.dual-gslb.spotify.com",
-    "ip": "35.186.224.19"
-  },
-  {
-    "domain": "o16.em.spotify.com",
-    "ip": "167.89.81.104"
-  },
-  {
-    "domain": "edge-web-russia.dual-gslb.spotify.com",
-    "ip": "35.186.224.25"
-  },
-  {
-    "domain": "o6.em.spotify.com",
-    "ip": "208.117.48.81"
-  },
-  {
-    "domain": "ap.single-gslb.spotify.com",
-    "ip": "104.154.127.126"
-  },
-  {
-    "domain": "noteable.spotify.com",
-    "ip": "216.239.38.21"
-  },
-  {
-    "domain": "canvas.spotify.com",
-    "ip": "216.239.36.21"
-  },
-  {
-    "domain": "pci.spotify.com",
-    "ip": "216.239.34.21"
-  },
-  {
-    "domain": "o39.em.alerts.spotify.com",
-    "ip": "149.72.25.177"
-  },
-  {
-    "domain": "o37.em.spotify.com",
-    "ip": "149.72.133.64"
-  },
-  {
-    "domain": "o19.em.spotify.com",
-    "ip": "167.89.56.66"
-  },
-  {
-    "domain": "audio-fa-quic-svcb.cdn-gslb.spotify.com",
-    "ip": "151.101.194.250"
-  },
-  {
-    "domain": "o15.em.spotify.com",
-    "ip": "167.89.81.103"
-  },
-  {
-    "domain": "guc3-dnsauthslave-public-42k7.guc3.spotify.com",
-    "ip": "35.225.138.77"
-  },
-  {
-    "domain": "o38.em.alerts.spotify.com",
-    "ip": "50.31.54.240"
-  },
-  {
-    "domain": "webapi-wg.dual-gslb.spotify.com",
-    "ip": "35.186.224.25"
-  },
-  {
-    "domain": "ns5.spotify.com",
-    "ip": "146.148.96.150"
-  },
-  {
-    "domain": "wg.spotify.com",
-    "ip": "35.186.224.25"
-  },
-  {
-    "domain": "grafana.single-gslb.spotify.com",
-    "ip": "35.239.105.88"
-  },
-  {
-    "domain": "ns2.spotify.com",
-    "ip": "130.211.80.183"
-  },
-  {
-    "domain": "o41.ptr3502.spotify.com",
-    "ip": "149.72.21.2"
-  },
-  {
-    "domain": "guc3-dnsauthslave-public-jz9z.guc3.spotify.com",
-    "ip": "146.148.96.150"
-  },
-  {
-    "domain": "gae2-dealer-ssl.spotify.com",
-    "ip": "35.186.224.39"
-  },
-  {
-    "domain": "ns3.spotify.com",
-    "ip": "104.197.241.77"
-  },
-  {
-    "domain": "edge-web.dual-gslb.spotify.com",
-    "ip": "35.186.224.25"
-  },
-  {
-    "domain": "o20.em.spotify.com",
-    "ip": "167.89.57.100"
-  },
-  {
-    "domain": "o1.em.spotify.com",
-    "ip": "167.89.22.66"
-  },
-  {
-    "domain": "clicks.artists.spotify.com",
-    "ip": "35.201.116.223"
-  },
-  {
-    "domain": "o8.em.spotify.com",
-    "ip": "208.117.48.83"
-  },
-  {
-    "domain": "edge-web-gew1.dual-gslb.spotify.com",
-    "ip": "35.186.224.18"
-  },
-  {
-    "domain": "guc3-dnsauthslave-pubns-72vd.guc3.spotify.com",
-    "ip": "34.70.255.124"
-  },
-  {
-    "domain": "apresolve.spotify.com",
-    "ip": "34.98.74.57"
-  },
-  {
-    "domain": "motionbrand.spotify.com",
-    "ip": "52.17.106.107"
-  },
-  {
-    "domain": "o5.em.spotify.com",
-    "ip": "208.117.48.80"
-  },
-  {
-    "domain": "o33.em.spotify.com",
-    "ip": "149.72.93.219"
-  },
-  {
-    "domain": "gew1-dnsauthslave-public-2lsn.gew1.spotify.com",
-    "ip": "130.211.80.183"
   },
   {
     "domain": "info.backstage.spotify.com",
