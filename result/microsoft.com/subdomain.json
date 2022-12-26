@@ -1,5 +1,9 @@
 [
   {
+    "domain": "retailevents.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "thresholdbillingservice.api-canary.tbs.microsoft.com",
     "ip": "20.118.138.128"
   },

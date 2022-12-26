@@ -1,5 +1,9 @@
 [
   {
+    "domain": "inhutani5.co.id",
+    "ip": "103.8.79.217"
+  },
+  {
     "domain": "cpcontacts.econe2010.co.id",
     "ip": "103.247.11.74"
   },
@@ -1484,6 +1488,10 @@
     "ip": "180.244.174.179"
   },
   {
+    "domain": "wmpm.jasatirta2.co.id",
+    "ip": "114.7.152.214"
+  },
+  {
     "domain": "www.hightech4dot0.co.id",
     "ip": "172.67.186.6"
   },
@@ -1974,10 +1982,6 @@
   {
     "domain": "cpcontacts.q2001.co.id",
     "ip": "103.153.3.20"
-  },
-  {
-    "domain": "inhutani5.co.id",
-    "ip": "103.8.79.217"
   },
   {
     "domain": "kyoai123.co.id",
