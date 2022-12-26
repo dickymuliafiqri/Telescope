@@ -1,5 +1,9 @@
 [
   {
+    "domain": "qa.forumsapi.contentservices.msdn.microsoft.com",
+    "ip": "2620:1ec:4e:1::69"
+  },
+  {
     "domain": "microsoft.com",
     "ip": "20.112.52.29"
   },
