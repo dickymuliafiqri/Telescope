@@ -1,5 +1,65 @@
 [
   {
+    "domain": "test.s-app.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "mail.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "th.cos.image.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "hk.cos.image.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "dd3.dns.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "ux.dns.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "dd2.dns.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "ux.hk.app.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "dd2.hk.app.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "dd3.hk.app.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "dd.hk.app.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "my.app.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "l.app.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "mm.stream.music.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "th.stream.music.joox.com",
+    "ip": ""
+  },
+  {
     "domain": "mm.api.joox.com",
     "ip": "NXDOMAIN"
   },
@@ -218,65 +278,5 @@
   {
     "domain": "cos.image.joox.com",
     "ip": "203.205.191.24"
-  },
-  {
-    "domain": "test.s-app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "mail.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "th.cos.image.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "hk.cos.image.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "dd3.dns.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "ux.dns.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "dd2.dns.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "ux.hk.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "dd2.hk.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "dd3.hk.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "dd.hk.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "my.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "l.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "mm.stream.music.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "th.stream.music.joox.com",
-    "ip": ""
   }
 ]
