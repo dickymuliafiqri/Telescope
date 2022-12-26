@@ -1,10 +1,54 @@
 [
   {
-    "domain": "test.s-app.joox.com",
-    "ip": ""
+    "domain": "app-toolkit.joox.com",
+    "ip": "203.205.239.213"
+  },
+  {
+    "domain": "ux.dns.joox.com",
+    "ip": "203.205.239.167"
   },
   {
     "domain": "mail.joox.com",
+    "ip": "150.109.19.61"
+  },
+  {
+    "domain": "dd2.hk.app.joox.com",
+    "ip": "0.0.0.1"
+  },
+  {
+    "domain": "dd2.dns.joox.com",
+    "ip": "0.0.0.1"
+  },
+  {
+    "domain": "l.app.joox.com",
+    "ip": "203.205.219.208"
+  },
+  {
+    "domain": "ppe.joox.com",
+    "ip": "0.0.0.1"
+  },
+  {
+    "domain": "ux.hk.app.joox.com",
+    "ip": "203.205.239.167"
+  },
+  {
+    "domain": "dd3.hk.app.joox.com",
+    "ip": "0.0.0.1"
+  },
+  {
+    "domain": "test.web.joox.com",
+    "ip": "203.205.219.212"
+  },
+  {
+    "domain": "dd3.dns.joox.com",
+    "ip": "0.0.0.1"
+  },
+  {
+    "domain": "dd.hk.app.joox.com",
+    "ip": "0.0.0.1"
+  },
+  {
+    "domain": "test.s-app.joox.com",
     "ip": ""
   },
   {
@@ -13,50 +57,6 @@
   },
   {
     "domain": "hk.cos.image.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "dd3.dns.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "ux.dns.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "dd2.dns.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "ux.hk.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "dd2.hk.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "dd3.hk.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "dd.hk.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "my.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "l.app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "mm.stream.music.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "th.stream.music.joox.com",
     "ip": ""
   },
   {
@@ -278,5 +278,17 @@
   {
     "domain": "cos.image.joox.com",
     "ip": "203.205.191.24"
+  },
+  {
+    "domain": "my.app.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "mm.stream.music.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "th.stream.music.joox.com",
+    "ip": ""
   }
 ]
