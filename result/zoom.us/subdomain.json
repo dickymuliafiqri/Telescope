@@ -1,5 +1,8 @@
 [
   {
+    "domain": "API count exceeded - Increase Quota with Membership"
+  },
+  {
     "domain": "msuhipaa.zoom.us",
     "ip": "www.zoom.us"
   },
@@ -45824,226 +45827,6 @@
     "ip": ""
   },
   {
-    "domain": "zoomdvo110cc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomnyt180cc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomsct180cc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomff3-120-121-110cc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomff3-120-121-111cc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomir52-215-168-110cc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.pmawards.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomap18162172239mmr.cloud.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "m.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocssf01-ny.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocssf01-sj.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.us01byocssf01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocsdv01-sf.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocsdv01-sj.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocssg01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocsty01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.us01byocshk01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocsny01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.us01byocsdv01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.us01byocssy01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocsam01-fr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.us01byocsam01-am.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.quality.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocssj01-sj.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.us01byocssj01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr130.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr128.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr127.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr129.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr126.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.gobyocsj01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "lyncdev.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.us01byocsj01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.us01byocam01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.us01byocsy01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoom102.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "uiproxy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr124.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr125.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr123.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr122.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr121.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr120.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr117.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr119.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr116.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr115.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr118.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr113.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr114.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr112.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.hybridsvr111.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.goldmansachs001.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "lync.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.sip.lync.zoom.us",
-    "ip": ""
-  },
-  {
     "domain": "alertmanager.monitoring.keyserver-locator-us-04.zoom.us",
     "ip": ""
   },
@@ -47068,10 +46851,6 @@
     "ip": ""
   },
   {
-    "domain": "zoomca52106346mmr.zoom.us",
-    "ip": ""
-  },
-  {
     "domain": "zoomca52106346mmr.cloud.zoom.us",
     "ip": ""
   },
@@ -47081,10 +46860,6 @@
   },
   {
     "domain": "au01dm01.me.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocssj01.zoom.us",
     "ip": ""
   },
   {
@@ -47389,10 +47164,6 @@
   },
   {
     "domain": "hybridsvr132.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocssy01.zoom.us",
     "ip": ""
   },
   {
@@ -50137,6 +49908,30 @@
   },
   {
     "domain": "us07zdm-prov-hdx.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomdvo110cc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomnyt180cc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomsct180cc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomff3-120-121-110cc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomff3-120-121-111cc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomir52-215-168-110cc.zoom.us",
     "ip": ""
   },
   {
@@ -52944,10 +52739,6 @@
     "ip": ""
   },
   {
-    "domain": "support.zoom.us",
-    "ip": ""
-  },
-  {
     "domain": "grafana.async.zoom.us",
     "ip": ""
   },
@@ -53000,6 +52791,10 @@
     "ip": ""
   },
   {
+    "domain": "www.pmawards.zoom.us",
+    "ip": ""
+  },
+  {
     "domain": "us07nwsstatic.zoom.us",
     "ip": ""
   },
@@ -53013,6 +52808,10 @@
   },
   {
     "domain": "firemon-as.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "support.zoom.us",
     "ip": ""
   },
   {
@@ -53093,6 +52892,10 @@
   },
   {
     "domain": "thanos-ruler.monitoring.keyserver-monitoring.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomap18162172239mmr.cloud.zoom.us",
     "ip": ""
   },
   {
@@ -53369,6 +53172,10 @@
   },
   {
     "domain": "us03zpns.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomca52106346mmr.zoom.us",
     "ip": ""
   },
   {
@@ -54664,6 +54471,10 @@
     "ip": ""
   },
   {
+    "domain": "m.zoom.us",
+    "ip": ""
+  },
+  {
     "domain": "grafana.monitoring.keyserver-monitoring.zoom.us",
     "ip": ""
   },
@@ -54936,7 +54747,191 @@
     "ip": ""
   },
   {
+    "domain": "us01byocssf01-ny.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocssf01-sj.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.us01byocssf01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocsdv01-sf.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocsdv01-sj.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocssg01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocsty01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.us01byocshk01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocsny01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.us01byocsdv01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocssy01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.us01byocssy01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocsam01-fr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.us01byocsam01-am.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.quality.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocssj01-sj.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocssj01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.us01byocssj01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr130.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr128.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr127.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr129.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr126.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.gobyocsj01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "lyncdev.zoom.us",
+    "ip": ""
+  },
+  {
     "domain": "certification.university.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.us01byocsj01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.us01byocam01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.us01byocsy01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoom102.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "uiproxy.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr124.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr125.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr123.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr122.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr121.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr120.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr117.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr119.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr116.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr115.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr118.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr113.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr114.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr112.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.hybridsvr111.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.goldmansachs001.hybridmeeting.zoom.us",
     "ip": ""
   },
   {
@@ -54965,10 +54960,6 @@
   },
   {
     "domain": "zoom101.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "rc.zoom.us",
     "ip": ""
   },
   {
@@ -55021,6 +55012,10 @@
   },
   {
     "domain": "www.huawei100.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "lync.zoom.us",
     "ip": ""
   },
   {
@@ -55077,6 +55072,14 @@
   },
   {
     "domain": "www.test100.hybrid.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.sip.lync.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "rc.zoom.us",
     "ip": ""
   }
 ]

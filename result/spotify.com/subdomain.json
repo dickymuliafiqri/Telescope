@@ -1,8 +1,5 @@
 [
   {
-    "domain": "API count exceeded - Increase Quota with Membership"
-  },
-  {
     "domain": "sjc1apresolve-a1.sjc1.spotify.com",
     "ip": ""
   },
@@ -5049,6 +5046,9 @@
   {
     "domain": "gew1-dnsauthslave-public-2lsn.gew1.spotify.com",
     "ip": "130.211.80.183"
+  },
+  {
+    "domain": "API count exceeded - Increase Quota with Membership"
   },
   {
     "domain": "info.backstage.spotify.com",
