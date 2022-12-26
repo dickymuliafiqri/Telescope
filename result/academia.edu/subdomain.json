@@ -1,5 +1,21 @@
 [
   {
+    "domain": "dmolnar.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "hashemite.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "zayed.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
+    "domain": "www.unza-zm.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
     "domain": "stillman.academia.edu",
     "ip": "99.84.66.46"
   },
