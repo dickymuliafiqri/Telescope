@@ -3540,12 +3540,12 @@
     "ip": "104.71.132.34"
   },
   {
-    "domain": "help2.line.me",
-    "ip": "104.71.132.34"
-  },
-  {
     "domain": "square-api.line.me",
     "ip": "104.71.133.95"
+  },
+  {
+    "domain": "help2.line.me",
+    "ip": "104.71.132.34"
   },
   {
     "domain": "today.line.me",
