@@ -1,5 +1,9 @@
 [
   {
+    "domain": "thresholdbillingservice.api-canary.tbs.microsoft.com",
+    "ip": "20.118.138.128"
+  },
+  {
     "domain": "wopi.auditboard-ppe.microsoft.com",
     "ip": "52.143.78.92"
   },
