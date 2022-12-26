@@ -1,5 +1,13 @@
 [
   {
+    "domain": "wopi.auditboard-ppe.microsoft.com",
+    "ip": "52.143.78.92"
+  },
+  {
+    "domain": "auditboard-ppe.microsoft.com",
+    "ip": "52.143.78.92"
+  },
+  {
     "domain": "wwwco1test14.microsoft.com",
     "ip": "65.55.21.22"
   },
