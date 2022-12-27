@@ -16,10 +16,6 @@
     "ip": "202.157.186.6"
   },
   {
-    "domain": "webdisk.bprnbp3.co.id",
-    "ip": "193.168.194.7"
-  },
-  {
     "domain": "mail.atg5.co.id",
     "ip": "103.102.1.206"
   },
@@ -12004,6 +12000,10 @@
     "ip": ""
   },
   {
+    "domain": "rayana5.co.id",
+    "ip": "202.157.186.6"
+  },
+  {
     "domain": "cpcontacts.econe2010.co.id",
     "ip": "103.247.11.74"
   },
@@ -12702,10 +12702,6 @@
   {
     "domain": "csmail4.qoo10.co.id",
     "ip": "211.115.104.84"
-  },
-  {
-    "domain": "rayana5.co.id",
-    "ip": "202.157.186.6"
   },
   {
     "domain": "sintas90.co.id",
@@ -14002,5 +13998,9 @@
   {
     "domain": "data.saranak3.co.id",
     "ip": "103.120.125.12"
+  },
+  {
+    "domain": "webdisk.bprnbp3.co.id",
+    "ip": "193.168.194.7"
   }
 ]
