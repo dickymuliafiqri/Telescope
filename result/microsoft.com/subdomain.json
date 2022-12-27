@@ -31400,6 +31400,814 @@
     "ip": ""
   },
   {
+    "domain": "securitycenter.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "attribute.token.cp.microsoft.com",
+    "ip": "token-attribute-fd-trafficmanager-prod.trafficmanager.net"
+  },
+  {
+    "domain": "attributeservice.quote.microsoft.com",
+    "ip": "quoteattributesservice.trafficmanager.net"
+  },
+  {
+    "domain": "beta.df.securitycenter.microsoft.com",
+    "ip": "2620:1ec:4e:1::69"
+  },
+  {
+    "domain": "tip2.flow.microsoft.com",
+    "ip": "2620:1ec:4e:1::69"
+  },
+  {
+    "domain": "distribute-gateway.ds.microsoft.com",
+    "ip": "13.107.238.69"
+  },
+  {
+    "domain": "retailevents.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
+    "domain": "thresholdbillingservice.api-canary.tbs.microsoft.com",
+    "ip": "20.118.138.128"
+  },
+  {
+    "domain": "wopi.auditboard-ppe.microsoft.com",
+    "ip": "52.143.78.92"
+  },
+  {
+    "domain": "auditboard-ppe.microsoft.com",
+    "ip": "52.143.78.92"
+  },
+  {
+    "domain": "availability-dev.supplychain.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
+    "domain": "perf.fptdev.microsoft.com",
+    "ip": "20.22.74.24"
+  },
+  {
+    "domain": "qa.gallery.technet.microsoft.com",
+    "ip": "2620:1ec:4e:1::69"
+  },
+  {
+    "domain": "qa.forumsapi.contentservices.msdn.microsoft.com",
+    "ip": "13.107.238.69"
+  },
+  {
+    "domain": "gethelp-prod.services.microsoft.com",
+    "ip": "104.40.3.53"
+  },
+  {
+    "domain": "Api.securitycenter.microsoft.com",
+    "ip": "40.86.86.112"
+  },
+  {
+    "domain": "Api.security.microsoft.com",
+    "ip": "104.43.247.104"
+  },
+  {
+    "domain": "Api-DF.securitycenter.microsoft.com",
+    "ip": "40.86.24.22"
+  },
+  {
+    "domain": "Api-DF.security.microsoft.com",
+    "ip": "40.86.24.22"
+  },
+  {
+    "domain": "api.emea.hms.migrationservices.teams.microsoft.com",
+    "ip": "13.74.169.165"
+  },
+  {
+    "domain": "api.apac.hms.migrationservices.teams.microsoft.com",
+    "ip": "52.140.50.93"
+  },
+  {
+    "domain": "t.infomails.microsoft.com",
+    "ip": "mscom-mkt-prod78-lb.campaign.adobe.com"
+  },
+  {
+    "domain": "su1.prod.whitesource.microsoft.com",
+    "ip": "20.57.147.248"
+  },
+  {
+    "domain": "supplier.microsoft.com",
+    "ip": "13.107.238.69"
+  },
+  {
+    "domain": "gwintint01.infra.windows365.microsoft.com",
+    "ip": "40.81.3.210"
+  },
+  {
+    "domain": "gwintprf01.infra.windows365.microsoft.com",
+    "ip": "52.180.98.11"
+  },
+  {
+    "domain": "vlcentral.agreements.microsoft.com",
+    "ip": "20.118.40.3"
+  },
+  {
+    "domain": "tms-int.cms.microsoft.com",
+    "ip": "20.118.138.128"
+  },
+  {
+    "domain": "services.mtps.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "dev.docs.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "minervahpc.microsoft.com",
+    "ip": "20.163.113.171"
+  },
+  {
+    "domain": "bvt-westus2.sigr.mtq.microsoft.com",
+    "ip": "52.233.73.87"
+  },
+  {
+    "domain": "bvt-eastus2.sigr.mtq.microsoft.com",
+    "ip": "20.122.82.158"
+  },
+  {
+    "domain": "3.tlu.dl.delivery.mp.microsoft.com",
+    "ip": "8.252.194.254"
+  },
+  {
+    "domain": "1d.tlu.dl.delivery.mp.microsoft.com",
+    "ip": "2606:2800:11f:85d:13e0:11e9:1a6:201d"
+  },
+  {
+    "domain": "dev.chefsmenu.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "iridiastest.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "digitalreservations-ppe.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "services.premier.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "sapbusinessprocesshealth.microsoft.com",
+    "ip": "40.64.128.232"
+  },
+  {
+    "domain": "tip1.powerapps-staging.microsoft.com",
+    "ip": "20.237.175.206"
+  },
+  {
+    "domain": "m365-rfa-api.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "tip1.powerapps.microsoft.com",
+    "ip": "20.237.173.45"
+  },
+  {
+    "domain": "swda02-mscdn.manage.microsoft.com",
+    "ip": "2620:1ec:4e:1::69"
+  },
+  {
+    "domain": "dcsfe.dev.adu.microsoft.com",
+    "ip": "20.62.132.246"
+  },
+  {
+    "domain": "amsterdam.myenvisiontour.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "webgallery.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "shanghai.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "sao-paulo.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "startup.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "lovessmb.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "discover.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "static2.ftop.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "print.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "speakerdirectory.myignitetour.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "demos.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "spoprod-a.ftop.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "naspo.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "dubai.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "berlin.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "commerce.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "amsterdam.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "mumbai.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "courses.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "formspro.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "berlin.myenvisiontour.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "tokyo.myenvisiontour.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "toronto.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "cdsacademystage.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "sessioncatalog.myignitetour.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "openedx.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "cert.microsoft.com",
+    "ip": "20.103.85.33"
+  },
+  {
+    "domain": "osaka.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "paris.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "creator.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "help.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "msppdd.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "www.startup-staging.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "toronto.myenvisiontour.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "sydney.myenvisiontour.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "sydney.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "seoul.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "microsoftedgesupport.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "azuredata.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "texasdir.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "speakerdirectory.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "cloud.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "businessai.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "www.billing.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "dcacademystage.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "cdsacademy.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "singapore.myenvisiontour.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "stockholm.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "boards.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "madrid.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "washington-dc.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "mobileapp.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "chicago.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "bangalore.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.84.181.62"
+  },
+  {
+    "domain": "academy.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "milan.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.53.203.50"
+  },
+  {
+    "domain": "sf.myenvisiontour.microsoft.com",
+    "ip": "20.112.52.29"
+  },
+  {
+    "domain": "taipei.myignitetour.techcommunity.microsoft.com",
+    "ip": "20.81.111.85"
+  },
+  {
+    "domain": "mea.powerapps-staging.microsoft.com",
+    "ip": "20.74.173.76"
+  },
+  {
+    "domain": "sam.powerapps.microsoft.com",
+    "ip": "20.114.120.117"
+  },
+  {
+    "domain": "mea.powerapps.microsoft.com",
+    "ip": "20.74.173.74"
+  },
+  {
+    "domain": "asia.powerapps-staging.microsoft.com",
+    "ip": "20.243.252.17"
+  },
+  {
+    "domain": "afd-rdgateway-r1.wvdexci.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
+    "domain": "afd-rdgateway-r0.wvdexci.microsoft.com",
+    "ip": "13.107.238.69"
+  },
+  {
+    "domain": "tlu.dl.delivery.mp.microsoft.com",
+    "ip": "23.216.147.193"
+  },
+  {
+    "domain": "status.visualstudio.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
+    "domain": "purchase.dgp.microsoft.com",
+    "ip": "52.140.208.204"
+  },
+  {
+    "domain": "dmd.metaservices.microsoft.com",
+    "ip": "20.253.213.245"
+  },
+  {
+    "domain": "2.tlu.dl.delivery.mp.microsoft.com",
+    "ip": "2600:1409:3800::1722:ac1b"
+  },
+  {
+    "domain": "swdb02-mscdn.manage.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "blob.weather.microsoft.com",
+    "ip": "104.99.86.197"
+  },
+  {
+    "domain": "euaz.relay.teams.microsoft.com",
+    "ip": "52.114.241.175"
+  },
+  {
+    "domain": "noam-msit.voiceanalytics.teams.microsoft.com",
+    "ip": "40.87.106.55"
+  },
+  {
+    "domain": "web.vivalearning.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
+    "domain": "ato.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "powerapps-staging.microsoft.com",
+    "ip": "20.245.107.8"
+  },
+  {
+    "domain": "nam.powerapps-staging.microsoft.com",
+    "ip": "20.245.107.8"
+  },
+  {
+    "domain": "europe.powerapps-staging.microsoft.com",
+    "ip": "40.127.170.13"
+  },
+  {
+    "domain": "europe.powerapps.microsoft.com",
+    "ip": "13.74.23.211"
+  },
+  {
+    "domain": "asia.powerapps.microsoft.com",
+    "ip": "20.243.252.48"
+  },
+  {
+    "domain": "vortex-sandbox.data.microsoft.com",
+    "ip": "52.167.109.66"
+  },
+  {
+    "domain": "emea.voiceanalytics.teams.microsoft.com",
+    "ip": "20.73.223.128"
+  },
+  {
+    "domain": "financialrecordjournal.cp.microsoft.com",
+    "ip": "52.248.36.67"
+  },
+  {
+    "domain": "noam.voiceanalytics.teams.microsoft.com",
+    "ip": "20.75.44.127"
+  },
+  {
+    "domain": "office15client.microsoft.com",
+    "ip": "52.109.13.31"
+  },
+  {
+    "domain": "auditservice.teams.microsoft.com",
+    "ip": "20.118.120.203"
+  },
+  {
+    "domain": "cloudblogsazure.microsoft.com",
+    "ip": "13.107.238.69"
+  },
+  {
+    "domain": "cloudblogsservers.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "dl.delivery.mp.microsoft.com",
+    "ip": "104.98.118.154"
+  },
+  {
+    "domain": "cloudblogspower.microsoft.com",
+    "ip": "2620:1ec:4e:1::69"
+  },
+  {
+    "domain": "cloudblogsopens.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "cloudblogsdynamics.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "cloudblogsind.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "support.microsoft.com",
+    "ip": "23.74.12.114"
+  },
+  {
+    "domain": "samplesubmitfun-us.ppe.func.fp.wd.microsoft.com",
+    "ip": "40.112.243.108"
+  },
+  {
+    "domain": "fts-asap.microsoft.com",
+    "ip": "40.113.204.88"
+  },
+  {
+    "domain": "serviceshub.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "authzdc.partneraccounts.microsoft.com",
+    "ip": "13.107.238.69"
+  },
+  {
+    "domain": "education.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "www.education.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "skylight-dev.aks.skylight.services.microsoft.com",
+    "ip": "2600:1409:5000:388::356e"
+  },
+  {
+    "domain": "fabricbot.ppe.gitops.startclean.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "dev.insights.microsoft.com",
+    "ip": "20.98.78.89"
+  },
+  {
+    "domain": "ics.one.microsoft.com",
+    "ip": "131.107.112.42"
+  },
+  {
+    "domain": "paymentthirdpartyservice.cp.microsoft.com",
+    "ip": "23.101.119.163"
+  },
+  {
+    "domain": "authz.partneraccounts.microsoft.com",
+    "ip": "2620:1ec:46::70"
+  },
+  {
+    "domain": "smartlink.microsoft.com",
+    "ip": "23.99.0.12"
+  },
+  {
+    "domain": "autosign-uat.devices.microsoft.com",
+    "ip": "13.66.138.107"
+  },
+  {
+    "domain": "leportaldev.microsoft.com",
+    "ip": "40.82.255.132"
+  },
+  {
+    "domain": "agent.services.microsoft.com",
+    "ip": "104.115.139.63"
+  },
+  {
+    "domain": "www.microsoft.com",
+    "ip": "2600:1409:3800:19c::356e"
+  },
+  {
+    "domain": "docs.microsoft.com",
+    "ip": "2600:1409:3000:286::353e"
+  },
+  {
+    "domain": "go.microsoft.com",
+    "ip": "23.36.63.240"
+  },
+  {
+    "domain": "us-v10.events.data.microsoft.com",
+    "ip": "104.208.16.89"
+  },
+  {
+    "domain": "medeina.defender.microsoft.com",
+    "ip": "20.80.136.242"
+  },
+  {
+    "domain": "us.vortex-win.data.microsoft.com",
+    "ip": "52.182.143.210"
+  },
+  {
+    "domain": "crl.microsoft.com",
+    "ip": "23.221.223.89"
+  },
+  {
+    "domain": "us-v20.events.data.microsoft.com",
+    "ip": "20.42.73.25"
+  },
+  {
+    "domain": "frontend.mt2.prod.pubsuites.microsoft.com",
+    "ip": "20.125.81.105"
+  },
+  {
+    "domain": "publishing.wsd2prod.prod.pubsuites.microsoft.com",
+    "ip": "20.40.29.229"
+  },
+  {
+    "domain": "publishing.mt2.prod.pubsuites.microsoft.com",
+    "ip": "20.125.81.105"
+  },
+  {
+    "domain": "publishing.wsd2ppe.prod.pubsuites.microsoft.com",
+    "ip": "20.14.4.191"
+  },
+  {
+    "domain": "msedge.b.tlu.dl.delivery.mp.microsoft.com",
+    "ip": "2001:1900:2318:1f06::1fe"
+  },
+  {
+    "domain": "self.events.data.microsoft.com",
+    "ip": "13.69.109.130"
+  },
+  {
+    "domain": "v10.events.data.microsoft.com",
+    "ip": "40.79.197.34"
+  },
+  {
+    "domain": "frontend.wsd2prod.prod.pubsuites.microsoft.com",
+    "ip": "20.40.29.229"
+  },
+  {
+    "domain": "publishing.mt1.prod.pubsuites.microsoft.com",
+    "ip": "20.106.108.71"
+  },
+  {
+    "domain": "server.pipe.aria.microsoft.com",
+    "ip": "20.50.80.210"
+  },
+  {
+    "domain": "v20.events.data.microsoft.com",
+    "ip": "20.42.73.27"
+  },
+  {
+    "domain": "13.tlu.dl.delivery.mp.microsoft.com",
+    "ip": "8.250.188.126"
+  },
+  {
+    "domain": "sharedcookie.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "www.nnicrosoft.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "www.crudware.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "www.junhkim.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "api.contactcenter.microsoft.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "ou.mixedreality.azure.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "objectunderstanding.mixedreality.azure.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "paymebiz-app-exp.trafficmanager.net",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "api.contactcenter.microsoft-int.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "contactcenter.microsoft-ppe.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "contactcenter.microsoft.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "contactcenter.microsoft-int.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "magento.name",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "prvnote.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "penaltyexperts.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "bawdcs.com",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "creativemiles-labs.co.uk",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "datainformerx.eu",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "iestech.eu",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "teacoffe.net",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "konjamdiscount.in",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "aleinvest.xyz",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "www.microsoft.net",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "134.170.185.46",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "134.170.188.221",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "65.55.58.201",
+    "ip": "microsoft.com"
+  },
+  {
+    "domain": "64.4.11.37",
+    "ip": "microsoft.com"
+  },
+  {
     "domain": "wwwco1test14.microsoft.com",
     "ip": "65.55.21.22"
   },
@@ -32104,6 +32912,10 @@
     "ip": "136.147.186.48"
   },
   {
+    "domain": "jthakker.myworkspace.microsoft.com",
+    "ip": "20.25.211.27"
+  },
+  {
     "domain": "msdnessv2.microsoft.com",
     "ip": "207.46.232.187"
   },
@@ -32328,6 +33140,10 @@
     "ip": "130.248.181.174"
   },
   {
+    "domain": "uat-westus2.sigr.mtq.microsoft.com",
+    "ip": "20.83.108.231"
+  },
+  {
     "domain": "sppilotco1.microsoft.com",
     "ip": "65.55.58.194"
   },
@@ -32464,6 +33280,10 @@
     "ip": "134.170.188.31"
   },
   {
+    "domain": "ux.dev2.microsoft.com",
+    "ip": "20.69.157.18"
+  },
+  {
     "domain": "learning.microsoft.com",
     "ip": "20.53.203.50"
   },
@@ -32518,6 +33338,10 @@
   {
     "domain": "kspv501.microsoft.com",
     "ip": "207.46.119.218"
+  },
+  {
+    "domain": "edujourney.microsoft.com",
+    "ip": "13.107.213.57"
   },
   {
     "domain": "sbcteams-uswe.spots-ppe.microsoft.com",
@@ -33382,829 +34206,5 @@
   {
     "domain": "cmsby2test62.microsoft.com",
     "ip": "134.170.188.99"
-  },
-  {
-    "domain": "securitycenter.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "attribute.token.cp.microsoft.com",
-    "ip": "token-attribute-fd-trafficmanager-prod.trafficmanager.net"
-  },
-  {
-    "domain": "attributeservice.quote.microsoft.com",
-    "ip": "quoteattributesservice.trafficmanager.net"
-  },
-  {
-    "domain": "beta.df.securitycenter.microsoft.com",
-    "ip": "2620:1ec:4e:1::69"
-  },
-  {
-    "domain": "tip2.flow.microsoft.com",
-    "ip": "2620:1ec:4e:1::69"
-  },
-  {
-    "domain": "distribute-gateway.ds.microsoft.com",
-    "ip": "13.107.238.69"
-  },
-  {
-    "domain": "retailevents.microsoft.com",
-    "ip": "13.107.237.69"
-  },
-  {
-    "domain": "thresholdbillingservice.api-canary.tbs.microsoft.com",
-    "ip": "20.118.138.128"
-  },
-  {
-    "domain": "wopi.auditboard-ppe.microsoft.com",
-    "ip": "52.143.78.92"
-  },
-  {
-    "domain": "auditboard-ppe.microsoft.com",
-    "ip": "52.143.78.92"
-  },
-  {
-    "domain": "availability-dev.supplychain.microsoft.com",
-    "ip": "13.107.237.69"
-  },
-  {
-    "domain": "perf.fptdev.microsoft.com",
-    "ip": "20.22.74.24"
-  },
-  {
-    "domain": "qa.gallery.technet.microsoft.com",
-    "ip": "2620:1ec:4e:1::69"
-  },
-  {
-    "domain": "qa.forumsapi.contentservices.msdn.microsoft.com",
-    "ip": "13.107.238.69"
-  },
-  {
-    "domain": "gethelp-prod.services.microsoft.com",
-    "ip": "104.40.3.53"
-  },
-  {
-    "domain": "Api.securitycenter.microsoft.com",
-    "ip": "40.86.86.112"
-  },
-  {
-    "domain": "Api.security.microsoft.com",
-    "ip": "104.43.247.104"
-  },
-  {
-    "domain": "Api-DF.securitycenter.microsoft.com",
-    "ip": "40.86.24.22"
-  },
-  {
-    "domain": "Api-DF.security.microsoft.com",
-    "ip": "40.86.24.22"
-  },
-  {
-    "domain": "api.emea.hms.migrationservices.teams.microsoft.com",
-    "ip": "13.74.169.165"
-  },
-  {
-    "domain": "api.apac.hms.migrationservices.teams.microsoft.com",
-    "ip": "52.140.50.93"
-  },
-  {
-    "domain": "t.infomails.microsoft.com",
-    "ip": "mscom-mkt-prod78-lb.campaign.adobe.com"
-  },
-  {
-    "domain": "su1.prod.whitesource.microsoft.com",
-    "ip": "20.57.147.248"
-  },
-  {
-    "domain": "supplier.microsoft.com",
-    "ip": "13.107.238.69"
-  },
-  {
-    "domain": "gwintint01.infra.windows365.microsoft.com",
-    "ip": "40.81.3.210"
-  },
-  {
-    "domain": "gwintprf01.infra.windows365.microsoft.com",
-    "ip": "52.180.98.11"
-  },
-  {
-    "domain": "vlcentral.agreements.microsoft.com",
-    "ip": "20.118.40.3"
-  },
-  {
-    "domain": "tms-int.cms.microsoft.com",
-    "ip": "20.118.138.128"
-  },
-  {
-    "domain": "services.mtps.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "dev.docs.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "minervahpc.microsoft.com",
-    "ip": "20.163.113.171"
-  },
-  {
-    "domain": "bvt-westus2.sigr.mtq.microsoft.com",
-    "ip": "52.233.73.87"
-  },
-  {
-    "domain": "uat-westus2.sigr.mtq.microsoft.com",
-    "ip": "20.83.108.231"
-  },
-  {
-    "domain": "bvt-eastus2.sigr.mtq.microsoft.com",
-    "ip": "20.122.82.158"
-  },
-  {
-    "domain": "3.tlu.dl.delivery.mp.microsoft.com",
-    "ip": "8.252.194.254"
-  },
-  {
-    "domain": "1d.tlu.dl.delivery.mp.microsoft.com",
-    "ip": "2606:2800:11f:85d:13e0:11e9:1a6:201d"
-  },
-  {
-    "domain": "dev.chefsmenu.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "iridiastest.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "digitalreservations-ppe.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "services.premier.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "sapbusinessprocesshealth.microsoft.com",
-    "ip": "40.64.128.232"
-  },
-  {
-    "domain": "ux.dev2.microsoft.com",
-    "ip": "20.3.180.71"
-  },
-  {
-    "domain": "tip1.powerapps-staging.microsoft.com",
-    "ip": "20.237.175.206"
-  },
-  {
-    "domain": "m365-rfa-api.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "tip1.powerapps.microsoft.com",
-    "ip": "20.237.173.45"
-  },
-  {
-    "domain": "swda02-mscdn.manage.microsoft.com",
-    "ip": "2620:1ec:4e:1::69"
-  },
-  {
-    "domain": "dcsfe.dev.adu.microsoft.com",
-    "ip": "20.62.132.246"
-  },
-  {
-    "domain": "amsterdam.myenvisiontour.microsoft.com",
-    "ip": "20.103.85.33"
-  },
-  {
-    "domain": "webgallery.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "shanghai.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "sao-paulo.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "startup.microsoft.com",
-    "ip": "20.103.85.33"
-  },
-  {
-    "domain": "lovessmb.microsoft.com",
-    "ip": "20.103.85.33"
-  },
-  {
-    "domain": "discover.microsoft.com",
-    "ip": "20.103.85.33"
-  },
-  {
-    "domain": "static2.ftop.microsoft.com",
-    "ip": "20.103.85.33"
-  },
-  {
-    "domain": "print.microsoft.com",
-    "ip": "20.53.203.50"
-  },
-  {
-    "domain": "speakerdirectory.myignitetour.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "demos.microsoft.com",
-    "ip": "20.103.85.33"
-  },
-  {
-    "domain": "spoprod-a.ftop.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "naspo.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "dubai.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "berlin.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "commerce.microsoft.com",
-    "ip": "20.103.85.33"
-  },
-  {
-    "domain": "amsterdam.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "mumbai.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "courses.microsoft.com",
-    "ip": "20.103.85.33"
-  },
-  {
-    "domain": "formspro.microsoft.com",
-    "ip": "20.103.85.33"
-  },
-  {
-    "domain": "berlin.myenvisiontour.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "tokyo.myenvisiontour.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "toronto.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "cdsacademystage.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "sessioncatalog.myignitetour.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "openedx.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "cert.microsoft.com",
-    "ip": "20.103.85.33"
-  },
-  {
-    "domain": "osaka.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "paris.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "creator.microsoft.com",
-    "ip": "20.53.203.50"
-  },
-  {
-    "domain": "help.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "msppdd.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "www.startup-staging.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "toronto.myenvisiontour.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "sydney.myenvisiontour.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "sydney.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "seoul.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "microsoftedgesupport.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "azuredata.microsoft.com",
-    "ip": "20.53.203.50"
-  },
-  {
-    "domain": "texasdir.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "speakerdirectory.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "cloud.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "businessai.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "www.billing.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "dcacademystage.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "cdsacademy.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "singapore.myenvisiontour.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "stockholm.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.53.203.50"
-  },
-  {
-    "domain": "boards.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "madrid.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.53.203.50"
-  },
-  {
-    "domain": "washington-dc.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.53.203.50"
-  },
-  {
-    "domain": "mobileapp.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.53.203.50"
-  },
-  {
-    "domain": "chicago.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "bangalore.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.84.181.62"
-  },
-  {
-    "domain": "academy.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "milan.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.53.203.50"
-  },
-  {
-    "domain": "sf.myenvisiontour.microsoft.com",
-    "ip": "20.112.52.29"
-  },
-  {
-    "domain": "taipei.myignitetour.techcommunity.microsoft.com",
-    "ip": "20.81.111.85"
-  },
-  {
-    "domain": "mea.powerapps-staging.microsoft.com",
-    "ip": "20.74.173.76"
-  },
-  {
-    "domain": "sam.powerapps.microsoft.com",
-    "ip": "20.114.120.117"
-  },
-  {
-    "domain": "mea.powerapps.microsoft.com",
-    "ip": "20.74.173.74"
-  },
-  {
-    "domain": "asia.powerapps-staging.microsoft.com",
-    "ip": "20.243.252.17"
-  },
-  {
-    "domain": "afd-rdgateway-r1.wvdexci.microsoft.com",
-    "ip": "13.107.237.69"
-  },
-  {
-    "domain": "afd-rdgateway-r0.wvdexci.microsoft.com",
-    "ip": "13.107.238.69"
-  },
-  {
-    "domain": "tlu.dl.delivery.mp.microsoft.com",
-    "ip": "23.216.147.193"
-  },
-  {
-    "domain": "status.visualstudio.microsoft.com",
-    "ip": "13.107.237.69"
-  },
-  {
-    "domain": "purchase.dgp.microsoft.com",
-    "ip": "52.140.208.204"
-  },
-  {
-    "domain": "dmd.metaservices.microsoft.com",
-    "ip": "20.253.213.245"
-  },
-  {
-    "domain": "2.tlu.dl.delivery.mp.microsoft.com",
-    "ip": "2600:1409:3800::1722:ac1b"
-  },
-  {
-    "domain": "swdb02-mscdn.manage.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "blob.weather.microsoft.com",
-    "ip": "104.99.86.197"
-  },
-  {
-    "domain": "euaz.relay.teams.microsoft.com",
-    "ip": "52.114.241.175"
-  },
-  {
-    "domain": "noam-msit.voiceanalytics.teams.microsoft.com",
-    "ip": "40.87.106.55"
-  },
-  {
-    "domain": "web.vivalearning.microsoft.com",
-    "ip": "13.107.237.69"
-  },
-  {
-    "domain": "ato.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "powerapps-staging.microsoft.com",
-    "ip": "20.245.107.8"
-  },
-  {
-    "domain": "nam.powerapps-staging.microsoft.com",
-    "ip": "20.245.107.8"
-  },
-  {
-    "domain": "europe.powerapps-staging.microsoft.com",
-    "ip": "40.127.170.13"
-  },
-  {
-    "domain": "europe.powerapps.microsoft.com",
-    "ip": "13.74.23.211"
-  },
-  {
-    "domain": "asia.powerapps.microsoft.com",
-    "ip": "20.243.252.48"
-  },
-  {
-    "domain": "vortex-sandbox.data.microsoft.com",
-    "ip": "52.167.109.66"
-  },
-  {
-    "domain": "emea.voiceanalytics.teams.microsoft.com",
-    "ip": "20.73.223.128"
-  },
-  {
-    "domain": "financialrecordjournal.cp.microsoft.com",
-    "ip": "52.248.36.67"
-  },
-  {
-    "domain": "noam.voiceanalytics.teams.microsoft.com",
-    "ip": "20.75.44.127"
-  },
-  {
-    "domain": "office15client.microsoft.com",
-    "ip": "52.109.13.31"
-  },
-  {
-    "domain": "auditservice.teams.microsoft.com",
-    "ip": "20.118.120.203"
-  },
-  {
-    "domain": "cloudblogsazure.microsoft.com",
-    "ip": "13.107.238.69"
-  },
-  {
-    "domain": "cloudblogsservers.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "dl.delivery.mp.microsoft.com",
-    "ip": "104.98.118.154"
-  },
-  {
-    "domain": "cloudblogspower.microsoft.com",
-    "ip": "2620:1ec:4e:1::69"
-  },
-  {
-    "domain": "cloudblogsopens.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "cloudblogsdynamics.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "cloudblogsind.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "support.microsoft.com",
-    "ip": "23.74.12.114"
-  },
-  {
-    "domain": "samplesubmitfun-us.ppe.func.fp.wd.microsoft.com",
-    "ip": "40.112.243.108"
-  },
-  {
-    "domain": "fts-asap.microsoft.com",
-    "ip": "40.113.204.88"
-  },
-  {
-    "domain": "serviceshub.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "jthakker.myworkspace.microsoft.com",
-    "ip": "20.25.211.27"
-  },
-  {
-    "domain": "authzdc.partneraccounts.microsoft.com",
-    "ip": "13.107.238.69"
-  },
-  {
-    "domain": "education.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "www.education.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "skylight-dev.aks.skylight.services.microsoft.com",
-    "ip": "2600:1409:5000:388::356e"
-  },
-  {
-    "domain": "fabricbot.ppe.gitops.startclean.microsoft.com",
-    "ip": "2620:1ec:4f:1::69"
-  },
-  {
-    "domain": "dev.insights.microsoft.com",
-    "ip": "20.98.78.89"
-  },
-  {
-    "domain": "ics.one.microsoft.com",
-    "ip": "131.107.112.42"
-  },
-  {
-    "domain": "paymentthirdpartyservice.cp.microsoft.com",
-    "ip": "23.101.119.163"
-  },
-  {
-    "domain": "authz.partneraccounts.microsoft.com",
-    "ip": "2620:1ec:46::70"
-  },
-  {
-    "domain": "smartlink.microsoft.com",
-    "ip": "23.99.0.12"
-  },
-  {
-    "domain": "autosign-uat.devices.microsoft.com",
-    "ip": "13.66.138.107"
-  },
-  {
-    "domain": "leportaldev.microsoft.com",
-    "ip": "40.82.255.132"
-  },
-  {
-    "domain": "agent.services.microsoft.com",
-    "ip": "104.115.139.63"
-  },
-  {
-    "domain": "www.microsoft.com",
-    "ip": "2600:1409:3800:19c::356e"
-  },
-  {
-    "domain": "docs.microsoft.com",
-    "ip": "2600:1409:3000:286::353e"
-  },
-  {
-    "domain": "go.microsoft.com",
-    "ip": "23.36.63.240"
-  },
-  {
-    "domain": "edujourney.microsoft.com",
-    "ip": "13.107.246.57"
-  },
-  {
-    "domain": "us-v10.events.data.microsoft.com",
-    "ip": "104.208.16.89"
-  },
-  {
-    "domain": "medeina.defender.microsoft.com",
-    "ip": "20.80.136.242"
-  },
-  {
-    "domain": "us.vortex-win.data.microsoft.com",
-    "ip": "52.182.143.210"
-  },
-  {
-    "domain": "crl.microsoft.com",
-    "ip": "23.221.223.89"
-  },
-  {
-    "domain": "us-v20.events.data.microsoft.com",
-    "ip": "20.42.73.25"
-  },
-  {
-    "domain": "frontend.mt2.prod.pubsuites.microsoft.com",
-    "ip": "20.125.81.105"
-  },
-  {
-    "domain": "publishing.wsd2prod.prod.pubsuites.microsoft.com",
-    "ip": "20.40.29.229"
-  },
-  {
-    "domain": "publishing.mt2.prod.pubsuites.microsoft.com",
-    "ip": "20.125.81.105"
-  },
-  {
-    "domain": "publishing.wsd2ppe.prod.pubsuites.microsoft.com",
-    "ip": "20.14.4.191"
-  },
-  {
-    "domain": "msedge.b.tlu.dl.delivery.mp.microsoft.com",
-    "ip": "2001:1900:2318:1f06::1fe"
-  },
-  {
-    "domain": "self.events.data.microsoft.com",
-    "ip": "13.69.109.130"
-  },
-  {
-    "domain": "v10.events.data.microsoft.com",
-    "ip": "40.79.197.34"
-  },
-  {
-    "domain": "frontend.wsd2prod.prod.pubsuites.microsoft.com",
-    "ip": "20.40.29.229"
-  },
-  {
-    "domain": "publishing.mt1.prod.pubsuites.microsoft.com",
-    "ip": "20.106.108.71"
-  },
-  {
-    "domain": "server.pipe.aria.microsoft.com",
-    "ip": "20.50.80.210"
-  },
-  {
-    "domain": "v20.events.data.microsoft.com",
-    "ip": "20.42.73.27"
-  },
-  {
-    "domain": "13.tlu.dl.delivery.mp.microsoft.com",
-    "ip": "8.250.188.126"
-  },
-  {
-    "domain": "sharedcookie.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "www.nnicrosoft.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "www.crudware.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "www.junhkim.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "api.contactcenter.microsoft.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "ou.mixedreality.azure.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "objectunderstanding.mixedreality.azure.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "paymebiz-app-exp.trafficmanager.net",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "api.contactcenter.microsoft-int.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "contactcenter.microsoft-ppe.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "contactcenter.microsoft.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "contactcenter.microsoft-int.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "magento.name",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "prvnote.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "penaltyexperts.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "bawdcs.com",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "creativemiles-labs.co.uk",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "datainformerx.eu",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "iestech.eu",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "teacoffe.net",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "konjamdiscount.in",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "aleinvest.xyz",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "www.microsoft.net",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "134.170.185.46",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "134.170.188.221",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "65.55.58.201",
-    "ip": "microsoft.com"
-  },
-  {
-    "domain": "64.4.11.37",
-    "ip": "microsoft.com"
   }
 ]
