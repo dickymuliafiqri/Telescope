@@ -495,18 +495,6 @@
     "ip": "99.84.66.65"
   },
   {
-    "domain": "try.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "support.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "engineering.academia.edu",
-    "ip": ""
-  },
-  {
     "domain": "institutomallea.academia.edu",
     "ip": ""
   },
@@ -1364,7 +1352,7 @@
   },
   {
     "domain": "academia.edu",
-    "ip": "108.156.107.42"
+    "ip": "99.84.160.126"
   },
   {
     "domain": "0000.academia.edu",
@@ -3365,5 +3353,17 @@
   {
     "domain": "clea.academia.edu",
     "ip": "99.84.238.209"
+  },
+  {
+    "domain": "try.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "support.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "engineering.academia.edu",
+    "ip": ""
   }
 ]
