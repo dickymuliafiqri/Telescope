@@ -12,14 +12,6 @@
     "ip": ""
   },
   {
-    "domain": "www.interface-01.kno2fy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.errorlogger.kno2fy.com",
-    "ip": ""
-  },
-  {
     "domain": "www.kno2fy.com",
     "ip": "2606:4700::6812:b27"
   },
@@ -74,5 +66,13 @@
   {
     "domain": "rmtgw.kno2fy.com",
     "ip": "13.91.93.44"
+  },
+  {
+    "domain": "www.interface-01.kno2fy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.errorlogger.kno2fy.com",
+    "ip": ""
   }
 ]
