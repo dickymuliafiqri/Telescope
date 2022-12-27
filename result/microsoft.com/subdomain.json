@@ -1,5 +1,9 @@
 [
   {
+    "domain": "beta.df.securitycenter.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "nsights.notes.microsoft.com",
     "ip": "NXDOMAIN"
   },
