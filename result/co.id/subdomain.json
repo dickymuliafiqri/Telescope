@@ -1,5 +1,25 @@
 [
   {
+    "domain": "webmail.news24.co.id",
+    "ip": "117.53.47.133"
+  },
+  {
+    "domain": "cpcontacts.news24.co.id",
+    "ip": "117.53.47.133"
+  },
+  {
+    "domain": "news24.co.id",
+    "ip": "117.53.47.133"
+  },
+  {
+    "domain": "cpcalendars.news24.co.id",
+    "ip": "117.53.47.133"
+  },
+  {
+    "domain": "cpcontacts.guarde515.co.id",
+    "ip": "23.106.66.242"
+  },
+  {
     "domain": "cis.ap1.co.id",
     "ip": "103.148.191.76"
   },
