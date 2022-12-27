@@ -1,5 +1,13 @@
 [
   {
+    "domain": "www.ekinerja.poltekkesjkt2.ac.id",
+    "ip": "151.106.119.173"
+  },
+  {
+    "domain": "ekinerja.poltekkesjkt2.ac.id",
+    "ip": "151.106.119.173"
+  },
+  {
     "domain": "www.fe.unibba.ac.id",
     "ip": "103.28.12.168"
   },
