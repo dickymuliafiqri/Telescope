@@ -1,5 +1,13 @@
 [
   {
+    "domain": "df.securitycenter.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "resourcemanager-adu-eus.scanx.esrp.microsoft.com",
+    "ip": "20.75.217.160"
+  },
+  {
     "domain": "nsights.notes.microsoft.com",
     "ip": "NXDOMAIN"
   },
