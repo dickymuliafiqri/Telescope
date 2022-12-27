@@ -1,5 +1,2005 @@
 [
   {
+    "domain": "www.fe.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "kuesioner.uppm.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "admissions.stiepertiba.ac.id",
+    "ip": "217.21.72.214"
+  },
+  {
+    "domain": "goaktif.poltekkesjakarta3.ac.id",
+    "ip": "109.106.253.125"
+  },
+  {
+    "domain": "www.repository.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "elearning.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "slims.uniba.ac.id",
+    "ip": "202.157.189.113"
+  },
+  {
+    "domain": "manajemen.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "www.surat.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "www.e-learning.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "journal.stiba.ac.id",
+    "ip": "103.55.38.155"
+  },
+  {
+    "domain": "appabsensi.poltekkesjkt2.ac.id",
+    "ip": "151.106.119.173"
+  },
+  {
+    "domain": "bc.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "kk.up45.ac.id",
+    "ip": "80.241.208.213"
+  },
+  {
+    "domain": "webmail.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "lingkungan-72.tl.ITB.ac.id",
+    "ip": "167.205.70.72"
+  },
+  {
+    "domain": "autodiscover.perpustakaan.poltekkesjakarta3.ac.id",
+    "ip": "153.92.10.60"
+  },
+  {
+    "domain": "www.siakeu.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "www.spada.umbulukumba.ac.id",
+    "ip": "156.67.219.171"
+  },
+  {
+    "domain": "webdisk.bpm.umbulukumba.ac.id",
+    "ip": "45.13.255.241"
+  },
+  {
+    "domain": "e-library.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "www.siakad.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "icesed.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "www.creat.stmikiba.ac.id",
+    "ip": "151.106.118.148"
+  },
+  {
+    "domain": "admin.admisi.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "autodiscover.pmb.umbulukumba.ac.id",
+    "ip": "45.13.255.241"
+  },
+  {
+    "domain": "viewers.lipmb.umbulukumba.ac.id",
+    "ip": "156.67.213.172"
+  },
+  {
+    "domain": "jurnal.akipba.ac.id",
+    "ip": "193.168.194.119"
+  },
+  {
+    "domain": "e-learning.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "webmail.pui-p2kaljkt2.ac.id",
+    "ip": "5.181.216.82"
+  },
+  {
+    "domain": "u01-pkl-merput.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "webmail.absen.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "cpanel.sim-epk.poltekkesjakarta3.ac.id",
+    "ip": "156.67.211.28"
+  },
+  {
+    "domain": "webmail.pascasarjana.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "minyak-193.tm.ITB.ac.id",
+    "ip": "167.205.12.193"
+  },
+  {
+    "domain": "www.kemahasiswaan.stmikiba.ac.id",
+    "ip": "151.106.118.148"
+  },
+  {
+    "domain": "lab.elektro.poltekba.ac.id",
+    "ip": "103.80.240.228"
+  },
+  {
+    "domain": "www.cart.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "webdisk.sim-epk.poltekkesjakarta3.ac.id",
+    "ip": "156.67.211.28"
+  },
+  {
+    "domain": "livebni.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "minyak.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "lingkungan-65.tl.ITB.ac.id",
+    "ip": "167.205.70.65"
+  },
+  {
+    "domain": "ojs3.up45.ac.id",
+    "ip": "104.21.89.199"
+  },
+  {
+    "domain": "www.bakah.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "cpanel.ejournal-ibik57.ac.id",
+    "ip": "103.247.9.132"
+  },
+  {
+    "domain": "amran.akba.ac.id",
+    "ip": "103.29.215.187"
+  },
+  {
+    "domain": "www.humas.poltekba.ac.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "lingkungan-67.tl.ITB.ac.id",
+    "ip": "167.205.70.67"
+  },
+  {
+    "domain": "musik.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "jepang.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
+  },
+  {
+    "domain": "elib.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "webdisk.pui-p2kaljkt2.ac.id",
+    "ip": "5.181.216.82"
+  },
+  {
+    "domain": "www.lib.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "www.an.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "www.ipm-bulukumba.lipmb.umbulukumba.ac.id",
+    "ip": "156.67.213.172"
+  },
+  {
+    "domain": "minyak-202.tm.ITB.ac.id",
+    "ip": "167.205.12.202"
+  },
+  {
+    "domain": "www.library.poltekkeskesba.ac.id",
+    "ip": "193.168.194.205"
+  },
+  {
+    "domain": "minyak-144.tm.ITB.ac.id",
+    "ip": "167.205.12.144"
+  },
+  {
+    "domain": "cpanel.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "ppm.stiba.ac.id",
+    "ip": "114.7.199.227"
+  },
+  {
+    "domain": "www.tracerstudy.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "dupak.tm.ITB.ac.id",
+    "ip": "167.205.12.253"
+  },
+  {
+    "domain": "minyak-195.tm.ITB.ac.id",
+    "ip": "167.205.12.195"
+  },
+  {
+    "domain": "www.jurnal.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "webdisk.akperkesdam4.ac.id",
+    "ip": "203.175.8.85"
+  },
+  {
+    "domain": "repository.sttaa.ac.id",
+    "ip": "159.65.2.74"
+  },
+  {
+    "domain": "cpcontacts.lms.stie-66.ac.id",
+    "ip": "103.55.39.107"
+  },
+  {
+    "domain": "www.journal.pertiba.ac.id",
+    "ip": "217.21.72.214"
+  },
+  {
+    "domain": "www.wisuda.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "sister.up45.ac.id",
+    "ip": "103.40.121.73"
+  },
+  {
+    "domain": "www.simtek-unisba.ac.id",
+    "ip": "202.138.248.85"
+  },
+  {
+    "domain": "lpm.staiduba.ac.id",
+    "ip": "103.28.53.92"
+  },
+  {
+    "domain": "autodiscover.absen.stisipolp12.ac.id",
+    "ip": "217.21.73.111"
+  },
+  {
+    "domain": "www.pmb.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "rent.poltekkesjakarta3.ac.id",
+    "ip": "45.112.126.116"
+  },
+  {
+    "domain": "stkipbms2.ac.id",
+    "ip": "203.175.9.87"
+  },
+  {
+    "domain": "www.inggris.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
+  },
+  {
+    "domain": "www.lppm.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "siadev.up45.ac.id",
+    "ip": "103.40.121.78"
+  },
+  {
+    "domain": "www.siak.unibba.ac.id",
+    "ip": "103.20.90.112"
+  },
+  {
+    "domain": "minyak-204.tm.ITB.ac.id",
+    "ip": "167.205.12.204"
+  },
+  {
+    "domain": "ipm-bulukumba.lipmb.umbulukumba.ac.id",
+    "ip": "156.67.213.172"
+  },
+  {
+    "domain": "webmail.jurnalsora.stba.ac.id",
+    "ip": "103.229.73.123"
+  },
+  {
+    "domain": "kurban.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "cpcontacts.goaktif.poltekkesjakarta3.ac.id",
+    "ip": "109.106.253.125"
+  },
+  {
+    "domain": "adminpmb.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "cpcalendars.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "jurnal.akperkesdam4.ac.id",
+    "ip": "203.175.8.85"
+  },
+  {
+    "domain": "akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "journal.stiepertiba.ac.id",
+    "ip": "217.21.72.214"
+  },
+  {
+    "domain": "dema.staiduba.ac.id",
+    "ip": "103.28.53.92"
+  },
+  {
+    "domain": "cpcalendars.pmb.umbulukumba.ac.id",
+    "ip": "45.13.255.241"
+  },
+  {
+    "domain": "webdisk.stainaa.ac.id",
+    "ip": "199.59.242.150"
+  },
+  {
+    "domain": "console.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "proceedings.staiduba.ac.id",
+    "ip": "217.21.73.41"
+  },
+  {
+    "domain": "stikba.ac.id",
+    "ip": "202.65.127.100"
+  },
+  {
+    "domain": "ojsstihpertiba.ac.id",
+    "ip": "153.92.9.206"
+  },
+  {
+    "domain": "ami.unisba.ac.id",
+    "ip": "103.78.195.73"
+  },
+  {
+    "domain": "akperrumkit3.ac.id",
+    "ip": "153.92.8.36"
+  },
+  {
+    "domain": "wisuda.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "cpanel.lisa.poltekkesjakarta3.ac.id",
+    "ip": "45.143.81.19"
+  },
+  {
+    "domain": "elearning.stitmuhba.ac.id",
+    "ip": "68.183.190.77"
+  },
+  {
+    "domain": "elearning.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "spada.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "webmail.perpustakaan.poltekkesjakarta3.ac.id",
+    "ip": "153.92.10.60"
+  },
+  {
+    "domain": "minyak-180.tm.ITB.ac.id",
+    "ip": "167.205.12.180"
+  },
+  {
+    "domain": "www.pmm.stmikiba.ac.id",
+    "ip": "151.106.118.148"
+  },
+  {
+    "domain": "ejournal.poltekkesjakarta1.ac.id",
+    "ip": "103.102.153.101"
+  },
+  {
+    "domain": "www.survey.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "admisi.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "www.eoffice.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "preprint.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "simlitabmas.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "backupmail.tl.ITB.ac.id",
+    "ip": "167.205.70.214"
+  },
+  {
+    "domain": "minyak-252.tm.ITB.ac.id",
+    "ip": "167.205.12.252"
+  },
+  {
+    "domain": "perpustakaan-ibik57.ac.id",
+    "ip": "203.175.8.40"
+  },
+  {
+    "domain": "cpanel.goaktif.poltekkesjakarta3.ac.id",
+    "ip": "109.106.253.125"
+  },
+  {
+    "domain": "pusdokinfo.perpustakaan-ibik57.ac.id",
+    "ip": "203.175.8.40"
+  },
+  {
+    "domain": "elibrary.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "webdisk.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "pmb.poltekkeskesba.ac.id",
+    "ip": "193.168.194.205"
+  },
+  {
+    "domain": "stainaa.ac.id",
+    "ip": "199.59.242.150"
+  },
+  {
+    "domain": "repo.unperba.ac.id",
+    "ip": "156.67.212.227"
+  },
+  {
+    "domain": "www.library.staba.ac.id",
+    "ip": "203.161.184.54"
+  },
+  {
+    "domain": "www.fisip.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "cpanel.staiduba.ac.id",
+    "ip": "103.28.53.92"
+  },
+  {
+    "domain": "siakad.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "finance.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "keperawatan-gigi.poltekkesjakarta1.ac.id",
+    "ip": "172.67.187.241"
+  },
+  {
+    "domain": "cpanel.pui-p2kaljkt2.ac.id",
+    "ip": "5.181.216.82"
+  },
+  {
+    "domain": "absen.stisipolp12.ac.id",
+    "ip": "89.116.229.231"
+  },
+  {
+    "domain": "prosiding.stikba.ac.id",
+    "ip": "156.67.211.129"
+  },
+  {
+    "domain": "lingkungan-18.tl.ITB.ac.id",
+    "ip": "167.205.70.18"
+  },
+  {
+    "domain": "pmbkip.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "sttaa.ac.id",
+    "ip": "178.128.54.17"
+  },
+  {
+    "domain": "www.lpm.staiduba.ac.id",
+    "ip": "103.28.53.92"
+  },
+  {
+    "domain": "www.pmb.akperkesdam4.ac.id",
+    "ip": "203.175.8.85"
+  },
+  {
+    "domain": "ejournal.stieba.ac.id",
+    "ip": "103.253.212.191"
+  },
+  {
+    "domain": "lib.umkaba.ac.id",
+    "ip": "217.21.72.135"
+  },
+  {
+    "domain": "gerbang.tl.ITB.ac.id",
+    "ip": "167.205.70.125"
+  },
+  {
+    "domain": "p3m.stiba.ac.id",
+    "ip": "114.7.199.227"
+  },
+  {
+    "domain": "perpustakaan.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "stbayapariaba.ac.id",
+    "ip": "103.229.73.193"
+  },
+  {
+    "domain": "bschool.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "cpcontacts.pui-p2kaljkt2.ac.id",
+    "ip": "5.181.216.82"
+  },
+  {
+    "domain": "iaialghurabaa.ac.id",
+    "ip": "103.145.226.120"
+  },
+  {
+    "domain": "www.beres.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "www.mahasiswa.stitba.ac.id",
+    "ip": "203.161.184.66"
+  },
+  {
+    "domain": "cpcontacts.spmb.stie-66.ac.id",
+    "ip": "103.55.39.107"
+  },
+  {
+    "domain": "pkkmb.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
+  },
+  {
+    "domain": "mailtracking.sp.ITB.ac.id",
+    "ip": "167.205.7.242"
+  },
+  {
+    "domain": "law.uniba.ac.id",
+    "ip": "202.157.189.113"
+  },
+  {
+    "domain": "webdisk.iba.ac.id",
+    "ip": "202.47.77.130"
+  },
+  {
+    "domain": "elearning.iteba.ac.id",
+    "ip": "18.132.253.62"
+  },
+  {
+    "domain": "siakad.sttaa.ac.id",
+    "ip": "209.97.175.86"
+  },
+  {
+    "domain": "www.web.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "alumni.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "simak.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "psikologi.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "cpcalendars.perpustakaan.poltekkesjakarta3.ac.id",
+    "ip": "153.92.10.60"
+  },
+  {
+    "domain": "cpcalendars.lisa.poltekkesjakarta3.ac.id",
+    "ip": "45.143.81.19"
+  },
+  {
+    "domain": "lingkungan-78.tl.ITB.ac.id",
+    "ip": "167.205.70.78"
+  },
+  {
+    "domain": "www.etd.perpustakaan-ibik57.ac.id",
+    "ip": "203.175.8.40"
+  },
+  {
+    "domain": "www.e-kuesioner.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "mx919.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "sipro.unisba.ac.id",
+    "ip": "103.78.195.73"
+  },
+  {
+    "domain": "testpmb.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "www.armin.poltekba.ac.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "www.beta.uniba.ac.id",
+    "ip": "202.157.189.113"
+  },
+  {
+    "domain": "sim.stie-66.ac.id",
+    "ip": "103.55.39.107"
+  },
+  {
+    "domain": "pmb.pku.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "www.bpm.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "bpm.umbulukumba.ac.id",
+    "ip": "45.13.255.241"
+  },
+  {
+    "domain": "www.digilib.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "www.elearning.stiepertiba.ac.id",
+    "ip": "203.161.184.111"
+  },
+  {
+    "domain": "desasimbang.akba.ac.id",
+    "ip": "49.128.186.44"
+  },
+  {
+    "domain": "www.livepkkmb.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "www.stba.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
+  },
+  {
+    "domain": "perancis.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
+  },
+  {
+    "domain": "pkpa.up45.ac.id",
+    "ip": "188.114.97.3"
+  },
+  {
+    "domain": "simpeg.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "autodiscover.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "www.sarpras.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "magister.tl.ITB.ac.id",
+    "ip": "167.205.57.144"
+  },
+  {
+    "domain": "www.sosialisasivisimisi.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "simak.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "www.krs.stit-hasiba.ac.id",
+    "ip": "103.247.11.121"
+  },
+  {
+    "domain": "www.ejurnal.stikba.ac.id",
+    "ip": "202.65.127.103"
+  },
+  {
+    "domain": "dosen.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "tari.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "ekti.akperkesdam4.ac.id",
+    "ip": "203.175.8.85"
+  },
+  {
+    "domain": "rek.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "www.jepang.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
+  },
+  {
+    "domain": "feeder.up45.ac.id",
+    "ip": "103.40.121.78"
+  },
+  {
+    "domain": "cpanel.perpustakaan.poltekkesjakarta3.ac.id",
+    "ip": "153.92.10.60"
+  },
+  {
+    "domain": "ejournal.up45.ac.id",
+    "ip": "80.241.208.213"
+  },
+  {
+    "domain": "www.feeder.unibba.ac.id",
+    "ip": "54.151.175.91"
+  },
+  {
+    "domain": "webdisk.staiduba.ac.id",
+    "ip": "103.28.53.92"
+  },
+  {
+    "domain": "cpanel.bpm.umbulukumba.ac.id",
+    "ip": "45.13.255.241"
+  },
+  {
+    "domain": "kemahasiswaan.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "www.faperta.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "alumni.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "cdc.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "www.slims.uniba.ac.id",
+    "ip": "202.157.189.113"
+  },
+  {
+    "domain": "uncon.akipba.ac.id",
+    "ip": "193.168.194.119"
+  },
+  {
+    "domain": "yapariaba.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
+  },
+  {
+    "domain": "old.unperba.ac.id",
+    "ip": "172.67.174.134"
+  },
+  {
+    "domain": "media.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "poltekkesjkt2.ac.id",
+    "ip": "103.229.73.214"
+  },
+  {
+    "domain": "info.donasi.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "app.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "cpcontacts.perpustakaan.stie-66.ac.id",
+    "ip": "193.168.194.216"
+  },
+  {
+    "domain": "cdc.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "test.stisipolp12.ac.id",
+    "ip": "217.21.73.111"
+  },
+  {
+    "domain": "www.testpmb.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "stikestujuhbelas.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "cpanel.akperkesdam4.ac.id",
+    "ip": "203.175.8.85"
+  },
+  {
+    "domain": "www.kemahasiswaan.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "sister.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "www.library.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "mail.iba.ac.id",
+    "ip": "202.47.77.130"
+  },
+  {
+    "domain": "www.e-learning.stmikiba.ac.id",
+    "ip": "151.106.118.148"
+  },
+  {
+    "domain": "cpcontacts.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "pmb.umbulukumba.ac.id",
+    "ip": "45.13.255.241"
+  },
+  {
+    "domain": "journal.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "ejurnal.poltekkesjakarta3.ac.id",
+    "ip": "153.92.9.220"
+  },
+  {
+    "domain": "www.si.fti.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "stitmuhba.ac.id",
+    "ip": "68.183.190.77"
+  },
+  {
+    "domain": "wa.multiple.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "lib.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "lms.stie-66.ac.id",
+    "ip": "103.55.39.107"
+  },
+  {
+    "domain": "www.portal.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "www.lingkungan.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "informatika.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "www.pmb.stmikiba.ac.id",
+    "ip": "151.106.118.148"
+  },
+  {
+    "domain": "lingkungan-102.tl.ITB.ac.id",
+    "ip": "167.205.70.102"
+  },
+  {
+    "domain": "www.pmbonline.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "mx244.perpustakaan-ibik57.ac.id",
+    "ip": "203.175.8.40"
+  },
+  {
+    "domain": "www.law.uniba.ac.id",
+    "ip": "202.157.189.113"
+  },
+  {
+    "domain": "minyak-234.tm.ITB.ac.id",
+    "ip": "167.205.12.234"
+  },
+  {
+    "domain": "minyak-209.tm.ITB.ac.id",
+    "ip": "167.205.12.209"
+  },
+  {
+    "domain": "minyak-174.tm.ITB.ac.id",
+    "ip": "167.205.12.174"
+  },
+  {
+    "domain": "www.admin.e-library.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "sim.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "farmasi.poltekkesjkt2.ac.id",
+    "ip": "103.229.73.214"
+  },
+  {
+    "domain": "www.portal.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "minyak-172.tm.ITB.ac.id",
+    "ip": "167.205.12.172"
+  },
+  {
+    "domain": "tbk.stitba.ac.id",
+    "ip": "203.161.184.66"
+  },
+  {
+    "domain": "www.ejournal.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "bacondeng.akba.ac.id",
+    "ip": "103.29.215.187"
+  },
+  {
+    "domain": "cpcalendars.iba.ac.id",
+    "ip": "202.47.77.130"
+  },
+  {
+    "domain": "www.industri.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "www.sikabasa.stieba.ac.id",
+    "ip": "103.147.154.158"
+  },
+  {
+    "domain": "www.amran.akba.ac.id",
+    "ip": "49.128.186.44"
+  },
+  {
+    "domain": "stitba.ac.id",
+    "ip": "203.161.184.66"
+  },
+  {
+    "domain": "www.sttiaapress.sttiaa.ac.id",
+    "ip": "139.162.16.216"
+  },
+  {
+    "domain": "www.careercenter.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "2012.poltekkesjakarta1.ac.id",
+    "ip": "104.21.7.170"
+  },
+  {
+    "domain": "mahadalyannur2.ac.id",
+    "ip": "45.13.255.55"
+  },
+  {
+    "domain": "autodiscover.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "webdisk.alumni.kesdam4.ac.id",
+    "ip": "103.30.144.66"
+  },
+  {
+    "domain": "cpcalendars.ejournal-ibik57.ac.id",
+    "ip": "103.247.9.132"
+  },
+  {
+    "domain": "www.pmb.poltekkeskesba.ac.id",
+    "ip": "193.168.194.205"
+  },
+  {
+    "domain": "lppm.dashboard.up45.ac.id",
+    "ip": "194.233.70.180"
+  },
+  {
+    "domain": "dept.poltekba.ac.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "lingkungan-94.tl.ITB.ac.id",
+    "ip": "167.205.70.94"
+  },
+  {
+    "domain": "minyak-239.tm.ITB.ac.id",
+    "ip": "167.205.12.239"
+  },
+  {
+    "domain": "evi.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "www.bacondeng.akba.ac.id",
+    "ip": "49.128.186.44"
+  },
+  {
+    "domain": "pmb.akperkesdam4.ac.id",
+    "ip": "203.175.8.85"
+  },
+  {
+    "domain": "minyak-177.tm.ITB.ac.id",
+    "ip": "167.205.12.177"
+  },
+  {
+    "domain": "www.sister.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "www.cdc.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "www.opac.perpustakaan-ibik57.ac.id",
+    "ip": "203.175.8.40"
+  },
+  {
+    "domain": "cpcalendars.absen.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "www.pbsi.fkip.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "verifikasi-alumni.poltekkesjakarta1.ac.id",
+    "ip": "188.114.96.3"
+  },
+  {
+    "domain": "cpcalendars.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "www.kuesioner.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "webdisk.stie-66.ac.id",
+    "ip": "109.106.253.213"
+  },
+  {
+    "domain": "cpanel.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "mail.poltekkesjakarta3.ac.id",
+    "ip": "153.92.9.220"
+  },
+  {
+    "domain": "jurnal.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "www.simlitabmas.uniba.ac.id",
+    "ip": "202.157.189.113"
+  },
+  {
+    "domain": "perpustakaan.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
+  },
+  {
+    "domain": "an.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "journal.uniba.ac.id",
+    "ip": "202.157.189.113"
+  },
+  {
+    "domain": "admin.simsakan.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "www.umpanbalik.staba.ac.id",
+    "ip": "203.161.184.54"
+  },
+  {
+    "domain": "techno.up45.ac.id",
+    "ip": "194.233.91.207"
+  },
+  {
+    "domain": "www.perpustakaan.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "www.euis.poltekkesjakarta3.ac.id",
+    "ip": "153.92.9.220"
+  },
+  {
+    "domain": "upm.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "cpcontacts.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "www.alumni.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "cpcalendars.jurnalsora.stba.ac.id",
+    "ip": "103.229.73.123"
+  },
+  {
+    "domain": "tem.poltekkesjkt2.ac.id",
+    "ip": "103.229.73.214"
+  },
+  {
+    "domain": "lingkungan-69.tl.ITB.ac.id",
+    "ip": "167.205.70.69"
+  },
+  {
+    "domain": "www.bkd.poltekkesjakarta3.ac.id",
+    "ip": "153.92.9.220"
+  },
+  {
+    "domain": "student.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "lppm.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "pbm.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "sia.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "simtar.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "webmail.akperkesdam4.ac.id",
+    "ip": "203.175.8.85"
+  },
+  {
+    "domain": "lpjm.stba.ac.id",
+    "ip": "49.50.10.86"
+  },
+  {
+    "domain": "www.elearning.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "teknik.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "hukum.dashboard.up45.ac.id",
+    "ip": "194.233.70.180"
+  },
+  {
+    "domain": "www.fasilkom.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "www.pmbkip.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "www.pkkmb.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
+  },
+  {
+    "domain": "lingkungan-82.tl.ITB.ac.id",
+    "ip": "167.205.70.82"
+  },
+  {
+    "domain": "www.coba.akipba.ac.id",
+    "ip": "193.168.194.119"
+  },
+  {
+    "domain": "www.sertifikat.stiepertiba.ac.id",
+    "ip": "203.161.184.111"
+  },
+  {
+    "domain": "gz.poltekkesjkt2.ac.id",
+    "ip": "103.229.73.214"
+  },
+  {
+    "domain": "www.siakad.stikba.ac.id",
+    "ip": "202.65.127.102"
+  },
+  {
+    "domain": "www.manajemen.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "www.simak.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "scd.dashboard.up45.ac.id",
+    "ip": "194.233.70.180"
+  },
+  {
+    "domain": "lecturer.laaroiba.ac.id",
+    "ip": "165.22.52.62"
+  },
+  {
+    "domain": "pmb.poltekkesjkt2.ac.id",
+    "ip": "151.106.119.173"
+  },
+  {
+    "domain": "www.fkes.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "pmb.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "www.mail.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "hosting-hwc1.inaba.ac.id",
+    "ip": "119.8.173.92"
+  },
+  {
+    "domain": "lppm.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "sisca.laaroiba.ac.id",
+    "ip": "165.22.52.62"
+  },
+  {
+    "domain": "www.dosen.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "siakad.akba.ac.id",
+    "ip": "157.119.222.178"
+  },
+  {
+    "domain": "www.ejournal.staiduba.ac.id",
+    "ip": "217.21.73.41"
+  },
+  {
+    "domain": "daarelqolam3.ac.id",
+    "ip": "104.21.57.34"
+  },
+  {
+    "domain": "jurnal.stmikiba.ac.id",
+    "ip": "151.106.118.148"
+  },
+  {
+    "domain": "www.sinerba.unperba.ac.id",
+    "ip": "45.32.124.251"
+  },
+  {
+    "domain": "akba.ac.id",
+    "ip": "49.128.186.44"
+  },
+  {
+    "domain": "tes.unperba.ac.id",
+    "ip": "104.21.80.56"
+  },
+  {
+    "domain": "webdisk.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "jurnal.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "library.stiba.ac.id",
+    "ip": "114.7.199.233"
+  },
+  {
+    "domain": "sia.poltekkesjkt2.ac.id",
+    "ip": "182.253.24.5"
+  },
+  {
+    "domain": "webdisk.perpustakaan.stie-66.ac.id",
+    "ip": "193.168.194.216"
+  },
+  {
+    "domain": "psi.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "www.career.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "ebook.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "www.va.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "simaba.unperba.ac.id",
+    "ip": "104.21.80.56"
+  },
+  {
+    "domain": "network.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "perpustakaan.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "jerman.stbayapariaba.ac.id",
+    "ip": "49.50.10.86"
+  },
+  {
+    "domain": "autodiscover.goaktif.poltekkesjakarta3.ac.id",
+    "ip": "109.106.253.125"
+  },
+  {
+    "domain": "poltekkesjakarta3.ac.id",
+    "ip": "153.92.9.220"
+  },
+  {
+    "domain": "webmail.iba.ac.id",
+    "ip": "202.47.77.130"
+  },
+  {
+    "domain": "www.elearning.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "minyak-242.tm.ITB.ac.id",
+    "ip": "167.205.12.242"
+  },
+  {
+    "domain": "administrasi-negara.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "lingkungan-123.tl.ITB.ac.id",
+    "ip": "167.205.70.123"
+  },
+  {
+    "domain": "www.totok.poltekba.ac.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "webdisk.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "cpcalendars.puansejati.poltekkesjakarta3.ac.id",
+    "ip": "45.130.231.218"
+  },
+  {
+    "domain": "spmb.staiduba.ac.id",
+    "ip": "103.28.53.92"
+  },
+  {
+    "domain": "baak.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "www.dosen.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "www.repositori.perpustakaan-ibik57.ac.id",
+    "ip": "203.175.8.40"
+  },
+  {
+    "domain": "repository.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "perpustakaan.akba.ac.id",
+    "ip": "157.119.222.179"
+  },
+  {
+    "domain": "www.baukk.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "learning.poltekkesjkt2.ac.id",
+    "ip": "182.253.24.3"
+  },
+  {
+    "domain": "www.spada.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "lp2m.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "lingkungan-85.tl.ITB.ac.id",
+    "ip": "167.205.70.85"
+  },
+  {
+    "domain": "fti.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "www.ppid.poltekba.ac.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "dashboard.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "icpege.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "www.elearning.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "dev-rps.unisba.ac.id",
+    "ip": "103.78.195.75"
+  },
+  {
+    "domain": "wa.donasi.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "www.siakad.stmikiba.ac.id",
+    "ip": "151.106.118.148"
+  },
+  {
+    "domain": "tracer-study.poltekkesjakarta1.ac.id",
+    "ip": "172.67.187.241"
+  },
+  {
+    "domain": "minyak-241.tm.ITB.ac.id",
+    "ip": "167.205.12.241"
+  },
+  {
+    "domain": "opac.up45.ac.id",
+    "ip": "188.114.97.3"
+  },
+  {
+    "domain": "admin.musker.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "pui-p2kaljkt2.ac.id",
+    "ip": "5.181.216.82"
+  },
+  {
+    "domain": "sibuma.akperkesdam4.ac.id",
+    "ip": "203.175.8.85"
+  },
+  {
+    "domain": "lingkungan-22.tl.ITB.ac.id",
+    "ip": "167.205.70.22"
+  },
+  {
+    "domain": "webdisk.pmb.umbulukumba.ac.id",
+    "ip": "45.13.255.241"
+  },
+  {
+    "domain": "tpl.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "mail.kesdam4.ac.id",
+    "ip": "103.30.144.66"
+  },
+  {
+    "domain": "stitsimeulueaceh1.ac.id",
+    "ip": "45.143.81.166"
+  },
+  {
+    "domain": "minyak-220.tm.ITB.ac.id",
+    "ip": "167.205.12.220"
+  },
+  {
+    "domain": "www.simpt.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "donasi.seribu.bulan.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "www.lpjm.stbayapariaba.ac.id",
+    "ip": "103.229.73.193"
+  },
+  {
+    "domain": "legalisir-ijasah.poltekkesjakarta1.ac.id",
+    "ip": "104.21.7.170"
+  },
+  {
+    "domain": "uniqhba.ac.id",
+    "ip": "103.166.156.76"
+  },
+  {
+    "domain": "www.kesdam4.ac.id",
+    "ip": "103.30.144.66"
+  },
+  {
+    "domain": "lakip.poltekkesjakarta1.ac.id",
+    "ip": "119.235.252.67"
+  },
+  {
+    "domain": "www.pelatihan.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "webmail.bpm.umbulukumba.ac.id",
+    "ip": "45.13.255.241"
+  },
+  {
+    "domain": "webmail.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "si.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "www.stitmuhba.ac.id",
+    "ip": "68.183.190.77"
+  },
+  {
+    "domain": "www.elearning.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "www.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "cpcontacts.puansejati.poltekkesjakarta3.ac.id",
+    "ip": "45.130.231.218"
+  },
+  {
+    "domain": "api-siadev.up45.ac.id",
+    "ip": "103.40.121.78"
+  },
+  {
+    "domain": "cpcalendars.pascasarjana.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "www.spmb.poltekba.ac.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "www.poltekkesjakarta1.ac.id",
+    "ip": "104.21.7.170"
+  },
+  {
+    "domain": "autodiscover.puansejati.poltekkesjakarta3.ac.id",
+    "ip": "45.130.231.218"
+  },
+  {
+    "domain": "cpcalendars.stie-66.ac.id",
+    "ip": "109.106.253.213"
+  },
+  {
+    "domain": "cpanel.absen.stisipolp12.ac.id",
+    "ip": "217.21.73.111"
+  },
+  {
+    "domain": "pmb.staiba.ac.id",
+    "ip": "203.161.184.61"
+  },
+  {
+    "domain": "tg.poltekkesjkt2.ac.id",
+    "ip": "103.229.73.214"
+  },
+  {
+    "domain": "www.boga.poltekba.ac.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "cpanel.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "journal.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "kemahasiswaan.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "kemawa.up45.ac.id",
+    "ip": "188.114.97.3"
+  },
+  {
+    "domain": "lingkungan-96.tl.ITB.ac.id",
+    "ip": "167.205.70.96"
+  },
+  {
+    "domain": "minyak-248.tm.ITB.ac.id",
+    "ip": "167.205.12.248"
+  },
+  {
+    "domain": "www.elibrary.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "usm-s2.stiepertiba.ac.id",
+    "ip": "203.161.184.111"
+  },
+  {
+    "domain": "sarpras.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "admin.sil.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "repositori.perpustakaan-ibik57.ac.id",
+    "ip": "203.175.8.40"
+  },
+  {
+    "domain": "www.mahasiswa.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "webmail.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "cpcalendars.lms.stie-66.ac.id",
+    "ip": "45.130.231.222"
+  },
+  {
+    "domain": "webdisk.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "www.baker.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "lingkungan.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "www.siakad.staiba.ac.id",
+    "ip": "202.74.239.115"
+  },
+  {
+    "domain": "ppid.poltekba.ac.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "www.seminarkarir.cdc.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "www.sidang.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "sedekah.stiba.ac.id",
+    "ip": "13.212.5.178"
+  },
+  {
+    "domain": "cpcontacts.perpustakaan.poltekkesjakarta3.ac.id",
+    "ip": "153.92.10.60"
+  },
+  {
+    "domain": "cpcontacts.iba.ac.id",
+    "ip": "202.47.77.130"
+  },
+  {
+    "domain": "kuliah.tutup.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "baker.ibi-k57.ac.id",
+    "ip": "203.175.8.64"
+  },
+  {
+    "domain": "link.unperba.ac.id",
+    "ip": "156.67.212.227"
+  },
+  {
+    "domain": "kpm.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "hasanah.unisba.ac.id",
+    "ip": "103.78.195.73"
+  },
+  {
+    "domain": "pmbk.staba.ac.id",
+    "ip": "203.161.184.48"
+  },
+  {
+    "domain": "minyak-156.tm.ITB.ac.id",
+    "ip": "167.205.12.156"
+  },
+  {
+    "domain": "acara.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "siakad.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "www.fti.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "industri.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "www.tari.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "www.humas.akba.ac.id",
+    "ip": "49.128.186.44"
+  },
+  {
+    "domain": "ekonomi.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "webmail.akademik.stmikiba.ac.id",
+    "ip": "151.106.118.148"
+  },
+  {
+    "domain": "sister.stie-66.ac.id",
+    "ip": "139.99.67.42"
+  },
+  {
+    "domain": "www.admin.sil.akjp2.ac.id",
+    "ip": "119.235.251.168"
+  },
+  {
+    "domain": "akperkesdam4.ac.id",
+    "ip": "203.175.8.85"
+  },
+  {
+    "domain": "www.poltekkesjkt2.ac.id",
+    "ip": "103.229.73.214"
+  },
+  {
+    "domain": "old.poltekba.ac.id",
+    "ip": "103.80.240.228"
+  },
+  {
+    "domain": "finger.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "ict.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "www.upm.akimba.ac.id",
+    "ip": "103.247.11.239"
+  },
+  {
+    "domain": "minyak-189.tm.ITB.ac.id",
+    "ip": "167.205.12.189"
+  },
+  {
+    "domain": "yayasan.stie-66.ac.id",
+    "ip": "36.75.161.90"
+  },
+  {
+    "domain": "lingkungan-38.tl.ITB.ac.id",
+    "ip": "167.205.70.38"
+  },
+  {
+    "domain": "stit-hasiba.ac.id",
+    "ip": "103.247.11.121"
+  },
+  {
+    "domain": "www.akuntansi.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "poltekkeskesba.ac.id",
+    "ip": "193.168.194.205"
+  },
+  {
+    "domain": "fkip.unibba.ac.id",
+    "ip": "103.28.12.168"
+  },
+  {
+    "domain": "mesin.up45.ac.id",
+    "ip": "172.67.164.148"
+  },
+  {
+    "domain": "publikasi.unisba.ac.id",
+    "ip": "103.78.195.42"
+  },
+  {
+    "domain": "cpcontacts.sim-epk.poltekkesjakarta3.ac.id",
+    "ip": "156.67.211.28"
+  },
+  {
+    "domain": "bemkm.poltekba.ac.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "ejournal.staiduba.ac.id",
+    "ip": "217.21.73.41"
+  },
+  {
+    "domain": "minyak-238.tm.ITB.ac.id",
+    "ip": "167.205.12.238"
+  },
+  {
+    "domain": "spmb.poltekba.ac.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "ws.umbulukumba.ac.id",
+    "ip": "185.237.145.98"
+  },
+  {
+    "domain": "sires.unisba.ac.id",
+    "ip": "103.78.195.42"
+  },
+  {
+    "domain": "lpm.stitba.ac.id",
+    "ip": "203.161.184.66"
+  },
+  {
+    "domain": "lingkungan-4.tl.ITB.ac.id",
+    "ip": "167.205.70.4"
+  },
+  {
+    "domain": "hmtl.tl.ITB.ac.id",
+    "ip": "167.205.59.62"
+  },
+  {
+    "domain": "cpcalendars.sim-epk.poltekkesjakarta3.ac.id",
+    "ip": "156.67.211.28"
+  },
+  {
+    "domain": "webmail.perpustakaan.stie-66.ac.id",
+    "ip": "193.168.194.216"
+  },
+  {
+    "domain": "rekap.kuliah.tutup.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
+    "domain": "dspace.sttaa.ac.id",
+    "ip": "159.65.2.74"
+  },
+  {
+    "domain": "webdisk.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "keperawatan.poltekkesjakarta1.ac.id",
+    "ip": "104.21.7.170"
+  },
+  {
+    "domain": "cpanel.pascasarjana.stisipolp12.ac.id",
+    "ip": "45.130.231.8"
+  },
+  {
+    "domain": "cpanel.puansejati.poltekkesjakarta3.ac.id",
+    "ip": "45.130.231.218"
+  },
+  {
+    "domain": "www.ejournaltes.poltekkesjakarta3.ac.id",
+    "ip": "153.92.9.220"
+  },
+  {
+    "domain": "www.elearning.akper17.ac.id",
+    "ip": "103.30.147.33"
+  },
+  {
+    "domain": "lingkungan-109.tl.ITB.ac.id",
+    "ip": "167.205.70.109"
+  },
+  {
+    "domain": "cpcontacts.uvers2.ac.id",
+    "ip": "153.92.11.16"
+  },
+  {
+    "domain": "www.ujianonline.staba.ac.id",
+    "ip": "203.161.184.54"
+  },
+  {
+    "domain": "bkd.poltekkesjakarta3.ac.id",
+    "ip": "153.92.9.220"
+  },
+  {
+    "domain": "ejournaltes.poltekkesjakarta3.ac.id",
+    "ip": "153.92.9.220"
+  },
+  {
+    "domain": "kl.poltekkesjkt2.ac.id",
+    "ip": "103.229.73.214"
+  },
+  {
+    "domain": "minyak-216.tm.ITB.ac.id",
+    "ip": "167.205.12.216"
+  },
+  {
     "domain": "first.umy.ac.id",
     "ip": ""
   },
@@ -10246,2005 +12246,5 @@
   {
     "domain": "ugm.ac.id",
     "ip": ""
-  },
-  {
-    "domain": "www.fe.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "kuesioner.uppm.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "admissions.stiepertiba.ac.id",
-    "ip": "217.21.72.214"
-  },
-  {
-    "domain": "goaktif.poltekkesjakarta3.ac.id",
-    "ip": "109.106.253.125"
-  },
-  {
-    "domain": "www.repository.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "elearning.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "slims.uniba.ac.id",
-    "ip": "202.157.189.113"
-  },
-  {
-    "domain": "manajemen.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "www.surat.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "www.e-learning.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "journal.stiba.ac.id",
-    "ip": "103.55.38.155"
-  },
-  {
-    "domain": "appabsensi.poltekkesjkt2.ac.id",
-    "ip": "151.106.119.173"
-  },
-  {
-    "domain": "bc.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "kk.up45.ac.id",
-    "ip": "80.241.208.213"
-  },
-  {
-    "domain": "webmail.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "lingkungan-72.tl.ITB.ac.id",
-    "ip": "167.205.70.72"
-  },
-  {
-    "domain": "autodiscover.perpustakaan.poltekkesjakarta3.ac.id",
-    "ip": "153.92.10.60"
-  },
-  {
-    "domain": "www.siakeu.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "www.spada.umbulukumba.ac.id",
-    "ip": "156.67.219.171"
-  },
-  {
-    "domain": "webdisk.bpm.umbulukumba.ac.id",
-    "ip": "45.13.255.241"
-  },
-  {
-    "domain": "e-library.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "www.siakad.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "icesed.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "www.creat.stmikiba.ac.id",
-    "ip": "151.106.118.148"
-  },
-  {
-    "domain": "admin.admisi.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "autodiscover.pmb.umbulukumba.ac.id",
-    "ip": "45.13.255.241"
-  },
-  {
-    "domain": "viewers.lipmb.umbulukumba.ac.id",
-    "ip": "156.67.213.172"
-  },
-  {
-    "domain": "jurnal.akipba.ac.id",
-    "ip": "193.168.194.119"
-  },
-  {
-    "domain": "e-learning.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "webmail.pui-p2kaljkt2.ac.id",
-    "ip": "5.181.216.82"
-  },
-  {
-    "domain": "u01-pkl-merput.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "webmail.absen.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "cpanel.sim-epk.poltekkesjakarta3.ac.id",
-    "ip": "156.67.211.28"
-  },
-  {
-    "domain": "webmail.pascasarjana.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "minyak-193.tm.ITB.ac.id",
-    "ip": "167.205.12.193"
-  },
-  {
-    "domain": "www.kemahasiswaan.stmikiba.ac.id",
-    "ip": "151.106.118.148"
-  },
-  {
-    "domain": "lab.elektro.poltekba.ac.id",
-    "ip": "103.80.240.228"
-  },
-  {
-    "domain": "www.cart.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "webdisk.sim-epk.poltekkesjakarta3.ac.id",
-    "ip": "156.67.211.28"
-  },
-  {
-    "domain": "livebni.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "minyak.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "lingkungan-65.tl.ITB.ac.id",
-    "ip": "167.205.70.65"
-  },
-  {
-    "domain": "ojs3.up45.ac.id",
-    "ip": "104.21.89.199"
-  },
-  {
-    "domain": "www.bakah.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "cpanel.ejournal-ibik57.ac.id",
-    "ip": "103.247.9.132"
-  },
-  {
-    "domain": "amran.akba.ac.id",
-    "ip": "103.29.215.187"
-  },
-  {
-    "domain": "www.humas.poltekba.ac.id",
-    "ip": "103.229.73.99"
-  },
-  {
-    "domain": "lingkungan-67.tl.ITB.ac.id",
-    "ip": "167.205.70.67"
-  },
-  {
-    "domain": "musik.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "jepang.stbayapariaba.ac.id",
-    "ip": "49.50.10.86"
-  },
-  {
-    "domain": "elib.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "webdisk.pui-p2kaljkt2.ac.id",
-    "ip": "5.181.216.82"
-  },
-  {
-    "domain": "www.lib.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "www.an.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "www.ipm-bulukumba.lipmb.umbulukumba.ac.id",
-    "ip": "156.67.213.172"
-  },
-  {
-    "domain": "minyak-202.tm.ITB.ac.id",
-    "ip": "167.205.12.202"
-  },
-  {
-    "domain": "www.library.poltekkeskesba.ac.id",
-    "ip": "193.168.194.205"
-  },
-  {
-    "domain": "minyak-144.tm.ITB.ac.id",
-    "ip": "167.205.12.144"
-  },
-  {
-    "domain": "cpanel.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "ppm.stiba.ac.id",
-    "ip": "114.7.199.227"
-  },
-  {
-    "domain": "www.tracerstudy.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "dupak.tm.ITB.ac.id",
-    "ip": "167.205.12.253"
-  },
-  {
-    "domain": "minyak-195.tm.ITB.ac.id",
-    "ip": "167.205.12.195"
-  },
-  {
-    "domain": "www.jurnal.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "webdisk.akperkesdam4.ac.id",
-    "ip": "203.175.8.85"
-  },
-  {
-    "domain": "repository.sttaa.ac.id",
-    "ip": "159.65.2.74"
-  },
-  {
-    "domain": "cpcontacts.lms.stie-66.ac.id",
-    "ip": "103.55.39.107"
-  },
-  {
-    "domain": "www.journal.pertiba.ac.id",
-    "ip": "217.21.72.214"
-  },
-  {
-    "domain": "www.wisuda.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "sister.up45.ac.id",
-    "ip": "103.40.121.73"
-  },
-  {
-    "domain": "www.simtek-unisba.ac.id",
-    "ip": "202.138.248.85"
-  },
-  {
-    "domain": "lpm.staiduba.ac.id",
-    "ip": "103.28.53.92"
-  },
-  {
-    "domain": "autodiscover.absen.stisipolp12.ac.id",
-    "ip": "217.21.73.111"
-  },
-  {
-    "domain": "www.pmb.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "rent.poltekkesjakarta3.ac.id",
-    "ip": "45.112.126.116"
-  },
-  {
-    "domain": "stkipbms2.ac.id",
-    "ip": "203.175.9.87"
-  },
-  {
-    "domain": "www.inggris.stbayapariaba.ac.id",
-    "ip": "49.50.10.86"
-  },
-  {
-    "domain": "www.lppm.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "siadev.up45.ac.id",
-    "ip": "103.40.121.78"
-  },
-  {
-    "domain": "www.siak.unibba.ac.id",
-    "ip": "103.20.90.112"
-  },
-  {
-    "domain": "minyak-204.tm.ITB.ac.id",
-    "ip": "167.205.12.204"
-  },
-  {
-    "domain": "ipm-bulukumba.lipmb.umbulukumba.ac.id",
-    "ip": "156.67.213.172"
-  },
-  {
-    "domain": "webmail.jurnalsora.stba.ac.id",
-    "ip": "103.229.73.123"
-  },
-  {
-    "domain": "kurban.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "cpcontacts.goaktif.poltekkesjakarta3.ac.id",
-    "ip": "109.106.253.125"
-  },
-  {
-    "domain": "adminpmb.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "cpcalendars.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "jurnal.akperkesdam4.ac.id",
-    "ip": "203.175.8.85"
-  },
-  {
-    "domain": "akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "journal.stiepertiba.ac.id",
-    "ip": "217.21.72.214"
-  },
-  {
-    "domain": "dema.staiduba.ac.id",
-    "ip": "103.28.53.92"
-  },
-  {
-    "domain": "cpcalendars.pmb.umbulukumba.ac.id",
-    "ip": "45.13.255.241"
-  },
-  {
-    "domain": "webdisk.stainaa.ac.id",
-    "ip": "199.59.242.150"
-  },
-  {
-    "domain": "console.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "proceedings.staiduba.ac.id",
-    "ip": "217.21.73.41"
-  },
-  {
-    "domain": "stikba.ac.id",
-    "ip": "202.65.127.100"
-  },
-  {
-    "domain": "ojsstihpertiba.ac.id",
-    "ip": "153.92.9.206"
-  },
-  {
-    "domain": "ami.unisba.ac.id",
-    "ip": "103.78.195.73"
-  },
-  {
-    "domain": "akperrumkit3.ac.id",
-    "ip": "153.92.8.36"
-  },
-  {
-    "domain": "wisuda.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "cpanel.lisa.poltekkesjakarta3.ac.id",
-    "ip": "45.143.81.19"
-  },
-  {
-    "domain": "elearning.stitmuhba.ac.id",
-    "ip": "68.183.190.77"
-  },
-  {
-    "domain": "elearning.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "spada.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "webmail.perpustakaan.poltekkesjakarta3.ac.id",
-    "ip": "153.92.10.60"
-  },
-  {
-    "domain": "minyak-180.tm.ITB.ac.id",
-    "ip": "167.205.12.180"
-  },
-  {
-    "domain": "www.pmm.stmikiba.ac.id",
-    "ip": "151.106.118.148"
-  },
-  {
-    "domain": "ejournal.poltekkesjakarta1.ac.id",
-    "ip": "103.102.153.101"
-  },
-  {
-    "domain": "www.survey.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "admisi.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "www.eoffice.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "preprint.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "simlitabmas.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "backupmail.tl.ITB.ac.id",
-    "ip": "167.205.70.214"
-  },
-  {
-    "domain": "minyak-252.tm.ITB.ac.id",
-    "ip": "167.205.12.252"
-  },
-  {
-    "domain": "perpustakaan-ibik57.ac.id",
-    "ip": "203.175.8.40"
-  },
-  {
-    "domain": "cpanel.goaktif.poltekkesjakarta3.ac.id",
-    "ip": "109.106.253.125"
-  },
-  {
-    "domain": "pusdokinfo.perpustakaan-ibik57.ac.id",
-    "ip": "203.175.8.40"
-  },
-  {
-    "domain": "elibrary.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "webdisk.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "pmb.poltekkeskesba.ac.id",
-    "ip": "193.168.194.205"
-  },
-  {
-    "domain": "stainaa.ac.id",
-    "ip": "199.59.242.150"
-  },
-  {
-    "domain": "repo.unperba.ac.id",
-    "ip": "156.67.212.227"
-  },
-  {
-    "domain": "www.library.staba.ac.id",
-    "ip": "203.161.184.54"
-  },
-  {
-    "domain": "www.fisip.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "cpanel.staiduba.ac.id",
-    "ip": "103.28.53.92"
-  },
-  {
-    "domain": "siakad.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "finance.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "keperawatan-gigi.poltekkesjakarta1.ac.id",
-    "ip": "172.67.187.241"
-  },
-  {
-    "domain": "cpanel.pui-p2kaljkt2.ac.id",
-    "ip": "5.181.216.82"
-  },
-  {
-    "domain": "absen.stisipolp12.ac.id",
-    "ip": "89.116.229.231"
-  },
-  {
-    "domain": "prosiding.stikba.ac.id",
-    "ip": "156.67.211.129"
-  },
-  {
-    "domain": "lingkungan-18.tl.ITB.ac.id",
-    "ip": "167.205.70.18"
-  },
-  {
-    "domain": "pmbkip.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "sttaa.ac.id",
-    "ip": "178.128.54.17"
-  },
-  {
-    "domain": "www.lpm.staiduba.ac.id",
-    "ip": "103.28.53.92"
-  },
-  {
-    "domain": "www.pmb.akperkesdam4.ac.id",
-    "ip": "203.175.8.85"
-  },
-  {
-    "domain": "ejournal.stieba.ac.id",
-    "ip": "103.253.212.191"
-  },
-  {
-    "domain": "lib.umkaba.ac.id",
-    "ip": "217.21.72.135"
-  },
-  {
-    "domain": "gerbang.tl.ITB.ac.id",
-    "ip": "167.205.70.125"
-  },
-  {
-    "domain": "p3m.stiba.ac.id",
-    "ip": "114.7.199.227"
-  },
-  {
-    "domain": "perpustakaan.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "stbayapariaba.ac.id",
-    "ip": "103.229.73.193"
-  },
-  {
-    "domain": "bschool.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "cpcontacts.pui-p2kaljkt2.ac.id",
-    "ip": "5.181.216.82"
-  },
-  {
-    "domain": "iaialghurabaa.ac.id",
-    "ip": "103.145.226.120"
-  },
-  {
-    "domain": "www.beres.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "www.mahasiswa.stitba.ac.id",
-    "ip": "203.161.184.66"
-  },
-  {
-    "domain": "cpcontacts.spmb.stie-66.ac.id",
-    "ip": "103.55.39.107"
-  },
-  {
-    "domain": "pkkmb.stbayapariaba.ac.id",
-    "ip": "49.50.10.86"
-  },
-  {
-    "domain": "mailtracking.sp.ITB.ac.id",
-    "ip": "167.205.7.242"
-  },
-  {
-    "domain": "law.uniba.ac.id",
-    "ip": "202.157.189.113"
-  },
-  {
-    "domain": "webdisk.iba.ac.id",
-    "ip": "202.47.77.130"
-  },
-  {
-    "domain": "elearning.iteba.ac.id",
-    "ip": "18.132.253.62"
-  },
-  {
-    "domain": "siakad.sttaa.ac.id",
-    "ip": "209.97.175.86"
-  },
-  {
-    "domain": "www.web.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "alumni.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "simak.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "psikologi.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "cpcalendars.perpustakaan.poltekkesjakarta3.ac.id",
-    "ip": "153.92.10.60"
-  },
-  {
-    "domain": "cpcalendars.lisa.poltekkesjakarta3.ac.id",
-    "ip": "45.143.81.19"
-  },
-  {
-    "domain": "lingkungan-78.tl.ITB.ac.id",
-    "ip": "167.205.70.78"
-  },
-  {
-    "domain": "www.etd.perpustakaan-ibik57.ac.id",
-    "ip": "203.175.8.40"
-  },
-  {
-    "domain": "www.e-kuesioner.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "mx919.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "sipro.unisba.ac.id",
-    "ip": "103.78.195.73"
-  },
-  {
-    "domain": "testpmb.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "www.armin.poltekba.ac.id",
-    "ip": "103.229.73.99"
-  },
-  {
-    "domain": "www.beta.uniba.ac.id",
-    "ip": "202.157.189.113"
-  },
-  {
-    "domain": "sim.stie-66.ac.id",
-    "ip": "103.55.39.107"
-  },
-  {
-    "domain": "pmb.pku.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "www.bpm.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "bpm.umbulukumba.ac.id",
-    "ip": "45.13.255.241"
-  },
-  {
-    "domain": "www.digilib.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "www.elearning.stiepertiba.ac.id",
-    "ip": "203.161.184.111"
-  },
-  {
-    "domain": "desasimbang.akba.ac.id",
-    "ip": "49.128.186.44"
-  },
-  {
-    "domain": "www.livepkkmb.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "www.stba.stbayapariaba.ac.id",
-    "ip": "49.50.10.86"
-  },
-  {
-    "domain": "perancis.stbayapariaba.ac.id",
-    "ip": "49.50.10.86"
-  },
-  {
-    "domain": "pkpa.up45.ac.id",
-    "ip": "188.114.97.3"
-  },
-  {
-    "domain": "simpeg.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "autodiscover.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "www.sarpras.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "magister.tl.ITB.ac.id",
-    "ip": "167.205.57.144"
-  },
-  {
-    "domain": "www.sosialisasivisimisi.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "simak.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "www.krs.stit-hasiba.ac.id",
-    "ip": "103.247.11.121"
-  },
-  {
-    "domain": "www.ejurnal.stikba.ac.id",
-    "ip": "202.65.127.103"
-  },
-  {
-    "domain": "dosen.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "tari.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "ekti.akperkesdam4.ac.id",
-    "ip": "203.175.8.85"
-  },
-  {
-    "domain": "rek.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "www.jepang.stbayapariaba.ac.id",
-    "ip": "49.50.10.86"
-  },
-  {
-    "domain": "feeder.up45.ac.id",
-    "ip": "103.40.121.78"
-  },
-  {
-    "domain": "cpanel.perpustakaan.poltekkesjakarta3.ac.id",
-    "ip": "153.92.10.60"
-  },
-  {
-    "domain": "ejournal.up45.ac.id",
-    "ip": "80.241.208.213"
-  },
-  {
-    "domain": "www.feeder.unibba.ac.id",
-    "ip": "54.151.175.91"
-  },
-  {
-    "domain": "webdisk.staiduba.ac.id",
-    "ip": "103.28.53.92"
-  },
-  {
-    "domain": "cpanel.bpm.umbulukumba.ac.id",
-    "ip": "45.13.255.241"
-  },
-  {
-    "domain": "kemahasiswaan.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "www.faperta.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "alumni.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "cdc.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "www.slims.uniba.ac.id",
-    "ip": "202.157.189.113"
-  },
-  {
-    "domain": "uncon.akipba.ac.id",
-    "ip": "193.168.194.119"
-  },
-  {
-    "domain": "yapariaba.stbayapariaba.ac.id",
-    "ip": "49.50.10.86"
-  },
-  {
-    "domain": "old.unperba.ac.id",
-    "ip": "172.67.174.134"
-  },
-  {
-    "domain": "media.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "poltekkesjkt2.ac.id",
-    "ip": "103.229.73.214"
-  },
-  {
-    "domain": "info.donasi.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "app.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "cpcontacts.perpustakaan.stie-66.ac.id",
-    "ip": "193.168.194.216"
-  },
-  {
-    "domain": "cdc.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "test.stisipolp12.ac.id",
-    "ip": "217.21.73.111"
-  },
-  {
-    "domain": "www.testpmb.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "stikestujuhbelas.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "cpanel.akperkesdam4.ac.id",
-    "ip": "203.175.8.85"
-  },
-  {
-    "domain": "www.kemahasiswaan.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "sister.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "www.library.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "mail.iba.ac.id",
-    "ip": "202.47.77.130"
-  },
-  {
-    "domain": "www.e-learning.stmikiba.ac.id",
-    "ip": "151.106.118.148"
-  },
-  {
-    "domain": "cpcontacts.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "pmb.umbulukumba.ac.id",
-    "ip": "45.13.255.241"
-  },
-  {
-    "domain": "journal.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "ejurnal.poltekkesjakarta3.ac.id",
-    "ip": "153.92.9.220"
-  },
-  {
-    "domain": "www.si.fti.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "stitmuhba.ac.id",
-    "ip": "68.183.190.77"
-  },
-  {
-    "domain": "wa.multiple.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "lib.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "lms.stie-66.ac.id",
-    "ip": "103.55.39.107"
-  },
-  {
-    "domain": "www.portal.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "www.lingkungan.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "informatika.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "www.pmb.stmikiba.ac.id",
-    "ip": "151.106.118.148"
-  },
-  {
-    "domain": "lingkungan-102.tl.ITB.ac.id",
-    "ip": "167.205.70.102"
-  },
-  {
-    "domain": "www.pmbonline.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "mx244.perpustakaan-ibik57.ac.id",
-    "ip": "203.175.8.40"
-  },
-  {
-    "domain": "www.law.uniba.ac.id",
-    "ip": "202.157.189.113"
-  },
-  {
-    "domain": "minyak-234.tm.ITB.ac.id",
-    "ip": "167.205.12.234"
-  },
-  {
-    "domain": "minyak-209.tm.ITB.ac.id",
-    "ip": "167.205.12.209"
-  },
-  {
-    "domain": "minyak-174.tm.ITB.ac.id",
-    "ip": "167.205.12.174"
-  },
-  {
-    "domain": "www.admin.e-library.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "sim.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "farmasi.poltekkesjkt2.ac.id",
-    "ip": "103.229.73.214"
-  },
-  {
-    "domain": "www.portal.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "minyak-172.tm.ITB.ac.id",
-    "ip": "167.205.12.172"
-  },
-  {
-    "domain": "tbk.stitba.ac.id",
-    "ip": "203.161.184.66"
-  },
-  {
-    "domain": "www.ejournal.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "bacondeng.akba.ac.id",
-    "ip": "103.29.215.187"
-  },
-  {
-    "domain": "cpcalendars.iba.ac.id",
-    "ip": "202.47.77.130"
-  },
-  {
-    "domain": "www.industri.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "www.sikabasa.stieba.ac.id",
-    "ip": "103.147.154.158"
-  },
-  {
-    "domain": "www.amran.akba.ac.id",
-    "ip": "49.128.186.44"
-  },
-  {
-    "domain": "stitba.ac.id",
-    "ip": "203.161.184.66"
-  },
-  {
-    "domain": "www.sttiaapress.sttiaa.ac.id",
-    "ip": "139.162.16.216"
-  },
-  {
-    "domain": "www.careercenter.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "2012.poltekkesjakarta1.ac.id",
-    "ip": "104.21.7.170"
-  },
-  {
-    "domain": "mahadalyannur2.ac.id",
-    "ip": "45.13.255.55"
-  },
-  {
-    "domain": "autodiscover.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "webdisk.alumni.kesdam4.ac.id",
-    "ip": "103.30.144.66"
-  },
-  {
-    "domain": "cpcalendars.ejournal-ibik57.ac.id",
-    "ip": "103.247.9.132"
-  },
-  {
-    "domain": "www.pmb.poltekkeskesba.ac.id",
-    "ip": "193.168.194.205"
-  },
-  {
-    "domain": "lppm.dashboard.up45.ac.id",
-    "ip": "194.233.70.180"
-  },
-  {
-    "domain": "dept.poltekba.ac.id",
-    "ip": "103.229.73.99"
-  },
-  {
-    "domain": "lingkungan-94.tl.ITB.ac.id",
-    "ip": "167.205.70.94"
-  },
-  {
-    "domain": "minyak-239.tm.ITB.ac.id",
-    "ip": "167.205.12.239"
-  },
-  {
-    "domain": "evi.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "www.bacondeng.akba.ac.id",
-    "ip": "49.128.186.44"
-  },
-  {
-    "domain": "pmb.akperkesdam4.ac.id",
-    "ip": "203.175.8.85"
-  },
-  {
-    "domain": "minyak-177.tm.ITB.ac.id",
-    "ip": "167.205.12.177"
-  },
-  {
-    "domain": "www.sister.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "www.cdc.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "www.opac.perpustakaan-ibik57.ac.id",
-    "ip": "203.175.8.40"
-  },
-  {
-    "domain": "cpcalendars.absen.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "www.pbsi.fkip.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "verifikasi-alumni.poltekkesjakarta1.ac.id",
-    "ip": "188.114.96.3"
-  },
-  {
-    "domain": "cpcalendars.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "www.kuesioner.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "webdisk.stie-66.ac.id",
-    "ip": "109.106.253.213"
-  },
-  {
-    "domain": "cpanel.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "mail.poltekkesjakarta3.ac.id",
-    "ip": "153.92.9.220"
-  },
-  {
-    "domain": "jurnal.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "www.simlitabmas.uniba.ac.id",
-    "ip": "202.157.189.113"
-  },
-  {
-    "domain": "perpustakaan.stbayapariaba.ac.id",
-    "ip": "49.50.10.86"
-  },
-  {
-    "domain": "an.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "journal.uniba.ac.id",
-    "ip": "202.157.189.113"
-  },
-  {
-    "domain": "admin.simsakan.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "www.umpanbalik.staba.ac.id",
-    "ip": "203.161.184.54"
-  },
-  {
-    "domain": "techno.up45.ac.id",
-    "ip": "194.233.91.207"
-  },
-  {
-    "domain": "www.perpustakaan.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "www.euis.poltekkesjakarta3.ac.id",
-    "ip": "153.92.9.220"
-  },
-  {
-    "domain": "upm.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "cpcontacts.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "www.alumni.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "cpcalendars.jurnalsora.stba.ac.id",
-    "ip": "103.229.73.123"
-  },
-  {
-    "domain": "tem.poltekkesjkt2.ac.id",
-    "ip": "103.229.73.214"
-  },
-  {
-    "domain": "lingkungan-69.tl.ITB.ac.id",
-    "ip": "167.205.70.69"
-  },
-  {
-    "domain": "www.bkd.poltekkesjakarta3.ac.id",
-    "ip": "153.92.9.220"
-  },
-  {
-    "domain": "student.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "lppm.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "pbm.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "sia.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "simtar.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "webmail.akperkesdam4.ac.id",
-    "ip": "203.175.8.85"
-  },
-  {
-    "domain": "lpjm.stba.ac.id",
-    "ip": "49.50.10.86"
-  },
-  {
-    "domain": "www.elearning.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "teknik.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "hukum.dashboard.up45.ac.id",
-    "ip": "194.233.70.180"
-  },
-  {
-    "domain": "www.fasilkom.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "www.pmbkip.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "www.pkkmb.stbayapariaba.ac.id",
-    "ip": "49.50.10.86"
-  },
-  {
-    "domain": "lingkungan-82.tl.ITB.ac.id",
-    "ip": "167.205.70.82"
-  },
-  {
-    "domain": "www.coba.akipba.ac.id",
-    "ip": "193.168.194.119"
-  },
-  {
-    "domain": "www.sertifikat.stiepertiba.ac.id",
-    "ip": "203.161.184.111"
-  },
-  {
-    "domain": "gz.poltekkesjkt2.ac.id",
-    "ip": "103.229.73.214"
-  },
-  {
-    "domain": "www.siakad.stikba.ac.id",
-    "ip": "202.65.127.102"
-  },
-  {
-    "domain": "www.manajemen.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "www.simak.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "scd.dashboard.up45.ac.id",
-    "ip": "194.233.70.180"
-  },
-  {
-    "domain": "lecturer.laaroiba.ac.id",
-    "ip": "165.22.52.62"
-  },
-  {
-    "domain": "pmb.poltekkesjkt2.ac.id",
-    "ip": "151.106.119.173"
-  },
-  {
-    "domain": "www.fkes.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "pmb.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "www.mail.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "hosting-hwc1.inaba.ac.id",
-    "ip": "119.8.173.92"
-  },
-  {
-    "domain": "lppm.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "sisca.laaroiba.ac.id",
-    "ip": "165.22.52.62"
-  },
-  {
-    "domain": "www.dosen.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "siakad.akba.ac.id",
-    "ip": "157.119.222.178"
-  },
-  {
-    "domain": "www.ejournal.staiduba.ac.id",
-    "ip": "217.21.73.41"
-  },
-  {
-    "domain": "daarelqolam3.ac.id",
-    "ip": "104.21.57.34"
-  },
-  {
-    "domain": "jurnal.stmikiba.ac.id",
-    "ip": "151.106.118.148"
-  },
-  {
-    "domain": "www.sinerba.unperba.ac.id",
-    "ip": "45.32.124.251"
-  },
-  {
-    "domain": "akba.ac.id",
-    "ip": "49.128.186.44"
-  },
-  {
-    "domain": "tes.unperba.ac.id",
-    "ip": "104.21.80.56"
-  },
-  {
-    "domain": "webdisk.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "jurnal.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "library.stiba.ac.id",
-    "ip": "114.7.199.233"
-  },
-  {
-    "domain": "sia.poltekkesjkt2.ac.id",
-    "ip": "182.253.24.5"
-  },
-  {
-    "domain": "webdisk.perpustakaan.stie-66.ac.id",
-    "ip": "193.168.194.216"
-  },
-  {
-    "domain": "psi.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "www.career.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "ebook.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "www.va.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "simaba.unperba.ac.id",
-    "ip": "104.21.80.56"
-  },
-  {
-    "domain": "network.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "perpustakaan.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "jerman.stbayapariaba.ac.id",
-    "ip": "49.50.10.86"
-  },
-  {
-    "domain": "autodiscover.goaktif.poltekkesjakarta3.ac.id",
-    "ip": "109.106.253.125"
-  },
-  {
-    "domain": "poltekkesjakarta3.ac.id",
-    "ip": "153.92.9.220"
-  },
-  {
-    "domain": "webmail.iba.ac.id",
-    "ip": "202.47.77.130"
-  },
-  {
-    "domain": "www.elearning.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "minyak-242.tm.ITB.ac.id",
-    "ip": "167.205.12.242"
-  },
-  {
-    "domain": "administrasi-negara.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "lingkungan-123.tl.ITB.ac.id",
-    "ip": "167.205.70.123"
-  },
-  {
-    "domain": "www.totok.poltekba.ac.id",
-    "ip": "103.229.73.99"
-  },
-  {
-    "domain": "webdisk.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "cpcalendars.puansejati.poltekkesjakarta3.ac.id",
-    "ip": "45.130.231.218"
-  },
-  {
-    "domain": "spmb.staiduba.ac.id",
-    "ip": "103.28.53.92"
-  },
-  {
-    "domain": "baak.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "www.dosen.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "www.repositori.perpustakaan-ibik57.ac.id",
-    "ip": "203.175.8.40"
-  },
-  {
-    "domain": "repository.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "perpustakaan.akba.ac.id",
-    "ip": "157.119.222.179"
-  },
-  {
-    "domain": "www.baukk.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "learning.poltekkesjkt2.ac.id",
-    "ip": "182.253.24.3"
-  },
-  {
-    "domain": "www.spada.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "lp2m.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "lingkungan-85.tl.ITB.ac.id",
-    "ip": "167.205.70.85"
-  },
-  {
-    "domain": "fti.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "www.ppid.poltekba.ac.id",
-    "ip": "103.229.73.99"
-  },
-  {
-    "domain": "dashboard.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "icpege.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "www.elearning.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "dev-rps.unisba.ac.id",
-    "ip": "103.78.195.75"
-  },
-  {
-    "domain": "wa.donasi.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "www.siakad.stmikiba.ac.id",
-    "ip": "151.106.118.148"
-  },
-  {
-    "domain": "tracer-study.poltekkesjakarta1.ac.id",
-    "ip": "172.67.187.241"
-  },
-  {
-    "domain": "minyak-241.tm.ITB.ac.id",
-    "ip": "167.205.12.241"
-  },
-  {
-    "domain": "opac.up45.ac.id",
-    "ip": "188.114.97.3"
-  },
-  {
-    "domain": "admin.musker.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "pui-p2kaljkt2.ac.id",
-    "ip": "5.181.216.82"
-  },
-  {
-    "domain": "sibuma.akperkesdam4.ac.id",
-    "ip": "203.175.8.85"
-  },
-  {
-    "domain": "lingkungan-22.tl.ITB.ac.id",
-    "ip": "167.205.70.22"
-  },
-  {
-    "domain": "webdisk.pmb.umbulukumba.ac.id",
-    "ip": "45.13.255.241"
-  },
-  {
-    "domain": "tpl.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "mail.kesdam4.ac.id",
-    "ip": "103.30.144.66"
-  },
-  {
-    "domain": "stitsimeulueaceh1.ac.id",
-    "ip": "45.143.81.166"
-  },
-  {
-    "domain": "minyak-220.tm.ITB.ac.id",
-    "ip": "167.205.12.220"
-  },
-  {
-    "domain": "www.simpt.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "donasi.seribu.bulan.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "www.lpjm.stbayapariaba.ac.id",
-    "ip": "103.229.73.193"
-  },
-  {
-    "domain": "legalisir-ijasah.poltekkesjakarta1.ac.id",
-    "ip": "104.21.7.170"
-  },
-  {
-    "domain": "uniqhba.ac.id",
-    "ip": "103.166.156.76"
-  },
-  {
-    "domain": "www.kesdam4.ac.id",
-    "ip": "103.30.144.66"
-  },
-  {
-    "domain": "lakip.poltekkesjakarta1.ac.id",
-    "ip": "119.235.252.67"
-  },
-  {
-    "domain": "www.pelatihan.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "webmail.bpm.umbulukumba.ac.id",
-    "ip": "45.13.255.241"
-  },
-  {
-    "domain": "webmail.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "si.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "www.stitmuhba.ac.id",
-    "ip": "68.183.190.77"
-  },
-  {
-    "domain": "www.elearning.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "www.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "cpcontacts.puansejati.poltekkesjakarta3.ac.id",
-    "ip": "45.130.231.218"
-  },
-  {
-    "domain": "api-siadev.up45.ac.id",
-    "ip": "103.40.121.78"
-  },
-  {
-    "domain": "cpcalendars.pascasarjana.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "www.spmb.poltekba.ac.id",
-    "ip": "103.229.73.99"
-  },
-  {
-    "domain": "www.poltekkesjakarta1.ac.id",
-    "ip": "104.21.7.170"
-  },
-  {
-    "domain": "autodiscover.puansejati.poltekkesjakarta3.ac.id",
-    "ip": "45.130.231.218"
-  },
-  {
-    "domain": "cpcalendars.stie-66.ac.id",
-    "ip": "109.106.253.213"
-  },
-  {
-    "domain": "cpanel.absen.stisipolp12.ac.id",
-    "ip": "217.21.73.111"
-  },
-  {
-    "domain": "pmb.staiba.ac.id",
-    "ip": "203.161.184.61"
-  },
-  {
-    "domain": "tg.poltekkesjkt2.ac.id",
-    "ip": "103.229.73.214"
-  },
-  {
-    "domain": "www.boga.poltekba.ac.id",
-    "ip": "103.229.73.99"
-  },
-  {
-    "domain": "cpanel.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "journal.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "kemahasiswaan.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "kemawa.up45.ac.id",
-    "ip": "188.114.97.3"
-  },
-  {
-    "domain": "lingkungan-96.tl.ITB.ac.id",
-    "ip": "167.205.70.96"
-  },
-  {
-    "domain": "minyak-248.tm.ITB.ac.id",
-    "ip": "167.205.12.248"
-  },
-  {
-    "domain": "www.elibrary.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "usm-s2.stiepertiba.ac.id",
-    "ip": "203.161.184.111"
-  },
-  {
-    "domain": "sarpras.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "admin.sil.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "repositori.perpustakaan-ibik57.ac.id",
-    "ip": "203.175.8.40"
-  },
-  {
-    "domain": "www.mahasiswa.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "webmail.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "cpcalendars.lms.stie-66.ac.id",
-    "ip": "45.130.231.222"
-  },
-  {
-    "domain": "webdisk.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "www.baker.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "lingkungan.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "www.siakad.staiba.ac.id",
-    "ip": "202.74.239.115"
-  },
-  {
-    "domain": "ppid.poltekba.ac.id",
-    "ip": "103.229.73.99"
-  },
-  {
-    "domain": "www.seminarkarir.cdc.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "www.sidang.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "sedekah.stiba.ac.id",
-    "ip": "13.212.5.178"
-  },
-  {
-    "domain": "cpcontacts.perpustakaan.poltekkesjakarta3.ac.id",
-    "ip": "153.92.10.60"
-  },
-  {
-    "domain": "cpcontacts.iba.ac.id",
-    "ip": "202.47.77.130"
-  },
-  {
-    "domain": "kuliah.tutup.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "baker.ibi-k57.ac.id",
-    "ip": "203.175.8.64"
-  },
-  {
-    "domain": "link.unperba.ac.id",
-    "ip": "156.67.212.227"
-  },
-  {
-    "domain": "kpm.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "hasanah.unisba.ac.id",
-    "ip": "103.78.195.73"
-  },
-  {
-    "domain": "pmbk.staba.ac.id",
-    "ip": "203.161.184.48"
-  },
-  {
-    "domain": "minyak-156.tm.ITB.ac.id",
-    "ip": "167.205.12.156"
-  },
-  {
-    "domain": "acara.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "siakad.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "www.fti.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "industri.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "www.tari.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "www.humas.akba.ac.id",
-    "ip": "49.128.186.44"
-  },
-  {
-    "domain": "ekonomi.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "webmail.akademik.stmikiba.ac.id",
-    "ip": "151.106.118.148"
-  },
-  {
-    "domain": "sister.stie-66.ac.id",
-    "ip": "139.99.67.42"
-  },
-  {
-    "domain": "www.admin.sil.akjp2.ac.id",
-    "ip": "119.235.251.168"
-  },
-  {
-    "domain": "akperkesdam4.ac.id",
-    "ip": "203.175.8.85"
-  },
-  {
-    "domain": "www.poltekkesjkt2.ac.id",
-    "ip": "103.229.73.214"
-  },
-  {
-    "domain": "old.poltekba.ac.id",
-    "ip": "103.80.240.228"
-  },
-  {
-    "domain": "finger.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "ict.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "www.upm.akimba.ac.id",
-    "ip": "103.247.11.239"
-  },
-  {
-    "domain": "minyak-189.tm.ITB.ac.id",
-    "ip": "167.205.12.189"
-  },
-  {
-    "domain": "yayasan.stie-66.ac.id",
-    "ip": "36.75.161.90"
-  },
-  {
-    "domain": "lingkungan-38.tl.ITB.ac.id",
-    "ip": "167.205.70.38"
-  },
-  {
-    "domain": "stit-hasiba.ac.id",
-    "ip": "103.247.11.121"
-  },
-  {
-    "domain": "www.akuntansi.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "poltekkeskesba.ac.id",
-    "ip": "193.168.194.205"
-  },
-  {
-    "domain": "fkip.unibba.ac.id",
-    "ip": "103.28.12.168"
-  },
-  {
-    "domain": "mesin.up45.ac.id",
-    "ip": "172.67.164.148"
-  },
-  {
-    "domain": "publikasi.unisba.ac.id",
-    "ip": "103.78.195.42"
-  },
-  {
-    "domain": "cpcontacts.sim-epk.poltekkesjakarta3.ac.id",
-    "ip": "156.67.211.28"
-  },
-  {
-    "domain": "bemkm.poltekba.ac.id",
-    "ip": "103.229.73.99"
-  },
-  {
-    "domain": "ejournal.staiduba.ac.id",
-    "ip": "217.21.73.41"
-  },
-  {
-    "domain": "minyak-238.tm.ITB.ac.id",
-    "ip": "167.205.12.238"
-  },
-  {
-    "domain": "spmb.poltekba.ac.id",
-    "ip": "103.229.73.99"
-  },
-  {
-    "domain": "ws.umbulukumba.ac.id",
-    "ip": "185.237.145.98"
-  },
-  {
-    "domain": "sires.unisba.ac.id",
-    "ip": "103.78.195.42"
-  },
-  {
-    "domain": "lpm.stitba.ac.id",
-    "ip": "203.161.184.66"
-  },
-  {
-    "domain": "lingkungan-4.tl.ITB.ac.id",
-    "ip": "167.205.70.4"
-  },
-  {
-    "domain": "hmtl.tl.ITB.ac.id",
-    "ip": "167.205.59.62"
-  },
-  {
-    "domain": "cpcalendars.sim-epk.poltekkesjakarta3.ac.id",
-    "ip": "156.67.211.28"
-  },
-  {
-    "domain": "webmail.perpustakaan.stie-66.ac.id",
-    "ip": "193.168.194.216"
-  },
-  {
-    "domain": "rekap.kuliah.tutup.stiba.ac.id",
-    "ip": "103.55.38.187"
-  },
-  {
-    "domain": "dspace.sttaa.ac.id",
-    "ip": "159.65.2.74"
-  },
-  {
-    "domain": "webdisk.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "keperawatan.poltekkesjakarta1.ac.id",
-    "ip": "104.21.7.170"
-  },
-  {
-    "domain": "cpanel.pascasarjana.stisipolp12.ac.id",
-    "ip": "45.130.231.8"
-  },
-  {
-    "domain": "cpanel.puansejati.poltekkesjakarta3.ac.id",
-    "ip": "45.130.231.218"
-  },
-  {
-    "domain": "www.ejournaltes.poltekkesjakarta3.ac.id",
-    "ip": "153.92.9.220"
-  },
-  {
-    "domain": "www.elearning.akper17.ac.id",
-    "ip": "103.30.147.33"
-  },
-  {
-    "domain": "lingkungan-109.tl.ITB.ac.id",
-    "ip": "167.205.70.109"
-  },
-  {
-    "domain": "cpcontacts.uvers2.ac.id",
-    "ip": "153.92.11.16"
-  },
-  {
-    "domain": "www.ujianonline.staba.ac.id",
-    "ip": "203.161.184.54"
-  },
-  {
-    "domain": "bkd.poltekkesjakarta3.ac.id",
-    "ip": "153.92.9.220"
-  },
-  {
-    "domain": "ejournaltes.poltekkesjakarta3.ac.id",
-    "ip": "153.92.9.220"
-  },
-  {
-    "domain": "kl.poltekkesjkt2.ac.id",
-    "ip": "103.229.73.214"
-  },
-  {
-    "domain": "minyak-216.tm.ITB.ac.id",
-    "ip": "167.205.12.216"
   }
 ]
