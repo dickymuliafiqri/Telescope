@@ -1,5 +1,9 @@
 [
   {
+    "domain": "attributeservice.quote.microsoft.com",
+    "ip": "quoteattributesservice.trafficmanager.net"
+  },
+  {
     "domain": "beta.df.securitycenter.microsoft.com",
     "ip": "2620:1ec:4f:1::69"
   },

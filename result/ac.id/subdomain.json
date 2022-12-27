@@ -1,19 +1,19 @@
 [
   {
-    "domain": "sim-epk.poltekkesjkt2.ac.id",
-    "ip": "182.253.24.3"
+    "domain": "lpm.staiduba.ac.id",
+    "ip": "103.28.53.92"
   },
   {
-    "domain": "sibima.unisba.ac.id",
-    "ip": "103.78.195.73"
+    "domain": "proceedings.staiduba.ac.id",
+    "ip": "217.21.73.41"
   },
   {
-    "domain": "www.ekinerja.poltekkesjkt2.ac.id",
-    "ip": "151.106.119.173"
+    "domain": "www.lpm.staiduba.ac.id",
+    "ip": "103.28.53.92"
   },
   {
-    "domain": "ekinerja.poltekkesjkt2.ac.id",
-    "ip": "151.106.119.173"
+    "domain": "api-siadev.up45.ac.id",
+    "ip": "103.40.121.78"
   },
   {
     "domain": "www.fe.unibba.ac.id",
@@ -304,10 +304,6 @@
     "ip": "202.138.248.85"
   },
   {
-    "domain": "lpm.staiduba.ac.id",
-    "ip": "103.28.53.92"
-  },
-  {
     "domain": "autodiscover.absen.stisipolp12.ac.id",
     "ip": "217.21.73.111"
   },
@@ -394,10 +390,6 @@
   {
     "domain": "console.stiba.ac.id",
     "ip": "103.55.38.187"
-  },
-  {
-    "domain": "proceedings.staiduba.ac.id",
-    "ip": "217.21.73.41"
   },
   {
     "domain": "stikba.ac.id",
@@ -558,10 +550,6 @@
   {
     "domain": "sttaa.ac.id",
     "ip": "178.128.54.17"
-  },
-  {
-    "domain": "www.lpm.staiduba.ac.id",
-    "ip": "103.28.53.92"
   },
   {
     "domain": "www.pmb.akperkesdam4.ac.id",
@@ -820,6 +808,10 @@
     "ip": "45.130.231.8"
   },
   {
+    "domain": "webdisk.perpustakaan.stie-66.ac.id",
+    "ip": "193.168.194.216"
+  },
+  {
     "domain": "www.faperta.unibba.ac.id",
     "ip": "103.28.12.168"
   },
@@ -874,6 +866,10 @@
   {
     "domain": "test.stisipolp12.ac.id",
     "ip": "217.21.73.111"
+  },
+  {
+    "domain": "sibima.unisba.ac.id",
+    "ip": "103.78.195.73"
   },
   {
     "domain": "www.testpmb.staba.ac.id",
@@ -1380,8 +1376,8 @@
     "ip": "182.253.24.5"
   },
   {
-    "domain": "webdisk.perpustakaan.stie-66.ac.id",
-    "ip": "193.168.194.216"
+    "domain": "sim-epk.poltekkesjkt2.ac.id",
+    "ip": "182.253.24.3"
   },
   {
     "domain": "psi.unibba.ac.id",
@@ -1572,6 +1568,10 @@
     "ip": "103.30.144.66"
   },
   {
+    "domain": "www.ekinerja.poltekkesjkt2.ac.id",
+    "ip": "151.106.119.173"
+  },
+  {
     "domain": "stitsimeulueaceh1.ac.id",
     "ip": "45.143.81.166"
   },
@@ -1644,8 +1644,8 @@
     "ip": "45.130.231.218"
   },
   {
-    "domain": "api-siadev.up45.ac.id",
-    "ip": "103.40.121.78"
+    "domain": "ekinerja.poltekkesjkt2.ac.id",
+    "ip": "151.106.119.173"
   },
   {
     "domain": "cpcalendars.pascasarjana.stisipolp12.ac.id",
