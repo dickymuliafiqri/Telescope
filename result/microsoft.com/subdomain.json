@@ -1,5 +1,9 @@
 [
   {
+    "domain": "v2.s3connect.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "dev5.pq-df.microsoft.com",
     "ip": "20.4.197.34"
   },

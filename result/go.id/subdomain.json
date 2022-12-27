@@ -5728,6 +5728,42 @@
     "ip": ""
   },
   {
+    "domain": "webmail.pkk.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.pkk.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.balunijuk.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcalendars.potensi-kimak.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcontacts.potensi-kimak.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcontacts.pkk.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.potensi-kimak.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sipp.pn-salatiga.go.id",
+    "ip": "148.163.81.2"
+  },
+  {
+    "domain": "dinparpora.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
     "domain": "www.neknang.bangka.go.id.desa.bangka.go.id",
     "ip": "103.205.56.195"
   },
@@ -5782,10 +5818,6 @@
   {
     "domain": "www.backup.pn-samarinda.go.id",
     "ip": "49.128.184.77"
-  },
-  {
-    "domain": "webmail.pkk.bangka.go.id",
-    "ip": "103.205.56.195"
   },
   {
     "domain": "cpanel.sehati.bangka.go.id",
@@ -5862,6 +5894,10 @@
   {
     "domain": "ledok.salatiga.go.id",
     "ip": "103.230.100.17"
+  },
+  {
+    "domain": "sibadan.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
   },
   {
     "domain": "peta.salatiga.go.id",
@@ -5996,6 +6032,10 @@
     "ip": "103.60.181.238"
   },
   {
+    "domain": "www.tiangtarah.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
     "domain": "cpcontacts.pa-namlea.go.id",
     "ip": "202.73.26.154"
   },
@@ -6046,6 +6086,10 @@
   {
     "domain": "www.lpse.rs-erba.go.id",
     "ip": "103.251.44.173"
+  },
+  {
+    "domain": "www.airruai.desa.bangka.go.id",
+    "ip": "103.205.56.195"
   },
   {
     "domain": "webmail.pn-bulukumba.go.id",
@@ -6122,10 +6166,6 @@
   {
     "domain": "webmail.pt-samarinda.go.id",
     "ip": "206.72.200.10"
-  },
-  {
-    "domain": "cpanel.pkk.bangka.go.id",
-    "ip": "103.205.56.195"
   },
   {
     "domain": "webmail.e-smile.tubaba.go.id",
@@ -6264,10 +6304,6 @@
     "ip": "103.205.56.195"
   },
   {
-    "domain": "webdisk.balunijuk.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
     "domain": "webdisk.kencana.bangka.go.id",
     "ip": "103.205.56.195"
   },
@@ -6344,6 +6380,10 @@
     "ip": "103.229.73.118"
   },
   {
+    "domain": "cpcalendars.airruai.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
     "domain": "sidora.bangka.go.id",
     "ip": "103.205.56.195"
   },
@@ -6388,7 +6428,7 @@
     "ip": "103.230.100.146"
   },
   {
-    "domain": "cpcalendars.potensi-kimak.bangka.go.id",
+    "domain": "tiangtarah.bangka.go.id",
     "ip": "103.205.56.195"
   },
   {
@@ -6844,10 +6884,6 @@
     "ip": "103.229.73.118"
   },
   {
-    "domain": "cpcontacts.potensi-kimak.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
     "domain": "www.e-permohonan.pn-sibolga.go.id",
     "ip": "103.16.198.165"
   },
@@ -6966,6 +7002,10 @@
   {
     "domain": "www.erpa.pt-samarinda.go.id",
     "ip": "206.72.200.10"
+  },
+  {
+    "domain": "cpcalendars.tiangtarah.bangka.go.id",
+    "ip": "103.205.56.195"
   },
   {
     "domain": "sipolnakes.salatiga.go.id",
@@ -7190,6 +7230,14 @@
   {
     "domain": "sipp.pa-masamba.go.id",
     "ip": "103.16.198.133"
+  },
+  {
+    "domain": "webdisk.sehati.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.tiangtarah.bangka.go.id",
+    "ip": "103.205.56.195"
   },
   {
     "domain": "www.portal.pa-unaaha.go.id",
@@ -7436,10 +7484,6 @@
     "ip": "103.205.56.195"
   },
   {
-    "domain": "cpcontacts.pkk.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
     "domain": "andre.tubaba.go.id",
     "ip": "103.18.117.164"
   },
@@ -7624,6 +7668,10 @@
     "ip": "202.52.146.156"
   },
   {
+    "domain": "cpcontacts.tiangtarah.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
     "domain": "demo.pta-samarinda.go.id",
     "ip": "202.52.146.67"
   },
@@ -7662,10 +7710,6 @@
   {
     "domain": "pn-namlea.go.id",
     "ip": "103.29.215.198"
-  },
-  {
-    "domain": "cpanel.potensi-kimak.bangka.go.id",
-    "ip": "103.205.56.195"
   },
   {
     "domain": "webmail.rs-erba.go.id",
@@ -7718,13 +7762,5 @@
   {
     "domain": "www.sisgra.pn-baturaja.go.id",
     "ip": "103.163.138.13"
-  },
-  {
-    "domain": "sipp.pn-salatiga.go.id",
-    "ip": "148.163.81.2"
-  },
-  {
-    "domain": "dinparpora.bangka.go.id",
-    "ip": "103.205.56.195"
   }
 ]

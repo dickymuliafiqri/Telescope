@@ -4715,6 +4715,254 @@
     "ip": "104.154.126.13"
   },
   {
+    "domain": "info.backstage.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.todaystopfan.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "inapp-support.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "wasabi-test3.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.research.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "bettermau5.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "test.kubeflow-platform.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "dev.kubeflow-platform.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "prod.kubeflow-platform.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "bettermau5-dev.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "ads.developer.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "research.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "partner-links.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "payments-outbound.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "cms-newsroom.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "feedback.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www--spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "adstudio-help.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "cms-change.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "change.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "labels-canary.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "recsys-challenge.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "spotify.com-----play.com",
+    "ip": ""
+  },
+  {
+    "domain": "spotify.com------music.store",
+    "ip": ""
+  },
+  {
+    "domain": "spotify.com------web.com",
+    "ip": ""
+  },
+  {
+    "domain": "spotify.com--web.com",
+    "ip": ""
+  },
+  {
+    "domain": "podcasters-staging.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "pay-testing.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "ec.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "codequest.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "contest.codequest.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "originals.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "slackin.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "yearinmusic.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "pay.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "download.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "assets.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "brandsnews.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "crashdump.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "adlab.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "insights.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "devnews.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "atctest.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pci-testing.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.pci.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.inapp-support.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.sparta-api-testing.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.test.kubeflow-platform.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.dev.kubeflow-platform.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.prod.kubeflow-platform.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "developer.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.www--spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "cms.staging-change.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "staging-change.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "lon.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "ash.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "sto.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.codequest.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.contest.codequest.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "labs.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "news.spotify.com",
+    "ip": ""
+  },
+  {
+    "domain": "press.spotify.com",
+    "ip": ""
+  },
+  {
     "domain": "o9.em.spotify.com",
     "ip": "208.117.48.84"
   },
@@ -5049,253 +5297,5 @@
   {
     "domain": "gew1-dnsauthslave-public-2lsn.gew1.spotify.com",
     "ip": "130.211.80.183"
-  },
-  {
-    "domain": "info.backstage.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.todaystopfan.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "inapp-support.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "wasabi-test3.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.research.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "bettermau5.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "test.kubeflow-platform.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "dev.kubeflow-platform.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "prod.kubeflow-platform.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "bettermau5-dev.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "ads.developer.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "research.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "partner-links.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "payments-outbound.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "cms-newsroom.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "feedback.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www--spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "adstudio-help.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "cms-change.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "change.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "labels-canary.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "recsys-challenge.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "spotify.com-----play.com",
-    "ip": ""
-  },
-  {
-    "domain": "spotify.com------music.store",
-    "ip": ""
-  },
-  {
-    "domain": "spotify.com------web.com",
-    "ip": ""
-  },
-  {
-    "domain": "spotify.com--web.com",
-    "ip": ""
-  },
-  {
-    "domain": "podcasters-staging.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "pay-testing.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "ec.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "codequest.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "contest.codequest.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "originals.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "slackin.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "yearinmusic.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "pay.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "download.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "assets.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "brandsnews.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "crashdump.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "adlab.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "insights.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "devnews.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "atctest.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.pci-testing.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.pci.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.inapp-support.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.sparta-api-testing.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.test.kubeflow-platform.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.dev.kubeflow-platform.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.prod.kubeflow-platform.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "developer.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.www--spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "cms.staging-change.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "staging-change.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "lon.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "ash.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "sto.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.codequest.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.contest.codequest.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "labs.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "news.spotify.com",
-    "ip": ""
-  },
-  {
-    "domain": "press.spotify.com",
-    "ip": ""
   }
 ]
