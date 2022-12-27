@@ -879,10 +879,6 @@
     "ip": ""
   },
   {
-    "domain": "academia.edu",
-    "ip": "108.156.107.42"
-  },
-  {
     "domain": "dmolnar.academia.edu",
     "ip": "99.84.66.65"
   },
@@ -1353,6 +1349,10 @@
   {
     "domain": "stthom.academia.edu",
     "ip": "99.84.66.65"
+  },
+  {
+    "domain": "academia.edu",
+    "ip": "108.156.107.121"
   },
   {
     "domain": "0000.academia.edu",
