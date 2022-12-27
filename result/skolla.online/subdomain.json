@@ -3,6 +3,22 @@
     "domain": "API count exceeded - Increase Quota with Membership"
   },
   {
+    "domain": "wpd.dev.skolla.online",
+    "ip": "8.215.24.16"
+  },
+  {
+    "domain": "sites.skolla.online",
+    "ip": "8.215.24.16"
+  },
+  {
+    "domain": "proc.skolla.online",
+    "ip": "8.215.31.134"
+  },
+  {
+    "domain": "teeste.skolla.online",
+    "ip": "8.215.24.16"
+  },
+  {
     "domain": "mading.skolla.online",
     "ip": "8.215.24.16"
   },
@@ -11,12 +27,24 @@
     "ip": "149.129.219.41"
   },
   {
+    "domain": "skolla.online",
+    "ip": "ns8.alidns.com"
+  },
+  {
+    "domain": "vc.skolla.online",
+    "ip": "103.4.166.102"
+  },
+  {
     "domain": "api.dev.skolla.online",
     "ip": "dev.skolla.online"
   },
   {
     "domain": "app.dev.skolla.online",
     "ip": "dev.skolla.online"
+  },
+  {
+    "domain": "dev.skolla.online",
+    "ip": "149.129.219.41"
   },
   {
     "domain": "api.skolla.online",
@@ -29,33 +57,5 @@
   {
     "domain": "api.bkb.skolla.online",
     "ip": "skolla.online"
-  },
-  {
-    "domain": "skolla.online",
-    "ip": "149.129.238.172"
-  },
-  {
-    "domain": "dev.skolla.online",
-    "ip": "149.129.219.41"
-  },
-  {
-    "domain": "teeste.skolla.online",
-    "ip": "8.215.24.16"
-  },
-  {
-    "domain": "proc.skolla.online",
-    "ip": "8.215.31.134"
-  },
-  {
-    "domain": "sites.skolla.online",
-    "ip": "8.215.24.16"
-  },
-  {
-    "domain": "vc.skolla.online",
-    "ip": "182.253.238.99"
-  },
-  {
-    "domain": "wpd.dev.skolla.online",
-    "ip": "8.215.24.16"
   }
 ]
