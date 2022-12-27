@@ -131,6 +131,630 @@
     "ip": ""
   },
   {
+    "domain": "gtm.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "uat.revenuewebhook.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "prod.revenuewebhook.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "status.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "prod.revenuesigning.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "prod.revenuetransport.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "affiliatesupport.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "uat.transport.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "ssotest.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "sso.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "infom.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "admin.taxforms.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "hackathon.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "government.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "engineering.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "people-innovators.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "officemap.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "adaptive-content.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "affiliates.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "widget.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "udemy-images.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "mule.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "landing.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "my.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "info.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "email.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "secure.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.uat.revenuewebhook.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.prod.revenuewebhook.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.prod.revenuesigning.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.prod.revenuetransport.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "copyright.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.uat.transport.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ssotest.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.sso.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "core.taxforms.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "eforms.taxforms.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "helpdesk.taxforms.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "taxforms.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.ucp.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.people-innovators.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.officemap.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "ufb-test.dev.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.adaptive-content.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "legalteam.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.email.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "support.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.udemy-images.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.info.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.support.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "www.landing.udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "udemy.com",
+    "ip": ""
+  },
+  {
+    "domain": "experience.udemy.com",
+    "ip": "2600:1409:9800:16::1720:4ba8"
+  },
+  {
+    "domain": "kyndryl.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "lg.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "kaust.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "tp.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "absagroup.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "mitsubishi-hccapital.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "switch.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "xceedance.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "themathcompany.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "dotdigital.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "1udemy-images.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "pepsico.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "bosch-rbvh.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "vwds.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "freedommortgage.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "hdfcbank.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "greenbeanit.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "allwynent.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "biogentrial.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "lyondellbasell.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "euronext.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "tcsglobal.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "cognizantee.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "deloittedevelopment.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "dbs-c2e.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "dxc.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "socarturkey.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "isainfrateam.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "pwcglobal.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "ua.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "auditsafe.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "teleflex.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "accentureatcp.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "oldmutuallimited.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "panasonic-is.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "gksoftware.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "www.uat.signing.udemy.com",
+    "ip": "2606:4700::6810:4155"
+  },
+  {
+    "domain": "uat.signing.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "accenture.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "prudential.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "ensarsolutions.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "ifood.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "lacounty.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "dbshyd.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "learning.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "difc.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "itauchile.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "research.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "virginpulse.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "53.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "nttdatajp.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "signatures.udemy.com",
+    "ip": "54.147.27.151"
+  },
+  {
+    "domain": "cloudbeds.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "esolutions.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "amdlearning.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "fnb.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "teslaforecast.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "copperpoint.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "standardbank.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "ubs.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "michelingroup.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "bfbs.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "sorenson.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "isbankasi.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "chevrontrial.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "ibm-learning.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "swissmedical.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "intellectualproperty.udemy.com",
+    "ip": "104.16.51.111"
+  },
+  {
+    "domain": "standardcharteredfuturestate.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "sctest.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "servicenow.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "connection.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "coding-exercises.udemy.com",
+    "ip": "2606:4700::6812:91"
+  },
+  {
+    "domain": "kibusiness.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "investors.udemy.com",
+    "ip": "2600:1409:8800:18d::2b39"
+  },
+  {
+    "domain": "dte.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "str.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "community.udemy.com",
+    "ip": "2600:9000:20be:2400:12:45c0:e9c0:93a1"
+  },
+  {
+    "domain": "mgplc.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "adidas-itlearning.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "fanatics.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "americanairlines.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "helpdesk.udemy.com",
+    "ip": "3.81.183.119"
+  },
+  {
+    "domain": "mi.udemy.com",
+    "ip": "44.232.27.116"
+  },
+  {
+    "domain": "ablink.instructors.udemy.com",
+    "ip": "2606:4700::6810:4255"
+  },
+  {
+    "domain": "ablink.alerts.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "ablink.udemybusiness.udemy.com",
+    "ip": "2606:4700::6810:4255"
+  },
+  {
+    "domain": "ablink.students.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "nttls.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "tengizchevroil.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "chemours.udemy.com",
+    "ip": "2606:4700::6810:4255"
+  },
+  {
+    "domain": "infor.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "usbank.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "ufbsupport.udemy.com",
+    "ip": "104.16.65.85"
+  },
+  {
+    "domain": "business-support.udemy.com",
+    "ip": "ufb.zendesk.com"
+  },
+  {
+    "domain": "operativeuniversity.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "avalara.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "pmi.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "sl.udemy.com",
+    "ip": "54.243.66.160"
+  },
+  {
+    "domain": "ucp.udemy.com",
+    "ip": "52.52.209.253"
+  },
+  {
+    "domain": "fujitsu.udemy.com",
+    "ip": "104.16.66.85"
+  },
+  {
+    "domain": "staging.community.udemy.com",
+    "ip": "2600:9000:212f:ea00:a:d537:ccc0:93a1"
+  },
+  {
     "domain": "mysql10.udemy.com",
     "ip": "104.16.66.85"
   },
@@ -1159,6 +1783,10 @@
     "ip": "104.16.66.85"
   },
   {
+    "domain": "events.udemy.com",
+    "ip": "151.101.194.133"
+  },
+  {
     "domain": "web6440.udemy.com",
     "ip": "104.16.65.85"
   },
@@ -1655,6 +2283,10 @@
     "ip": "104.16.66.85"
   },
   {
+    "domain": "webinars.udemy.com",
+    "ip": "151.101.130.133"
+  },
+  {
     "domain": "web3510.udemy.com",
     "ip": "104.16.66.85"
   },
@@ -2121,637 +2753,5 @@
   {
     "domain": "voipa040.udemy.com",
     "ip": "104.16.66.85"
-  },
-  {
-    "domain": "gtm.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "uat.revenuewebhook.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "prod.revenuewebhook.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "status.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "prod.revenuesigning.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "prod.revenuetransport.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "affiliatesupport.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "uat.transport.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "ssotest.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "sso.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "infom.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "admin.taxforms.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "hackathon.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "government.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "engineering.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "people-innovators.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "officemap.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "adaptive-content.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "affiliates.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "widget.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "udemy-images.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "mule.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "landing.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "my.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "info.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "email.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "secure.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.uat.revenuewebhook.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.prod.revenuewebhook.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.prod.revenuesigning.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.prod.revenuetransport.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "copyright.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.uat.transport.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.ssotest.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.sso.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "core.taxforms.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "eforms.taxforms.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "helpdesk.taxforms.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "taxforms.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.ucp.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.people-innovators.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.officemap.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "ufb-test.dev.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.adaptive-content.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "legalteam.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.email.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "support.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.udemy-images.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.info.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.support.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "www.landing.udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "udemy.com",
-    "ip": ""
-  },
-  {
-    "domain": "experience.udemy.com",
-    "ip": "2600:1409:9800:16::1720:4ba8"
-  },
-  {
-    "domain": "kyndryl.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "lg.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "kaust.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "tp.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "absagroup.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "mitsubishi-hccapital.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "switch.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "xceedance.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "themathcompany.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "dotdigital.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "1udemy-images.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "pepsico.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "bosch-rbvh.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "vwds.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "freedommortgage.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "hdfcbank.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "greenbeanit.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "allwynent.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "biogentrial.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "lyondellbasell.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "euronext.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "tcsglobal.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "cognizantee.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "deloittedevelopment.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "dbs-c2e.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "dxc.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "socarturkey.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "isainfrateam.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "pwcglobal.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "ua.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "auditsafe.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "teleflex.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "accentureatcp.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "oldmutuallimited.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "panasonic-is.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "gksoftware.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "www.uat.signing.udemy.com",
-    "ip": "2606:4700::6810:4155"
-  },
-  {
-    "domain": "uat.signing.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "accenture.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "webinars.udemy.com",
-    "ip": "2606:4700::6810:4155"
-  },
-  {
-    "domain": "events.udemy.com",
-    "ip": "151.101.66.133"
-  },
-  {
-    "domain": "prudential.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "ensarsolutions.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "ifood.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "lacounty.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "dbshyd.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "learning.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "difc.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "itauchile.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "research.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "virginpulse.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "53.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "nttdatajp.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "signatures.udemy.com",
-    "ip": "54.147.27.151"
-  },
-  {
-    "domain": "cloudbeds.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "esolutions.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "amdlearning.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "fnb.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "teslaforecast.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "copperpoint.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "standardbank.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "ubs.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "michelingroup.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "bfbs.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "sorenson.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "isbankasi.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "chevrontrial.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "ibm-learning.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "swissmedical.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "intellectualproperty.udemy.com",
-    "ip": "104.16.51.111"
-  },
-  {
-    "domain": "standardcharteredfuturestate.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "sctest.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "servicenow.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "connection.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "coding-exercises.udemy.com",
-    "ip": "2606:4700::6812:91"
-  },
-  {
-    "domain": "kibusiness.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "investors.udemy.com",
-    "ip": "2600:1409:8800:18d::2b39"
-  },
-  {
-    "domain": "dte.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "str.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "community.udemy.com",
-    "ip": "2600:9000:20be:2400:12:45c0:e9c0:93a1"
-  },
-  {
-    "domain": "mgplc.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "adidas-itlearning.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "fanatics.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "americanairlines.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "helpdesk.udemy.com",
-    "ip": "3.81.183.119"
-  },
-  {
-    "domain": "mi.udemy.com",
-    "ip": "44.232.27.116"
-  },
-  {
-    "domain": "ablink.instructors.udemy.com",
-    "ip": "2606:4700::6810:4255"
-  },
-  {
-    "domain": "ablink.alerts.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "ablink.udemybusiness.udemy.com",
-    "ip": "2606:4700::6810:4255"
-  },
-  {
-    "domain": "ablink.students.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "nttls.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "tengizchevroil.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "chemours.udemy.com",
-    "ip": "2606:4700::6810:4255"
-  },
-  {
-    "domain": "infor.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "usbank.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "ufbsupport.udemy.com",
-    "ip": "104.16.65.85"
-  },
-  {
-    "domain": "business-support.udemy.com",
-    "ip": "ufb.zendesk.com"
-  },
-  {
-    "domain": "operativeuniversity.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "avalara.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "pmi.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "sl.udemy.com",
-    "ip": "54.243.66.160"
-  },
-  {
-    "domain": "ucp.udemy.com",
-    "ip": "52.52.209.253"
-  },
-  {
-    "domain": "fujitsu.udemy.com",
-    "ip": "104.16.66.85"
-  },
-  {
-    "domain": "staging.community.udemy.com",
-    "ip": "2600:9000:212f:ea00:a:d537:ccc0:93a1"
   }
 ]
