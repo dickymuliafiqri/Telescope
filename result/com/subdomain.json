@@ -1,8 +1,5 @@
 [
   {
-    "domain": "error invalid host"
-  },
-  {
     "domain": "www.tiffany.com",
     "ip": ""
   },
@@ -9101,6 +9098,9 @@
   {
     "domain": "mail.google.com",
     "ip": ""
+  },
+  {
+    "domain": "error invalid host"
   },
   {
     "domain": "www.path2usa.com",

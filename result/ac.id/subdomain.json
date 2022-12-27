@@ -1,5 +1,9 @@
 [
   {
+    "domain": "dev.dosen.stiba.ac.id",
+    "ip": "103.55.38.187"
+  },
+  {
     "domain": "lpm.staiduba.ac.id",
     "ip": "103.28.53.92"
   },
