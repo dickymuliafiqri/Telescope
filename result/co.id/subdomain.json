@@ -1,13 +1,5 @@
 [
   {
-    "domain": "smail14.qoo10.co.id",
-    "ip": "121.254.251.74"
-  },
-  {
-    "domain": "kreasim32.co.id",
-    "ip": "104.21.52.181"
-  },
-  {
     "domain": "inhutani5.co.id",
     "ip": "103.8.79.217"
   },
@@ -34,6 +26,14 @@
   {
     "domain": "rayana5.co.id",
     "ip": "202.157.186.6"
+  },
+  {
+    "domain": "cpcalendars.plus62.co.id",
+    "ip": "183.90.183.160"
+  },
+  {
+    "domain": "1011.co.id",
+    "ip": "111.67.68.2"
   },
   {
     "domain": "cpcontacts.econe2010.co.id",
@@ -672,8 +672,8 @@
     "ip": "103.53.192.105"
   },
   {
-    "domain": "cpcalendars.plus62.co.id",
-    "ip": "183.90.183.160"
+    "domain": "smail14.qoo10.co.id",
+    "ip": "121.254.251.74"
   },
   {
     "domain": "www.cek.um-1.co.id",
@@ -806,6 +806,10 @@
   {
     "domain": "cpanel.travel10.co.id",
     "ip": "103.7.226.210"
+  },
+  {
+    "domain": "kreasim32.co.id",
+    "ip": "104.21.52.181"
   },
   {
     "domain": "cpanel.click2000.co.id",
@@ -1566,10 +1570,6 @@
   {
     "domain": "econe2010.co.id",
     "ip": "103.247.11.74"
-  },
-  {
-    "domain": "1011.co.id",
-    "ip": "111.67.68.2"
   },
   {
     "domain": "pp3.co.id",
