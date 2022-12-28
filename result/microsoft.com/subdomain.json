@@ -1,5 +1,9 @@
 [
   {
+    "domain": "schemaapi-int.dps.mp.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "lnc111.myworkspace.microsoft.com",
     "ip": "20.224.135.11"
   },
