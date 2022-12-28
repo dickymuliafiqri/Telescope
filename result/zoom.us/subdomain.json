@@ -1,5 +1,17 @@
 [
   {
+    "domain": "jenkins.backend.corp.zoom.us",
+    "ip": "10.20.12.32"
+  },
+  {
+    "domain": "jenkins.client.corp.zoom.us",
+    "ip": "10.20.12.33"
+  },
+  {
+    "domain": "jenkins.web.corp.zoom.us",
+    "ip": "10.20.12.31"
+  },
+  {
     "domain": "covideo.zoom.us",
     "ip": "170.114.52.6"
   },
@@ -46785,18 +46797,6 @@
   },
   {
     "domain": "au01dm01.sy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "jenkins.backend.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "jenkins.client.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "jenkins.web.corp.zoom.us",
     "ip": ""
   },
   {
