@@ -1,5 +1,9 @@
 [
   {
+    "domain": "customervoice.microsoft.com",
+    "ip": "13.107.238.69"
+  },
+  {
     "domain": "data-ai-ppe.microsoft.com",
     "ip": "2620:1ec:4f:1::69"
   },
