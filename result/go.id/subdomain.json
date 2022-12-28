@@ -16064,6 +16064,10 @@
     "ip": ""
   },
   {
+    "domain": "www.sisgra.pn-baturaja.go.id",
+    "ip": "103.163.138.13"
+  },
+  {
     "domain": "www.neknang.bangka.go.id.desa.bangka.go.id",
     "ip": "103.205.56.195"
   },
@@ -17676,6 +17680,10 @@
     "ip": "103.230.100.17"
   },
   {
+    "domain": "www.pengaduan.dinhub.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
     "domain": "webdisk.dp2kbp3a.bangka.go.id",
     "ip": "103.205.56.195"
   },
@@ -18058,9 +18066,5 @@
   {
     "domain": "www.bappeda.samarinda.go.id",
     "ip": "203.119.112.62"
-  },
-  {
-    "domain": "www.sisgra.pn-baturaja.go.id",
-    "ip": "103.163.138.13"
   }
 ]

@@ -1,5 +1,9 @@
 [
   {
+    "domain": "data-ai-ppe.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "powerautomate.microsoft.com",
     "ip": "2620:1ec:4f:1::69"
   },
