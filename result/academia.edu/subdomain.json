@@ -1,5 +1,21 @@
 [
   {
+    "domain": "kristiankristiansen.academia.edu",
+    "ip": "99.84.66.82"
+  },
+  {
+    "domain": "vscht.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
+    "domain": "cicadit.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "tecnatom.academia.edu",
+    "ip": "99.84.66.46"
+  },
+  {
     "domain": "API count exceeded - Increase Quota with Membership"
   },
   {
@@ -1353,18 +1369,6 @@
   {
     "domain": "wbts.academia.edu",
     "ip": "99.84.66.65"
-  },
-  {
-    "domain": "try.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "support.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "engineering.academia.edu",
-    "ip": ""
   },
   {
     "domain": "academia.edu",
@@ -3369,5 +3373,17 @@
   {
     "domain": "clea.academia.edu",
     "ip": "99.84.238.209"
+  },
+  {
+    "domain": "try.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "support.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "engineering.academia.edu",
+    "ip": ""
   }
 ]
