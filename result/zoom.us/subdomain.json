@@ -1,5 +1,9 @@
 [
   {
+    "domain": "ucph-ku.zoom.us",
+    "ip": "eu01web.zoom.us"
+  },
+  {
     "domain": "zoom.us",
     "ip": "170.114.52.2"
   },

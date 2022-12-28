@@ -1,5 +1,9 @@
 [
   {
+    "domain": "mobileaggregator.family.microsoft.com",
+    "ip": "20.99.185.209"
+  },
+  {
     "domain": "signup.microsoft.com",
     "ip": "13.107.237.69"
   },
