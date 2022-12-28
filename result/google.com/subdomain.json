@@ -1,5 +1,13 @@
 [
   {
+    "domain": "prom.corp.google.com",
+    "ip": "2607:f8b0:400e:c0d::81"
+  },
+  {
+    "domain": "firebase-staging-sso.corp.google.com",
+    "ip": "2607:f8b0:400e:c0d::81"
+  },
+  {
     "domain": "google.com",
     "ip": "209.85.200.113"
   },

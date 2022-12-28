@@ -1,5 +1,21 @@
 [
   {
+    "domain": "powerautomate.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "powerautomate-staging.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
+    "domain": "sphereblobcbn.azurewatsontest.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
+    "domain": "msvacation.microsoft.com",
+    "ip": "40.122.165.147"
+  },
+  {
     "domain": "v2.s3connect.microsoft.com",
     "ip": "2620:1ec:4f:1::69"
   },
