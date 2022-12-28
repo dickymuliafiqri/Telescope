@@ -5716,6 +5716,2006 @@
     "ip": ""
   },
   {
+    "domain": "www.neknang.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.layan.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "mail.kopertis7.go.id",
+    "ip": "128.199.142.29"
+  },
+  {
+    "domain": "pn-raha.go.id",
+    "ip": "103.82.240.99"
+  },
+  {
+    "domain": "sipp.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "pesona.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "ns1.salatiga.go.id",
+    "ip": "103.230.100.100"
+  },
+  {
+    "domain": "www.jdih.pn-sibolga.go.id",
+    "ip": "103.16.198.165"
+  },
+  {
+    "domain": "www.arsip.pa-masamba.go.id",
+    "ip": "103.16.198.133"
+  },
+  {
+    "domain": "www.jdih.pn-masamba.go.id",
+    "ip": "49.128.186.102"
+  },
+  {
+    "domain": "ppid.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "www.mvr.pn-labuha.go.id",
+    "ip": "101.50.1.13"
+  },
+  {
+    "domain": "p.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "www.backup.pn-samarinda.go.id",
+    "ip": "49.128.184.77"
+  },
+  {
+    "domain": "cpanel.sehati.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "www.simada.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "cpcontacts.pa-kalianda.go.id",
+    "ip": "103.153.3.19"
+  },
+  {
+    "domain": "webdisk.pn-masamba.go.id",
+    "ip": "202.83.122.106"
+  },
+  {
+    "domain": "selor.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "webmail.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "cpcontacts.pn-baturaja.go.id",
+    "ip": "103.163.138.13"
+  },
+  {
+    "domain": "sikonjalu.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "kencana.bangka.go.id.opd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.covid19.go.id",
+    "ip": "172.67.24.177"
+  },
+  {
+    "domain": "www.bkpsdm.tubaba.go.id",
+    "ip": "45.130.231.155"
+  },
+  {
+    "domain": "pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "cpcontacts.kel-srimenanti.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.perpustakaan.pn-raha.go.id",
+    "ip": "103.82.240.99"
+  },
+  {
+    "domain": "rsud.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "latiyada.pn-raha.go.id",
+    "ip": "103.30.244.158"
+  },
+  {
+    "domain": "cpanel.pa-sibolga.go.id",
+    "ip": "43.229.254.246"
+  },
+  {
+    "domain": "ledok.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "sibadan.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "peta.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "cpcalendars.kelparitpadang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.kencana.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "web.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "sipp.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "tiyuhcalak.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "www.sipp.ptun-samarinda.go.id",
+    "ip": "131.153.77.171"
+  },
+  {
+    "domain": "www.potensi-kemuja.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "dharmayukti.pn-samarinda.go.id",
+    "ip": "49.128.184.77"
+  },
+  {
+    "domain": "www.nordvpn.rs-erba.go.id",
+    "ip": "103.251.44.173"
+  },
+  {
+    "domain": "sipandang.pn-koba.go.id",
+    "ip": "151.106.118.172"
+  },
+  {
+    "domain": "siacis.pa-salatiga.go.id",
+    "ip": "101.50.3.135"
+  },
+  {
+    "domain": "pn-masamba.go.id",
+    "ip": "49.128.186.102"
+  },
+  {
+    "domain": "like-bkd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "mapur.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "arabic.pa-bulukumba.go.id",
+    "ip": "103.82.240.58"
+  },
+  {
+    "domain": "potensi-kemuja.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.sehati.bangka.go.id.opd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "koperasi.kopertis7.go.id",
+    "ip": "128.199.142.29"
+  },
+  {
+    "domain": "www.sipp.pn-samarinda.go.id",
+    "ip": "49.128.184.77"
+  },
+  {
+    "domain": "cpanel.nibung.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.ridingpanjang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "panel-kominfo1.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "webmail.pa-kalianda.go.id",
+    "ip": "103.153.3.19"
+  },
+  {
+    "domain": "pa-salatiga.go.id",
+    "ip": "101.50.3.135"
+  },
+  {
+    "domain": "semade.pn-koba.go.id",
+    "ip": "151.106.118.172"
+  },
+  {
+    "domain": "bpkh3.go.id",
+    "ip": "203.119.112.62"
+  },
+  {
+    "domain": "cpcalendars.dinparpora.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.zi.pn-baturaja.go.id",
+    "ip": "103.163.138.13"
+  },
+  {
+    "domain": "webdisk.kecmerawang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sipp.pa-baturaja.go.id",
+    "ip": "103.129.220.6"
+  },
+  {
+    "domain": "www.ac.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "silentera.pa-purbalingga.go.id",
+    "ip": "103.60.181.238"
+  },
+  {
+    "domain": "www.tiangtarah.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcontacts.pa-namlea.go.id",
+    "ip": "202.73.26.154"
+  },
+  {
+    "domain": "cpcalendars.deniang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.delegasi.pn-baturaja.go.id",
+    "ip": "103.163.138.13"
+  },
+  {
+    "domain": "dprd.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "cpcontacts.neknang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "datadukcapil.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "mail.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "cpanel.demo.pta-samarinda.go.id",
+    "ip": "202.52.146.67"
+  },
+  {
+    "domain": "jasatirta1.go.id",
+    "ip": "203.119.112.62"
+  },
+  {
+    "domain": "mangka.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.like-bkd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "antri.pa-baturaja.go.id",
+    "ip": "103.129.220.6"
+  },
+  {
+    "domain": "www.lpse.rs-erba.go.id",
+    "ip": "103.251.44.173"
+  },
+  {
+    "domain": "www.airruai.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.pn-bulukumba.go.id",
+    "ip": "103.229.73.115"
+  },
+  {
+    "domain": "akta.pa-masamba.go.id",
+    "ip": "103.16.198.133"
+  },
+  {
+    "domain": "webmail.pemali.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.smata.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.neknang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.jdih.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "layan.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "sipp.pa-rumbia.go.id",
+    "ip": "49.128.186.102"
+  },
+  {
+    "domain": "otda.go.id",
+    "ip": "103.8.238.27"
+  },
+  {
+    "domain": "maras-senang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.jdih.pa-purbalingga.go.id",
+    "ip": "103.60.181.238"
+  },
+  {
+    "domain": "deniang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcalendars.pa-purbalingga.go.id",
+    "ip": "103.60.181.238"
+  },
+  {
+    "domain": "jadabahrin.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "kimak.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "gitatani.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "cpanel.pn-masamba.go.id",
+    "ip": "202.83.122.106"
+  },
+  {
+    "domain": "cpanel.pn-samarinda.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "webmail.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "webmail.e-smile.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "pa-namlea.go.id",
+    "ip": "202.73.26.154"
+  },
+  {
+    "domain": "portal.tubaba.go.id",
+    "ip": "103.18.117.9"
+  },
+  {
+    "domain": "ns2.pn-salatiga.go.id",
+    "ip": "207.148.65.174"
+  },
+  {
+    "domain": "www.speiscipik.pn-koba.go.id",
+    "ip": "151.106.118.172"
+  },
+  {
+    "domain": "sehati.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.sipp.pn-koba.go.id",
+    "ip": "151.106.118.172"
+  },
+  {
+    "domain": "dt.pa-purbalingga.go.id",
+    "ip": "103.60.181.238"
+  },
+  {
+    "domain": "estock.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "simuda.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "www.library.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "webmail.pn-namlea.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "webdisk.like-bkd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.potensi.bangka.go.id",
+    "ip": "156.67.211.199"
+  },
+  {
+    "domain": "pa-purbalingga.go.id",
+    "ip": "103.60.181.238"
+  },
+  {
+    "domain": "awasbang.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "simansur.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "casn.salatiga.go.id",
+    "ip": "103.230.100.42"
+  },
+  {
+    "domain": "ditjen-otda.go.id",
+    "ip": "203.119.112.62"
+  },
+  {
+    "domain": "spgdt.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "cpanel1.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "mvr.pn-labuha.go.id",
+    "ip": "101.50.1.13"
+  },
+  {
+    "domain": "sikd.salatiga.go.id",
+    "ip": "103.230.100.46"
+  },
+  {
+    "domain": "balunijuk.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "kinerjadosen.kopertis7.go.id",
+    "ip": "103.166.156.31"
+  },
+  {
+    "domain": "kelsrimenanti.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.pn-salatiga.go.id",
+    "ip": "148.163.81.2"
+  },
+  {
+    "domain": "www.akta.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "soyan.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "kel-srimenanti.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.pn-koba.go.id",
+    "ip": "151.106.118.172"
+  },
+  {
+    "domain": "www.kiosk.pa-lewoleba.go.id",
+    "ip": "139.162.52.11"
+  },
+  {
+    "domain": "www.penomoran.bbia.go.id",
+    "ip": "103.6.206.110"
+  },
+  {
+    "domain": "cpcontacts.kencana.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.kencana.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "git.covid19.go.id",
+    "ip": "118.82.6.74"
+  },
+  {
+    "domain": "bmd.salatiga.go.id",
+    "ip": "103.230.100.55"
+  },
+  {
+    "domain": "sidela.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "www.web.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "webmail.otda.go.id",
+    "ip": "103.8.238.27"
+  },
+  {
+    "domain": "simastri.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "cpcalendars.pn-bulukumba.go.id",
+    "ip": "103.229.73.115"
+  },
+  {
+    "domain": "cpanel.pn-raha.go.id",
+    "ip": "103.82.240.99"
+  },
+  {
+    "domain": "perencanaan.salatiga.go.id",
+    "ip": "103.230.100.122"
+  },
+  {
+    "domain": "www.ptsp.pa-kolaka.go.id",
+    "ip": "103.147.154.53"
+  },
+  {
+    "domain": "mangunsari.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "penyamun.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel2.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "sihanan.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "cpcalendars.ridingpanjang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "spbe.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "www.inet1.pa-unaaha.go.id",
+    "ip": "45.13.133.205"
+  },
+  {
+    "domain": "webmail.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "cpcalendars.airruai.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sidora.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.kepegawaian.pa-bulukumba.go.id",
+    "ip": "103.82.240.58"
+  },
+  {
+    "domain": "presensi.kopertis7.go.id",
+    "ip": "128.199.142.29"
+  },
+  {
+    "domain": "sehati.opd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "disdik.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "silat.pa-rumbia.go.id",
+    "ip": "49.128.186.102"
+  },
+  {
+    "domain": "kalibening.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "cpanel.maras-senang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "ns4.bangka.go.id",
+    "ip": "103.205.56.131"
+  },
+  {
+    "domain": "ciptakarya.salatiga.go.id",
+    "ip": "103.230.100.146"
+  },
+  {
+    "domain": "tiangtarah.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.salatiga.go.id",
+    "ip": "103.230.100.15"
+  },
+  {
+    "domain": "karyamakmur.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "e-smile.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "zi.pn-baturaja.go.id",
+    "ip": "103.163.138.13"
+  },
+  {
+    "domain": "webmail.mail.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "cpanel.sipp.pa-kalianda.go.id",
+    "ip": "103.153.3.19"
+  },
+  {
+    "domain": "spi.kopertis7.go.id",
+    "ip": "103.166.156.31"
+  },
+  {
+    "domain": "siplan.salatiga.go.id",
+    "ip": "103.230.100.179"
+  },
+  {
+    "domain": "gallery.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "sinarjayajelutung.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "pa-lewoleba.go.id",
+    "ip": "139.162.1.137"
+  },
+  {
+    "domain": "direktori.kopertis7.go.id",
+    "ip": "128.199.142.29"
+  },
+  {
+    "domain": "www.sidang.ptun-samarinda.go.id",
+    "ip": "131.153.77.171"
+  },
+  {
+    "domain": "www.jdih.pn-baturaja.go.id",
+    "ip": "103.163.138.13"
+  },
+  {
+    "domain": "cpanel.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "ac.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "cpcalendars.rs-erba.go.id",
+    "ip": "103.251.44.173"
+  },
+  {
+    "domain": "myskm.salatiga.go.id",
+    "ip": "103.230.100.176"
+  },
+  {
+    "domain": "dokumen.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "tescts31.pn-baturaja.go.id",
+    "ip": "101.50.1.75"
+  },
+  {
+    "domain": "ppid.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "webdisk.pn-namlea.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "www.jasatirta1.go.id",
+    "ip": "203.119.112.62"
+  },
+  {
+    "domain": "cpcalendars.dp2kbp3a.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sipp.pa-salatiga.go.id",
+    "ip": "101.50.3.135"
+  },
+  {
+    "domain": "my.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "sicute.salatiga.go.id",
+    "ip": "103.230.100.42"
+  },
+  {
+    "domain": "sipedas.pn-namlea.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "www.drivethru.pa-purbalingga.go.id",
+    "ip": "103.60.181.238"
+  },
+  {
+    "domain": "www.standar.bbia.go.id",
+    "ip": "103.6.206.110"
+  },
+  {
+    "domain": "kejari-samarinda.go.id",
+    "ip": "139.99.64.133"
+  },
+  {
+    "domain": "www.dharmayukti.pn-samarinda.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "eppid.pn-sibolga.go.id",
+    "ip": "103.16.198.165"
+  },
+  {
+    "domain": "ns3.bangka.go.id",
+    "ip": "103.205.56.196"
+  },
+  {
+    "domain": "streaming.salatiga.go.id",
+    "ip": "103.230.100.111"
+  },
+  {
+    "domain": "kpu-salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "sipesut.pta-samarinda.go.id",
+    "ip": "202.52.146.156"
+  },
+  {
+    "domain": "srv-kominfo.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "www.sipenduduk.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "pa-labuha.go.id",
+    "ip": "103.29.214.142"
+  },
+  {
+    "domain": "corona.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "www.new.pn-samarinda.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "sirah.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "www.dalil.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sipd.pa-kolaka.go.id",
+    "ip": "103.147.154.53"
+  },
+  {
+    "domain": "www.semade.pn-koba.go.id",
+    "ip": "151.106.118.172"
+  },
+  {
+    "domain": "pn-salatiga.go.id",
+    "ip": "148.163.81.2"
+  },
+  {
+    "domain": "nordvpn.rs-erba.go.id",
+    "ip": "103.251.44.173"
+  },
+  {
+    "domain": "www.sipp.pa-lewoleba.go.id",
+    "ip": "139.162.1.137"
+  },
+  {
+    "domain": "jadwal.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "cpanel51.salatiga.go.id",
+    "ip": "103.230.100.16"
+  },
+  {
+    "domain": "www.jdih.ptun-samarinda.go.id",
+    "ip": "131.153.77.171"
+  },
+  {
+    "domain": "petaling.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "smata.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "penomoran.bbia.go.id",
+    "ip": "103.6.206.110"
+  },
+  {
+    "domain": "sikap.kopertis7.go.id",
+    "ip": "103.27.207.50"
+  },
+  {
+    "domain": "www.pn-purbalingga.go.id",
+    "ip": "103.183.74.54"
+  },
+  {
+    "domain": "www.siurat.bangka.go.id.opd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "potensi-kimak.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcontacts.pn-raha.go.id",
+    "ip": "103.82.240.99"
+  },
+  {
+    "domain": "aku.kopertis7.go.id",
+    "ip": "128.199.142.29"
+  },
+  {
+    "domain": "www.antrian.rs-erba.go.id",
+    "ip": "103.251.44.173"
+  },
+  {
+    "domain": "trisala.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "cpcontacts.deniang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.p.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "cpanel.mangka.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.balunijuk.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "siaga-satu.bpkad.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "adm.disdik.salatiga.go.id",
+    "ip": "103.230.100.127"
+  },
+  {
+    "domain": "webmail.dinparpora.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "data.covid19.go.id",
+    "ip": "103.146.244.181"
+  },
+  {
+    "domain": "www.obenk.pa-raha.go.id",
+    "ip": "103.229.73.99"
+  },
+  {
+    "domain": "web.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "www.sipp.pa-rumbia.go.id",
+    "ip": "49.128.186.102"
+  },
+  {
+    "domain": "webmail.kelsrimenanti.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "standar.bbia.go.id",
+    "ip": "103.6.206.110"
+  },
+  {
+    "domain": "www.kecriausilip.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "webdisk.bappeda.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sikendil.salatiga.go.id",
+    "ip": "103.230.100.109"
+  },
+  {
+    "domain": "cpcalendars.pa-sibolga.go.id",
+    "ip": "43.229.254.246"
+  },
+  {
+    "domain": "webmail.pn-koba.go.id",
+    "ip": "151.106.118.172"
+  },
+  {
+    "domain": "ptsp.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "webmail.potensi.bangka.go.id",
+    "ip": "156.67.211.199"
+  },
+  {
+    "domain": "webmail.kencana.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "latih-ekinerja.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.new.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "pa-sibolga.go.id",
+    "ip": "43.229.254.246"
+  },
+  {
+    "domain": "www.dp2kbp3a.bangka.go.id.opd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sipp.pn-namlea.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "trisala-trial.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "cpanel.pa-purbalingga.go.id",
+    "ip": "103.60.181.238"
+  },
+  {
+    "domain": "www.ourocean2018.go.id",
+    "ip": "103.7.53.37"
+  },
+  {
+    "domain": "ptp.pn-baturaja.go.id",
+    "ip": "103.163.138.13"
+  },
+  {
+    "domain": "webdisk.pa-sibolga.go.id",
+    "ip": "43.229.254.246"
+  },
+  {
+    "domain": "mangka.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.smata.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "jdih.pa-masamba.go.id",
+    "ip": "111.68.113.204"
+  },
+  {
+    "domain": "diskominfo2.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "www.sipp.pn-sibolga.go.id",
+    "ip": "103.16.198.165"
+  },
+  {
+    "domain": "kepegawaian.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "sikeren.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "webmail.pn-masamba.go.id",
+    "ip": "202.83.122.106"
+  },
+  {
+    "domain": "sisumaker.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.e-ptsp.pn-sibolga.go.id",
+    "ip": "103.16.198.165"
+  },
+  {
+    "domain": "cpcalendars.pn-raha.go.id",
+    "ip": "103.82.240.99"
+  },
+  {
+    "domain": "nibung.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.kopertis7.go.id",
+    "ip": "128.199.142.29"
+  },
+  {
+    "domain": "www.moresipp.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "webmail.kelbukitbetung.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.sisumaker.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.sidora.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "new.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "www.e-permohonan.pn-sibolga.go.id",
+    "ip": "103.16.198.165"
+  },
+  {
+    "domain": "cpcalendars.ptun-samarinda.go.id",
+    "ip": "131.153.77.171"
+  },
+  {
+    "domain": "pn-purbalingga.go.id",
+    "ip": "172.67.197.118"
+  },
+  {
+    "domain": "cpcalendars.kelbukitbetung.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.pa-rumbia.go.id",
+    "ip": "49.128.186.102"
+  },
+  {
+    "domain": "webmail.e-media.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "sinarjayajelutung.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.latiyada.pn-raha.go.id",
+    "ip": "103.30.244.158"
+  },
+  {
+    "domain": "www.makeonline.pn-masamba.go.id",
+    "ip": "202.83.122.106"
+  },
+  {
+    "domain": "stibi.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "data.salatiga.go.id",
+    "ip": "103.230.100.141"
+  },
+  {
+    "domain": "www.bangkom.bkpsdmd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "pn-bulukumba.go.id",
+    "ip": "103.229.73.115"
+  },
+  {
+    "domain": "cpcontacts.sinarjayajelutung.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "kopertis7.go.id",
+    "ip": "128.199.142.29"
+  },
+  {
+    "domain": "silip.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.ptsponline.pa-lewoleba.go.id",
+    "ip": "139.162.52.11"
+  },
+  {
+    "domain": "simwasda.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "makam.salatiga.go.id",
+    "ip": "103.230.100.166"
+  },
+  {
+    "domain": "esigap.pn-koba.go.id",
+    "ip": "151.106.118.172"
+  },
+  {
+    "domain": "www.dokumen.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "www.laporanwfh.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "arvashop.pa-lewoleba.go.id",
+    "ip": "139.162.52.11"
+  },
+  {
+    "domain": "cpcalendars.pn-samarinda.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "dispora.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "cpcontacts.bappeda.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.arabic.pa-bulukumba.go.id",
+    "ip": "103.82.240.58"
+  },
+  {
+    "domain": "www.skp.pa-rumbia.go.id",
+    "ip": "49.128.186.102"
+  },
+  {
+    "domain": "www.pbo.pa-baturaja.go.id",
+    "ip": "103.129.220.6"
+  },
+  {
+    "domain": "www.erpa.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "cpcalendars.tiangtarah.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sipolnakes.salatiga.go.id",
+    "ip": "103.144.194.12"
+  },
+  {
+    "domain": "www.delegasi.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "www.ptp.pn-baturaja.go.id",
+    "ip": "103.163.138.13"
+  },
+  {
+    "domain": "sidorejokidul.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "www.tiangtarah.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.kel-srimenanti.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcalendars.smata.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "ekir.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "presensi.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "sipp.pn-sibolga.go.id",
+    "ip": "103.16.198.165"
+  },
+  {
+    "domain": "www.sipp.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "www.sipp.pn-salatiga.go.id",
+    "ip": "148.163.81.2"
+  },
+  {
+    "domain": "perpustakaan.pa-bulukumba.go.id",
+    "ip": "103.82.240.58"
+  },
+  {
+    "domain": "jdih.pa-purbalingga.go.id",
+    "ip": "103.60.181.238"
+  },
+  {
+    "domain": "www.selor.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "www.sipp.pn-baturaja.go.id",
+    "ip": "101.50.1.75"
+  },
+  {
+    "domain": "maras-senang.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.tescts31.pn-baturaja.go.id",
+    "ip": "101.50.1.75"
+  },
+  {
+    "domain": "e-sikapi.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "cpcalendars.pa-kalianda.go.id",
+    "ip": "103.153.3.19"
+  },
+  {
+    "domain": "pa-kolaka.go.id",
+    "ip": "103.147.154.53"
+  },
+  {
+    "domain": "paudpnf.salatiga.go.id",
+    "ip": "103.230.100.128"
+  },
+  {
+    "domain": "simada.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "keuangan.salatiga.go.id",
+    "ip": "103.230.100.51"
+  },
+  {
+    "domain": "kalicacing.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "cpanel.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "www.jdih.pn-unaaha.go.id",
+    "ip": "125.253.92.60"
+  },
+  {
+    "domain": "webdisk.dinparpora.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "pinisi.pn-bulukumba.go.id",
+    "ip": "103.229.73.115"
+  },
+  {
+    "domain": "moresipp.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "like-bkd.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "potensi-kemuja.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "trial.pn-purbalingga.go.id",
+    "ip": "103.183.74.54"
+  },
+  {
+    "domain": "mospin.pa-kolaka.go.id",
+    "ip": "103.147.154.53"
+  },
+  {
+    "domain": "cpcontacts.demo.pta-samarinda.go.id",
+    "ip": "202.52.146.67"
+  },
+  {
+    "domain": "acep.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "www.zaid.pa-lewoleba.go.id",
+    "ip": "139.162.52.11"
+  },
+  {
+    "domain": "www.siapp.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "cpcontacts.pn-bulukumba.go.id",
+    "ip": "103.229.73.115"
+  },
+  {
+    "domain": "www.himbauan.pn-raha.go.id",
+    "ip": "103.82.240.99"
+  },
+  {
+    "domain": "webmail.ridingpanjang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.latih-ekinerja.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sigora.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "cpanel.pn-bulukumba.go.id",
+    "ip": "103.229.73.115"
+  },
+  {
+    "domain": "sisatpol.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "webdisk.pa-namlea.go.id",
+    "ip": "202.73.26.154"
+  },
+  {
+    "domain": "panjar.pa-rumbia.go.id",
+    "ip": "49.128.186.102"
+  },
+  {
+    "domain": "sipirang.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "pa-kalianda.go.id",
+    "ip": "103.153.3.19"
+  },
+  {
+    "domain": "mail.pn-purbalingga.go.id",
+    "ip": "103.183.74.54"
+  },
+  {
+    "domain": "www.galaksi.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "bmgsulut.bmgwil4.go.id",
+    "ip": "203.119.112.62"
+  },
+  {
+    "domain": "siapp.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "webmail.pa-purbalingga.go.id",
+    "ip": "103.60.181.238"
+  },
+  {
+    "domain": "webdisk.kelsrimenanti.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sipp.pa-masamba.go.id",
+    "ip": "103.16.198.133"
+  },
+  {
+    "domain": "webdisk.sehati.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpanel.tiangtarah.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.portal.pa-unaaha.go.id",
+    "ip": "45.13.133.205"
+  },
+  {
+    "domain": "pta-samarinda.go.id",
+    "ip": "202.52.146.156"
+  },
+  {
+    "domain": "cpcontacts.kelparitpadang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.mi.pa-unaaha.go.id",
+    "ip": "45.13.133.205"
+  },
+  {
+    "domain": "www.like-bkd.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcontacts.dp2kbp3a.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "e-reporting.salatiga.go.id",
+    "ip": "103.230.100.167"
+  },
+  {
+    "domain": "dishub.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "agenda.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "mpp.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "bkpsdm.tubaba.go.id",
+    "ip": "45.130.231.155"
+  },
+  {
+    "domain": "webmail.neknang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "siga.salatiga.go.id",
+    "ip": "103.230.100.186"
+  },
+  {
+    "domain": "keljelitik.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcalendars.kecmerawang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cdn.covid19.go.id",
+    "ip": "172.67.24.177"
+  },
+  {
+    "domain": "uptdipald.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "webmail.dp2kbp3a.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "kim.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "www.sipp.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "covid19.go.id",
+    "ip": "104.22.64.181"
+  },
+  {
+    "domain": "cpcalendars.pn-salatiga.go.id",
+    "ip": "148.163.81.2"
+  },
+  {
+    "domain": "deniang.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "jdih.pn-bulukumba.go.id",
+    "ip": "103.229.73.115"
+  },
+  {
+    "domain": "www.awasbang.pta-samarinda.go.id",
+    "ip": "202.52.146.108"
+  },
+  {
+    "domain": "cpanel.ptun-samarinda.go.id",
+    "ip": "131.153.77.171"
+  },
+  {
+    "domain": "elaras.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "jdih.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "e-aset.pa-bulukumba.go.id",
+    "ip": "103.82.240.58"
+  },
+  {
+    "domain": "siresticikar.bangka.go.id.opd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "home.pn-bulukumba.go.id",
+    "ip": "103.229.73.115"
+  },
+  {
+    "domain": "kel-srimenanti.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.slide.pn-namlea.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "kursus.skb.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "www.pengaduan.dinhub.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webdisk.dp2kbp3a.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.kecpemali.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "inovasi.otda.go.id",
+    "ip": "202.157.177.231"
+  },
+  {
+    "domain": "cpanel.mail.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "cpcalendars.demo.pta-samarinda.go.id",
+    "ip": "202.52.146.67"
+  },
+  {
+    "domain": "jdih.pn-namlea.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "kelsungailiat.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.pn-salatiga.go.id",
+    "ip": "148.163.81.2"
+  },
+  {
+    "domain": "www.arvashop.pa-lewoleba.go.id",
+    "ip": "139.162.52.11"
+  },
+  {
+    "domain": "cpcontacts.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "www.antri.pa-baturaja.go.id",
+    "ip": "103.129.220.6"
+  },
+  {
+    "domain": "dlh.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "sipp.pa-purbalingga.go.id",
+    "ip": "103.60.181.238"
+  },
+  {
+    "domain": "webmail.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "cpcontacts.smata.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "simpeg.salatiga.go.id",
+    "ip": "103.230.100.42"
+  },
+  {
+    "domain": "www.mi.pa-kolaka.go.id",
+    "ip": "103.147.154.53"
+  },
+  {
+    "domain": "cpcontacts.pn-salatiga.go.id",
+    "ip": "148.163.81.2"
+  },
+  {
+    "domain": "aco.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "dokum.salatiga.go.id",
+    "ip": "103.230.100.18"
+  },
+  {
+    "domain": "app.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "cpanel.deniang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "sipenduduk.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "beasiswa.kopertis7.go.id",
+    "ip": "103.27.207.50"
+  },
+  {
+    "domain": "data-ahs.covid19.go.id",
+    "ip": "103.146.244.181"
+  },
+  {
+    "domain": "www.jurung.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "andre.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "cpanel.kecpemali.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "galaksi.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "www.sipp.pa-sibolga.go.id",
+    "ip": "43.229.254.246"
+  },
+  {
+    "domain": "ridingpanjang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.sidora.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.esigap.pn-koba.go.id",
+    "ip": "151.106.118.172"
+  },
+  {
+    "domain": "cpanel.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "cpcontacts.pa-purbalingga.go.id",
+    "ip": "103.60.181.238"
+  },
+  {
+    "domain": "etiika.pa-kalianda.go.id",
+    "ip": "103.153.3.19"
+  },
+  {
+    "domain": "www.panjar.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "kencana.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "mi.pa-masamba.go.id",
+    "ip": "103.16.198.133"
+  },
+  {
+    "domain": "cpcontacts.pn-kalianda.go.id",
+    "ip": "103.112.245.5"
+  },
+  {
+    "domain": "dinparpora.bangka.go.id.opd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "direktori2018.kopertis7.go.id",
+    "ip": "128.199.142.29"
+  },
+  {
+    "domain": "cpcalendars.maras-senang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "website.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "cpanel.pn-namlea.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "www.aco.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "www.jadabahrin.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.new.pa-labuha.go.id",
+    "ip": "103.29.214.142"
+  },
+  {
+    "domain": "autodiscover.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "kutowinangunkidul.salatiga.go.id",
+    "ip": "103.230.100.17"
+  },
+  {
+    "domain": "cpanel.potensi-kemuja.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "cpcontacts.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "webdisk.sipp.pa-kalianda.go.id",
+    "ip": "103.153.3.19"
+  },
+  {
+    "domain": "www.perpustakaan.pa-bulukumba.go.id",
+    "ip": "103.229.73.118"
+  },
+  {
+    "domain": "www.bintet.bangka.go.id.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.home.pn-bulukumba.go.id",
+    "ip": "103.229.73.115"
+  },
+  {
+    "domain": "bukutamu.pa-salatiga.go.id",
+    "ip": "101.50.3.135"
+  },
+  {
+    "domain": "cpcalendars.latih-ekinerja.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "wisuda.kopertis7.go.id",
+    "ip": "103.166.156.31"
+  },
+  {
+    "domain": "kejari-lewoleba.go.id",
+    "ip": "203.119.112.62"
+  },
+  {
+    "domain": "kecriausilip.desa.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "kecmerawang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.potensi-kimak.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "ourocean2018.go.id",
+    "ip": "103.7.53.37"
+  },
+  {
+    "domain": "antrian.rs-erba.go.id",
+    "ip": "103.251.44.173"
+  },
+  {
+    "domain": "webdisk.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "lpse.rs-erba.go.id",
+    "ip": "103.251.44.173"
+  },
+  {
+    "domain": "www.andre.tubaba.go.id",
+    "ip": "103.18.117.164"
+  },
+  {
+    "domain": "cpcalendars.sehati.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "webmail.deniang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.e-sikapi.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "www.upload.pta-samarinda.go.id",
+    "ip": "202.52.146.156"
+  },
+  {
+    "domain": "cpcontacts.tiangtarah.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "demo.pta-samarinda.go.id",
+    "ip": "202.52.146.67"
+  },
+  {
+    "domain": "cpcontacts.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "jdih.pn-unaaha.go.id",
+    "ip": "125.253.92.60"
+  },
+  {
+    "domain": "sipp.pa-singaraja.go.id",
+    "ip": "103.175.206.56"
+  },
+  {
+    "domain": "jdih.ptun-samarinda.go.id",
+    "ip": "131.153.77.171"
+  },
+  {
+    "domain": "cpcalendars.pn-namlea.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "simdag.salatiga.go.id",
+    "ip": "103.230.100.66"
+  },
+  {
+    "domain": "www.jdih.pta-samarinda.go.id",
+    "ip": "202.52.146.156"
+  },
+  {
+    "domain": "www.p.pa-samarinda.go.id",
+    "ip": "66.70.176.59"
+  },
+  {
+    "domain": "pn-namlea.go.id",
+    "ip": "103.29.215.198"
+  },
+  {
+    "domain": "webmail.rs-erba.go.id",
+    "ip": "103.251.44.173"
+  },
+  {
+    "domain": "erpa.pt-samarinda.go.id",
+    "ip": "206.72.200.10"
+  },
+  {
+    "domain": "pintarumkm.salatiga.go.id",
+    "ip": "103.230.100.192"
+  },
+  {
+    "domain": "cpanel.pn-baturaja.go.id",
+    "ip": "103.163.138.13"
+  },
+  {
+    "domain": "ptun-samarinda.go.id",
+    "ip": "131.153.77.171"
+  },
+  {
+    "domain": "cpcalendars.kel-srimenanti.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.sidora.bangka.go.id.opd.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "depdagri-otda.go.id",
+    "ip": "203.119.112.62"
+  },
+  {
+    "domain": "webdisk.maras-senang.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "pn-sibolga.go.id",
+    "ip": "103.16.198.165"
+  },
+  {
+    "domain": "webmail.jurung.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "www.bappeda.samarinda.go.id",
+    "ip": "203.119.112.62"
+  },
+  {
     "domain": "dprd-luwukab.go.id",
     "ip": ""
   },
@@ -16066,2005 +18066,5 @@
   {
     "domain": "kominfo.go.id",
     "ip": ""
-  },
-  {
-    "domain": "www.neknang.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.layan.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "mail.kopertis7.go.id",
-    "ip": "128.199.142.29"
-  },
-  {
-    "domain": "pn-raha.go.id",
-    "ip": "103.82.240.99"
-  },
-  {
-    "domain": "sipp.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "pesona.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "ns1.salatiga.go.id",
-    "ip": "103.230.100.100"
-  },
-  {
-    "domain": "www.jdih.pn-sibolga.go.id",
-    "ip": "103.16.198.165"
-  },
-  {
-    "domain": "www.arsip.pa-masamba.go.id",
-    "ip": "103.16.198.133"
-  },
-  {
-    "domain": "www.jdih.pn-masamba.go.id",
-    "ip": "49.128.186.102"
-  },
-  {
-    "domain": "ppid.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "www.mvr.pn-labuha.go.id",
-    "ip": "101.50.1.13"
-  },
-  {
-    "domain": "p.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "www.backup.pn-samarinda.go.id",
-    "ip": "49.128.184.77"
-  },
-  {
-    "domain": "cpanel.sehati.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webmail.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "www.simada.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "cpcontacts.pa-kalianda.go.id",
-    "ip": "103.153.3.19"
-  },
-  {
-    "domain": "webdisk.pn-masamba.go.id",
-    "ip": "202.83.122.106"
-  },
-  {
-    "domain": "selor.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "webmail.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "cpcontacts.pn-baturaja.go.id",
-    "ip": "103.163.138.13"
-  },
-  {
-    "domain": "sikonjalu.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "kencana.bangka.go.id.opd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.covid19.go.id",
-    "ip": "172.67.24.177"
-  },
-  {
-    "domain": "www.bkpsdm.tubaba.go.id",
-    "ip": "45.130.231.155"
-  },
-  {
-    "domain": "pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "cpcontacts.kel-srimenanti.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.perpustakaan.pn-raha.go.id",
-    "ip": "103.82.240.99"
-  },
-  {
-    "domain": "rsud.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "latiyada.pn-raha.go.id",
-    "ip": "103.30.244.158"
-  },
-  {
-    "domain": "cpanel.pa-sibolga.go.id",
-    "ip": "43.229.254.246"
-  },
-  {
-    "domain": "ledok.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "sibadan.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "peta.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "cpcalendars.kelparitpadang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpanel.kencana.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "web.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "sipp.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "tiyuhcalak.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "www.sipp.ptun-samarinda.go.id",
-    "ip": "131.153.77.171"
-  },
-  {
-    "domain": "www.potensi-kemuja.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "dharmayukti.pn-samarinda.go.id",
-    "ip": "49.128.184.77"
-  },
-  {
-    "domain": "www.nordvpn.rs-erba.go.id",
-    "ip": "103.251.44.173"
-  },
-  {
-    "domain": "sipandang.pn-koba.go.id",
-    "ip": "151.106.118.172"
-  },
-  {
-    "domain": "siacis.pa-salatiga.go.id",
-    "ip": "101.50.3.135"
-  },
-  {
-    "domain": "pn-masamba.go.id",
-    "ip": "49.128.186.102"
-  },
-  {
-    "domain": "like-bkd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "mapur.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "arabic.pa-bulukumba.go.id",
-    "ip": "103.82.240.58"
-  },
-  {
-    "domain": "potensi-kemuja.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.sehati.bangka.go.id.opd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "koperasi.kopertis7.go.id",
-    "ip": "128.199.142.29"
-  },
-  {
-    "domain": "www.sipp.pn-samarinda.go.id",
-    "ip": "49.128.184.77"
-  },
-  {
-    "domain": "cpanel.nibung.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webdisk.ridingpanjang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "panel-kominfo1.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "webmail.pa-kalianda.go.id",
-    "ip": "103.153.3.19"
-  },
-  {
-    "domain": "pa-salatiga.go.id",
-    "ip": "101.50.3.135"
-  },
-  {
-    "domain": "semade.pn-koba.go.id",
-    "ip": "151.106.118.172"
-  },
-  {
-    "domain": "bpkh3.go.id",
-    "ip": "203.119.112.62"
-  },
-  {
-    "domain": "cpcalendars.dinparpora.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.zi.pn-baturaja.go.id",
-    "ip": "103.163.138.13"
-  },
-  {
-    "domain": "webdisk.kecmerawang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "sipp.pa-baturaja.go.id",
-    "ip": "103.129.220.6"
-  },
-  {
-    "domain": "www.ac.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "silentera.pa-purbalingga.go.id",
-    "ip": "103.60.181.238"
-  },
-  {
-    "domain": "www.tiangtarah.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpcontacts.pa-namlea.go.id",
-    "ip": "202.73.26.154"
-  },
-  {
-    "domain": "cpcalendars.deniang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.delegasi.pn-baturaja.go.id",
-    "ip": "103.163.138.13"
-  },
-  {
-    "domain": "dprd.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "cpcontacts.neknang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "datadukcapil.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "mail.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "cpanel.demo.pta-samarinda.go.id",
-    "ip": "202.52.146.67"
-  },
-  {
-    "domain": "jasatirta1.go.id",
-    "ip": "203.119.112.62"
-  },
-  {
-    "domain": "mangka.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpanel.like-bkd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "antri.pa-baturaja.go.id",
-    "ip": "103.129.220.6"
-  },
-  {
-    "domain": "www.lpse.rs-erba.go.id",
-    "ip": "103.251.44.173"
-  },
-  {
-    "domain": "www.airruai.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webmail.pn-bulukumba.go.id",
-    "ip": "103.229.73.115"
-  },
-  {
-    "domain": "akta.pa-masamba.go.id",
-    "ip": "103.16.198.133"
-  },
-  {
-    "domain": "webmail.pemali.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpanel.smata.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webdisk.neknang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.jdih.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "layan.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "sipp.pa-rumbia.go.id",
-    "ip": "49.128.186.102"
-  },
-  {
-    "domain": "otda.go.id",
-    "ip": "103.8.238.27"
-  },
-  {
-    "domain": "maras-senang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.jdih.pa-purbalingga.go.id",
-    "ip": "103.60.181.238"
-  },
-  {
-    "domain": "deniang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpcalendars.pa-purbalingga.go.id",
-    "ip": "103.60.181.238"
-  },
-  {
-    "domain": "jadabahrin.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "kimak.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "gitatani.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "cpanel.pn-masamba.go.id",
-    "ip": "202.83.122.106"
-  },
-  {
-    "domain": "cpanel.pn-samarinda.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "webmail.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "webmail.e-smile.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "pa-namlea.go.id",
-    "ip": "202.73.26.154"
-  },
-  {
-    "domain": "portal.tubaba.go.id",
-    "ip": "103.18.117.9"
-  },
-  {
-    "domain": "ns2.pn-salatiga.go.id",
-    "ip": "207.148.65.174"
-  },
-  {
-    "domain": "www.speiscipik.pn-koba.go.id",
-    "ip": "151.106.118.172"
-  },
-  {
-    "domain": "sehati.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.sipp.pn-koba.go.id",
-    "ip": "151.106.118.172"
-  },
-  {
-    "domain": "dt.pa-purbalingga.go.id",
-    "ip": "103.60.181.238"
-  },
-  {
-    "domain": "estock.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "simuda.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "www.library.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "webmail.pn-namlea.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "webdisk.like-bkd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpanel.potensi.bangka.go.id",
-    "ip": "156.67.211.199"
-  },
-  {
-    "domain": "pa-purbalingga.go.id",
-    "ip": "103.60.181.238"
-  },
-  {
-    "domain": "awasbang.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "simansur.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "casn.salatiga.go.id",
-    "ip": "103.230.100.42"
-  },
-  {
-    "domain": "ditjen-otda.go.id",
-    "ip": "203.119.112.62"
-  },
-  {
-    "domain": "spgdt.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "cpanel1.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "mvr.pn-labuha.go.id",
-    "ip": "101.50.1.13"
-  },
-  {
-    "domain": "sikd.salatiga.go.id",
-    "ip": "103.230.100.46"
-  },
-  {
-    "domain": "balunijuk.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "kinerjadosen.kopertis7.go.id",
-    "ip": "103.166.156.31"
-  },
-  {
-    "domain": "kelsrimenanti.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpanel.pn-salatiga.go.id",
-    "ip": "148.163.81.2"
-  },
-  {
-    "domain": "www.akta.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "soyan.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "kel-srimenanti.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpanel.pn-koba.go.id",
-    "ip": "151.106.118.172"
-  },
-  {
-    "domain": "www.kiosk.pa-lewoleba.go.id",
-    "ip": "139.162.52.11"
-  },
-  {
-    "domain": "www.penomoran.bbia.go.id",
-    "ip": "103.6.206.110"
-  },
-  {
-    "domain": "cpcontacts.kencana.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webdisk.kencana.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "git.covid19.go.id",
-    "ip": "118.82.6.74"
-  },
-  {
-    "domain": "bmd.salatiga.go.id",
-    "ip": "103.230.100.55"
-  },
-  {
-    "domain": "sidela.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "www.web.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "webmail.otda.go.id",
-    "ip": "103.8.238.27"
-  },
-  {
-    "domain": "simastri.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "cpcalendars.pn-bulukumba.go.id",
-    "ip": "103.229.73.115"
-  },
-  {
-    "domain": "cpanel.pn-raha.go.id",
-    "ip": "103.82.240.99"
-  },
-  {
-    "domain": "perencanaan.salatiga.go.id",
-    "ip": "103.230.100.122"
-  },
-  {
-    "domain": "www.ptsp.pa-kolaka.go.id",
-    "ip": "103.147.154.53"
-  },
-  {
-    "domain": "mangunsari.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "penyamun.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpanel2.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "sihanan.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "cpcalendars.ridingpanjang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "spbe.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "www.inet1.pa-unaaha.go.id",
-    "ip": "45.13.133.205"
-  },
-  {
-    "domain": "webmail.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "cpcalendars.airruai.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "sidora.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.kepegawaian.pa-bulukumba.go.id",
-    "ip": "103.82.240.58"
-  },
-  {
-    "domain": "presensi.kopertis7.go.id",
-    "ip": "128.199.142.29"
-  },
-  {
-    "domain": "sehati.opd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "disdik.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "silat.pa-rumbia.go.id",
-    "ip": "49.128.186.102"
-  },
-  {
-    "domain": "kalibening.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "cpanel.maras-senang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webdisk.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "ns4.bangka.go.id",
-    "ip": "103.205.56.131"
-  },
-  {
-    "domain": "ciptakarya.salatiga.go.id",
-    "ip": "103.230.100.146"
-  },
-  {
-    "domain": "tiangtarah.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpanel.salatiga.go.id",
-    "ip": "103.230.100.15"
-  },
-  {
-    "domain": "karyamakmur.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "e-smile.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "zi.pn-baturaja.go.id",
-    "ip": "103.163.138.13"
-  },
-  {
-    "domain": "webmail.mail.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "cpanel.sipp.pa-kalianda.go.id",
-    "ip": "103.153.3.19"
-  },
-  {
-    "domain": "spi.kopertis7.go.id",
-    "ip": "103.166.156.31"
-  },
-  {
-    "domain": "siplan.salatiga.go.id",
-    "ip": "103.230.100.179"
-  },
-  {
-    "domain": "gallery.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "sinarjayajelutung.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "pa-lewoleba.go.id",
-    "ip": "139.162.1.137"
-  },
-  {
-    "domain": "direktori.kopertis7.go.id",
-    "ip": "128.199.142.29"
-  },
-  {
-    "domain": "www.sidang.ptun-samarinda.go.id",
-    "ip": "131.153.77.171"
-  },
-  {
-    "domain": "www.jdih.pn-baturaja.go.id",
-    "ip": "103.163.138.13"
-  },
-  {
-    "domain": "cpanel.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "ac.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "cpcalendars.rs-erba.go.id",
-    "ip": "103.251.44.173"
-  },
-  {
-    "domain": "myskm.salatiga.go.id",
-    "ip": "103.230.100.176"
-  },
-  {
-    "domain": "dokumen.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "tescts31.pn-baturaja.go.id",
-    "ip": "101.50.1.75"
-  },
-  {
-    "domain": "ppid.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "webdisk.pn-namlea.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "www.jasatirta1.go.id",
-    "ip": "203.119.112.62"
-  },
-  {
-    "domain": "cpcalendars.dp2kbp3a.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "sipp.pa-salatiga.go.id",
-    "ip": "101.50.3.135"
-  },
-  {
-    "domain": "my.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "sicute.salatiga.go.id",
-    "ip": "103.230.100.42"
-  },
-  {
-    "domain": "sipedas.pn-namlea.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "www.drivethru.pa-purbalingga.go.id",
-    "ip": "103.60.181.238"
-  },
-  {
-    "domain": "www.standar.bbia.go.id",
-    "ip": "103.6.206.110"
-  },
-  {
-    "domain": "kejari-samarinda.go.id",
-    "ip": "139.99.64.133"
-  },
-  {
-    "domain": "www.dharmayukti.pn-samarinda.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "eppid.pn-sibolga.go.id",
-    "ip": "103.16.198.165"
-  },
-  {
-    "domain": "ns3.bangka.go.id",
-    "ip": "103.205.56.196"
-  },
-  {
-    "domain": "streaming.salatiga.go.id",
-    "ip": "103.230.100.111"
-  },
-  {
-    "domain": "kpu-salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "sipesut.pta-samarinda.go.id",
-    "ip": "202.52.146.156"
-  },
-  {
-    "domain": "srv-kominfo.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "www.sipenduduk.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "pa-labuha.go.id",
-    "ip": "103.29.214.142"
-  },
-  {
-    "domain": "corona.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "www.new.pn-samarinda.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "sirah.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "www.dalil.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "sipd.pa-kolaka.go.id",
-    "ip": "103.147.154.53"
-  },
-  {
-    "domain": "www.semade.pn-koba.go.id",
-    "ip": "151.106.118.172"
-  },
-  {
-    "domain": "pn-salatiga.go.id",
-    "ip": "148.163.81.2"
-  },
-  {
-    "domain": "nordvpn.rs-erba.go.id",
-    "ip": "103.251.44.173"
-  },
-  {
-    "domain": "www.sipp.pa-lewoleba.go.id",
-    "ip": "139.162.1.137"
-  },
-  {
-    "domain": "jadwal.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "cpanel51.salatiga.go.id",
-    "ip": "103.230.100.16"
-  },
-  {
-    "domain": "www.jdih.ptun-samarinda.go.id",
-    "ip": "131.153.77.171"
-  },
-  {
-    "domain": "petaling.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "smata.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "penomoran.bbia.go.id",
-    "ip": "103.6.206.110"
-  },
-  {
-    "domain": "sikap.kopertis7.go.id",
-    "ip": "103.27.207.50"
-  },
-  {
-    "domain": "www.pn-purbalingga.go.id",
-    "ip": "103.183.74.54"
-  },
-  {
-    "domain": "www.siurat.bangka.go.id.opd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "potensi-kimak.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpcontacts.pn-raha.go.id",
-    "ip": "103.82.240.99"
-  },
-  {
-    "domain": "aku.kopertis7.go.id",
-    "ip": "128.199.142.29"
-  },
-  {
-    "domain": "www.antrian.rs-erba.go.id",
-    "ip": "103.251.44.173"
-  },
-  {
-    "domain": "trisala.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "cpcontacts.deniang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.p.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "cpanel.mangka.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.balunijuk.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "siaga-satu.bpkad.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "adm.disdik.salatiga.go.id",
-    "ip": "103.230.100.127"
-  },
-  {
-    "domain": "webmail.dinparpora.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "data.covid19.go.id",
-    "ip": "103.146.244.181"
-  },
-  {
-    "domain": "www.obenk.pa-raha.go.id",
-    "ip": "103.229.73.99"
-  },
-  {
-    "domain": "web.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "www.sipp.pa-rumbia.go.id",
-    "ip": "49.128.186.102"
-  },
-  {
-    "domain": "webmail.kelsrimenanti.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "standar.bbia.go.id",
-    "ip": "103.6.206.110"
-  },
-  {
-    "domain": "www.kecriausilip.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpanel.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "webdisk.bappeda.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "sikendil.salatiga.go.id",
-    "ip": "103.230.100.109"
-  },
-  {
-    "domain": "cpcalendars.pa-sibolga.go.id",
-    "ip": "43.229.254.246"
-  },
-  {
-    "domain": "webmail.pn-koba.go.id",
-    "ip": "151.106.118.172"
-  },
-  {
-    "domain": "ptsp.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "webmail.potensi.bangka.go.id",
-    "ip": "156.67.211.199"
-  },
-  {
-    "domain": "webmail.kencana.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "latih-ekinerja.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.new.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "pa-sibolga.go.id",
-    "ip": "43.229.254.246"
-  },
-  {
-    "domain": "www.dp2kbp3a.bangka.go.id.opd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "sipp.pn-namlea.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "trisala-trial.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "cpanel.pa-purbalingga.go.id",
-    "ip": "103.60.181.238"
-  },
-  {
-    "domain": "www.ourocean2018.go.id",
-    "ip": "103.7.53.37"
-  },
-  {
-    "domain": "ptp.pn-baturaja.go.id",
-    "ip": "103.163.138.13"
-  },
-  {
-    "domain": "webdisk.pa-sibolga.go.id",
-    "ip": "43.229.254.246"
-  },
-  {
-    "domain": "mangka.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webmail.smata.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "jdih.pa-masamba.go.id",
-    "ip": "111.68.113.204"
-  },
-  {
-    "domain": "diskominfo2.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "www.sipp.pn-sibolga.go.id",
-    "ip": "103.16.198.165"
-  },
-  {
-    "domain": "kepegawaian.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "sikeren.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "webmail.pn-masamba.go.id",
-    "ip": "202.83.122.106"
-  },
-  {
-    "domain": "sisumaker.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.e-ptsp.pn-sibolga.go.id",
-    "ip": "103.16.198.165"
-  },
-  {
-    "domain": "cpcalendars.pn-raha.go.id",
-    "ip": "103.82.240.99"
-  },
-  {
-    "domain": "nibung.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webmail.kopertis7.go.id",
-    "ip": "128.199.142.29"
-  },
-  {
-    "domain": "www.moresipp.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "webmail.kelbukitbetung.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.sisumaker.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webdisk.sidora.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "new.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "www.e-permohonan.pn-sibolga.go.id",
-    "ip": "103.16.198.165"
-  },
-  {
-    "domain": "cpcalendars.ptun-samarinda.go.id",
-    "ip": "131.153.77.171"
-  },
-  {
-    "domain": "pn-purbalingga.go.id",
-    "ip": "172.67.197.118"
-  },
-  {
-    "domain": "cpcalendars.kelbukitbetung.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webmail.pa-rumbia.go.id",
-    "ip": "49.128.186.102"
-  },
-  {
-    "domain": "webmail.e-media.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "sinarjayajelutung.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.latiyada.pn-raha.go.id",
-    "ip": "103.30.244.158"
-  },
-  {
-    "domain": "www.makeonline.pn-masamba.go.id",
-    "ip": "202.83.122.106"
-  },
-  {
-    "domain": "stibi.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "data.salatiga.go.id",
-    "ip": "103.230.100.141"
-  },
-  {
-    "domain": "www.bangkom.bkpsdmd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "pn-bulukumba.go.id",
-    "ip": "103.229.73.115"
-  },
-  {
-    "domain": "cpcontacts.sinarjayajelutung.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "kopertis7.go.id",
-    "ip": "128.199.142.29"
-  },
-  {
-    "domain": "silip.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.ptsponline.pa-lewoleba.go.id",
-    "ip": "139.162.52.11"
-  },
-  {
-    "domain": "simwasda.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "makam.salatiga.go.id",
-    "ip": "103.230.100.166"
-  },
-  {
-    "domain": "esigap.pn-koba.go.id",
-    "ip": "151.106.118.172"
-  },
-  {
-    "domain": "www.dokumen.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "www.laporanwfh.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "arvashop.pa-lewoleba.go.id",
-    "ip": "139.162.52.11"
-  },
-  {
-    "domain": "cpcalendars.pn-samarinda.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "dispora.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "cpcontacts.bappeda.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.arabic.pa-bulukumba.go.id",
-    "ip": "103.82.240.58"
-  },
-  {
-    "domain": "www.skp.pa-rumbia.go.id",
-    "ip": "49.128.186.102"
-  },
-  {
-    "domain": "www.pbo.pa-baturaja.go.id",
-    "ip": "103.129.220.6"
-  },
-  {
-    "domain": "www.erpa.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "cpcalendars.tiangtarah.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "sipolnakes.salatiga.go.id",
-    "ip": "103.144.194.12"
-  },
-  {
-    "domain": "www.delegasi.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "www.ptp.pn-baturaja.go.id",
-    "ip": "103.163.138.13"
-  },
-  {
-    "domain": "sidorejokidul.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "www.tiangtarah.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webdisk.kel-srimenanti.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpcalendars.smata.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "ekir.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "presensi.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "sipp.pn-sibolga.go.id",
-    "ip": "103.16.198.165"
-  },
-  {
-    "domain": "www.sipp.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "www.sipp.pn-salatiga.go.id",
-    "ip": "148.163.81.2"
-  },
-  {
-    "domain": "perpustakaan.pa-bulukumba.go.id",
-    "ip": "103.82.240.58"
-  },
-  {
-    "domain": "jdih.pa-purbalingga.go.id",
-    "ip": "103.60.181.238"
-  },
-  {
-    "domain": "www.selor.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "www.sipp.pn-baturaja.go.id",
-    "ip": "101.50.1.75"
-  },
-  {
-    "domain": "maras-senang.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.tescts31.pn-baturaja.go.id",
-    "ip": "101.50.1.75"
-  },
-  {
-    "domain": "e-sikapi.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "cpcalendars.pa-kalianda.go.id",
-    "ip": "103.153.3.19"
-  },
-  {
-    "domain": "pa-kolaka.go.id",
-    "ip": "103.147.154.53"
-  },
-  {
-    "domain": "paudpnf.salatiga.go.id",
-    "ip": "103.230.100.128"
-  },
-  {
-    "domain": "simada.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "keuangan.salatiga.go.id",
-    "ip": "103.230.100.51"
-  },
-  {
-    "domain": "kalicacing.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "cpanel.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "www.jdih.pn-unaaha.go.id",
-    "ip": "125.253.92.60"
-  },
-  {
-    "domain": "webdisk.dinparpora.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "pinisi.pn-bulukumba.go.id",
-    "ip": "103.229.73.115"
-  },
-  {
-    "domain": "moresipp.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "like-bkd.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "potensi-kemuja.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "trial.pn-purbalingga.go.id",
-    "ip": "103.183.74.54"
-  },
-  {
-    "domain": "mospin.pa-kolaka.go.id",
-    "ip": "103.147.154.53"
-  },
-  {
-    "domain": "cpcontacts.demo.pta-samarinda.go.id",
-    "ip": "202.52.146.67"
-  },
-  {
-    "domain": "acep.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "www.zaid.pa-lewoleba.go.id",
-    "ip": "139.162.52.11"
-  },
-  {
-    "domain": "www.siapp.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "cpcontacts.pn-bulukumba.go.id",
-    "ip": "103.229.73.115"
-  },
-  {
-    "domain": "www.himbauan.pn-raha.go.id",
-    "ip": "103.82.240.99"
-  },
-  {
-    "domain": "webmail.ridingpanjang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webmail.latih-ekinerja.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "sigora.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "cpanel.pn-bulukumba.go.id",
-    "ip": "103.229.73.115"
-  },
-  {
-    "domain": "sisatpol.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "webdisk.pa-namlea.go.id",
-    "ip": "202.73.26.154"
-  },
-  {
-    "domain": "panjar.pa-rumbia.go.id",
-    "ip": "49.128.186.102"
-  },
-  {
-    "domain": "sipirang.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "pa-kalianda.go.id",
-    "ip": "103.153.3.19"
-  },
-  {
-    "domain": "mail.pn-purbalingga.go.id",
-    "ip": "103.183.74.54"
-  },
-  {
-    "domain": "www.galaksi.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "bmgsulut.bmgwil4.go.id",
-    "ip": "203.119.112.62"
-  },
-  {
-    "domain": "siapp.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "webmail.pa-purbalingga.go.id",
-    "ip": "103.60.181.238"
-  },
-  {
-    "domain": "webdisk.kelsrimenanti.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "sipp.pa-masamba.go.id",
-    "ip": "103.16.198.133"
-  },
-  {
-    "domain": "webdisk.sehati.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpanel.tiangtarah.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.portal.pa-unaaha.go.id",
-    "ip": "45.13.133.205"
-  },
-  {
-    "domain": "pta-samarinda.go.id",
-    "ip": "202.52.146.156"
-  },
-  {
-    "domain": "cpcontacts.kelparitpadang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.mi.pa-unaaha.go.id",
-    "ip": "45.13.133.205"
-  },
-  {
-    "domain": "www.like-bkd.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpcontacts.dp2kbp3a.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "e-reporting.salatiga.go.id",
-    "ip": "103.230.100.167"
-  },
-  {
-    "domain": "dishub.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "agenda.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "mpp.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "bkpsdm.tubaba.go.id",
-    "ip": "45.130.231.155"
-  },
-  {
-    "domain": "webmail.neknang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "siga.salatiga.go.id",
-    "ip": "103.230.100.186"
-  },
-  {
-    "domain": "keljelitik.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpcalendars.kecmerawang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cdn.covid19.go.id",
-    "ip": "172.67.24.177"
-  },
-  {
-    "domain": "uptdipald.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "webmail.dp2kbp3a.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "kim.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "www.sipp.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "covid19.go.id",
-    "ip": "104.22.64.181"
-  },
-  {
-    "domain": "cpcalendars.pn-salatiga.go.id",
-    "ip": "148.163.81.2"
-  },
-  {
-    "domain": "deniang.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "jdih.pn-bulukumba.go.id",
-    "ip": "103.229.73.115"
-  },
-  {
-    "domain": "www.awasbang.pta-samarinda.go.id",
-    "ip": "202.52.146.108"
-  },
-  {
-    "domain": "cpanel.ptun-samarinda.go.id",
-    "ip": "131.153.77.171"
-  },
-  {
-    "domain": "elaras.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "jdih.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "e-aset.pa-bulukumba.go.id",
-    "ip": "103.82.240.58"
-  },
-  {
-    "domain": "siresticikar.bangka.go.id.opd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "home.pn-bulukumba.go.id",
-    "ip": "103.229.73.115"
-  },
-  {
-    "domain": "kel-srimenanti.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.slide.pn-namlea.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "kursus.skb.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "www.pengaduan.dinhub.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webdisk.dp2kbp3a.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webmail.kecpemali.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "inovasi.otda.go.id",
-    "ip": "202.157.177.231"
-  },
-  {
-    "domain": "cpanel.mail.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "cpcalendars.demo.pta-samarinda.go.id",
-    "ip": "202.52.146.67"
-  },
-  {
-    "domain": "jdih.pn-namlea.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "kelsungailiat.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webmail.pn-salatiga.go.id",
-    "ip": "148.163.81.2"
-  },
-  {
-    "domain": "www.arvashop.pa-lewoleba.go.id",
-    "ip": "139.162.52.11"
-  },
-  {
-    "domain": "cpcontacts.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "www.antri.pa-baturaja.go.id",
-    "ip": "103.129.220.6"
-  },
-  {
-    "domain": "dlh.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "sipp.pa-purbalingga.go.id",
-    "ip": "103.60.181.238"
-  },
-  {
-    "domain": "webmail.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "cpcontacts.smata.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "simpeg.salatiga.go.id",
-    "ip": "103.230.100.42"
-  },
-  {
-    "domain": "www.mi.pa-kolaka.go.id",
-    "ip": "103.147.154.53"
-  },
-  {
-    "domain": "cpcontacts.pn-salatiga.go.id",
-    "ip": "148.163.81.2"
-  },
-  {
-    "domain": "aco.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "dokum.salatiga.go.id",
-    "ip": "103.230.100.18"
-  },
-  {
-    "domain": "app.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "cpanel.deniang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "sipenduduk.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "beasiswa.kopertis7.go.id",
-    "ip": "103.27.207.50"
-  },
-  {
-    "domain": "data-ahs.covid19.go.id",
-    "ip": "103.146.244.181"
-  },
-  {
-    "domain": "www.jurung.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "andre.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "cpanel.kecpemali.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "galaksi.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "www.sipp.pa-sibolga.go.id",
-    "ip": "43.229.254.246"
-  },
-  {
-    "domain": "ridingpanjang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webmail.sidora.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.esigap.pn-koba.go.id",
-    "ip": "151.106.118.172"
-  },
-  {
-    "domain": "cpanel.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "cpcontacts.pa-purbalingga.go.id",
-    "ip": "103.60.181.238"
-  },
-  {
-    "domain": "etiika.pa-kalianda.go.id",
-    "ip": "103.153.3.19"
-  },
-  {
-    "domain": "www.panjar.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "kencana.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "mi.pa-masamba.go.id",
-    "ip": "103.16.198.133"
-  },
-  {
-    "domain": "cpcontacts.pn-kalianda.go.id",
-    "ip": "103.112.245.5"
-  },
-  {
-    "domain": "dinparpora.bangka.go.id.opd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "direktori2018.kopertis7.go.id",
-    "ip": "128.199.142.29"
-  },
-  {
-    "domain": "cpcalendars.maras-senang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "website.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "cpanel.pn-namlea.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "www.aco.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "www.jadabahrin.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.new.pa-labuha.go.id",
-    "ip": "103.29.214.142"
-  },
-  {
-    "domain": "autodiscover.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "kutowinangunkidul.salatiga.go.id",
-    "ip": "103.230.100.17"
-  },
-  {
-    "domain": "cpanel.potensi-kemuja.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "cpcontacts.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "webdisk.sipp.pa-kalianda.go.id",
-    "ip": "103.153.3.19"
-  },
-  {
-    "domain": "www.perpustakaan.pa-bulukumba.go.id",
-    "ip": "103.229.73.118"
-  },
-  {
-    "domain": "www.bintet.bangka.go.id.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.home.pn-bulukumba.go.id",
-    "ip": "103.229.73.115"
-  },
-  {
-    "domain": "bukutamu.pa-salatiga.go.id",
-    "ip": "101.50.3.135"
-  },
-  {
-    "domain": "cpcalendars.latih-ekinerja.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "wisuda.kopertis7.go.id",
-    "ip": "103.166.156.31"
-  },
-  {
-    "domain": "kejari-lewoleba.go.id",
-    "ip": "203.119.112.62"
-  },
-  {
-    "domain": "kecriausilip.desa.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "kecmerawang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.potensi-kimak.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "ourocean2018.go.id",
-    "ip": "103.7.53.37"
-  },
-  {
-    "domain": "antrian.rs-erba.go.id",
-    "ip": "103.251.44.173"
-  },
-  {
-    "domain": "webdisk.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "lpse.rs-erba.go.id",
-    "ip": "103.251.44.173"
-  },
-  {
-    "domain": "www.andre.tubaba.go.id",
-    "ip": "103.18.117.164"
-  },
-  {
-    "domain": "cpcalendars.sehati.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "webmail.deniang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.e-sikapi.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "www.upload.pta-samarinda.go.id",
-    "ip": "202.52.146.156"
-  },
-  {
-    "domain": "cpcontacts.tiangtarah.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "demo.pta-samarinda.go.id",
-    "ip": "202.52.146.67"
-  },
-  {
-    "domain": "cpcontacts.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "jdih.pn-unaaha.go.id",
-    "ip": "125.253.92.60"
-  },
-  {
-    "domain": "sipp.pa-singaraja.go.id",
-    "ip": "103.175.206.56"
-  },
-  {
-    "domain": "jdih.ptun-samarinda.go.id",
-    "ip": "131.153.77.171"
-  },
-  {
-    "domain": "cpcalendars.pn-namlea.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "simdag.salatiga.go.id",
-    "ip": "103.230.100.66"
-  },
-  {
-    "domain": "www.jdih.pta-samarinda.go.id",
-    "ip": "202.52.146.156"
-  },
-  {
-    "domain": "www.p.pa-samarinda.go.id",
-    "ip": "66.70.176.59"
-  },
-  {
-    "domain": "pn-namlea.go.id",
-    "ip": "103.29.215.198"
-  },
-  {
-    "domain": "webmail.rs-erba.go.id",
-    "ip": "103.251.44.173"
-  },
-  {
-    "domain": "erpa.pt-samarinda.go.id",
-    "ip": "206.72.200.10"
-  },
-  {
-    "domain": "pintarumkm.salatiga.go.id",
-    "ip": "103.230.100.192"
-  },
-  {
-    "domain": "cpanel.pn-baturaja.go.id",
-    "ip": "103.163.138.13"
-  },
-  {
-    "domain": "ptun-samarinda.go.id",
-    "ip": "131.153.77.171"
-  },
-  {
-    "domain": "cpcalendars.kel-srimenanti.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.sidora.bangka.go.id.opd.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "depdagri-otda.go.id",
-    "ip": "203.119.112.62"
-  },
-  {
-    "domain": "webdisk.maras-senang.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "pn-sibolga.go.id",
-    "ip": "103.16.198.165"
-  },
-  {
-    "domain": "webmail.jurung.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
-    "domain": "www.bappeda.samarinda.go.id",
-    "ip": "203.119.112.62"
   }
 ]
