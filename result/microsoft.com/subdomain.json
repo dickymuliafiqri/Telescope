@@ -1,5 +1,9 @@
 [
   {
+    "domain": "vivalearning.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "storedvaluecore.cp.microsoft.com",
     "ip": "40.78.139.234"
   },
