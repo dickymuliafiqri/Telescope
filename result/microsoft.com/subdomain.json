@@ -1,5 +1,9 @@
 [
   {
+    "domain": "swda01-mscdn.manage.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "nonprofitppe.microsoft.com",
     "ip": "2620:1ec:4f:1::69"
   },

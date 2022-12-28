@@ -1,9 +1,5 @@
 [
   {
-    "domain": "www.sim-epk.poltekkesjkt2.ac.id",
-    "ip": "151.106.119.173"
-  },
-  {
     "domain": "cpcalendars.stie-66.ac.id",
     "ip": "109.106.253.213"
   },
@@ -10256,6 +10252,10 @@
     "ip": ""
   },
   {
+    "domain": "cpanel.staiduba.ac.id",
+    "ip": "103.28.53.92"
+  },
+  {
     "domain": "www.fe.unibba.ac.id",
     "ip": "103.28.12.168"
   },
@@ -10756,10 +10756,6 @@
     "ip": "103.28.12.168"
   },
   {
-    "domain": "cpanel.staiduba.ac.id",
-    "ip": "103.28.53.92"
-  },
-  {
     "domain": "siakad.up45.ac.id",
     "ip": "172.67.164.148"
   },
@@ -10918,6 +10914,10 @@
   {
     "domain": "testpmb.staba.ac.id",
     "ip": "203.161.184.48"
+  },
+  {
+    "domain": "www.sim-epk.poltekkesjkt2.ac.id",
+    "ip": "151.106.119.173"
   },
   {
     "domain": "www.armin.poltekba.ac.id",
@@ -11621,7 +11621,7 @@
   },
   {
     "domain": "sim-epk.poltekkesjkt2.ac.id",
-    "ip": "182.253.24.3"
+    "ip": "151.106.119.173"
   },
   {
     "domain": "psi.unibba.ac.id",
