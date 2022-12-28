@@ -1,9 +1,5 @@
 [
   {
-    "domain": "ucph-ku.zoom.us",
-    "ip": "eu01web.zoom.us"
-  },
-  {
     "domain": "zoom.us",
     "ip": "170.114.52.2"
   },
@@ -1412,10 +1408,6 @@
     "ip": "170.114.15.132"
   },
   {
-    "domain": "eu01web.zoom.us",
-    "ip": "134.224.82.221"
-  },
-  {
     "domain": "x2-0-4-tata-mb.ny2.zoom.us",
     "ip": "162.255.39.80"
   },
@@ -1802,6 +1794,14 @@
   {
     "domain": "x1-2-1.200-gtt-am2.sj2.zoom.us",
     "ip": "162.255.39.157"
+  },
+  {
+    "domain": "trellix.zoom.us",
+    "ip": "us06web.zoom.us"
+  },
+  {
+    "domain": "milwaukeemps.zoom.us",
+    "ip": "www.zoom.us"
   },
   {
     "domain": "38-99-100-100.zoom.us",
@@ -44556,12 +44556,20 @@
     "ip": ""
   },
   {
+    "domain": "ucph-ku.zoom.us",
+    "ip": "eu01web.zoom.us"
+  },
+  {
+    "domain": "eu01web.zoom.us",
+    "ip": "170.114.52.8"
+  },
+  {
     "domain": "communityinclusion.zoom.us",
     "ip": "www.zoom.us"
   },
   {
     "domain": "marketingevents.zoom.us",
-    "ip": "151.101.2.133"
+    "ip": "151.101.130.133"
   },
   {
     "domain": "msuhipaa.zoom.us",
@@ -44612,84 +44620,8 @@
     "ip": "134.224.17.144"
   },
   {
-    "domain": "us07file-ia.zoom.us",
-    "ip": "2407:30c0:100:623:714d:c8c0:ee0c:1d8f"
-  },
-  {
-    "domain": "web-us07-internal2.zoom.us",
-    "ip": "170.114.10.204"
-  },
-  {
-    "domain": "us07single.zoom.us",
-    "ip": "170.114.10.204"
-  },
-  {
-    "domain": "us07client.zoom.us",
-    "ip": "54.240.172.248"
-  },
-  {
-    "domain": "us07static-3.zoom.us",
-    "ip": "134.224.17.143"
-  },
-  {
-    "domain": "us07nws.zoom.us",
-    "ip": "170.114.11.114"
-  },
-  {
-    "domain": "us07uiproxy.zoom.us",
-    "ip": "170.114.11.115"
-  },
-  {
-    "domain": "us07zdmapi-neat.zoom.us",
-    "ip": "170.114.11.114"
-  },
-  {
-    "domain": "us07file.zoom.us",
-    "ip": "2407:30c0:100:624:dd71:3702:7136:3688"
-  },
-  {
-    "domain": "bofa-dev.zoom.us",
-    "ip": "170.114.10.203"
-  },
-  {
-    "domain": "us07zdmapi-dten.zoom.us",
-    "ip": "170.114.11.114"
-  },
-  {
-    "domain": "napps.zoom.us",
-    "ip": "170.114.11.108"
-  },
-  {
-    "domain": "us07mqttws-hash.zoom.us",
-    "ip": "170.114.11.114"
-  },
-  {
-    "domain": "us07zdm.zoom.us",
-    "ip": "170.114.11.115"
-  },
-  {
-    "domain": "us07wmcc.zoom.us",
-    "ip": "170.114.11.115"
-  },
-  {
-    "domain": "us07as-va-2.zoom.us",
-    "ip": "3.235.220.166"
-  },
-  {
-    "domain": "us07mqttws.zoom.us",
-    "ip": "170.114.11.115"
-  },
-  {
     "domain": "web-us07-internal3.zoom.us",
     "ip": "170.114.10.204"
-  },
-  {
-    "domain": "us07zdmapi-logi.zoom.us",
-    "ip": "170.114.11.115"
-  },
-  {
-    "domain": "us07imapi.zoom.us",
-    "ip": "170.114.14.38"
   },
   {
     "domain": "us07as-va-1.zoom.us",
@@ -44704,24 +44636,12 @@
     "ip": "170.114.10.206"
   },
   {
-    "domain": "trio.zoom.us",
-    "ip": "170.114.11.109"
-  },
-  {
     "domain": "ssrweb.zoom.us",
     "ip": "54.240.172.248"
   },
   {
-    "domain": "us07sipproxy.zoom.us",
-    "ip": "170.114.11.114"
-  },
-  {
     "domain": "us07oh1test.zoom.us",
     "ip": "134.224.17.143"
-  },
-  {
-    "domain": "us07zdm-prov.zoom.us",
-    "ip": "170.114.11.115"
   },
   {
     "domain": "us07mqttws-device.zoom.us",
@@ -44736,11 +44656,11 @@
     "ip": "170.114.11.114"
   },
   {
-    "domain": "us07zdmapi-poly.zoom.us",
+    "domain": "us07zdmapi.zoom.us",
     "ip": "170.114.11.114"
   },
   {
-    "domain": "us07zdmapi.zoom.us",
+    "domain": "us07zdmapi-poly.zoom.us",
     "ip": "170.114.11.114"
   },
   {
@@ -44748,8 +44668,96 @@
     "ip": "170.114.11.114"
   },
   {
+    "domain": "us07file-ia.zoom.us",
+    "ip": "2407:30c0:100:623:714d:c8c0:ee0c:1d8f"
+  },
+  {
+    "domain": "us07imapi.zoom.us",
+    "ip": "170.114.14.37"
+  },
+  {
+    "domain": "us07sipproxy.zoom.us",
+    "ip": "170.114.11.115"
+  },
+  {
+    "domain": "web-us07-internal2.zoom.us",
+    "ip": "170.114.10.204"
+  },
+  {
+    "domain": "us07single.zoom.us",
+    "ip": "170.114.10.204"
+  },
+  {
+    "domain": "us07client.zoom.us",
+    "ip": "54.240.172.248"
+  },
+  {
     "domain": "web-us07-internal1.zoom.us",
+    "ip": "170.114.10.205"
+  },
+  {
+    "domain": "us07static-3.zoom.us",
+    "ip": "134.224.17.143"
+  },
+  {
+    "domain": "us07nws.zoom.us",
+    "ip": "170.114.11.114"
+  },
+  {
+    "domain": "us07zdm-prov.zoom.us",
+    "ip": "170.114.11.114"
+  },
+  {
+    "domain": "us07mqttws.zoom.us",
+    "ip": "170.114.11.114"
+  },
+  {
+    "domain": "us07uiproxy.zoom.us",
+    "ip": "170.114.11.115"
+  },
+  {
+    "domain": "trio.zoom.us",
+    "ip": "170.114.11.108"
+  },
+  {
+    "domain": "us07zdmapi-logi.zoom.us",
+    "ip": "170.114.11.114"
+  },
+  {
+    "domain": "us07file.zoom.us",
+    "ip": "2407:30c0:100:624:dd71:3702:7136:3688"
+  },
+  {
+    "domain": "us07zdmapi-neat.zoom.us",
+    "ip": "170.114.11.114"
+  },
+  {
+    "domain": "us07zdmapi-dten.zoom.us",
+    "ip": "170.114.11.114"
+  },
+  {
+    "domain": "bofa-dev.zoom.us",
     "ip": "170.114.10.203"
+  },
+  {
+    "domain": "napps.zoom.us",
+    "ip": "170.114.11.108"
+  },
+  {
+    "domain": "us07mqttws-hash.zoom.us",
+    "ip": "170.114.11.114"
+  },
+  {
+    "domain": "us07zdm.zoom.us",
+    "ip": "170.114.11.115"
+  },
+  {
+    "domain": "us07as-va-2.zoom.us",
+    "ip": "3.235.220.166"
+  },
+  {
+    "domain": "us07wmcc.zoom.us",
+    "ip": "170.114.11.115"
   },
   {
     "domain": "zoomin.zoom.us",
@@ -44761,11 +44769,11 @@
   },
   {
     "domain": "us01campaign.zoom.us",
-    "ip": "170.114.4.127"
+    "ip": "170.114.4.128"
   },
   {
     "domain": "eu02contactservice.zoom.us",
-    "ip": "35.156.66.43"
+    "ip": "52.58.236.161"
   },
   {
     "domain": "keene.zoom.us",
@@ -44773,131 +44781,31 @@
   },
   {
     "domain": "eu02bmt.zoom.us",
-    "ip": "3.72.229.121"
+    "ip": "3.72.23.138"
   },
   {
     "domain": "eu02ocs.zoom.us",
-    "ip": "3.72.196.232"
+    "ip": "3.72.229.121"
   },
   {
     "domain": "eu02oppbx.zoom.us",
     "ip": "3.72.196.232"
   },
   {
-    "domain": "zoomsy13-237-232-127cc.zoom.us",
-    "ip": "13.237.232.127"
-  },
-  {
-    "domain": "zoomsc204-141-29-65cc.zoom.us",
-    "ip": "204.141.29.65"
-  },
-  {
-    "domain": "zoomny204-141-31-247cc.zoom.us",
-    "ip": "204.141.31.247"
-  },
-  {
-    "domain": "zoomsc204-80-108-55cc.zoom.us",
-    "ip": "204.80.108.55"
-  },
-  {
-    "domain": "zoomva52-6-102-159cc.zoom.us",
-    "ip": "52.6.102.159"
-  },
-  {
-    "domain": "zoomsx198-251-238-173cc.zoom.us",
-    "ip": "198.251.238.173"
-  },
-  {
-    "domain": "zoommb13-126-29-0cc.zoom.us",
-    "ip": "13.126.29.0"
-  },
-  {
-    "domain": "zoomfr18-185-167-153cc.zoom.us",
-    "ip": "18.185.167.153"
-  },
-  {
-    "domain": "zoommb3-6-224-111cc.zoom.us",
-    "ip": "3.6.224.111"
-  },
-  {
-    "domain": "zoomsc204-80-108-200cc.zoom.us",
-    "ip": "204.80.108.200"
-  },
-  {
-    "domain": "zoomqc35-182-219-127cc.zoom.us",
-    "ip": "35.182.219.127"
-  },
-  {
-    "domain": "zoomzc69-174-108-124cc.zoom.us",
-    "ip": "69.174.108.124"
-  },
-  {
-    "domain": "zoomsc69-174-108-201cc.zoom.us",
-    "ip": "69.174.108.201"
-  },
-  {
     "domain": "zoomlej64-224-37-2cc.zoom.us",
     "ip": "64.224.37.2"
-  },
-  {
-    "domain": "zoomdv162-12-234-101cc.zoom.us",
-    "ip": "162.12.234.101"
-  },
-  {
-    "domain": "zoomfr52-215-157-224cc.zoom.us",
-    "ip": "52.215.157.224"
-  },
-  {
-    "domain": "zoomsc204-80-108-56cc.zoom.us",
-    "ip": "204.80.108.56"
-  },
-  {
-    "domain": "zoomsc204-141-29-66cc.zoom.us",
-    "ip": "204.141.29.66"
-  },
-  {
-    "domain": "zoomsc204-80-108-198cc.zoom.us",
-    "ip": "204.80.108.198"
-  },
-  {
-    "domain": "zoomsx147-124-127-190cc.zoom.us",
-    "ip": "147.124.127.190"
-  },
-  {
-    "domain": "zoomsx198-251-238-174cc.zoom.us",
-    "ip": "198.251.238.174"
-  },
-  {
-    "domain": "zoomsx173-231-84-64cc.zoom.us",
-    "ip": "173.231.84.64"
-  },
-  {
-    "domain": "zoomny204-80-104-73cc.zoom.us",
-    "ip": "204.80.104.73"
-  },
-  {
-    "domain": "zoomsy52-64-148-49cc.zoom.us",
-    "ip": "52.64.148.49"
-  },
-  {
-    "domain": "zoommb15-207-179-241cc.zoom.us",
-    "ip": "15.207.179.241"
-  },
-  {
-    "domain": "zoomfr18-184-153-45cc.zoom.us",
-    "ip": "18.184.153.45"
   },
   {
     "domain": "zoomsy13-236-64-57cc.zoom.us",
     "ip": "13.236.64.57"
   },
   {
-    "domain": "zoomsc204-141-29-247cc.zoom.us",
-    "ip": "204.141.29.247"
-  },
-  {
     "domain": "zoomva52-54-80-156cc.zoom.us",
     "ip": "52.54.80.156"
+  },
+  {
+    "domain": "zoomsc204-141-29-247cc.zoom.us",
+    "ip": "204.141.29.247"
   },
   {
     "domain": "zoomzc204-80-108-73cc.zoom.us",
@@ -44916,28 +44824,32 @@
     "ip": "173.231.84.100"
   },
   {
-    "domain": "zoomsjc144-195-18-214cc.zoom.us",
-    "ip": "144.195.18.214"
-  },
-  {
     "domain": "zoomsjc144-195-82-214cc.zoom.us",
     "ip": "144.195.82.214"
+  },
+  {
+    "domain": "zoomsjc144-195-18-214cc.zoom.us",
+    "ip": "144.195.18.214"
   },
   {
     "domain": "zoomzc204-80-108-38cc.zoom.us",
     "ip": "204.80.108.38"
   },
   {
+    "domain": "zoomsy52-64-148-49cc.zoom.us",
+    "ip": "52.64.148.49"
+  },
+  {
     "domain": "zoomny69-174-109-124cc.zoom.us",
     "ip": "69.174.109.124"
   },
   {
-    "domain": "zoomsc69-174-108-202cc.zoom.us",
-    "ip": "69.174.108.202"
-  },
-  {
     "domain": "zoomny204-80-104-38cc.zoom.us",
     "ip": "204.80.104.38"
+  },
+  {
+    "domain": "zoomsc69-174-108-202cc.zoom.us",
+    "ip": "69.174.108.202"
   },
   {
     "domain": "zoomsx147-124-127-189cc.zoom.us",
@@ -44952,32 +44864,128 @@
     "ip": "35.183.237.153"
   },
   {
-    "domain": "zoomva52-55-83-80cc.zoom.us",
-    "ip": "52.55.83.80"
-  },
-  {
     "domain": "zoomlej64-224-38-2cc.zoom.us",
     "ip": "64.224.38.2"
+  },
+  {
+    "domain": "zoomva52-55-83-80cc.zoom.us",
+    "ip": "52.55.83.80"
   },
   {
     "domain": "zoomsc204-80-108-199cc.zoom.us",
     "ip": "204.80.108.199"
   },
   {
-    "domain": "grafana.tools.zoom.us",
-    "ip": "54.193.9.30"
+    "domain": "zoomsy13-237-232-127cc.zoom.us",
+    "ip": "13.237.232.127"
   },
   {
-    "domain": "monitoring-zabbix.tools.zoom.us",
-    "ip": "13.56.88.5"
+    "domain": "zoomsc204-141-29-65cc.zoom.us",
+    "ip": "204.141.29.65"
+  },
+  {
+    "domain": "zoomsc204-80-108-55cc.zoom.us",
+    "ip": "204.80.108.55"
+  },
+  {
+    "domain": "zoomny204-141-31-247cc.zoom.us",
+    "ip": "204.141.31.247"
+  },
+  {
+    "domain": "zoomva52-6-102-159cc.zoom.us",
+    "ip": "52.6.102.159"
+  },
+  {
+    "domain": "zoomsx198-251-238-173cc.zoom.us",
+    "ip": "198.251.238.173"
+  },
+  {
+    "domain": "zoommb13-126-29-0cc.zoom.us",
+    "ip": "13.126.29.0"
+  },
+  {
+    "domain": "zoommb3-6-224-111cc.zoom.us",
+    "ip": "3.6.224.111"
+  },
+  {
+    "domain": "zoomfr18-185-167-153cc.zoom.us",
+    "ip": "18.185.167.153"
+  },
+  {
+    "domain": "zoomsc204-80-108-200cc.zoom.us",
+    "ip": "204.80.108.200"
+  },
+  {
+    "domain": "zoomqc35-182-219-127cc.zoom.us",
+    "ip": "35.182.219.127"
+  },
+  {
+    "domain": "zoomzc69-174-108-124cc.zoom.us",
+    "ip": "69.174.108.124"
+  },
+  {
+    "domain": "zoomsc69-174-108-201cc.zoom.us",
+    "ip": "69.174.108.201"
+  },
+  {
+    "domain": "zoomdv162-12-234-101cc.zoom.us",
+    "ip": "162.12.234.101"
+  },
+  {
+    "domain": "zoomfr52-215-157-224cc.zoom.us",
+    "ip": "52.215.157.224"
+  },
+  {
+    "domain": "zoomsc204-80-108-56cc.zoom.us",
+    "ip": "204.80.108.56"
+  },
+  {
+    "domain": "zoomsc204-80-108-198cc.zoom.us",
+    "ip": "204.80.108.198"
+  },
+  {
+    "domain": "zoomsc204-141-29-66cc.zoom.us",
+    "ip": "204.141.29.66"
+  },
+  {
+    "domain": "zoomsx147-124-127-190cc.zoom.us",
+    "ip": "147.124.127.190"
+  },
+  {
+    "domain": "zoomsx198-251-238-174cc.zoom.us",
+    "ip": "198.251.238.174"
+  },
+  {
+    "domain": "zoomsx173-231-84-64cc.zoom.us",
+    "ip": "173.231.84.64"
+  },
+  {
+    "domain": "zoomny204-80-104-73cc.zoom.us",
+    "ip": "204.80.104.73"
+  },
+  {
+    "domain": "zoommb15-207-179-241cc.zoom.us",
+    "ip": "15.207.179.241"
+  },
+  {
+    "domain": "zoomfr18-184-153-45cc.zoom.us",
+    "ip": "18.184.153.45"
   },
   {
     "domain": "zabbix.tools.zoom.us",
     "ip": "13.56.88.5"
   },
   {
+    "domain": "monitoring-zabbix.tools.zoom.us",
+    "ip": "54.193.9.30"
+  },
+  {
+    "domain": "grafana.tools.zoom.us",
+    "ip": "54.193.9.30"
+  },
+  {
     "domain": "files.dev.share-recordings.zoom.us",
-    "ip": "2600:9000:24ec:5800:7:fd71:83c0:93a1"
+    "ip": "ns-211.awsdns-26.com"
   },
   {
     "domain": "stickycontent.zoom.us",
@@ -45037,63 +45045,63 @@
   },
   {
     "domain": "gopromcci2.zoom.us",
-    "ip": "3.18.144.172"
+    "ip": "3.12.1.100"
   },
   {
     "domain": "goalertcci2.zoom.us",
-    "ip": "3.18.144.172"
-  },
-  {
-    "domain": "gopromcci.zoom.us",
-    "ip": "52.86.59.207"
+    "ip": "3.138.230.100"
   },
   {
     "domain": "gografanavec.zoom.us",
-    "ip": "34.232.54.199"
+    "ip": "35.170.134.118"
   },
   {
     "domain": "goalertcci.zoom.us",
-    "ip": "52.86.59.207"
+    "ip": "35.170.134.118"
   },
   {
-    "domain": "go-va2-cci-nginx2.zoom.us",
-    "ip": "134.224.17.177"
-  },
-  {
-    "domain": "gocci-va2.zoom.us",
-    "ip": "3.143.81.37"
-  },
-  {
-    "domain": "gocciapi.zoom.us",
-    "ip": "18.214.149.181"
-  },
-  {
-    "domain": "gocciapi-va2.zoom.us",
-    "ip": "3.21.15.198"
+    "domain": "gopromcci.zoom.us",
+    "ip": "35.170.134.118"
   },
   {
     "domain": "gocci-va2-internal.zoom.us",
     "ip": "10.212.103.79"
   },
   {
-    "domain": "gocci.zoom.us",
-    "ip": "18.215.129.228"
-  },
-  {
     "domain": "go-va2-cci-nginx1.zoom.us",
     "ip": "134.224.17.178"
   },
   {
-    "domain": "gocciapi-va2-internal.zoom.us",
-    "ip": "10.212.102.100"
+    "domain": "go-va2-cci-nginx2.zoom.us",
+    "ip": "134.224.17.177"
   },
   {
-    "domain": "gocciop-va2.zoom.us",
-    "ip": "3.143.81.37"
+    "domain": "gocciapi-va2-internal.zoom.us",
+    "ip": "10.212.103.79"
+  },
+  {
+    "domain": "gocci.zoom.us",
+    "ip": "18.214.55.85"
+  },
+  {
+    "domain": "gocci-va2.zoom.us",
+    "ip": "3.21.15.198"
+  },
+  {
+    "domain": "gocciapi.zoom.us",
+    "ip": "18.214.55.85"
+  },
+  {
+    "domain": "gocciapi-va2.zoom.us",
+    "ip": "52.15.162.122"
   },
   {
     "domain": "gocciop.zoom.us",
-    "ip": "18.214.55.85"
+    "ip": "18.215.129.228"
+  },
+  {
+    "domain": "gocciop-va2.zoom.us",
+    "ip": "52.15.162.122"
   },
   {
     "domain": "lastingercenter.zoom.us",
@@ -45105,7 +45113,7 @@
   },
   {
     "domain": "bom.zoom.us",
-    "ip": "ns-1989.awsdns-56.co.uk"
+    "ip": "ns-1025.awsdns-00.org"
   },
   {
     "domain": "nln.zoom.us",
@@ -45116,6 +45124,14 @@
     "ip": "www.zoom.us"
   },
   {
+    "domain": "gopbx-va1-ucs-nginx2.zoom.us",
+    "ip": "3.235.96.50"
+  },
+  {
+    "domain": "gocontactservice-va.zoom.us",
+    "ip": "3.217.192.162"
+  },
+  {
     "domain": "gocontactservice-va-internal.zoom.us",
     "ip": "10.0.227.115"
   },
@@ -45124,20 +45140,12 @@
     "ip": "3.235.96.51"
   },
   {
-    "domain": "gopbx-va1-ucs-nginx2.zoom.us",
-    "ip": "3.235.96.50"
-  },
-  {
-    "domain": "gocontactservice-va.zoom.us",
-    "ip": "54.196.66.84"
+    "domain": "csmsva2.zoom.us",
+    "ip": "3.131.53.207"
   },
   {
     "domain": "csms-process.zoom.us",
     "ip": "3.209.141.76"
-  },
-  {
-    "domain": "csmsva2.zoom.us",
-    "ip": "3.131.53.207"
   },
   {
     "domain": "infor.zoom.us",
@@ -45149,7 +45157,7 @@
   },
   {
     "domain": "keyserver-locator-us.zoom.us",
-    "ip": "134.224.227.43"
+    "ip": "2600:1f14:cbb:e400:2677:359b:f564:94c8"
   },
   {
     "domain": "marketplace.zoom.us",
@@ -45161,7 +45169,7 @@
   },
   {
     "domain": "careers.zoom.us",
-    "ip": "2600:9000:20be:5200:18:ab85:1f40:93a1"
+    "ip": "2600:9000:20be:a800:18:ab85:1f40:93a1"
   },
   {
     "domain": "airrosti.zoom.us",
@@ -45174,22 +45182,6 @@
   {
     "domain": "flcancer.zoom.us",
     "ip": "www.zoom.us"
-  },
-  {
-    "domain": "us07logfiles.zoom.us",
-    "ip": "170.114.14.89"
-  },
-  {
-    "domain": "us07xmppwsswebinar.zoom.us",
-    "ip": "170.114.15.254"
-  },
-  {
-    "domain": "us07xmpp3.zoom.us",
-    "ip": "170.114.10.127"
-  },
-  {
-    "domain": "us07pmcapi.zoom.us",
-    "ip": "134.224.240.24"
   },
   {
     "domain": "us07xmpp2.zoom.us",
@@ -45208,6 +45200,22 @@
     "ip": "170.114.15.248"
   },
   {
+    "domain": "us07logfiles.zoom.us",
+    "ip": "170.114.14.89"
+  },
+  {
+    "domain": "us07xmppwsswebinar.zoom.us",
+    "ip": "170.114.15.254"
+  },
+  {
+    "domain": "us07xmpp3.zoom.us",
+    "ip": "170.114.10.127"
+  },
+  {
+    "domain": "us07pmcapi.zoom.us",
+    "ip": "134.224.240.24"
+  },
+  {
     "domain": "fadv.zoom.us",
     "ip": "www.zoom.us"
   },
@@ -45221,11 +45229,11 @@
   },
   {
     "domain": "hyd.zoom.us",
-    "ip": "ns-1399.awsdns-46.org"
+    "ip": "ns-660.awsdns-18.net"
   },
   {
     "domain": "fra.zoom.us",
-    "ip": "ns-332.awsdns-41.com"
+    "ip": "ns-1686.awsdns-18.co.uk"
   },
   {
     "domain": "bpk-ri-akn1.zoom.us",
@@ -45256,6 +45264,14 @@
     "ip": "170.114.14.31"
   },
   {
+    "domain": "us01xmppwbn-xsr.zoom.us",
+    "ip": "us01xmppwbn-xsrsrv5.zoom.us"
+  },
+  {
+    "domain": "us01xmppwbn-xsrsrv5.zoom.us",
+    "ip": "170.114.3.208"
+  },
+  {
     "domain": "xmpp.zoom.us",
     "ip": "xmppwbn.zoom.us"
   },
@@ -45266,14 +45282,6 @@
   {
     "domain": "xmppwbn-test-xsr.zoom.us",
     "ip": "us01xmppwbn-xsr.zoom.us"
-  },
-  {
-    "domain": "us01xmppwbn-xsr.zoom.us",
-    "ip": "us01xmppwbn-xsrsrv5.zoom.us"
-  },
-  {
-    "domain": "us01xmppwbn-xsrsrv5.zoom.us",
-    "ip": "170.114.3.208"
   },
   {
     "domain": "us04www3.zoom.us",
@@ -45288,6 +45296,10 @@
     "ip": "52.84.161.254"
   },
   {
+    "domain": "us04xmpp-xsrsrv3.zoom.us",
+    "ip": "170.114.15.93"
+  },
+  {
     "domain": "us04xmpp1.zoom.us",
     "ip": "us04xmpp1-test.zoom.us"
   },
@@ -45300,24 +45312,20 @@
     "ip": "us04xmpp-xsrsrv3.zoom.us"
   },
   {
-    "domain": "us04xmpp-xsrsrv3.zoom.us",
-    "ip": "170.114.15.93"
-  },
-  {
     "domain": "us01xmpp-xsrsrv1.zoom.us",
     "ip": "170.114.0.2"
   },
   {
-    "domain": "us01xmpp-xsrsrv17.zoom.us",
-    "ip": "170.114.2.44"
+    "domain": "us01xmpp-xsrsrv10.zoom.us",
+    "ip": "170.114.0.200"
   },
   {
     "domain": "us01xmpp1-xsr.zoom.us",
-    "ip": "us01xmpp-xsrsrv10.zoom.us"
+    "ip": "us01xmpp-xsrsrv17.zoom.us"
   },
   {
-    "domain": "us01xmpp-xsrsrv10.zoom.us",
-    "ip": "170.114.0.200"
+    "domain": "us01xmpp-xsrsrv17.zoom.us",
+    "ip": "170.114.2.44"
   },
   {
     "domain": "zpns-byoip-va.zoom.us",
@@ -45332,12 +45340,12 @@
     "ip": "us02web.zoom.us"
   },
   {
-    "domain": "us04-logfiles-va-6.zoom.us",
-    "ip": "170.114.15.105"
-  },
-  {
     "domain": "us04-logfiles-va.zoom.us",
     "ip": "us04-logfiles-va-6.zoom.us"
+  },
+  {
+    "domain": "us04-logfiles-va-6.zoom.us",
+    "ip": "170.114.15.105"
   },
   {
     "domain": "st2.zoom.us",
@@ -45349,7 +45357,7 @@
   },
   {
     "domain": "evt-us.ds.corp.zoom.us",
-    "ip": "18.219.169.19"
+    "ip": "3.19.157.213"
   },
   {
     "domain": "us01xmppapi-cis.zoom.us",
@@ -45369,11 +45377,11 @@
   },
   {
     "domain": "gochatzva.zoom.us",
-    "ip": "170.114.3.58"
+    "ip": "170.114.3.57"
   },
   {
     "domain": "gointegrationzva.zoom.us",
-    "ip": "170.114.3.59"
+    "ip": "170.114.3.57"
   },
   {
     "domain": "goconnectorzva.zoom.us",
@@ -45381,11 +45389,11 @@
   },
   {
     "domain": "gokmzva.zoom.us",
-    "ip": "170.114.3.58"
+    "ip": "170.114.3.59"
   },
   {
     "domain": "goaizva.zoom.us",
-    "ip": "170.114.3.59"
+    "ip": "170.114.3.58"
   },
   {
     "domain": "payhawk.zoom.us",
@@ -45401,11 +45409,11 @@
   },
   {
     "domain": "goapizva.zoom.us",
-    "ip": "170.114.3.59"
+    "ip": "170.114.3.58"
   },
   {
     "domain": "gozva.zoom.us",
-    "ip": "170.114.3.59"
+    "ip": "170.114.3.57"
   },
   {
     "domain": "intezer.zoom.us",
@@ -45414,6 +45422,14 @@
   {
     "domain": "ableto.zoom.us",
     "ip": "us06web.zoom.us"
+  },
+  {
+    "domain": "gopbxproxy-nx.zoom.us",
+    "ip": "147.124.96.142"
+  },
+  {
+    "domain": "gopbxproxy-sx.zoom.us",
+    "ip": "198.251.236.65"
   },
   {
     "domain": "hybridupdate-sx.zoom.us",
@@ -45432,16 +45448,8 @@
     "ip": "147.124.96.142"
   },
   {
-    "domain": "gopbxproxy-nx.zoom.us",
-    "ip": "147.124.96.142"
-  },
-  {
-    "domain": "gopbxproxy-sx.zoom.us",
-    "ip": "198.251.236.65"
-  },
-  {
     "domain": "eu01tts.zoom.us",
-    "ip": "134.224.170.135"
+    "ip": "134.224.170.134"
   },
   {
     "domain": "unisa.zoom.us",
@@ -45477,19 +45485,15 @@
   },
   {
     "domain": "gshlink.zoom.us",
-    "ip": "167.89.118.83"
+    "ip": "ns10.dnsmadeeasy.com"
   },
   {
     "domain": "keyserver-us-03.zoom.us",
-    "ip": "134.224.227.60"
+    "ip": "134.224.227.87"
   },
   {
     "domain": "keyserver-in.zoom.us",
     "ip": "2406:da1a:e7c:8c00:29c5:a562:8609:32b1"
-  },
-  {
-    "domain": "keyserver-eu.zoom.us",
-    "ip": "2a05:d014:bc3:7a01:f9e2:d22f:14c1:facb"
   },
   {
     "domain": "keyserver-ca.zoom.us",
@@ -45500,8 +45504,12 @@
     "ip": "2406:da1c:c7f:b00:75b3:1053:4275:991f"
   },
   {
+    "domain": "keyserver-eu.zoom.us",
+    "ip": "2a05:d014:bc3:7a01:f9e2:d22f:14c1:facb"
+  },
+  {
     "domain": "hello.zoom.us",
-    "ip": "52.27.217.197"
+    "ip": "54.148.79.23"
   },
   {
     "domain": "auntbertha.zoom.us",
@@ -45528,8 +45536,36 @@
     "ip": "us06web.zoom.us"
   },
   {
+    "domain": "gopbxyp.zoom.us",
+    "ip": "3.80.20.138"
+  },
+  {
+    "domain": "gopbxcdp.zoom.us",
+    "ip": "3.80.20.138"
+  },
+  {
+    "domain": "gopbxcp.zoom.us",
+    "ip": "3.80.20.139"
+  },
+  {
+    "domain": "gopbxproxy.zoom.us",
+    "ip": "3.80.20.139"
+  },
+  {
+    "domain": "gopbxpreyp.zoom.us",
+    "ip": "3.80.20.138"
+  },
+  {
+    "domain": "gopbxgsp.zoom.us",
+    "ip": "3.80.20.139"
+  },
+  {
     "domain": "gopbx-va2-nginx1.zoom.us",
     "ip": "3.138.166.48"
+  },
+  {
+    "domain": "gopbx.zoom.us",
+    "ip": "3.80.20.138"
   },
   {
     "domain": "gopbxpp.zoom.us",
@@ -45564,38 +45600,6 @@
     "ip": "3.80.20.139"
   },
   {
-    "domain": "gopbx.zoom.us",
-    "ip": "3.80.20.139"
-  },
-  {
-    "domain": "gopbxgsp.zoom.us",
-    "ip": "3.80.20.138"
-  },
-  {
-    "domain": "gopbxyp.zoom.us",
-    "ip": "3.80.20.138"
-  },
-  {
-    "domain": "gopbxcdp.zoom.us",
-    "ip": "3.80.20.138"
-  },
-  {
-    "domain": "gopbxcp.zoom.us",
-    "ip": "3.80.20.139"
-  },
-  {
-    "domain": "gopbxproxy.zoom.us",
-    "ip": "3.80.20.139"
-  },
-  {
-    "domain": "gopbxpreyp.zoom.us",
-    "ip": "3.80.20.138"
-  },
-  {
-    "domain": "gocontactservice.zoom.us",
-    "ip": "3.217.192.162"
-  },
-  {
     "domain": "gopbx-va2-ucs-nginx1.zoom.us",
     "ip": "18.219.243.45"
   },
@@ -45604,12 +45608,16 @@
     "ip": "10.201.103.109"
   },
   {
-    "domain": "gocontactservice-va2.zoom.us",
-    "ip": "3.23.52.78"
-  },
-  {
     "domain": "gopbx-va2-ucs-nginx2.zoom.us",
     "ip": "3.22.1.42"
+  },
+  {
+    "domain": "gocontactservice-va2.zoom.us",
+    "ip": "18.224.239.248"
+  },
+  {
+    "domain": "gocontactservice.zoom.us",
+    "ip": "3.217.192.162"
   },
   {
     "domain": "gosmspbx.zoom.us",
@@ -45617,19 +45625,11 @@
   },
   {
     "domain": "gosmspbx-va2.zoom.us",
-    "ip": "18.220.122.87"
-  },
-  {
-    "domain": "gooppbx-va2.zoom.us",
     "ip": "3.139.14.247"
   },
   {
-    "domain": "trellix.zoom.us",
-    "ip": "us06web.zoom.us"
-  },
-  {
-    "domain": "milwaukeemps.zoom.us",
-    "ip": "www.zoom.us"
+    "domain": "gooppbx-va2.zoom.us",
+    "ip": "18.220.122.87"
   },
   {
     "domain": "www3.zoom.us",
