@@ -1,5 +1,9 @@
 [
   {
+    "domain": "storedvaluecore.cp.microsoft.com",
+    "ip": "40.78.139.234"
+  },
+  {
     "domain": "mobileaggregator.family.microsoft.com",
     "ip": "20.99.185.209"
   },
