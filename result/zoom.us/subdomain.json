@@ -1,5 +1,9 @@
 [
   {
+    "domain": "covideo.zoom.us",
+    "ip": "170.114.52.6"
+  },
+  {
     "domain": "zoom.us",
     "ip": "170.114.52.2"
   },

@@ -1,5 +1,13 @@
 [
   {
+    "domain": "swdb01-mscdn.manage.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "swdc01-mscdn.manage.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
     "domain": "schemaapi-int.dps.mp.microsoft.com",
     "ip": "2620:1ec:4f:1::69"
   },
