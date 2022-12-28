@@ -1,5 +1,21 @@
 [
   {
+    "domain": "data-ai.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "social.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "social.technet.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "forumsapi.contentservices.msdn.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
     "domain": "swdb01-mscdn.manage.microsoft.com",
     "ip": "2620:1ec:4f:1::69"
   },
@@ -31780,15 +31796,7 @@
     "ip": ""
   },
   {
-    "domain": "social.microsoft.com",
-    "ip": ""
-  },
-  {
     "domain": "social.msdn.microsoft.com",
-    "ip": ""
-  },
-  {
-    "domain": "social.technet.microsoft.com",
     "ip": ""
   },
   {
