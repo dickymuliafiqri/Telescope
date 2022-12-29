@@ -1,5 +1,9 @@
 [
   {
+    "domain": "api.httcfrservice.microsoft.com",
+    "ip": "20.150.248.104"
+  },
+  {
     "domain": "asia.tip2.powerapps-staging.microsoft.com",
     "ip": "40.118.131.126"
   },
