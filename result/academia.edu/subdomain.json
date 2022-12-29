@@ -1,5 +1,13 @@
 [
   {
+    "domain": "sxcr.academia.edu",
+    "ip": "99.84.66.104"
+  },
+  {
+    "domain": "quinnipiac.academia.edu",
+    "ip": "99.84.66.65"
+  },
+  {
     "domain": "API count exceeded - Increase Quota with Membership"
   },
   {
@@ -2891,18 +2899,6 @@
     "ip": "99.84.238.209"
   },
   {
-    "domain": "try.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "support.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "engineering.academia.edu",
-    "ip": ""
-  },
-  {
     "domain": "kristiankristiansen.academia.edu",
     "ip": "99.84.66.82"
   },
@@ -3385,5 +3381,17 @@
   {
     "domain": "canbridge.academia.edu",
     "ip": "99.84.66.65"
+  },
+  {
+    "domain": "try.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "support.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "engineering.academia.edu",
+    "ip": ""
   }
 ]

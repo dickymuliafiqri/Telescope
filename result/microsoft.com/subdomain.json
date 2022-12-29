@@ -1,5 +1,25 @@
 [
   {
+    "domain": "services.social.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "i3.services.social.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
+    "domain": "i1.services.social.microsoft.com",
+    "ip": "13.107.238.69"
+  },
+  {
+    "domain": "i2.services.social.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
+    "domain": "i4.services.social.microsoft.com",
+    "ip": "2620:1ec:4e:1::69"
+  },
+  {
     "domain": "empowerment-int.microsoft.com",
     "ip": "13.107.237.69"
   },
@@ -33841,10 +33861,6 @@
   },
   {
     "domain": "urs.familysafety.microsoft.com",
-    "ip": ""
-  },
-  {
-    "domain": "services.social.microsoft.com",
     "ip": ""
   },
   {
