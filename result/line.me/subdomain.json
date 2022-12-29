@@ -3104,10 +3104,6 @@
     "ip": ""
   },
   {
-    "domain": "event-web.line.me",
-    "ip": ""
-  },
-  {
     "domain": "lineit.line.me",
     "ip": ""
   },
@@ -3130,6 +3126,10 @@
   {
     "domain": "www.sticker-contest.line.me",
     "ip": ""
+  },
+  {
+    "domain": "event-web.line.me",
+    "ip": "cac-event-web.line.me.line-zero.akadns.net"
   },
   {
     "domain": "notice-o.line.me",
@@ -3272,16 +3272,20 @@
     "ip": "cac-linevoom.line.me.line-zero.akadns.net"
   },
   {
+    "domain": "notice2.line.me",
+    "ip": "147.92.191.40"
+  },
+  {
     "domain": "notice.line.me",
     "ip": "147.92.191.86"
   },
   {
-    "domain": "lan.line.me",
-    "ip": "147.92.191.86"
+    "domain": "design.line.me",
+    "ip": "2600:1409:7800::17dd:df9b"
   },
   {
-    "domain": "notice2.line.me",
-    "ip": "147.92.191.40"
+    "domain": "lan.line.me",
+    "ip": "147.92.191.86"
   },
   {
     "domain": "linevoom-blog.line.me",
@@ -3508,6 +3512,18 @@
     "ip": "184.26.80.54"
   },
   {
+    "domain": "w.line.me",
+    "ip": "104.71.133.95"
+  },
+  {
+    "domain": "career.line.me",
+    "ip": "147.92.146.211"
+  },
+  {
+    "domain": "campaign.line.me",
+    "ip": "173.222.229.162"
+  },
+  {
     "domain": "ticket.line.me",
     "ip": "23.60.72.14"
   },
@@ -3556,20 +3572,8 @@
     "ip": "104.71.132.34"
   },
   {
-    "domain": "w.line.me",
-    "ip": "104.71.133.95"
-  },
-  {
-    "domain": "career.line.me",
-    "ip": "147.92.146.211"
-  },
-  {
-    "domain": "campaign.line.me",
-    "ip": "173.222.229.162"
-  },
-  {
     "domain": "guide.line.me",
-    "ip": "54.230.126.39"
+    "ip": "54.230.126.57"
   },
   {
     "domain": "sticker-channel-option.line.me",
@@ -3836,11 +3840,11 @@
     "ip": "203.104.130.18"
   },
   {
-    "domain": "pod-payment.game.line.me",
+    "domain": "pod-store.game.line.me",
     "ip": "NXDOMAIN"
   },
   {
-    "domain": "pod-store.game.line.me",
+    "domain": "pod-payment.game.line.me",
     "ip": "NXDOMAIN"
   },
   {
@@ -3982,9 +3986,5 @@
   {
     "domain": "ticket-st.line.me",
     "ip": "ticket-st.line.me.edgekey.net"
-  },
-  {
-    "domain": "design.line.me",
-    "ip": "203.104.153.194"
   }
 ]
