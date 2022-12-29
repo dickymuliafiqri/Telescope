@@ -19,10 +19,11 @@ const domains = [
   "skolla.online",
   "udemy.com",
   "zoom.us",
-  "ac.id",
-  "co.id",
-  "go.id",
-  "com",
+  ".ac.id",
+  ".co.id",
+  ".go.id",
+  ".id",
+  ".com",
 ];
 
 if (!existsSync("./result")) mkdirSync("./result");

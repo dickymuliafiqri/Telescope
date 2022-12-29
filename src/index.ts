@@ -8,6 +8,7 @@ import { clearTerminal } from "./modules/helper.mjs";
 import { selector } from "./modules/selector.mjs";
 import { show } from "./modules/show.mjs";
 import { subfinder } from "./resources/subfinder.js";
+import { exit } from "process";
 
 // Create 'result' folder
 if (!existsSync("./result")) mkdirSync("./result");
@@ -17,7 +18,7 @@ subfinder.load();
   let selectedIndex = 0;
   let indexValue = "";
   let answer;
-  do {
+  while (true) {
     clearTerminal(false);
     initiator.checkFiles();
     initiator.count();
@@ -75,7 +76,7 @@ subfinder.load();
       case "Exit":
         console.log("");
         console.log("Thank you and have a nice day/night");
-        break;
+        exit(0);
     }
-  } while (selectedIndex != banner.numberOfMenu);
+  }
 })();

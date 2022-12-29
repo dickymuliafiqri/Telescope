@@ -128,7 +128,7 @@ class Show {
         ];
         writeListToTerminal(resultDetails);
 
-        (async () => {
+        await (async () => {
           let performance = "";
           if (info.server?.match(/cloudflare/i)) {
             performance = (await benchmark.cdn(unchalk(info.domain))) as string;
@@ -137,11 +137,11 @@ class Show {
           }
 
           resultDetails[resultDetails.length - 2] = performance;
-          writeListToTerminal(resultDetails);
-          console.log("");
-          select = parseInt((await selector.make(page[currPage], select - 1)).id.toString()) + 1;
+          // writeListToTerminal(resultDetails);
+          // console.log("");
+          // select = parseInt((await selector.make(page[currPage], select - 1)).id.toString()) + 1;
         })();
-        console.log("");
+        // console.log("");
       }
     } while (select != page[currPage].length);
   }

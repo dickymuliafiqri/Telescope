@@ -32,7 +32,8 @@ class SubFinder {
   }
 
   async run(domain?: string): Promise<number> {
-    const finalResult: Array<FinderResult> = [];
+    let finalResult: Array<FinderResult> = [];
+
     const onRun: Array<number> = [];
     const fetchResult: Array<Result> = [];
 
@@ -81,12 +82,14 @@ class SubFinder {
       finalResult.push(...finalResult, ...result.result);
     }
 
-    this.saveResult(this.filter(finalResult), domain);
+    finalResult = this.filter(finalResult);
+    this.saveResult(finalResult, domain);
 
     return finalResult.length;
   }
 
   private filter(result: Array<FinderResult>): Array<FinderResult> {
+    logger.log(logLevel.info, "Filtering result ...");
     // Filter \n
     for (const i in result) {
       const subDomain = result[i].domain;

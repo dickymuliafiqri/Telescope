@@ -1,3 +1,10 @@
+# 0.0.14
+
+- Wait for benchmark before showing result
+- Fix result count
+- Add autoscan domain
+- Better exit procedure
+
 # 0.0.13
 
 - Fix auto scan
