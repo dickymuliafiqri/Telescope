@@ -5728,6 +5728,14 @@
     "ip": ""
   },
   {
+    "domain": "www.potensi-kemuja.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
+    "domain": "potensi-kemuja.bangka.go.id.potensi.bangka.go.id",
+    "ip": "103.205.56.195"
+  },
+  {
     "domain": "www.neknang.bangka.go.id.desa.bangka.go.id",
     "ip": "103.205.56.195"
   },
@@ -5884,10 +5892,6 @@
     "ip": "131.153.77.171"
   },
   {
-    "domain": "www.potensi-kemuja.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
-  },
-  {
     "domain": "dharmayukti.pn-samarinda.go.id",
     "ip": "49.128.184.77"
   },
@@ -5918,10 +5922,6 @@
   {
     "domain": "arabic.pa-bulukumba.go.id",
     "ip": "103.82.240.58"
-  },
-  {
-    "domain": "potensi-kemuja.bangka.go.id.potensi.bangka.go.id",
-    "ip": "103.205.56.195"
   },
   {
     "domain": "www.sehati.bangka.go.id.opd.bangka.go.id",
@@ -6502,6 +6502,10 @@
   {
     "domain": "sipedas.pn-namlea.go.id",
     "ip": "103.29.215.198"
+  },
+  {
+    "domain": "bappeda.samarinda.go.id",
+    "ip": "203.119.112.62"
   },
   {
     "domain": "www.drivethru.pa-purbalingga.go.id",
@@ -7714,6 +7718,10 @@
   {
     "domain": "www.sisgra.pn-baturaja.go.id",
     "ip": "103.163.138.13"
+  },
+  {
+    "domain": "gunungterang.tubaba.go.id",
+    "ip": "103.18.117.164"
   },
   {
     "domain": "sipp.pn-salatiga.go.id",
