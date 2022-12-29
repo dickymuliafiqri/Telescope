@@ -1,5 +1,9 @@
 [
   {
+    "domain": "profileapi.services.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "divyarp.myworkspace.microsoft.com",
     "ip": "40.80.90.155"
   },
@@ -28389,10 +28393,6 @@
   },
   {
     "domain": "expertzone.microsoft.com",
-    "ip": ""
-  },
-  {
-    "domain": "profileapi.services.microsoft.com",
     "ip": ""
   },
   {
