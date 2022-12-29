@@ -1,5 +1,9 @@
 [
   {
+    "domain": "sjobentleylab.myworkspace.microsoft.com",
+    "ip": "23.96.176.250"
+  },
+  {
     "domain": "fd-emea.api.iris.microsoft.com",
     "ip": "51.11.233.143"
   },
