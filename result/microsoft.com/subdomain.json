@@ -1,5 +1,13 @@
 [
   {
+    "domain": "widgets.services.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
+    "domain": "vlresendtool.microsoft.com",
+    "ip": "20.49.104.10"
+  },
+  {
     "domain": "profileapi.services.microsoft.com",
     "ip": "2620:1ec:4f:1::69"
   },
@@ -137,10 +145,6 @@
   },
   {
     "domain": "uif.microsoft.com",
-    "ip": ""
-  },
-  {
-    "domain": "widgets.services.microsoft.com",
     "ip": ""
   },
   {
