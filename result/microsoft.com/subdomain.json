@@ -1,5 +1,9 @@
 [
   {
+    "domain": "divyarp.myworkspace.microsoft.com",
+    "ip": "40.80.90.155"
+  },
+  {
     "domain": "nsights.notes.microsoft.com",
     "ip": "NXDOMAIN"
   },
