@@ -1,5 +1,9 @@
 [
   {
+    "domain": "shopping.google.com",
+    "ip": "74.125.20.92"
+  },
+  {
     "domain": "google.com",
     "ip": "209.85.200.113"
   },
@@ -20033,10 +20037,6 @@
   },
   {
     "domain": "research.google.com",
-    "ip": ""
-  },
-  {
-    "domain": "shopping.google.com",
     "ip": ""
   },
   {

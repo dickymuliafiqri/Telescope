@@ -1,5 +1,13 @@
 [
   {
+    "domain": "stjudeglobal.zoom.us",
+    "ip": "www.zoom.us"
+  },
+  {
+    "domain": "api.zoom.us",
+    "ip": "zoom.us"
+  },
+  {
     "domain": "zoomsjcba190mmr.sjc.zoom.us",
     "ip": "144.195.26.190"
   },
