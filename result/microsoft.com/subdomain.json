@@ -1,5 +1,9 @@
 [
   {
+    "domain": "beta.leportaldev.microsoft.com",
+    "ip": "40.82.255.132"
+  },
+  {
     "domain": "m365-rfa-admin.microsoft.com",
     "ip": "20.118.56.4"
   },
