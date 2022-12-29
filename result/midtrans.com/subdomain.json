@@ -1,46 +1,34 @@
 [
   {
-    "domain": "p-prodsec-stig.midtrans.com",
+    "domain": "tcb-b.vn.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "cf-lb.api.google.midtrans.com",
+    "domain": "tcb-a.vn.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "api.stg.midtrans.com",
+    "domain": "mpgs.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "cf-lb-api.midtrans.com",
+    "domain": "www.mpgs.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "cf-lb-app.midtrans.com",
+    "domain": "www.api.google.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "mobile-docs.midtrans.com",
+    "domain": "www.vtweb2.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "api-docs.midtrans.com",
+    "domain": "www.app.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "dc1.ops.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "cf-lb.sandbox.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "account-gopay.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "passport-gopay.midtrans.com",
+    "domain": "www.checkout.midtrans.com",
     "ip": ""
   },
   {
@@ -296,31 +284,7 @@
     "ip": "50.63.202.12"
   },
   {
-    "domain": "tcb-b.vn.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "tcb-a.vn.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "mpgs.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "uob-exc.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "uob.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "recurring.midtrans.com",
-    "ip": ""
-  },
-  {
-    "domain": "store.midtrans.com",
+    "domain": "p-prodsec-stig.midtrans.com",
     "ip": ""
   },
   {
@@ -328,15 +292,35 @@
     "ip": ""
   },
   {
-    "domain": "checkout.midtrans.com",
+    "domain": "cf-lb.api.google.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "analytics.midtrans.com",
+    "domain": "store.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "andes.midtrans.com",
+    "domain": "api.stg.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "cf-lb-api.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "cf-lb-app.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "mobile-docs.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "api-docs.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "dc1.ops.midtrans.com",
     "ip": ""
   },
   {
@@ -344,23 +328,27 @@
     "ip": ""
   },
   {
-    "domain": "fingerprint.midtrans.com",
+    "domain": "cf-lb.sandbox.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "stg-checkout.midtrans.com",
+    "domain": "account-gopay.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "www.mpgs.midtrans.com",
+    "domain": "passport-gopay.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "sg.midtrans.com",
+    "domain": "uob.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "www.api.google.midtrans.com",
+    "domain": "analytics.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "checkout.midtrans.com",
     "ip": ""
   },
   {
@@ -368,7 +356,19 @@
     "ip": ""
   },
   {
+    "domain": "diesel.stg.midtrans.com",
+    "ip": ""
+  },
+  {
     "domain": "sandbox.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "uob-exc.midtrans.com",
+    "ip": ""
+  },
+  {
+    "domain": "stg-checkout.midtrans.com",
     "ip": ""
   },
   {
@@ -376,19 +376,19 @@
     "ip": ""
   },
   {
-    "domain": "www.vtweb2.midtrans.com",
+    "domain": "andes.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "www.app.midtrans.com",
+    "domain": "sg.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "www.checkout.midtrans.com",
+    "domain": "recurring.midtrans.com",
     "ip": ""
   },
   {
-    "domain": "diesel.stg.midtrans.com",
+    "domain": "fingerprint.midtrans.com",
     "ip": ""
   }
 ]
