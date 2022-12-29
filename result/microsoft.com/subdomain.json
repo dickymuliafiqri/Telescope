@@ -1,5 +1,9 @@
 [
   {
+    "domain": "fd-emea.api.iris.microsoft.com",
+    "ip": "51.11.233.143"
+  },
+  {
     "domain": "turn.teams.microsoft.com",
     "ip": "52.115.154.166"
   },
