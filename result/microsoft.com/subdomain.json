@@ -1,5 +1,9 @@
 [
   {
+    "domain": "empowerment-int.microsoft.com",
+    "ip": "13.107.237.69"
+  },
+  {
     "domain": "api.httcfrservice.microsoft.com",
     "ip": "20.150.248.104"
   },
