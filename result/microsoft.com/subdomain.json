@@ -1,5 +1,9 @@
 [
   {
+    "domain": "smartscreen-ppe.microsoft.com",
+    "ip": "20.120.49.47"
+  },
+  {
     "domain": "nsights.notes.microsoft.com",
     "ip": "NXDOMAIN"
   },
