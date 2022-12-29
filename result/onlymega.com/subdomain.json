@@ -8,10 +8,6 @@
     "ip": "104.26.5.10"
   },
   {
-    "domain": "sergio.onlymega.com",
-    "ip": ""
-  },
-  {
     "domain": "showcase.onlymega.com",
     "ip": "2600:9000:234d:6c00:3:5189:600:93a1"
   },
@@ -46,5 +42,9 @@
   {
     "domain": "www.onlymega.com",
     "ip": "54.231.33.92"
+  },
+  {
+    "domain": "sergio.onlymega.com",
+    "ip": ""
   }
 ]
