@@ -20,330 +20,6 @@
     "ip": "www.zoom.us"
   },
   {
-    "domain": "alertmanager.monitoring.keyserver-locator-us-04.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "grafana.monitoring.keyserver-locator-us-04.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "prometheus.monitoring.keyserver-locator-us-04.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "keyserver-locator-us-04.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "alertmanager.monitoring.keyserver-locator-us-03.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "grafana.monitoring.keyserver-locator-us-03.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "prometheus.monitoring.keyserver-locator-us-03.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "alertmanager.monitoring.keyserver-locator-go-04.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "grafana.monitoring.keyserver-locator-go-04.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "prometheus.monitoring.keyserver-locator-go-04.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "keyserver-locator-go-04.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "alertmanager.monitoring.keyserver-locator-go-03.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "grafana.monitoring.keyserver-locator-go-03.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "prometheus.monitoring.keyserver-locator-go-03.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "keyserver-locator-go-03.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomcares.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us06st-cf.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us02st-cf.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us07st-cf.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ally-learning.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "jenkins-client-ta.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "eu02hwaccess01.lej.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "eu02dm01.lej.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "maasbc01a.maa.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "blrsbc01a.blr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm01.maa.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm01.blr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "bcvmessaging.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "opswat.relsadev.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "gopbxstatic-cf.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "apps.setools.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "sonar.zdt.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "netsparker.eng-sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "gozccbyocny01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "gost-bk.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "bcvmicroservice.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "pii.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.fr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.hk.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.hy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.me.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.ny.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.os.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.qr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.sc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.sg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.dv.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.am.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.sp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.sy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "eu01hwaccess01.fr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess01.ty.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "eu01hwaccess01.am.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess201.dv.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess201.ny.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01hwaccess201.sc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ca01hwaccess01.vn.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ca01hwaccess01.tr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "au01hwaccess01.sy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "au01hwaccess01.me.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "gocsms-process.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "evt-us.qa.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "evt-eu.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "nygoai3lb.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "gohwaccess01.dv.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "dataquality.dw.zdt.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "opskit.tools.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "opskit-dev.tools.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "packages.tools.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zr-zoomnode-ca.tools.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "image.b.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "view.b.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "click.b.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "cloud.b.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "employee-learning.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ringcentral.meetzoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.zoomdvo110cc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.zoomff3-120-121-110cc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.zoom102.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.zoom101.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "www.zoom100.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
     "domain": "zoom.us",
     "ip": "170.114.52.2"
   },
@@ -16980,10 +16656,6 @@
     "ip": ""
   },
   {
-    "domain": "dvai3lb.zoom.us",
-    "ip": ""
-  },
-  {
     "domain": "x0-2-1-tt-ny1.mb.zoom.us",
     "ip": ""
   },
@@ -23129,18 +22801,6 @@
   },
   {
     "domain": "mta.e.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "cloud.e.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "click.e.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "view.e.zoom.us",
     "ip": ""
   },
   {
@@ -36196,14 +35856,6 @@
     "ip": ""
   },
   {
-    "domain": "zoomsc16ht.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomny16ht.zoom.us",
-    "ip": ""
-  },
-  {
     "domain": "zoomtj166ht.zoom.us",
     "ip": ""
   },
@@ -45740,1347 +45392,7 @@
     "ip": ""
   },
   {
-    "domain": "hybridsvr107.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr116.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr122.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomca54219077lsg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "publisher.explore.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm01.qr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel74.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "au01dm01.me.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomff1819695179rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "partner-learning.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "mdd-default.dev.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "identiq-edge.dev.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr129.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ringcentral-officeathand-att.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zpbyoc01.ops.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "devsupport.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr105.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "au01dm01.sy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel13.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "netbox.devnet.tools.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr124.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr102.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "artifactsaws.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr118.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomappdocs.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr123.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "jenkins.devnet.tools.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01sip0a.mx.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.hk.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "supportop.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "academy.university.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr125.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "airflowgo-flower.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "proxy.keyserver-in-01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "testdigicertfromvenafi.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel17.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "pbxexpress.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr112.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "grafana01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "splunk-sh.dev.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "beta.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "eu01prx01.am.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomff31278849rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "web-deploy-ha.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "blog.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.fr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "metadata.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "pbxadmin.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ringcentral-bt.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "support-op-staging.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel25.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "sndev.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hostforum.on.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "identiq-edge-int.dev.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomff1523611659mra.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomca12914687128mmr.cloud.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "jenkins.ops.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr110.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr120.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomca54219108170mmr.cloud.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr119.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomca1352244225mmr.cloud.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "scancentral.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "firemon-app-01.prod.sec-int.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "coverity.eng-sec.hq.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel21.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "splunk-syslog-paloaltocdl.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tss-dev2.dev.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel70.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "huawei100.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "pbx.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "au01prx01.sy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "mypartnerportal.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocssf01-dv.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva3420624241rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel49.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomap54250111122zc.cloud.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "academy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "mdd-tssdev.dev.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "airflowbts.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel62.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "netsparker.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr106.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr121.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva3517010649rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "airflowprod-mq.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm130.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "alertmanager.monitoring.keyserver-monitoring.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "image.e.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomca54176129144rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "growthsummit.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel68.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "sonar.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "netbox.net.tools.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "burpsuite.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel7.zoom.us",
-    "ip": ""
-  },
-  {
     "domain": "rts-devops.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "alertmanager.monitoring.keyserver-us-02.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel9.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel11.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel2.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "status.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "proxy.keyserver-us-04.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomca52106346mmr.cloud.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "investors.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "qrsbc.qr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "quality.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "click.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "eu01prx01.fr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr134.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva342038143rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ca01prx01.tr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocsam01-am.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel39.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomca44233208234rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.sy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ch01mongo1.corps.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel3.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "au01prx01.me.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ast-esx01.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr135.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr126.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr127.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "jenkins.admin.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr101.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "git.ops.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "checkmarx.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "airflowbts-mq.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "eu01dm01.am.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr103.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr109.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.qr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx201.ny.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr115.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocshk01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "support-op.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel10.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr132.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "foreman.dev.mgmt.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr114.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomap1816210733mmr.cloud.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr133.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel64.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "store.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "calendar.asynccomm.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "airflow.ts.cloud.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr108.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "smart.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva522123376rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ebc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "devforum.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "devm.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx201.dv.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocam01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel41.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "devcommunity.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel8.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomca5415166146rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "sonarqube.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "attend-crc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "pmawards.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "mdd-dev4.dev.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel43.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "proxy.keyserver-us-03.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "dayone.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.ny.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "airflowprod-flower.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "partnerdemandcenter.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "netbox-staging.tools.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel67.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "consulsc01.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "fortify-ssc.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "godm01.dv.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "blackduckalert.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "goldmansachs001.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "logfiles-internal.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "nws-dev.dev.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel73.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva321216168zc.cloud.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.sg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel51.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "blackduck.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel15.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "grafana.monitoring.keyserver-us-02.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ca01dm01.tr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "sip.lync.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "airflowgo.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "attcollaborate.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "proxy.keyserver-au-01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "artifactscn.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr111.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "goprx01.dv.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tableau.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "web-grafana.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "release.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm150.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel6.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm01.mb.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "testdigicertvenafi.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel80.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel23.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ringcentral-telus.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel76.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocsme01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel71.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tss-staging.dev.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel65.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "jenkins.deploy.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "brand.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel61.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva321117207zc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "mdd-dev3.dev.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "arch.rts-devops.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr104.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "mdd-prod.prod.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.sp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr100.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr130.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr136.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "stories.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel37.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "test100.hybrid.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ac041.asynccomm.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "alertmanager.monitoring.keyserver-us-01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "keyserver-us-02.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr113.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "web-deploy-us06.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocsdv01-ny.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel12.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.me.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "keyserver-beta.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ca01prx01.vn.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "proxy.keyserver-eu-01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr128.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "codedx.eng-sec.hq.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocssj01-ny.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel1.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "alertmanager.monitoring.keyserver-ca-01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "goprx01.sc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "artifacts.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "nifi-registry.sml.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "airflowbts-flower.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "alertmanager.monitoring.keyserver-go.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01byocsam01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel75.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "sntest.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "bdr.superheros.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel35.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "netsus.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "splunk-syslog-corp.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel27.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "anomali-integrator.dev.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm01.mx.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel69.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva313684150mmr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "airflowprod.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva5221802rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva52727673rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.sc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel33.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva31324263zc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "qa.tableau.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "eu01dm01.fr.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "checkmarx.hq.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "devblogfiles.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "identiq-edge-int.prod.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "cccup.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "proxy.keyserver-go-01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel77.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel19.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "fortify-lim.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "rccc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "az1gossrweb.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.ty.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "proxy.keyserver-ca-01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm01.sp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr137.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.os.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "westernunion100.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel66.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "prometheus.monitoring.keyserver-us-02.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "partneracademy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel31.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm01.os.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "mdd-dev5.dev.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx201.sc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "pki.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "identiq-edge.prod.tsse.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel45.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm01.sg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "artifactsus.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel63.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "jenkins.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ca01dm01.vn.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm01.hy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel5.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomci.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "alertmanager.monitoring.keyserver-beta.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva3423215131rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "snprod.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.am.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "calendar.async.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "justindev.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomff152361186mra.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "devdocs.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "rewards.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "splunk-syslog-workspaceone.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "testcertamk.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.dv.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "git.ds.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.hy.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "hybridsvr117.hybridmeeting.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01prx01.mb.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "web-deploy-us07.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "artifactssc.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel29.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "academylearn.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "cxdata.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomff181562931rwg.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel4.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "netbox.tools.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "splunk-syslog-meraki.sec.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "jenkins.net.tools.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva31218293zc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "web-deploy-us06.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "zoomva3211203zc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel47.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "lyncdev.eng.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel78.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ssc.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel79.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "us01dm140.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "alertmanager.monitoring.keyserver-au-01.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "git.corp.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "tunnel72.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "ac041.asynccommgo.zoom.us",
     "ip": ""
   },
   {
@@ -47296,19 +45608,7 @@
     "ip": ""
   },
   {
-    "domain": "gohwaccess01.sc.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "integration-zoomrooms.zoom.us",
-    "ip": ""
-  },
-  {
     "domain": "us04-logfiles-va-9.zoom.us",
-    "ip": ""
-  },
-  {
-    "domain": "eu02csmsff1.zoom.us",
     "ip": ""
   },
   {
@@ -47365,6 +45665,1706 @@
   },
   {
     "domain": "ca01ssrweb.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "alertmanager.monitoring.keyserver-locator-us-04.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "grafana.monitoring.keyserver-locator-us-04.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "prometheus.monitoring.keyserver-locator-us-04.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "keyserver-locator-us-04.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "alertmanager.monitoring.keyserver-locator-us-03.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "grafana.monitoring.keyserver-locator-us-03.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "prometheus.monitoring.keyserver-locator-us-03.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "alertmanager.monitoring.keyserver-locator-go-04.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "grafana.monitoring.keyserver-locator-go-04.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "prometheus.monitoring.keyserver-locator-go-04.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "keyserver-locator-go-04.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "alertmanager.monitoring.keyserver-locator-go-03.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "grafana.monitoring.keyserver-locator-go-03.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "prometheus.monitoring.keyserver-locator-go-03.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "keyserver-locator-go-03.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomcares.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us06st-cf.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us02st-cf.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us07st-cf.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ally-learning.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "jenkins-client-ta.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "eu02hwaccess01.lej.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "eu02dm01.lej.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "maasbc01a.maa.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "blrsbc01a.blr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm01.maa.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm01.blr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "bcvmessaging.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "opswat.relsadev.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "gopbxstatic-cf.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "apps.setools.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "sonar.zdt.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "netsparker.eng-sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "gozccbyocny01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "gost-bk.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "bcvmicroservice.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "pii.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.fr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.hk.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.hy.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.me.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.ny.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.os.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.qr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.sc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.sg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.dv.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.am.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.sp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.sy.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "eu01hwaccess01.fr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess01.ty.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "eu01hwaccess01.am.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess201.dv.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess201.ny.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01hwaccess201.sc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ca01hwaccess01.vn.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ca01hwaccess01.tr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "au01hwaccess01.sy.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "au01hwaccess01.me.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "eu02csmsff1.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "gocsms-process.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "evt-us.qa.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "evt-eu.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "nygoai3lb.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "integration-zoomrooms.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "gohwaccess01.dv.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "gohwaccess01.sc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "dataquality.dw.zdt.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "opskit.tools.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "opskit-dev.tools.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "packages.tools.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zr-zoomnode-ca.tools.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "image.b.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "view.b.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "click.b.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "cloud.b.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "employee-learning.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "airflow.ts.cloud.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ringcentral.meetzoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "partner-learning.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "arch.rts-devops.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "rewards.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "partneracademy.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "codedx.eng-sec.hq.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "coverity.eng-sec.hq.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "foreman.dev.mgmt.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "netbox.net.tools.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "netbox.devnet.tools.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "jenkins.net.tools.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "jenkins.devnet.tools.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "artifactsaws.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "checkmarx.hq.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.zoomdvo110cc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.zoomff3-120-121-110cc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "netbox-staging.tools.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "netbox.tools.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ebc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "anomali-integrator.dev.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ac041.asynccommgo.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomca12914687128mmr.cloud.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "qrsbc.qr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ch01mongo1.corps.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "partnerdemandcenter.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "devm.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "artifactsus.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "artifactscn.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "splunk-sh.dev.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "nws-dev.dev.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "consulsc01.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "netsparker.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "lyncdev.eng.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "support-op-staging.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "support-op.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "jenkins.deploy.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "nifi-registry.sml.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "sonarqube.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "artifactssc.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "godm01.dv.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ac041.asynccomm.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "splunk-syslog-workspaceone.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "git.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.mb.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.hy.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.sy.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.me.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.hk.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ca01prx01.vn.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ca01prx01.tr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "eu01prx01.fr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.sg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "eu01prx01.am.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.ty.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "au01prx01.sy.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.os.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "au01prx01.me.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx201.dv.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx201.ny.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.qr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx201.sc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.sp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.dv.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.ny.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.fr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.sc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01prx01.am.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "goprx01.dv.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "goprx01.sc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "identiq-edge-int.prod.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "identiq-edge.prod.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "testcertamk.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "testdigicertvenafi.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "testdigicertfromvenafi.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm140.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm150.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "splunk-syslog-meraki.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "splunk-syslog-paloaltocdl.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "splunk-syslog-corp.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tss-dev2.dev.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "publisher.explore.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "justindev.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tss-staging.dev.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "academylearn.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "proxy.keyserver-eu-01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "proxy.keyserver-in-01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "proxy.keyserver-au-01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "proxy.keyserver-us-04.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "proxy.keyserver-us-03.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "proxy.keyserver-ca-01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "proxy.keyserver-go-01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "mdd-prod.prod.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomci.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "calendar.asynccomm.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "mdd-dev5.dev.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "mdd-dev4.dev.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ssc.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "scancentral.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "mdd-dev3.dev.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "mdd-tssdev.dev.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "identiq-edge-int.dev.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "calendar.async.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "pmawards.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "identiq-edge.dev.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "blackduck.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "release.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zpbyoc01.ops.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "cccup.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "beta.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "mdd-default.dev.tsse.sec.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "devblogfiles.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "firemon-app-01.prod.sec-int.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "devsupport.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "cxdata.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomap54250111122zc.cloud.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm01.qr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm130.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "jenkins.ops.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomca54219077lsg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "grafana01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "dvai3lb.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "jenkins.admin.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "brand.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel6.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel19.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel33.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel39.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel49.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel64.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomsc16ht.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomny16ht.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel80.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel79.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel78.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel77.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel76.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel75.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel74.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel73.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel72.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel71.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel70.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel69.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel68.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel67.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel65.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel66.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel63.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel62.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel61.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel1.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel10.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel11.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel12.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel13.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel15.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel17.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel2.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel21.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel23.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel25.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel27.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel29.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel3.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel31.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel35.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel37.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel4.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel41.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel43.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel45.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel47.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel5.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel51.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel7.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel8.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tunnel9.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomff1523611659mra.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ast-esx01.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "blackduckalert.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomap1816210733mmr.cloud.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomff152361186mra.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "sonar.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "fortify-ssc.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "fortify-lim.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr137.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "web-deploy-us07.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "artifacts.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "attend-crc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva313684150mmr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "pki.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomca52106346mmr.cloud.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "burpsuite.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "au01dm01.me.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm01.mb.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ca01dm01.tr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "eu01dm01.am.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm01.mx.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01sip0a.mx.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ca01dm01.vn.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "eu01dm01.fr.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm01.hy.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "checkmarx.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "au01dm01.sy.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "image.e.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "view.e.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "cloud.e.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "click.e.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hostforum.on.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr136.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "qa.tableau.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "alertmanager.monitoring.keyserver-au-01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "alertmanager.monitoring.keyserver-ca-01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "web-deploy-us06.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "web-deploy-us06.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "alertmanager.monitoring.keyserver-monitoring.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "web-grafana.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "metadata.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "jenkins.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "airflowprod.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "airflowprod-mq.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "airflowprod-flower.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "airflowgo.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "airflowgo-flower.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "airflowbts.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "airflowbts-mq.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "airflowbts-flower.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "web-deploy-ha.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "git.ops.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "git.ds.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "prometheus.monitoring.keyserver-us-02.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "keyserver-us-02.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "alertmanager.monitoring.keyserver-us-02.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "grafana.monitoring.keyserver-us-02.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "alertmanager.monitoring.keyserver-us-01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "stories.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "growthsummit.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomca5415166146rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomca54176129144rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva52727673rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva3423215131rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomca1352244225mmr.cloud.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva3517010649rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva5221802rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva3420624241rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva522123376rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva342038143rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomca54219108170mmr.cloud.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "rccc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "logfiles-internal.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomca44233208234rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomff181562931rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva321216168zc.cloud.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomff31278849rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva321117207zc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva31218293zc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva31324263zc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomva3211203zc.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "alertmanager.monitoring.keyserver-beta.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "keyserver-beta.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm01.sp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm01.sg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01dm01.os.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "alertmanager.monitoring.keyserver-go.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomff1819695179rwg.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr135.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr134.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr133.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr132.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocsam01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "tableau.corp.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "click.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "snprod.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "sntest.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocssf01-dv.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocsdv01-ny.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "sndev.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocshk01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocsme01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "netsus.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocsam01-am.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "quality.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocssj01-ny.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr130.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr128.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr127.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr129.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr126.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "zoomappdocs.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "academy.university.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "us01byocam01.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.zoom102.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "mypartnerportal.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr124.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr125.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr123.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr122.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr121.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr120.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr117.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr119.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr116.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr115.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr118.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "investors.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr113.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr114.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr112.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr111.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "goldmansachs001.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "az1gossrweb.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "smart.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr110.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.zoom101.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr108.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr102.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr101.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr103.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr104.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr105.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr106.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr109.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr107.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "westernunion100.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "www.zoom100.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "hybridsvr100.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "huawei100.hybridmeeting.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "devforum.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "bdr.superheros.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "dayone.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "devdocs.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "academy.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "blog.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "supportop.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "attcollaborate.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ringcentral-bt.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ringcentral-officeathand-att.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "ringcentral-telus.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "pbx.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "pbxexpress.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "pbxadmin.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "test100.hybrid.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "sip.lync.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "status.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "devcommunity.zoom.us",
+    "ip": ""
+  },
+  {
+    "domain": "store.zoom.us",
     "ip": ""
   },
   {
