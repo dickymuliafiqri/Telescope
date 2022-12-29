@@ -1,5 +1,9 @@
 [
   {
+    "domain": "asia.tip2.powerapps-staging.microsoft.com",
+    "ip": "40.118.131.126"
+  },
+  {
     "domain": "sjobentleylab.myworkspace.microsoft.com",
     "ip": "23.96.176.250"
   },

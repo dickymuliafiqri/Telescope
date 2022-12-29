@@ -1,8 +1,5 @@
 [
   {
-    "domain": "error invalid host"
-  },
-  {
     "domain": "dprd-luwukab.go.id",
     "ip": ""
   },
@@ -10361,5 +10358,8 @@
   {
     "domain": "kominfo.go.id",
     "ip": ""
+  },
+  {
+    "domain": "error invalid host"
   }
 ]
