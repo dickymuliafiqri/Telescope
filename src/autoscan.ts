@@ -70,7 +70,7 @@ class AutoScan {
         const controller = new AbortController();
         const timeout = setTimeout(() => {
           controller.abort();
-        }, 3000);
+        }, 30000);
 
         let url = subdomain.domain || subdomain.ip;
         if (url.match("@")) url = url.replace(/^.+@/i, "");
