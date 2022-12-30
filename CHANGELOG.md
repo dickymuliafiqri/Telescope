@@ -1,3 +1,7 @@
+# 0.0.16
+
+- Better auto scan
+
 # 0.0.15
 
 - Update TLD list

@@ -1,9 +1,11 @@
-import { existsSync, mkdirSync } from "fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "fs";
 import { sleep } from "./modules/helper.mjs";
 import { logLevel, logger } from "./modules/logger.mjs";
 import { subfinder } from "./resources/subfinder.js";
 import { initiator } from "./modules/initiator.mjs";
-import { scanner } from "./modules/scanner.mjs";
+import { FinderResult } from "./resources/subfinder.js";
+import { DomainResult } from "./modules/scanner.mjs";
+import fetch from "node-fetch";
 
 const domains = [
   ".ac.id",
@@ -29,12 +31,12 @@ class AutoScan {
     const onRun: Array<number> = [];
     for (const domain of domains) {
       onRun.push(1);
-      await subfinder.run(domain).finally(() => {
+      subfinder.run(domain).finally(() => {
         onRun.shift();
       });
 
       let isStuck = 120;
-      if (onRun.length > 10) {
+      if (onRun.length > 3) {
         logger.log(logLevel.info, "Waiting another process ...");
         await sleep(1000);
 
@@ -60,11 +62,80 @@ class AutoScan {
 
   async run() {
     for (const domain of domains) {
-      initiator.domain = domain;
-      initiator.estScan = 60;
+      const result: DomainResult[] = [];
+      const subdomains: FinderResult[] = JSON.parse(readFileSync(`./result/${domain}/subdomain.json`).toString());
 
-      initiator.count();
-      await scanner.direct();
+      const onFetch: string[] = [];
+      for (const subdomain of subdomains) {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => {
+          controller.abort();
+        }, 3000);
+
+        let url = subdomain.domain || subdomain.ip;
+        if (url.match("@")) url = url.replace(/^.+@/i, "");
+        onFetch.push(url);
+        fetch(`https://${url}`, {
+          method: "GET",
+          signal: controller.signal,
+          headers: {
+            "User-Agent": initiator.user_agent,
+          },
+        })
+          .then((res) => {
+            clearTimeout(timeout);
+
+            if (res.status != 200) throw new Error(res.statusText);
+
+            let server = res.headers.get("server");
+            if (server) server = server.match(/^(\w+)/i)?.[1] ?? null;
+            if (server) {
+              if (server.match(/cloud(front|flare)/i)) {
+                result.push({
+                  ...subdomain,
+                  domain: url,
+                  server: server.toLowerCase(),
+                  statusCode: res.status,
+                });
+
+                logger.log(logLevel.success, `${url} -> [${server}]`);
+              }
+            }
+          })
+          .catch((e: Error) => {
+            logger.log(logLevel.error, `${url} -> [${e.message}]`);
+          })
+          .finally(() => {
+            onFetch.shift();
+          });
+
+        let isStuck = 30;
+        while (onFetch.length > 60) {
+          --isStuck;
+          await sleep(1000);
+
+          if (isStuck <= 0) {
+            while (onFetch[0]) {
+              onFetch.shift();
+            }
+            break;
+          }
+        }
+      }
+      let isStuck = 30;
+      while (onFetch.length > 1) {
+        --isStuck;
+        await sleep(1000);
+
+        if (isStuck <= 0) {
+          while (onFetch[0]) {
+            onFetch.shift();
+          }
+          break;
+        }
+      }
+
+      writeFileSync(`./result/${domain}/direct.json`, JSON.stringify(result, null, 2));
     }
   }
 }
