@@ -71,10 +71,6 @@
     "ip": "2828691.group41.sites.hubspot.net"
   },
   {
-    "domain": "skillacademy.com",
-    "ip": "104.18.25.139"
-  },
-  {
     "domain": "enterprise.skillacademy.com",
     "ip": "2828691.group41.sites.hubspot.net"
   },
@@ -125,6 +121,10 @@
   {
     "domain": "cdn.skillacademy.com",
     "ip": "p2.shared.global.fastly.net"
+  },
+  {
+    "domain": "skillacademy.com",
+    "ip": "104.18.24.139"
   },
   {
     "domain": "wa-me.skillacademy.com",
