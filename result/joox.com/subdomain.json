@@ -51,6 +51,18 @@
     "domain": "API count exceeded - Increase Quota with Membership"
   },
   {
+    "domain": "test.s-app.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "th.cos.image.joox.com",
+    "ip": ""
+  },
+  {
+    "domain": "hk.cos.image.joox.com",
+    "ip": ""
+  },
+  {
     "domain": "mm.api.joox.com",
     "ip": "NXDOMAIN"
   },
@@ -269,18 +281,6 @@
   {
     "domain": "cos.image.joox.com",
     "ip": "203.205.191.24"
-  },
-  {
-    "domain": "test.s-app.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "th.cos.image.joox.com",
-    "ip": ""
-  },
-  {
-    "domain": "hk.cos.image.joox.com",
-    "ip": ""
   },
   {
     "domain": "my.app.joox.com",

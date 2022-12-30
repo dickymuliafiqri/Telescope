@@ -3,9 +3,6 @@
     "domain": "API count exceeded - Increase Quota with Membership"
   },
   {
-    "domain": "error invalid host"
-  },
-  {
     "domain": "dprd-luwukab.go.id",
     "ip": ""
   },
@@ -10364,5 +10361,8 @@
   {
     "domain": "kominfo.go.id",
     "ip": ""
+  },
+  {
+    "domain": "error invalid host"
   }
 ]
