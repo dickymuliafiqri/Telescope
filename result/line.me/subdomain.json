@@ -2980,6 +2980,154 @@
     "ip": ""
   },
   {
+    "domain": "jobs.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "clova-cek-requests.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "man-admin.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "org-5thanniversary.game.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "5thanniversary.game.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "ace.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "sign.game.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "agecheck.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "api.news.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "ja.play.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "contact-m.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "ad-center.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "sticker-contest.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "contact.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "admin-official.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "partner.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "landpress.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "apigw.jp2.saas.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "line-online.me",
+    "ip": ""
+  },
+  {
+    "domain": "deals.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "growthy.game.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "alpha-ace.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "alpha-lcs.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "alpha-nc.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "linepay.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "gameportal.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "supportcontents.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "nc.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "cc.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "lcs.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "today-api.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "keep.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "timeline.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "tale.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "scdn.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "www.sticker-contest.line.me",
+    "ip": ""
+  },
+  {
+    "domain": "lineit.line.me",
+    "ip": "cac-lineit.line.me.line-zero.akadns.net"
+  },
+  {
     "domain": "event-web.line.me",
     "ip": "cac-event-web.line.me.line-zero.akadns.net"
   },
@@ -3352,6 +3500,10 @@
     "ip": "23.44.160.212"
   },
   {
+    "domain": "help.line.me",
+    "ip": "184.26.80.54"
+  },
+  {
     "domain": "creator-static.line.me",
     "ip": "184.26.80.54"
   },
@@ -3360,8 +3512,20 @@
     "ip": "184.26.80.54"
   },
   {
-    "domain": "help.line.me",
-    "ip": "184.26.80.54"
+    "domain": "help2.line.me",
+    "ip": "104.71.132.34"
+  },
+  {
+    "domain": "square-api.line.me",
+    "ip": "104.71.133.95"
+  },
+  {
+    "domain": "today.line.me",
+    "ip": "104.71.132.34"
+  },
+  {
+    "domain": "lan3rd.line.me",
+    "ip": "104.71.132.34"
   },
   {
     "domain": "w.line.me",
@@ -3404,28 +3568,16 @@
     "ip": "173.222.229.162"
   },
   {
-    "domain": "api.today.line.me",
-    "ip": "104.71.132.34"
-  },
-  {
-    "domain": "help2.line.me",
-    "ip": "104.71.132.34"
-  },
-  {
-    "domain": "square-api.line.me",
-    "ip": "104.71.133.95"
-  },
-  {
-    "domain": "today.line.me",
-    "ip": "104.71.132.34"
-  },
-  {
-    "domain": "lan3rd.line.me",
-    "ip": "104.71.132.34"
+    "domain": "ticket-st.line.me",
+    "ip": "2600:1409:5000:28a::44e"
   },
   {
     "domain": "guide.line.me",
-    "ip": "54.230.126.57"
+    "ip": "2600:9000:20be:800:0:3e98:1940:93a1"
+  },
+  {
+    "domain": "api.today.line.me",
+    "ip": "104.71.132.34"
   },
   {
     "domain": "sticker-channel-option.line.me",
@@ -3834,157 +3986,5 @@
   {
     "domain": "buy.line.me",
     "ip": "production-ingress-public.devops.tw.line-apps.com"
-  },
-  {
-    "domain": "ticket-st.line.me",
-    "ip": "ticket-st.line.me.edgekey.net"
-  },
-  {
-    "domain": "jobs.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "clova-cek-requests.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "man-admin.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "org-5thanniversary.game.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "5thanniversary.game.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "ace.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "sign.game.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "agecheck.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "api.news.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "ja.play.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "contact-m.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "ad-center.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "sticker-contest.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "contact.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "admin-official.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "partner.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "landpress.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "apigw.jp2.saas.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "line-online.me",
-    "ip": ""
-  },
-  {
-    "domain": "deals.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "growthy.game.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "alpha-ace.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "alpha-lcs.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "alpha-nc.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "linepay.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "gameportal.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "supportcontents.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "nc.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "cc.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "lcs.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "today-api.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "lineit.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "keep.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "timeline.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "tale.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "scdn.line.me",
-    "ip": ""
-  },
-  {
-    "domain": "www.sticker-contest.line.me",
-    "ip": ""
   }
 ]
