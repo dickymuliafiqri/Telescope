@@ -29,7 +29,7 @@ class AutoScan {
     const onRun: Array<number> = [];
     for (const domain of domains) {
       onRun.push(1);
-      subfinder.run(domain).finally(() => {
+      await subfinder.run(domain).finally(() => {
         onRun.shift();
       });
 
