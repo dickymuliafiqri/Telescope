@@ -1,5 +1,13 @@
 [
   {
+    "domain": "choice.microsoft.com",
+    "ip": "104.115.156.28"
+  },
+  {
+    "domain": "tip2.powerapps.microsoft.com",
+    "ip": "138.91.198.152"
+  },
+  {
     "domain": "azuremarketplace.microsoft.com",
     "ip": "2620:1ec:4f:1::69"
   },
@@ -28473,10 +28481,6 @@
   },
   {
     "domain": "lva.msllab.microsoft.com",
-    "ip": ""
-  },
-  {
-    "domain": "choice.microsoft.com",
     "ip": ""
   },
   {
