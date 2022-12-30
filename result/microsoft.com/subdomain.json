@@ -1,5 +1,9 @@
 [
   {
+    "domain": "appsource.microsoft.com",
+    "ip": "2620:1ec:4f:1::69"
+  },
+  {
     "domain": "tip2.powerapps-staging.microsoft.com",
     "ip": "138.91.198.113"
   },
@@ -381,10 +385,6 @@
   },
   {
     "domain": "visualstudio.microsoft.com",
-    "ip": ""
-  },
-  {
-    "domain": "appsource.microsoft.com",
     "ip": ""
   },
   {
