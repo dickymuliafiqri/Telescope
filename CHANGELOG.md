@@ -1,3 +1,8 @@
+# 0.0.15
+
+- Update TLD list
+- Add direct scan on auto scan schedule
+
 # 0.0.14
 
 - Wait for benchmark before showing result

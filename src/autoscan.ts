@@ -2,63 +2,78 @@ import { existsSync, mkdirSync } from "fs";
 import { sleep } from "./modules/helper.mjs";
 import { logLevel, logger } from "./modules/logger.mjs";
 import { subfinder } from "./resources/subfinder.js";
+import { initiator } from "./modules/initiator.mjs";
+import { scanner } from "./modules/scanner.mjs";
 
 const domains = [
-  "academia.edu",
-  "skillacademy.com",
-  "microsoft.com",
-  "spotify.com",
-  "joox.com",
-  "kno2fy.com",
-  "onlymega.com",
-  "google.com",
-  "line.me",
-  "midtrans.com",
-  "digicert.com",
-  "millionaireaisle.com",
-  "skolla.online",
-  "udemy.com",
-  "zoom.us",
   ".ac.id",
   ".co.id",
   ".go.id",
+  ".or.id",
+  ".web.id",
   ".id",
   ".com",
+  ".net",
+  ".org",
+  ".us",
+  ".info",
+  ".edu",
 ];
 
 if (!existsSync("./result")) mkdirSync("./result");
 
 subfinder.load();
-(async () => {
-  await sleep(1000);
-  const onRun: Array<number> = [];
-  for (const domain of domains) {
-    onRun.push(1);
-    subfinder.run(domain).finally(() => {
-      onRun.shift();
-    });
+
+class AutoScan {
+  async getSubdomains() {
+    const onRun: Array<number> = [];
+    for (const domain of domains) {
+      onRun.push(1);
+      subfinder.run(domain).finally(() => {
+        onRun.shift();
+      });
+
+      let isStuck = 120;
+      if (onRun.length > 10) {
+        logger.log(logLevel.info, "Waiting another process ...");
+        await sleep(1000);
+
+        --isStuck;
+        if (!isStuck) {
+          while (onRun[0]) {
+            onRun.shift();
+          }
+        }
+      }
+    }
 
     let isStuck = 120;
-    if (onRun.length > 10) {
-      logger.log(logLevel.info, "Waiting another process ...");
+    do {
       await sleep(1000);
 
       --isStuck;
       if (!isStuck) {
-        while (onRun[0]) {
-          onRun.shift();
-        }
+        break;
       }
-    }
+    } while (onRun[0]);
   }
 
-  let isStuck = 120;
-  do {
-    await sleep(1000);
+  async run() {
+    for (const domain of domains) {
+      initiator.domain = domain;
+      initiator.estScan = 60;
 
-    --isStuck;
-    if (!isStuck) {
-      break;
+      initiator.count();
+      await scanner.direct();
     }
-  } while (onRun[0]);
+  }
+}
+
+const autoScan = new AutoScan();
+(async () => {
+  // Wait module to be loaded
+  await sleep(1000);
+
+  await autoScan.getSubdomains();
+  await autoScan.run();
 })();
