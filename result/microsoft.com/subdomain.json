@@ -1,5 +1,9 @@
 [
   {
+    "domain": "tip2.powerapps-staging.microsoft.com",
+    "ip": "138.91.198.113"
+  },
+  {
     "domain": "nsights.notes.microsoft.com",
     "ip": "NXDOMAIN"
   },
