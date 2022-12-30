@@ -903,18 +903,6 @@
     "ip": "99.84.66.65"
   },
   {
-    "domain": "try.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "support.academia.edu",
-    "ip": ""
-  },
-  {
-    "domain": "engineering.academia.edu",
-    "ip": ""
-  },
-  {
     "domain": "academia.edu",
     "ip": "99.84.160.121"
   },
@@ -3393,5 +3381,17 @@
   {
     "domain": "unisarc.academia.edu",
     "ip": "99.86.38.101"
+  },
+  {
+    "domain": "try.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "support.academia.edu",
+    "ip": ""
+  },
+  {
+    "domain": "engineering.academia.edu",
+    "ip": ""
   }
 ]
