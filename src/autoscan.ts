@@ -75,7 +75,7 @@ class AutoScan {
         let url = subdomain.domain || subdomain.ip;
         if (url.match("@")) url = url.replace(/^.+@/i, "");
         onFetch.push(url);
-        fetch(`https://${url}`, {
+        await fetch(`https://${url}`, {
           method: "GET",
           signal: controller.signal,
           headers: {
