@@ -3,9 +3,6 @@
     "domain": "API count exceeded - Increase Quota with Membership"
   },
   {
-    "domain": "error invalid host"
-  },
-  {
     "domain": "first.umy.ac.id",
     "ip": ""
   },
@@ -10256,5 +10253,8 @@
   {
     "domain": "ugm.ac.id",
     "ip": ""
+  },
+  {
+    "domain": "error invalid host"
   }
 ]
