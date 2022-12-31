@@ -1,5 +1,8 @@
 [
   {
+    "domain": "error invalid host"
+  },
+  {
     "domain": "ebank.ultrajaya.co.id",
     "ip": ""
   },
@@ -11986,8 +11989,5 @@
   {
     "domain": "cnooc.co.id",
     "ip": ""
-  },
-  {
-    "domain": "error invalid host"
   }
 ]
