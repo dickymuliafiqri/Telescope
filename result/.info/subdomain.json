@@ -1,8 +1,5 @@
 [
   {
-    "domain": "error invalid host"
-  },
-  {
     "domain": "dang5.info",
     "ip": ""
   },
@@ -22905,5 +22902,8 @@
   {
     "domain": "smtp.totalcom.info",
     "ip": ""
+  },
+  {
+    "domain": "error invalid host"
   }
 ]
