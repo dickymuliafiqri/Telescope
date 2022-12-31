@@ -1,8 +1,5 @@
 [
   {
-    "domain": "error invalid host"
-  },
-  {
     "domain": "API count exceeded - Increase Quota with Membership"
   },
   {
@@ -10364,5 +10361,8 @@
   {
     "domain": "kominfo.go.id",
     "ip": ""
+  },
+  {
+    "domain": "error invalid host"
   }
 ]
