@@ -1,5 +1,8 @@
 [
   {
+    "domain": "error invalid host"
+  },
+  {
     "domain": "emresourcecenter.nlectc.du.edu",
     "ip": ""
   },
@@ -22914,8 +22917,5 @@
   {
     "domain": "kent.edu",
     "ip": ""
-  },
-  {
-    "domain": "error invalid host"
   }
 ]
