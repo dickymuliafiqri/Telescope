@@ -31,17 +31,17 @@ class AutoScan {
     const onRun: Array<number> = [];
     for (const domain of domains) {
       onRun.push(1);
-      await subfinder.run(domain).finally(() => {
+      subfinder.run(domain).finally(() => {
         onRun.shift();
       });
 
-      let isStuck = 120;
+      let isStuck = 160;
       if (onRun.length > 3) {
         logger.log(logLevel.info, "Waiting another process ...");
         await sleep(1000);
 
         --isStuck;
-        if (!isStuck) {
+        if (isStuck <= 0) {
           while (onRun[0]) {
             onRun.shift();
           }
@@ -54,7 +54,7 @@ class AutoScan {
       await sleep(1000);
 
       --isStuck;
-      if (!isStuck) {
+      if (isStuck <= 0) {
         break;
       }
     } while (onRun[0]);

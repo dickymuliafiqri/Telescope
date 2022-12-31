@@ -71,7 +71,7 @@ class SubFinder {
 
     let loop = 0;
     do {
-      if (loop >= 60) break;
+      if (loop >= 120) break;
       loop++;
       await sleep(1000);
     } while (onRun[0]);
