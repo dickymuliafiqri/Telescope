@@ -1,5 +1,8 @@
 [
   {
+    "domain": "error invalid host"
+  },
+  {
     "domain": "sceweb.sce.cc.ca.us",
     "ip": ""
   },
@@ -22854,8 +22857,5 @@
   {
     "domain": "family.daitch.us",
     "ip": ""
-  },
-  {
-    "domain": "error invalid host"
   }
 ]
