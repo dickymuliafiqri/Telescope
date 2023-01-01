@@ -1,8 +1,5 @@
 [
   {
-    "domain": "error invalid host"
-  },
-  {
     "domain": "mail.riv.or.id",
     "ip": ""
   },
@@ -3637,5 +3634,8 @@
   {
     "domain": "webmaster@karo.or.id",
     "ip": ""
+  },
+  {
+    "domain": "error invalid host"
   }
 ]
