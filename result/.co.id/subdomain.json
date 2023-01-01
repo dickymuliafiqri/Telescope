@@ -3,9 +3,6 @@
     "domain": "API count exceeded - Increase Quota with Membership"
   },
   {
-    "domain": "error invalid host"
-  },
-  {
     "domain": "ebank.ultrajaya.co.id",
     "ip": ""
   },
@@ -11992,5 +11989,8 @@
   {
     "domain": "cnooc.co.id",
     "ip": ""
+  },
+  {
+    "domain": "error invalid host"
   }
 ]
