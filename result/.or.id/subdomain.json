@@ -1,8 +1,5 @@
 [
   {
-    "domain": "error invalid host"
-  },
-  {
     "domain": "mail.riv.or.id",
     "ip": ""
   },
@@ -741,6 +738,9 @@
   {
     "domain": "donasi.karo.or.id",
     "ip": ""
+  },
+  {
+    "domain": "error invalid host"
   },
   {
     "domain": "postmaster@riv.or.id",
