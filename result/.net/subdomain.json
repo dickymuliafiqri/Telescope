@@ -1,8 +1,5 @@
 [
   {
-    "domain": "error invalid host"
-  },
-  {
     "domain": "basen.net",
     "ip": ""
   },
@@ -12029,6 +12026,9 @@
   {
     "domain": "hqit.net",
     "ip": ""
+  },
+  {
+    "domain": "error invalid host"
   },
   {
     "domain": "www.basen.net",
