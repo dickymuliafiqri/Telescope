@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, writeFileSync, readdirSync } from "fs";
 import { sleep } from "../modules/helper.mjs";
 import { initiator } from "../modules/initiator.mjs";
 import { logger, logLevel } from "../modules/logger.mjs";
+import url from "url";
 
 export interface FinderResult {
   domain: string;
@@ -27,7 +28,7 @@ class SubFinder {
     const subFinderList = readdirSync(subFinderPath);
 
     for (let i = 0; i < subFinderList.length; i++) {
-      import(`${subFinderPath}/${subFinderList[i]}`);
+      import(url.pathToFileURL(`${subFinderPath}/${subFinderList[i]}`).href);
     }
   }
 
@@ -49,7 +50,9 @@ class SubFinder {
       finder(domain ?? initiator.domain, controller.signal)
         .then((res: Result) => {
           if (res.error) {
-            console.log(`${logger.wrap(logLevel.error, res.subfinder)} : ${res.message}`);
+            console.log(
+              `${logger.wrap(logLevel.error, res.subfinder)} : ${res.message}`
+            );
           } else if (res.result) {
             fetchResult.push(res);
           }
@@ -146,7 +149,10 @@ class SubFinder {
     const savePath = `${initiator.path}/result/${domain ?? initiator.domain}`;
     if (!existsSync(`${savePath}`)) mkdirSync(`${savePath}`);
 
-    writeFileSync(`${savePath}/subdomain.json`, JSON.stringify(result, null, 2));
+    writeFileSync(
+      `${savePath}/subdomain.json`,
+      JSON.stringify(result, null, 2)
+    );
   }
 }
 
