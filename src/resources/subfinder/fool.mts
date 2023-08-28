@@ -1,28 +1,33 @@
 /**
  * by dickymuliafiqri
- * 23122022
+ * 29082023
  */
 
 import fetch from "node-fetch";
 import { logger, logLevel } from "../../modules/logger.mjs";
 import { subfinder, Result, FinderResult } from "../subfinder.js";
 
-async function telescope(domain: string, timeout: AbortSignal): Promise<Result> {
-  const subfinder = "tlscp"; // Must not greater than 8 char
+interface FoolObject {
+  error: boolean;
+  result: {
+    domains: Array<string>;
+  };
+}
+
+async function fool(domain: string, timeout: AbortSignal): Promise<Result> {
+  const subfinder = "fool"; // Must not greater than 8 char
   let result: Array<FinderResult> = [];
+  let res: FoolObject;
 
   try {
-    const req = await fetch(
-      `https://raw.githubusercontent.com/dickymuliafiqri/Telescope/main/result/${domain}/subdomain.json`,
-      {
-        method: "GET",
-        signal: timeout,
-      }
-    );
+    const req = await fetch(`https://fool.azurewebsites.net/subfinder?domain=${domain}`, {
+      method: "GET",
+      signal: timeout,
+    });
 
     if (req.status != 200) throw new Error(req.statusText);
 
-    result = JSON.parse(await req.text());
+    res = JSON.parse(await req.text());
   } catch (e: any) {
     // Return empty array
     return {
@@ -33,6 +38,13 @@ async function telescope(domain: string, timeout: AbortSignal): Promise<Result> 
     };
   }
 
+  for (const domain of res.result.domains) {
+    result.push({
+      domain,
+      ip: "",
+    });
+  }
+
   console.log(`${logger.wrap(logLevel.success, subfinder)} : ${result.length}`);
   return {
     subfinder,
@@ -41,4 +53,4 @@ async function telescope(domain: string, timeout: AbortSignal): Promise<Result> 
   };
 }
 
-subfinder.addFinder(telescope);
+subfinder.addFinder(fool);
