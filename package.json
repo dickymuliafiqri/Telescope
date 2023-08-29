@@ -1,12 +1,11 @@
 {
   "name": "telescope",
-  "version": "0.0.17",
+  "version": "0.1.0",
   "description": "Simple tool to scan and find domain's bug",
   "main": "app/index.js",
   "scripts": {
     "start": "node app/index.js",
-    "build": "npx tsc",
-    "auto": "npx tsc && node app/autoscan.js"
+    "build": "npx tsc"
   },
   "repository": {
     "type": "git",

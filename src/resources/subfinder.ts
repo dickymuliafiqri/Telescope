@@ -50,9 +50,7 @@ class SubFinder {
       finder(domain ?? initiator.domain, controller.signal)
         .then((res: Result) => {
           if (res.error) {
-            console.log(
-              `${logger.wrap(logLevel.error, res.subfinder)} : ${res.message}`
-            );
+            console.log(`${logger.wrap(logLevel.error, res.subfinder)} : ${res.message}`);
           } else if (res.result) {
             fetchResult.push(res);
           }
@@ -149,10 +147,7 @@ class SubFinder {
     const savePath = `${initiator.path}/result/${domain ?? initiator.domain}`;
     if (!existsSync(`${savePath}`)) mkdirSync(`${savePath}`);
 
-    writeFileSync(
-      `${savePath}/subdomain.json`,
-      JSON.stringify(result, null, 2)
-    );
+    writeFileSync(`${savePath}/subdomain.json`, JSON.stringify(result, null, 2));
   }
 }
 
