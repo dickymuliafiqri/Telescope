@@ -9,9 +9,11 @@ import { subfinder, Result, FinderResult } from "../subfinder.js";
 
 interface FoolObject {
   error: boolean;
-  result: {
-    domains: Array<string>;
-  };
+  result: Array<{
+    host: string;
+    ip: string;
+    source: string;
+  }>;
 }
 
 async function fool(domain: string, timeout: AbortSignal): Promise<Result> {
@@ -20,7 +22,7 @@ async function fool(domain: string, timeout: AbortSignal): Promise<Result> {
   let res: FoolObject;
 
   try {
-    const req = await fetch(`https://fool.azurewebsites.net/subfinder?domain=${domain}`, {
+    const req = await fetch(`https://fool.azurewebsites.net/subfinder?ip=1&domain=${domain}`, {
       method: "GET",
       signal: timeout,
     });
@@ -38,12 +40,14 @@ async function fool(domain: string, timeout: AbortSignal): Promise<Result> {
     };
   }
 
-  for (const domain of res.result.domains) {
+  for (const domain of res.result) {
     result.push({
-      domain,
-      ip: "",
+      domain: domain.host,
+      ip: domain.ip,
     });
   }
+
+  console.log(result);
 
   console.log(`${logger.wrap(logLevel.success, subfinder)} : ${result.length}`);
   return {
