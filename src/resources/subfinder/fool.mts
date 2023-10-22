@@ -47,8 +47,6 @@ async function fool(domain: string, timeout: AbortSignal): Promise<Result> {
     });
   }
 
-  console.log(result);
-
   console.log(`${logger.wrap(logLevel.success, subfinder)} : ${result.length}`);
   return {
     subfinder,
