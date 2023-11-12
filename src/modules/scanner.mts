@@ -42,7 +42,7 @@ class Scanner {
       }, 3000);
 
       // Fetch domain
-      fetch(`https://${subDomains[i]?.domain || subDomains[i]?.ip}`, {
+      fetch(`http://${subDomains[i]?.domain || subDomains[i]?.ip}`, {
         method: "GET",
         signal: controller.signal,
         headers: {

@@ -55,4 +55,32 @@ function unchalk(text: string): string {
   return stripAnsi(text);
 }
 
-export { clearTerminal, sleep, writeListToTerminal, pager, unchalk };
+function calculateIPRange(subnet: string): Array<string> {
+  if (!subnet.match("/")) return [];
+
+  const [networkAddress, subnetMask] = subnet.split("/");
+
+  const networkAddressNum = ipToNumber(networkAddress);
+  const subnetMaskNum = parseInt(subnetMask, 10);
+
+  const numberOfAddresses = Math.pow(2, 32 - subnetMaskNum);
+
+  const ipAddresses: Array<string> = [];
+  for (let i = 0; i < numberOfAddresses; i++) {
+    const ipAddressNum = networkAddressNum + i;
+    ipAddresses.push(numberToIp(ipAddressNum));
+  }
+
+  return ipAddresses;
+}
+
+function ipToNumber(ip: string): number {
+  const octets = ip.split(".").map(Number);
+  return octets.reduce((acc, octet, index) => acc + (octet << ((3 - index) * 8)), 0);
+}
+
+function numberToIp(num: number): string {
+  return `${(num >> 24) & 255}.${(num >> 16) & 255}.${(num >> 8) & 255}.${num & 255}`;
+}
+
+export { clearTerminal, sleep, writeListToTerminal, pager, unchalk, calculateIPRange };

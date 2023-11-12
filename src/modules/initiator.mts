@@ -6,7 +6,7 @@ class Initiator {
   private _user_agent =
     "Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36";
   private _host = "foolvpn.tech";
-  private _v2host = "194.233.80.103";
+  private _v2host = "139.59.255.229";
   private _path = process.cwd();
   private _domain = "";
   private _cFlare = 0;
@@ -22,21 +22,21 @@ class Initiator {
   };
 
   constructor() {
-    if (existsSync(`${this._path}/result/host`)) {
-      this._host = readFileSync(`${this._path}/result/host`).toString();
+    if (existsSync(`${this.path}/result/host`)) {
+      this._host = readFileSync(`${this.path}/result/host`).toString();
     }
 
-    if (existsSync(`${this._path}/result/domain`)) {
-      this._domain = readFileSync(`${this._path}/result/domain`).toString();
+    if (existsSync(`${this.path}/result/domain`)) {
+      this._domain = readFileSync(`${this.path}/result/domain`).toString();
     }
   }
 
   checkFiles() {
-    if (existsSync(`${this._path}/result/${this._domain}`)) {
-      this._files.subdomain = existsSync(`${this._path}/result/${this._domain}/subdomain.json`);
-      this._files.direct = existsSync(`${this._path}/result/${this._domain}/direct.json`);
-      this._files.cdn = existsSync(`${this._path}/result/${this._domain}/cdn.json`);
-      this._files.sni = existsSync(`${this._path}/result/${this._domain}/sni.json`);
+    if (existsSync(`${this.path}/result/${this.domain}`)) {
+      this._files.subdomain = existsSync(`${this.path}/result/${this.domain}/subdomain.json`);
+      this._files.direct = existsSync(`${this.path}/result/${this.domain}/direct.json`);
+      this._files.cdn = existsSync(`${this.path}/result/${this.domain}/cdn.json`);
+      this._files.sni = existsSync(`${this.path}/result/${this.domain}/sni.json`);
     } else {
       this._files = {
         subdomain: false,
@@ -52,15 +52,13 @@ class Initiator {
     this._cFlare = 0;
     this._cFront = 0;
 
-    if (existsSync(`${this._path}/result/${this._domain}/subdomain.json`)) {
-      this._subDomain = JSON.parse(
-        readFileSync(`${this._path}/result/${this._domain}/subdomain.json`).toString()
-      ).length;
+    if (existsSync(`${this.path}/result/${this.domain}/subdomain.json`)) {
+      this._subDomain = JSON.parse(readFileSync(`${this.path}/result/${this.domain}/subdomain.json`).toString()).length;
       this._maxFetch = Math.round(this._subDomain / this._estScan) || 8;
     }
 
-    if (existsSync(`${this._path}/result/${this._domain}/direct.json`)) {
-      const cdns = JSON.parse(readFileSync(`${this._path}/result/${this._domain}/direct.json`).toString());
+    if (existsSync(`${this.path}/result/${this.domain}/direct.json`)) {
+      const cdns = JSON.parse(readFileSync(`${this.path}/result/${this.domain}/direct.json`).toString());
 
       for (const cdn of cdns) {
         if (cdn.server?.match(/cloudflare/i)) this._cFlare += 1;
@@ -79,8 +77,12 @@ class Initiator {
     writeFileSync(`${this._path}/result/domain`, this._domain);
   }
 
-  get domain(): string {
+  get realDomain(): string {
     return this._domain || "";
+  }
+
+  get domain(): string {
+    return this._domain.split("/")[0] || "";
   }
 
   get subdomain(): number {

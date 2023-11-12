@@ -1,5 +1,5 @@
 import { existsSync, mkdirSync, writeFileSync, readdirSync } from "fs";
-import { sleep } from "../modules/helper.mjs";
+import { sleep, calculateIPRange } from "../modules/helper.mjs";
 import { initiator } from "../modules/initiator.mjs";
 import { logger, logLevel } from "../modules/logger.mjs";
 import url from "url";
@@ -39,6 +39,19 @@ class SubFinder {
     const fetchResult: Array<Result> = [];
 
     logger.log(logLevel.info, `Scanning ${domain ?? initiator.domain} ...`);
+
+    if (initiator.realDomain?.match("/")) {
+      for (const ip of calculateIPRange(initiator.realDomain)) {
+        finalResult.push({
+          domain: ip,
+          ip: ip,
+        });
+      }
+
+      this.saveResult(finalResult, initiator.domain);
+      return finalResult.length;
+    }
+
     for (const finder of this.subfinder) {
       onRun.push(1);
 
