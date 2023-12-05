@@ -16,13 +16,13 @@ interface FoolObject {
   }>;
 }
 
-async function fool(domain: string, timeout: AbortSignal): Promise<Result> {
-  const subfinder = "fool"; // <= 8 char
+async function foolip(domain: string, timeout: AbortSignal): Promise<Result> {
+  const subfinder = "foolip"; // <= 8 char
   let result: Array<FinderResult> = [];
   let res: FoolObject;
 
   try {
-    const req = await fetch(`https://fool.azurewebsites.net/subfinder?domain=${domain}`, {
+    const req = await fetch(`https://fool.azurewebsites.net/subfinder?ip=1&domain=${domain}`, {
       method: "GET",
       signal: timeout,
     });
@@ -55,4 +55,4 @@ async function fool(domain: string, timeout: AbortSignal): Promise<Result> {
   };
 }
 
-subfinder.addFinder(fool);
+subfinder.addFinder(foolip);
