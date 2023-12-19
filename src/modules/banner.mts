@@ -14,6 +14,7 @@ o-O-o o--o o    o--o  o-o    o-o  o-o  o--o  o--o
     Simple tool to scan and find domain's bug
         made with 💩 by ${initiator.author}
 
+${logger.wrap(logLevel.success, "Version")} : ${process.env.npm_package_version}
 ${initiator.realDomain ? logger.wrap(logLevel.success, "Domain") : logger.wrap(logLevel.error, "Domain")} : ${
       initiator.realDomain
     }

@@ -149,8 +149,8 @@ class Scanner {
 
       ws.on("error", (error: Error) => {
         if (error.message.match(/Unexpected server response: \d+$/)) {
-          const responseCode = (error.message.match(/\d+$/) || [])[0];
-          if (responseCode) {
+          const responseCode = (error.message.match(/\d+$/) || [0])[0];
+          if (responseCode == 101) {
             result.push({
               ...cdns[i],
               statusCode: responseCode,
