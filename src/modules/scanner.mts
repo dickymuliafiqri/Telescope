@@ -18,6 +18,14 @@ export interface DomainResult {
   server: string;
 }
 
+export interface ProxyIPResult {
+  domain: string;
+  city: string;
+  country: string;
+  colo: string;
+  proxyip: boolean;
+}
+
 export interface TlsResult {
   domain: string;
   tls: string;
@@ -203,6 +211,86 @@ class Scanner {
     bar.stop();
 
     writeFileSync(`${initiator.path}/result/${initiator.domain}/cdn.json`, JSON.stringify(result, null, 2));
+  }
+
+  async proxyIP() {
+    let result: Array<ProxyIPResult> = [];
+    let subDomains: Array<FinderResult> = [];
+
+    subDomains = JSON.parse(readFileSync(`${initiator.path}/result/${initiator.domain}/subdomain.json`).toString());
+
+    bar.start(subDomains.length, 1);
+    clearTerminal();
+
+    for (const i in subDomains) {
+      const domain = subDomains[i].domain || subDomains[i].ip;
+      this.onFetch.push(domain);
+
+      const AbortController = globalThis.AbortController;
+      const controller = new AbortController();
+      const timeout = setTimeout(() => {
+        controller.abort();
+      }, 3000);
+
+      fetch(`https://cfip-check.pages.dev/api?ip=${domain}&host=speed.cloudflare.com&port=443&tls=true`, {
+        signal: controller.signal,
+      })
+        .then(async (res) => {
+          if (res.status == 200) {
+            const data = (await res.json()) as any;
+            if (data.proxyip) {
+              result.push({
+                domain: domain,
+                city: data.City,
+                country: data.Country,
+                colo: data.colo,
+                proxyip: data.proxyip,
+              });
+            }
+          }
+        })
+        .finally(() => {
+          clearTimeout(timeout);
+          if (this.onFetch[0]) this.onFetch.shift();
+        });
+
+      await new Promise(async (resolve) => {
+        while (this.onFetch.length >= initiator.maxFetch) {
+          // Wait for prefious fetch to complete
+          await sleep(500);
+        }
+
+        resolve(0);
+      });
+
+      const resultList = [`${logger.wrap(logLevel.info, "PROXY IP")} ${logger.wrap(logLevel.cloudfront, "DOMAIN")}`];
+      for (const subDomain of result) {
+        resultList.push(`${logger.wrap(logLevel.success, subDomain.city || subDomain.colo)} : ${subDomain.domain}`);
+      }
+
+      if (subDomains[parseInt(i) + 1]) {
+        resultList.push(
+          `${logger.wrap(logLevel.info, "SCAN")}  ${
+            subDomains[parseInt(i) + 1]?.domain || subDomains[parseInt(i) + 1]?.ip
+          }`
+        );
+        resultList.push("");
+
+        while (resultList.length > process.stdout.rows - 1) {
+          resultList.splice(1, 1);
+        }
+        writeListToTerminal(resultList);
+        bar.increment();
+      }
+    }
+
+    // Wait for all fetch
+    while (this.onFetch[0]) {
+      await sleep(100);
+    }
+    bar.stop();
+
+    writeFileSync(`${initiator.path}/result/${initiator.domain}/proxy.json`, JSON.stringify(result, null, 2));
   }
 
   async sni() {

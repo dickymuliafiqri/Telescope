@@ -61,6 +61,11 @@ subfinder.load();
         await scanner.cdn_ssl();
         await question.make("Press enter to go back to main menu!");
         break;
+      case "Scan ProxyIP":
+        if (!initiator.files.subdomain) return;
+        await scanner.proxyIP();
+        await question.make("Press enter to go back to main menu!");
+        break;
       // Scan SNI
       case "Scan SNI":
         if (!initiator.files.subdomain) return;

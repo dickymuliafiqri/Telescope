@@ -64,6 +64,11 @@ ${logger.wrap(logLevel.cloudfront, "CFront")} : ${initiator.cdn.cfront}
         show: initiator.files.direct,
       },
       {
+        name: "Proxy-IP",
+        value: "Scan ProxyIP",
+        show: initiator.files.subdomain,
+      },
+      {
         name: "SNI",
         value: "Scan SNI",
         show: initiator.files.subdomain,
