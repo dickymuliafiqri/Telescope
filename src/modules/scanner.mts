@@ -249,6 +249,11 @@ class Scanner {
             }
           }
         })
+        .catch((err: Error) => {
+          if (!err.message.match("aborted")) {
+            throw err;
+          }
+        })
         .finally(() => {
           clearTimeout(timeout);
           if (this.onFetch[0]) this.onFetch.shift();
