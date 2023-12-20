@@ -242,7 +242,7 @@ class Scanner {
               result.push({
                 domain: domain,
                 city: data.City,
-                country: data.Country,
+                country: data.loc,
                 colo: data.colo,
                 proxyip: data.proxyip,
               });
@@ -268,9 +268,9 @@ class Scanner {
         resolve(0);
       });
 
-      const resultList = [`${logger.wrap(logLevel.info, "PROXY IP")} ${logger.wrap(logLevel.cloudfront, "DOMAIN")}`];
+      const resultList = [`${logger.wrap(logLevel.info, "PROXY LOC")} ${logger.wrap(logLevel.cloudfront, "DOMAIN")}`];
       for (const subDomain of result) {
-        resultList.push(`${logger.wrap(logLevel.success, subDomain.city || subDomain.colo)} : ${subDomain.domain}`);
+        resultList.push(`${logger.wrap(logLevel.success, subDomain.country || subDomain.colo)} : ${subDomain.domain}`);
       }
 
       if (subDomains[parseInt(i) + 1]) {
