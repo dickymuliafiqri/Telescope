@@ -1,5 +1,5 @@
 import { existsSync, mkdirSync, writeFileSync, readdirSync } from "fs";
-import { sleep, calculateIPRange } from "../modules/helper.mjs";
+import { sleep, calculateIPRange, getASNIp } from "../modules/helper.mjs";
 import { initiator } from "../modules/initiator.mjs";
 import { logger, logLevel } from "../modules/logger.mjs";
 import url from "url";
@@ -40,8 +40,23 @@ class SubFinder {
 
     logger.log(logLevel.info, `Scanning ${domain ?? initiator.domain} ...`);
 
+    // Calculate IP Range
     if (initiator.realDomain?.match("/")) {
       for (const ip of calculateIPRange(initiator.realDomain)) {
+        finalResult.push({
+          domain: ip,
+          ip: ip,
+        });
+      }
+
+      this.saveResult(finalResult, initiator.domain);
+      return finalResult.length;
+    }
+
+    // Get ASN IP Pool
+    if (initiator.realDomain?.match(/^as\d+$/i)) {
+      const asNumber = initiator.realDomain.replace(/as/i, "");
+      for (const ip of await getASNIp(asNumber)) {
         finalResult.push({
           domain: ip,
           ip: ip,

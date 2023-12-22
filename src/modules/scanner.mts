@@ -230,9 +230,9 @@ class Scanner {
       const controller = new AbortController();
       const timeout = setTimeout(() => {
         controller.abort();
-      }, 3000);
+      }, 5000);
 
-      fetch(`https://cfip-check.pages.dev/api?ip=${domain}&host=speed.cloudflare.com&port=443&tls=true`, {
+      fetch(`https://cfip-check.pages.dev/api?ip=${domain}&host=cdn.onesignal.com&port=443&tls=true`, {
         signal: controller.signal,
       })
         .then(async (res) => {
@@ -247,11 +247,15 @@ class Scanner {
                 proxyip: data.proxyip,
               });
             }
+          } else if (res.status == 429) {
+            throw Error("too many request!");
           }
         })
         .catch((err: Error) => {
-          if (!err.message.match("aborted")) {
+          if (err.message.match("too many request")) {
             throw err;
+          } else if (!err.message.match("aborted")) {
+            console.log(`Error Fetch ${domain}: ${err.message}`);
           }
         })
         .finally(() => {

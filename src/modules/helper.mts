@@ -1,6 +1,7 @@
 import clear from "console-clear";
 import readline from "readline";
 import stripAnsi from "strip-ansi";
+import fetch from "node-fetch";
 
 function clearTerminal(scroll: boolean = true) {
   clear(scroll);
@@ -83,4 +84,16 @@ function numberToIp(num: number): string {
   return `${(num >> 24) & 255}.${(num >> 16) & 255}.${(num >> 8) & 255}.${num & 255}`;
 }
 
-export { clearTerminal, sleep, writeListToTerminal, pager, unchalk, calculateIPRange };
+async function getASNIp(asNumber: number | string): Promise<Array<string>> {
+  const res = await fetch(`https://raw.githubusercontent.com/ipverse/asn-ip/master/as/${asNumber}/aggregated.json`);
+  const data = (await res.json()) as any;
+  const ips: Array<string> = [];
+
+  for (const cidr of data.subnets.ipv4) {
+    ips.push(...calculateIPRange(cidr));
+  }
+
+  return ips;
+}
+
+export { clearTerminal, sleep, writeListToTerminal, pager, unchalk, calculateIPRange, getASNIp };
